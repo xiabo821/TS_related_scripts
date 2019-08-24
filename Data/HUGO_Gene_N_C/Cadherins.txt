@@ -1,0 +1,126 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+1755	CDH16	cadherin 16	Approved			16q22.1	AF016272	NM_004062		7D cadherins	1187
+1756	CDH17	cadherin 17	Approved		HPT-1, cadherin	8q22.1	X83228	NM_004063		7D cadherins	1187
+14550	CDHR1	cadherin related family member 1	Approved	PCDH21	KIAA1775, CORD15, RP65	10q23.1	AB053448	NM_033100	CDHR	Cadherin related	24
+23112	FAT3	FAT atypical cadherin 3	Approved		KIAA1989, CDHF15, CDHR10	11q14.3	AB076400	NM_001008781	CDHR	Cadherin related	24
+23109	FAT4	FAT atypical cadherin 4	Approved		CDHF14, FAT-J, CDHR11	4q28.1	AY356402	NM_024582	CDHR	Cadherin related	24
+17447	CLSTN1	calsyntenin 1	Approved		CSTN1, KIAA0911, CDHR12	1p36.22	AB020718		CDHR	Cadherin related	24
+17448	CLSTN2	calsyntenin 2	Approved		CSTN2, CS2, FLJ39113, CDHR13	3q23	AJ278018	NM_022131	CDHR	Cadherin related	24
+18371	CLSTN3	calsyntenin 3	Approved		CSTN3, KIAA0726, CDHR14	12p13.31	AB018269	NM_014718	CDHR	Cadherin related	24
+14674	PCDH15	protocadherin related 15	Approved	USH1F, DFNB23	CDHR15	10q21.1	AY029205	NM_033056	CDHR	Cadherin related	24
+9967	RET	ret proto-oncogene	Approved	HSCR1, MEN2A, MTC1, MEN2B	PTC, CDHF12, RET51, CDHR16	10q11.21	BC004257	NM_020975	CDHR	Cadherin related	24
+18231	CDHR2	cadherin related family member 2	Approved	PCDH24	PC-LKC, FLJ20124, FLJ20383, PCLKC	5q35.2	AB047004	NM_017675	CDHR	Cadherin related	24
+13733	CDH23	cadherin related 23	Approved	DFNB12, USH1D	CDHR23	10q22.1	AY010111	NM_052836	CDHR	Cadherin related	24
+26308	CDHR3	cadherin related family member 3	Approved		FLJ44366, FLJ23834, CDH28	7q22.3	AK126338	NM_152750	CDHR	Cadherin related	24
+34527	CDHR4	cadherin related family member 4	Approved	CDH29	VLLR9392	3p21.31		NM_001007540	CDHR	Cadherin related	24
+7521	CDHR5	cadherin related family member 5	Approved	MUCDHL, MUPCDH	FLJ20219, MU-PCDH	11p15.5	AF258675	NM_021924	CDHR	Cadherin related	24
+13681	DCHS1	dachsous cadherin-related 1	Approved	CDH25, PCDH16	FIB1, KIAA1773, FLJ11790, CDHR6	11p15.4	AB000895	NM_003737	CDHR	Cadherin related	24
+23111	DCHS2	dachsous cadherin-related 2	Approved	CDH27, PCDH23	CDHJ, FLJ20047, PCDHJ, CDHR7	4q31.3	BC140919	NM_001142552	CDHR	Cadherin related	24
+3595	FAT1	FAT atypical cadherin 1	Approved	FAT	CDHF7, CDHR8	4q35.2	X87241	NM_005245	CDHR	Cadherin related	24
+3596	FAT2	FAT atypical cadherin 2	Approved		MEGF1, CDHF8, HFAT2, CDHR9	5q33.1	AF231022	NM_001447	CDHR	Cadherin related	24
+1850	CELSR1	cadherin EGF LAG seven-pass G-type receptor 1	Approved		ME2, HFMI2, FMI2, CDHF9, ADGRC1	22q13.31	AF231024	NM_014246	CELSR	CELSR cadherins	1189
+3231	CELSR2	cadherin EGF LAG seven-pass G-type receptor 2	Approved	EGFL2	KIAA0279, MEGF3, Flamingo1, CDHF10, ADGRC2	1p13.3	D87469	NM_001408	CELSR	CELSR cadherins	1189
+3230	CELSR3	cadherin EGF LAG seven-pass G-type receptor 3	Approved	EGFL1	MEGF2, HFMI1, FMI1, CDHF11, ADGRC3	3p21.31	AF231023	NM_001407	CELSR	CELSR cadherins	1189
+8662	PCDHA@	protocadherin alpha cluster, complex locus	Approved	CNRS1	CNR1	5q31				Clustered protocadherins	20
+8663	PCDHA1	protocadherin alpha 1	Approved			5q31.3	AF152479	NM_018900		Clustered protocadherins	20
+8664	PCDHA10	protocadherin alpha 10	Approved	CNRS8	CNR8, CRNR8, CNRN8, PCDH-ALPHA10	5q31.3	AF152475	NM_018901		Clustered protocadherins	20
+8665	PCDHA11	protocadherin alpha 11	Approved	CNRS7	CNR7, CRNR7, CNRN7, PCDH-ALPHA11	5q31.3	AF152476	NM_018902		Clustered protocadherins	20
+8666	PCDHA12	protocadherin alpha 12	Approved		PCDH-ALPHA12	5q31.3	AF152477	NM_018903		Clustered protocadherins	20
+8667	PCDHA13	protocadherin alpha 13	Approved	CNRS5	CNR5, CRNR5, CNRN5, PCDH-ALPHA13	5q31.3	AF152478	NM_018904		Clustered protocadherins	20
+2163	PCDHA14	protocadherin alpha 14 pseudogene	Approved	CNRS3	CNR3, CRNR3, PCDH-PSI4	5q31.3	AY013875			Clustered protocadherins	20
+8668	PCDHA2	protocadherin alpha 2	Approved			5q31.3	AF152480	NM_018905		Clustered protocadherins	20
+8669	PCDHA3	protocadherin alpha 3	Approved		PCDH-ALPHA3	5q31.3	AF152481	NM_018906		Clustered protocadherins	20
+8670	PCDHA4	protocadherin alpha 4	Approved		CNR1, CRNR1, PCDH-ALPHA4, CNRN1	5q31.3	AF152482	NM_018907		Clustered protocadherins	20
+8671	PCDHA5	protocadherin alpha 5	Approved	CNRS6	CNR6, CRNR6, CNRN6, PCDH-ALPHA5	5q31.3	AF152483	NM_018908		Clustered protocadherins	20
+8672	PCDHA6	protocadherin alpha 6	Approved	CNRS2	CNR2, CRNR2, PCDH-ALPHA6	5q31.3	AF152484	NM_018909		Clustered protocadherins	20
+8673	PCDHA7	protocadherin alpha 7	Approved	CNRS4	CNR4, CRNR4	5q31.3	AF152485	NM_018910		Clustered protocadherins	20
+8674	PCDHA8	protocadherin alpha 8	Approved			5q31.3	AF152486	NM_018911		Clustered protocadherins	20
+8675	PCDHA9	protocadherin alpha 9	Approved		KIAA0345, PCDH-ALPHA9	5q31.3	AF152487	NM_031857		Clustered protocadherins	20
+8676	PCDHAC1	protocadherin alpha subfamily C, 1	Approved			5q31.3	AF152473	NM_018898		Clustered protocadherins	20
+8677	PCDHAC2	protocadherin alpha subfamily C, 2	Approved		PCDH-ALPHA-C2	5q31.3	AF152474	NM_018899		Clustered protocadherins	20
+8678	PCDHACT	protocadherin alpha constant	Approved		PCDHAC	5q31				Clustered protocadherins	20
+8679	PCDHB@	protocadherin beta cluster	Approved		PCDH3	5q31				Clustered protocadherins	20
+8680	PCDHB1	protocadherin beta 1	Approved		PCDH-BETA1	5q31.3	AF152488	NM_013340		Clustered protocadherins	20
+8681	PCDHB10	protocadherin beta 10	Approved			5q31.3	AF152489	NM_018930		Clustered protocadherins	20
+8682	PCDHB11	protocadherin beta 11	Approved		PCDH-BETA11, ME2	5q31.3	AF152490	NM_018931		Clustered protocadherins	20
+8683	PCDHB12	protocadherin beta 12	Approved		PCDH-BETA12	5q31.3	AF152491	NM_018932		Clustered protocadherins	20
+8684	PCDHB13	protocadherin beta 13	Approved		PCDH-BETA13	5q31.3	AF152492	NM_018933		Clustered protocadherins	20
+8685	PCDHB14	protocadherin beta 14	Approved		PCDH-BETA14	5q31.3	AF152493	NM_018934		Clustered protocadherins	20
+8686	PCDHB15	protocadherin beta 15	Approved		PCDH-BETA15	5q31.3	AF152494	NM_018935		Clustered protocadherins	20
+14546	PCDHB16	protocadherin beta 16	Approved		PCDHB8a, PCDH3X, KIAA1621, PCDH-BETA16, ME1	5q31.3	AF217757	NM_020957		Clustered protocadherins	20
+14547	PCDHB17P	protocadherin beta 17 pseudogene	Approved	PCDHB17	PCDH-psi1	5q31.3	AF152527			Clustered protocadherins	20
+14548	PCDHB18P	protocadherin beta 18 pseudogene	Approved	PCDHB18	PCDH-psi2	5q31.3	AF152528			Clustered protocadherins	20
+14549	PCDHB19P	protocadherin beta 19 pseudogene	Approved		PCDH-PSI5	5q31.3	AF329369			Clustered protocadherins	20
+8687	PCDHB2	protocadherin beta 2	Approved		PCDH-BETA2	5q31.3	AF152495	NM_018936		Clustered protocadherins	20
+8688	PCDHB3	protocadherin beta 3	Approved		PCDH-BETA3	5q31.3	AF152496	NM_018937		Clustered protocadherins	20
+8689	PCDHB4	protocadherin beta 4	Approved		PCDH-BETA4	5q31.3	AF152497	NM_018938		Clustered protocadherins	20
+8690	PCDHB5	protocadherin beta 5	Approved		DKFZp586B0217, PCDH-BETA5	5q31.3	AF152498	NM_015669		Clustered protocadherins	20
+8691	PCDHB6	protocadherin beta 6	Approved		PCDH-BETA6	5q31.3	AF152499	NM_018939		Clustered protocadherins	20
+8692	PCDHB7	protocadherin beta 7	Approved		PCDH-BETA7	5q31.3	AF152500	NM_018940		Clustered protocadherins	20
+8693	PCDHB8	protocadherin beta 8	Approved		PCDH-BETA8, PCDH3I	5q31.3	AF152501	NM_019120		Clustered protocadherins	20
+8694	PCDHB9	protocadherin beta 9	Approved		PCDH-BETA9, PCDH3H	5q31.3	AF152502	NM_019119		Clustered protocadherins	20
+8695	PCDHG@	protocadherin gamma cluster	Approved		PCDH2, PCDH4	5q31				Clustered protocadherins	20
+8696	PCDHGA1	protocadherin gamma subfamily A, 1	Approved		PCDH-GAMMA-A1	5q31	AF152318	NM_018912		Clustered protocadherins	20
+8697	PCDHGA10	protocadherin gamma subfamily A, 10	Approved		PCDH-GAMMA-A10	5q31.3		NM_018913		Clustered protocadherins	20
+8698	PCDHGA11	protocadherin gamma subfamily A, 11	Approved		PCDH-GAMMA-A11	5q31.3	AF152505	NM_018914		Clustered protocadherins	20
+8699	PCDHGA12	protocadherin gamma subfamily A, 12	Approved	CDH21	KIAA0588, FIB3, PCDH-GAMMA-A12	5q31.3	AF152506	NM_003735		Clustered protocadherins	20
+8700	PCDHGA2	protocadherin gamma subfamily A, 2	Approved		PCDH-GAMMA-A2	5q31.3	AF152508	NM_018915		Clustered protocadherins	20
+8701	PCDHGA3	protocadherin gamma subfamily A, 3	Approved		PCDH-GAMMA-A3	5q31.3	AF152510	NM_018916		Clustered protocadherins	20
+8702	PCDHGA4	protocadherin gamma subfamily A, 4	Approved		PCDH-GAMMA-A4	5q31	AF152511	NM_018917		Clustered protocadherins	20
+8703	PCDHGA5	protocadherin gamma subfamily A, 5	Approved		CDH-GAMMA-A5, ME3, PCDH-GAMMA-A5	5q31	AF152512	NM_018918		Clustered protocadherins	20
+8704	PCDHGA6	protocadherin gamma subfamily A, 6	Approved		PCDH-GAMMA-A6	5q31	AF152513	NM_018919		Clustered protocadherins	20
+8705	PCDHGA7	protocadherin gamma subfamily A, 7	Approved		PCDH-GAMMA-A7	5q31	AF152514	NM_018920		Clustered protocadherins	20
+8706	PCDHGA8	protocadherin gamma subfamily A, 8	Approved		KIAA0327, PCDH-GAMMA-A8	5q31.3	AF152515	NM_032088		Clustered protocadherins	20
+8707	PCDHGA9	protocadherin gamma subfamily A, 9	Approved		PCDH-GAMMA-A9	5q31	AF152516	NM_018921		Clustered protocadherins	20
+8708	PCDHGB1	protocadherin gamma subfamily B, 1	Approved		PCDH-GAMMA-B1	5q31	AF152517	NM_018922		Clustered protocadherins	20
+8709	PCDHGB2	protocadherin gamma subfamily B, 2	Approved		PCDH-GAMMA-B2	5q31	AF152331	NM_018923		Clustered protocadherins	20
+8710	PCDHGB3	protocadherin gamma subfamily B, 3	Approved		PCDH-GAMMA-B3	5q31	AF152519	NM_018924		Clustered protocadherins	20
+8711	PCDHGB4	protocadherin gamma subfamily B, 4	Approved		FIB2, CDH20, PCDH-GAMMA-B4	5q31	AF152520	NM_003736		Clustered protocadherins	20
+8712	PCDHGB5	protocadherin gamma subfamily B, 5	Approved		PCDH-GAMMA-B5	5q31	AF152521	NM_018925		Clustered protocadherins	20
+8713	PCDHGB6	protocadherin gamma subfamily B, 6	Approved		PCDH-GAMMA-B6	5q31	AF152522	NM_018926		Clustered protocadherins	20
+8714	PCDHGB7	protocadherin gamma subfamily B, 7	Approved		ME6, PCDH-GAMMA-B7	5q31.3	AF152523	NM_018927		Clustered protocadherins	20
+8715	PCDHGB8P	protocadherin gamma subfamily B, 8 pseudogene	Approved		PCDH-PSI3	5q31.3	AF152529			Clustered protocadherins	20
+15688	PCDHGB9P	protocadherin gamma subfamily B, 9 pseudogene	Approved		PSI6	5q31.3	AY013877			Clustered protocadherins	20
+8716	PCDHGC3	protocadherin gamma subfamily C, 3	Approved	PCDH2	PC-43, PC43, PCDH-GAMMA-C3	5q31.3	AF152337	NM_002588		Clustered protocadherins	20
+8717	PCDHGC4	protocadherin gamma subfamily C, 4	Approved		PCDH-GAMMA-C4	5q31.3	AF152525	NM_018928		Clustered protocadherins	20
+8718	PCDHGC5	protocadherin gamma subfamily C, 5	Approved		PCDH-GAMMA-C5	5q31.3	AF152526	NM_018929		Clustered protocadherins	20
+8719	PCDHGCT	protocadherin gamma constant	Approved		PCDHGC	5q31				Clustered protocadherins	20
+3035	DSC1	desmocollin 1	Approved		CDHF1	18q12.1	AF293358	NM_004948, NM_024421	DSC, DSG	Desmosomal cadherins	1188
+3036	DSC2	desmocollin 2	Approved	DSC3	CDHF2	18q12.1	X56807	NM_004949	DSC, DSG	Desmosomal cadherins	1188
+3037	DSC3	desmocollin 3	Approved	DSC4	CDHF3, DSC, DSC1, DSC2	18q12.1	X83929	NM_001941, NM_024423	DSC, DSG	Desmosomal cadherins	1188
+3048	DSG1	desmoglein 1	Approved	DSG	CDHF4	18q12.1	X56654	NM_001942	DSC, DSG	Desmosomal cadherins	1188
+3049	DSG2	desmoglein 2	Approved		CDHF5	18q12.1	Z26317	NM_001943	DSC, DSG	Desmosomal cadherins	1188
+3050	DSG3	desmoglein 3	Approved		CDHF6	18q12.1	M76482	NM_001944	DSC, DSG	Desmosomal cadherins	1188
+21307	DSG4	desmoglein 4	Approved		CDHF13, LAH	18q12.1	AY177664, AY168788	NM_177986	DSC, DSG	Desmosomal cadherins	1188
+1753	CDH13	cadherin 13	Approved		CDHH	16q23.3	U59288	NM_001257	CDH	Major cadherins	18
+15902	CDH26	cadherin 26	Approved		VR20	20q13.33	AF169690, AK055202	NM_177980	CDH	Major cadherins	18
+8655	PCDH1	protocadherin 1	Approved		pc42	5q31.3	AK075233	NM_032420		Non-clustered protocadherins	21
+13404	PCDH10	protocadherin 10	Approved		OL-PCDH, KIAA1400	4q28.3	AB037821	NM_032961		Non-clustered protocadherins	21
+8656	PCDH11X	protocadherin 11 X-linked	Approved	PCDH11	PCDH-X, PCDHX, PPP1R119	Xq21.31	AB026187	NM_032969		Non-clustered protocadherins	21
+15813	PCDH11Y	protocadherin 11 Y-linked	Approved	PCDH22	PCDHY	Yp11.2	AF332217	NM_032973		Non-clustered protocadherins	21
+8657	PCDH12	protocadherin 12	Approved		VE-cadherin-2	5q31.3	AF231025	NM_016580		Non-clustered protocadherins	21
+14267	PCDH17	protocadherin 17	Approved		PCDH68, PCH68	13q21.1	AF029343	NM_001040429		Non-clustered protocadherins	21
+14268	PCDH18	protocadherin 18	Approved		KIAA1562, PCDH68L	4q28.3	AL137471	NM_019035		Non-clustered protocadherins	21
+14270	PCDH19	protocadherin 19	Approved	EFMR	KIAA1313, EIEE9	Xq22.1	AB037734	NM_020766		Non-clustered protocadherins	21
+14257	PCDH20	protocadherin 20	Approved		PCDH13, FLJ22218	13q21.2	AF169693	NM_022843		Non-clustered protocadherins	21
+8659	PCDH7	protocadherin 7	Approved		BH-Pcdh, PPP1R120	4p15.1	AB006755	NM_032457, NM_002589		Non-clustered protocadherins	21
+8660	PCDH8	protocadherin 8	Approved		PAPC, ARCADLIN	13q14.3	AF061573	NM_002590		Non-clustered protocadherins	21
+8661	PCDH9	protocadherin 9	Approved			13q21.32	AF169692	NM_203487		Non-clustered protocadherins	21
+1748	CDH1	cadherin 1	Approved	UVO	uvomorulin, CD324	16q22.1	L08599	NM_004360	CDH	Type I classical cadherins	1185
+1754	CDH15	cadherin 15	Approved	CDH3, CDH14		16q24.3	D83542	NM_004933	CDH	Type I classical cadherins	1185
+1759	CDH2	cadherin 2	Approved	NCAD	CDHN, CD325	18q12.1	S42303	NM_001792	CDH	Type I classical cadherins	1185
+1762	CDH3	cadherin 3	Approved		CDHP, PCAD	16q22.1	X63629	NM_001793	CDH	Type I classical cadherins	1185
+1763	CDH4	cadherin 4	Approved			20q13.33	L34059	NM_001794	CDH	Type I classical cadherins	1185
+1749	CDH10	cadherin 10	Approved			5p14.2-p14.1	AF039747	NM_006727	CDH	Type II classical cadherins	1186
+1750	CDH11	cadherin 11	Approved		OB, CAD11	16q21	D21255	NM_033664	CDH	Type II classical cadherins	1186
+1751	CDH12	cadherin 12	Approved		Br-cadherin, CDHB	5p14.3	L33477	NM_004061	CDH	Type II classical cadherins	1186
+1757	CDH18	cadherin 18	Approved		CDH14, EY-CADHERIN	5p14.3	U59325	NM_004934	CDH	Type II classical cadherins	1186
+1758	CDH19	cadherin 19	Approved		CDH7	18q22.1	AJ007607	NM_021153	CDH	Type II classical cadherins	1186
+1760	CDH20	cadherin 20	Approved		CDH7L3, Cdh7	18q21.33	AF217289	NM_031891	CDH	Type II classical cadherins	1186
+13251	CDH22	cadherin 22	Approved	C20orf25	dJ998H6.1	20q13.12	AF035300	NM_021248	CDH	Type II classical cadherins	1186
+14265	CDH24	cadherin 24	Approved		CDH11L	14q11.2	AL137477	NM_022478	CDH	Type II classical cadherins	1186
+1764	CDH5	cadherin 5	Approved		7B4, CD144	16q21	X79981	NM_001795	CDH	Type II classical cadherins	1186
+1765	CDH6	cadherin 6	Approved			5p13.3	D31784	NM_004932	CDH	Type II classical cadherins	1186
+1766	CDH7	cadherin 7	Approved			18q22.1	AB035301	NM_033646	CDH	Type II classical cadherins	1186
+1767	CDH8	cadherin 8	Approved			16q21	L34060	NM_001796	CDH	Type II classical cadherins	1186
+1768	CDH9	cadherin 9	Approved			5p14.1	AB035302	NM_016279	CDH	Type II classical cadherins	1186

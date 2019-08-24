@@ -1,0 +1,275 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+13666	AAAS	aladin WD repeat nucleoporin	Approved			12q13.13	AJ289841		WDR	WD repeat domain containing	362
+18	AAMP	angio associated migratory cell protein	Approved			2q35	AB209790	NM_001087	WDR	WD repeat domain containing	362
+21575	AHI1	Abelson helper integration site 1	Approved		FLJ20069, ORF1, JBTS3	6q23.3	AJ459824	NM_017651	WDR	WD repeat domain containing	362
+25990	AMBRA1	autophagy and beclin 1 regulator 1	Approved		FLJ20294, KIAA1736, WDR94, DCAF3	11p11.2	AB051523	NM_017749	WDR	WD repeat domain containing	362
+576	APAF1	apoptotic peptidase activating factor 1	Approved		CED4, APAF-1	12q23.1	AF013263	NM_181861.1	WDR	WD repeat domain containing	362
+703	ARPC1A	actin related protein 2/3 complex subunit 1A	Approved		SOP2Hs, SOP2L, Arc40	7q22.1	Y08999	NM_006409	WDR	WD repeat domain containing	362
+704	ARPC1B	actin related protein 2/3 complex subunit 1B	Approved		ARC41, p40-ARC, p41-ARC	7q22.1	AF006084	NM_005720	WDR	WD repeat domain containing	362
+21498	ATG16L1	autophagy related 16 like 1	Approved	APG16L, ATG16L	WDR30, FLJ10035, ATG16A	2q37.1	AK000897	NM_017974	WDR	WD repeat domain containing	362
+25464	ATG16L2	autophagy related 16 like 2	Approved		FLJ00012, WDR80, ATG16B	11q13.4	AK024423	NM_033388	WDR	WD repeat domain containing	362
+14347	BCAS3	BCAS3, microtubule associated cell migration factor	Approved		FLJ20128	17q23.2	AF361219	NM_017679	WDR	WD repeat domain containing	362
+15519	BOP1	BOP1 ribosomal biogenesis factor	Approved		KIAA0124	8q24.3	AK024840	NM_015201	WDR	WD repeat domain containing	362
+12760	BRWD1	bromodomain and WD repeat domain containing 1	Approved	C21orf107, WDR9	FLJ11315, N143, DCAF19	21q22.2	AJ002572	NM_033656	WDR	WD repeat domain containing	362
+17342	BRWD3	bromodomain and WD repeat domain containing 3	Approved		FLJ38568, MRX93	Xq21.1		NM_153252	WDR	WD repeat domain containing	362
+1144	BTRC	beta-transducin repeat containing E3 ubiquitin protein ligase	Approved		bTrCP, betaTrCP, FBXW1A, Fwd1, beta-TrCP1, bTrCP1	10q24.32	Y14153	NM_033637	WDR	WD repeat domain containing	362
+1151	BUB3	BUB3, mitotic checkpoint protein	Approved		BUB3L	10q26.13	AF053304		WDR	WD repeat domain containing	362
+1723	CDC20	cell division cycle 20	Approved		p55CDC, CDC20A	1p34.2	U05340	NM_001255	WDR	WD repeat domain containing	362
+24222	CDC20B	cell division cycle 20B	Approved		FLJ37927	5q11.2	AB086378	NM_152623	WDR	WD repeat domain containing	362
+17350	CDC40	cell division cycle 40	Approved		PRP17, EHB3, PRPF17, FLJ10564	6q21	AF015044	NM_015891	WDR	WD repeat domain containing	362
+14379	CDRT1	CMT1A duplicated region transcript 1	Approved	FBXW10P1	HREP, SM25H2, FBXW10B	17p12	U65652	NM_006382	WDR	WD repeat domain containing	362
+26684	CFAP43	cilia and flagella associated protein 43	Approved	C10orf79, WDR96	FLJ36006, bA373N18.2, FLJ22944	10q25.1	AL833836	NM_025145	WDR	WD repeat domain containing	362
+25631	CFAP44	cilia and flagella associated protein 44	Approved	WDR52	FLJ11142	3q13.2	AK002004	NM_018338	WDR	WD repeat domain containing	362
+16053	CFAP52	cilia and flagella associated protein 52	Approved	WDR16	WDRPUH, FLJ37528	17p13.1	AB065281	NM_145054	WDR	WD repeat domain containing	362
+26485	CFAP57	cilia and flagella associated protein 57	Approved	WDR65	FLJ32000	1p34.2	AK056562	NM_152498	WDR	WD repeat domain containing	362
+1911	CHAF1B	chromatin assembly factor 1 subunit B	Approved		CAF1P60, CAF-1, CAF1, CAF1A, MPP7, MPHOSPH7	21q22.12-q22.13	U20980	NM_005441	WDR	WD repeat domain containing	362
+14280	CIAO1	cytosolic iron-sulfur assembly component 1	Approved	WDR39	CIA1	2q11.2	U63810	NM_004804	WDR	WD repeat domain containing	362
+2230	COPA	coatomer protein complex subunit alpha	Approved		HEP-COP	1q23.2	U24105	NM_004371	WDR	WD repeat domain containing	362
+2232	COPB2	coatomer protein complex subunit beta 2	Approved		beta'-COP, betaprime-COP	3q23	BC000326	NM_004766	WDR	WD repeat domain containing	362
+2252	CORO1A	coronin 1A	Approved		HCORO1, p57, coronin-1	16p11.2	X89109	NM_007074	WDR	WD repeat domain containing	362
+2253	CORO1B	coronin 1B	Approved		coronin-2	11q13.2	AK000860	NM_020441	WDR	WD repeat domain containing	362
+2254	CORO1C	coronin 1C	Approved		coronin-3, HCRNN4	12q24.11	BC002342	NM_014325	WDR	WD repeat domain containing	362
+2255	CORO2A	coronin 2A	Approved		IR10, WDR2	9q22.33	U57057	NM_003389	WDR	WD repeat domain containing	362
+2256	CORO2B	coronin 2B	Approved		ClipinC, KIAA0925	15q23	AB010098	NM_006091	WDR	WD repeat domain containing	362
+21356	CORO6	coronin 6	Approved		FLJ14871	17q11.2	AF193039	NM_032854	WDR	WD repeat domain containing	362
+26161	CORO7	coronin 7	Approved		FLJ22021	16p13.3	AK097238	NM_024535	WDR	WD repeat domain containing	362
+2483	CSTF1	cleavage stimulation factor subunit 1	Approved			20q13.2-q13.31		NM_001033521	WDR	WD repeat domain containing	362
+26383	DAW1	dynein assembly factor with WD repeats 1	Approved	WDR69	FLJ25955, ODA16	2q36.3		NM_178821	WDR	WD repeat domain containing	362
+23686	DCAF10	DDB1 and CUL4 associated factor 10	Approved	WDR32	MGC10765, FLJ23201	9p13.2	BC003520	NM_024345	WDR	WD repeat domain containing	362
+20258	DCAF11	DDB1 and CUL4 associated factor 11	Approved	WDR23	PRO2389, GL014	14q12	AF130070		WDR	WD repeat domain containing	362
+19911	DCAF12	DDB1 and CUL4 associated factor 12	Approved	KIAA1892, WDR40A	DKFZP434O125, MGC1058, CT102, TCC52	9p13.3	AB067479	NM_015397	WDR	WD repeat domain containing	362
+29395	DCAF12L1	DDB1 and CUL4 associated factor 12 like 1	Approved	WDR40B	KIAA1892L	Xq25	BC035674	NM_178470	WDR	WD repeat domain containing	362
+32950	DCAF12L2	DDB1 and CUL4 associated factor 12 like 2	Approved	WDR40C		Xq25	AL445072	NM_001013628	WDR	WD repeat domain containing	362
+24535	DCAF13	DDB1 and CUL4 associated factor 13	Approved	WDSOF1	DKFZP564O0463, Gm83, HSPC064, Sof1	8q22.3	AK074725	NM_015420	WDR	WD repeat domain containing	362
+20229	DCAF4	DDB1 and CUL4 associated factor 4	Approved	WDR21, WDR21A	DKFZp434K114	14q24.2	BC018979	NM_015604	WDR	WD repeat domain containing	362
+27723	DCAF4L1	DDB1 and CUL4 associated factor 4 like 1	Approved	WDR21B		4p13	BC035027	NM_001029955	WDR	WD repeat domain containing	362
+26657	DCAF4L2	DDB1 and CUL4 associated factor 4 like 2	Approved	WDR21C		8q21.3	AL833507	NM_152418	WDR	WD repeat domain containing	362
+20224	DCAF5	DDB1 and CUL4 associated factor 5	Approved	WDR22	BCRP2, D14S1461E, BCRG2, KIAA1824	14q24.1	AB058727	NM_003861	WDR	WD repeat domain containing	362
+30002	DCAF6	DDB1 and CUL4 associated factor 6	Approved	IQWD1	PC326	1q24.2	AL136738	NM_018442	WDR	WD repeat domain containing	362
+30915	DCAF7	DDB1 and CUL4 associated factor 7	Approved	WDR68	HAN11, SWAN-1	17q23.3	U94747	NM_005828	WDR	WD repeat domain containing	362
+24891	DCAF8	DDB1 and CUL4 associated factor 8	Approved	WDR42A	H326, FLJ35857	1q23.2	AK093176	NM_015726	WDR	WD repeat domain containing	362
+31810	DCAF8L1	DDB1 and CUL4 associated factor 8 like 1	Approved	WDR42B		Xp21.3		XM_066690	WDR	WD repeat domain containing	362
+31811	DCAF8L2	DDB1 and CUL4 associated factor 8 like 2	Approved	WDR42C		Xp21.3		XM_293354	WDR	WD repeat domain containing	362
+2718	DDB2	damage specific DNA binding protein 2	Approved		DDBB, UV-DDB2, FLJ34321, XPE	11p11.2		NM_000107	WDR	WD repeat domain containing	362
+29134	DENND3	DENN domain containing 3	Approved		KIAA0870	8q24.3	AB020677	NM_014957	WDR	WD repeat domain containing	362
+2936	DMWD	DM1 locus, WD repeat containing	Approved		DMR-N9, gene59, D19S593E	19q13.32	L19267	NM_004943	WDR	WD repeat domain containing	362
+2937	DMXL1	Dmx like 1	Approved			5q23.1	AJ005821	NM_005509	WDR	WD repeat domain containing	362
+2938	DMXL2	Dmx like 2	Approved		RC3, KIAA0856, DFNA71	15q21.2	AB020663	NM_015263	WDR	WD repeat domain containing	362
+2954	DNAI1	dynein axonemal intermediate chain 1	Approved		DIC1, PCD, CILD1	9p13.3	AF091619	NM_012144	WDR	WD repeat domain containing	362
+18744	DNAI2	dynein axonemal intermediate chain 2	Approved		CILD9, DIC2	17q25.1	AF250288	NM_023036	WDR	WD repeat domain containing	362
+25199	DPH7	diphthamide biosynthesis 7	Approved	C9orf112, WDR85	FLJ90634, RRT2	9q34.3	AK075115	NM_138778	WDR	WD repeat domain containing	362
+30288	DTL	denticleless E3 ubiquitin protein ligase homolog	Approved		RAMP, L2DTL, DCAF2, CDT2	1q32.3	AF195765	NM_016448	WDR	WD repeat domain containing	362
+2963	DYNC1I1	dynein cytoplasmic 1 intermediate chain 1	Approved	DNCI1	DNCIC1	7q21.3	AF063228	NM_004411	WDR	WD repeat domain containing	362
+2964	DYNC1I2	dynein cytoplasmic 1 intermediate chain 2	Approved	DNCI2	DIC74	2q31.1	AK055491	NM_001378	WDR	WD repeat domain containing	362
+3188	EED	embryonic ectoderm development	Approved		WAIT-1, HEED	11q14.2	AF078933	NM_003797	WDR	WD repeat domain containing	362
+3272	EIF3I	eukaryotic translation initiation factor 3 subunit I	Approved	EIF3S2	TRIP-1, eIF3-beta, eIF3-p36, eIF3i	1p35.2	U39067	NM_003757	WDR	WD repeat domain containing	362
+12383	EIPR1	EARP complex and GARP complex interacting protein 1	Approved	TSSC1	EIPR-1	2p25.3	AF019952	NM_003310	WDR	WD repeat domain containing	362
+18248	ELP2	elongator acetyltransferase complex subunit 2	Approved	STATIP1	FLJ10879, StIP	18q12.2	AK001741	NM_018255	WDR	WD repeat domain containing	362
+3330	EML1	echinoderm microtubule associated protein like 1	Approved	EMAPL	EMAP, HuEMAP, ELP79	14q32.2	AK023861	NM_001008707	WDR	WD repeat domain containing	362
+18035	EML2	echinoderm microtubule associated protein like 2	Approved		EMAP2, ELP70, EMAP-2	19q13.32	AF103939	NM_012155	WDR	WD repeat domain containing	362
+26666	EML3	echinoderm microtubule associated protein like 3	Approved		FLJ35827, ELP95	11q12.3	AK093146	NM_153265	WDR	WD repeat domain containing	362
+1316	EML4	echinoderm microtubule associated protein like 4	Approved	C2orf2	ROPP120, ELP120	2p21	AF177377	NM_019063	WDR	WD repeat domain containing	362
+18197	EML5	echinoderm microtubule associated protein like 5	Approved		HuEMAP-2, EMAP-2	14q31.3	AY357725		WDR	WD repeat domain containing	362
+35412	EML6	echinoderm microtubule associated protein like 6	Approved		FLJ42562	2p16.1		XM_001725002	WDR	WD repeat domain containing	362
+3439	ERCC8	ERCC excision repair 8, CSA ubiquitin ligase complex subunit	Approved	CKN1	CSA	5q12.1	U28413	NM_000082	WDR	WD repeat domain containing	362
+1211	FBXW10	F-box and WD repeat domain containing 10	Approved	C17orf1, C17orf1A	SM2SH2, HREP, Fbw10	17p11.2	BC028364	NM_031456	WDR	WD repeat domain containing	362
+13607	FBXW11	F-box and WD repeat domain containing 11	Approved	FBXW1B	KIAA0696, Fbw1b, BTRCP2, BTRC2, Hos, Fbw11	5q35.1	AB014596	NM_012300	WDR	WD repeat domain containing	362
+20729	FBXW12	F-box and WD repeat domain containing 12	Approved	FBXO35	Fbw12	3p21.31	AK097594, AY247969	NM_207102	WDR	WD repeat domain containing	362
+13608	FBXW2	F-box and WD repeat domain containing 2	Approved		FBW2, Md6, Fwd2	9q33.2	AF129531		WDR	WD repeat domain containing	362
+10847	FBXW4	F-box and WD repeat domain containing 4	Approved	SHFM3	Fbw4, dactylin	10q24.32	AF281859	NM_022039	WDR	WD repeat domain containing	362
+13613	FBXW5	F-box and WD repeat domain containing 5	Approved		DKFZP434B205, MGC20962, Fbw5	9q34.3	BC014130	NM_018998	WDR	WD repeat domain containing	362
+16712	FBXW7	F-box and WD repeat domain containing 7	Approved		AGO, FLJ11071, SEL-10, SEL10, FBW7, FBX30, CDC4, FBXW6	4q31.3	AF411971		WDR	WD repeat domain containing	362
+13597	FBXW8	F-box and WD repeat domain containing 8	Approved	FBXO29	FBX29, FBW6, FBW8	12q24.22	AF176707	NM_012174	WDR	WD repeat domain containing	362
+28136	FBXW9	F-box and WD repeat domain containing 9	Approved		MGC10870, Fbw9	19p13.13	BC004290	NM_032301	WDR	WD repeat domain containing	362
+24824	FZR1	fizzy and cell division cycle 20 related 1	Approved		HCDH1, CDH1, HCDH, FZR, FZR2, KIAA1242, CDC20C	19p13.3	AF083810	NM_016263	WDR	WD repeat domain containing	362
+20043	GEMIN5	gem nuclear organelle associated protein 5	Approved			5q33.2	AK022748		WDR	WD repeat domain containing	362
+4396	GNB1	G protein subunit beta 1	Approved			1p36.33	BC004186	NM_002074	WDR	WD repeat domain containing	362
+4397	GNB1L	G protein subunit beta 1 like	Approved		GY2, WDR14	22q11.21	AF238328		WDR	WD repeat domain containing	362
+4398	GNB2	G protein subunit beta 2	Approved			7q22.1	M16514	NM_005273	WDR	WD repeat domain containing	362
+4400	GNB3	G protein subunit beta 3	Approved			12p13.31		NM_002075	WDR	WD repeat domain containing	362
+20731	GNB4	G protein subunit beta 4	Approved			3q26.33	AF300648	NM_021629	WDR	WD repeat domain containing	362
+4401	GNB5	G protein subunit beta 5	Approved		GB5	15q21.2	AF017656		WDR	WD repeat domain containing	362
+21270	GRWD1	glutamate rich WD repeat containing 1	Approved		WDR28, GRWD, RRB1	19q13.33	AF337808	NM_031485	WDR	WD repeat domain containing	362
+4665	GTF3C2	general transcription factor IIIC subunit 2	Approved		KIAA0011, TFIIIC110	2p23.3	D13636		WDR	WD repeat domain containing	362
+4867	HERC1	HECT and RLD domain containing E3 ubiquitin protein ligase family member 1	Approved		p532, p619	15q22.31	U50078	NM_003922	WDR	WD repeat domain containing	362
+4916	HIRA	histone cell cycle regulator	Approved	TUPLE1	DGCR1, TUP1	22q11.21	X75296	NM_003325	WDR	WD repeat domain containing	362
+13556	IFT122	intraflagellar transport 122	Approved	WDR10	WDR140, WDR10p, SPG	3q21.3-q22.1	AF244930	NM_018262	WDR	WD repeat domain containing	362
+29077	IFT140	intraflagellar transport 140	Approved	WDTC2	gs114, KIAA0590	16p13.3	AB011162	NM_014714	WDR	WD repeat domain containing	362
+30391	IFT172	intraflagellar transport 172	Approved		SLB, wim, osm-1, NPHP17, BBS20	2p23.3	AB033005	NM_015662	WDR	WD repeat domain containing	362
+29262	IFT80	intraflagellar transport 80	Approved	WDR56	KIAA1374	3q25.33	AB037795	NM_020800	WDR	WD repeat domain containing	362
+6217	KATNB1	katanin regulatory subunit B1	Approved			16q21	AF052432		WDR	WD repeat domain containing	362
+19349	KIF21A	kinesin family member 21A	Approved	FEOM1	FLJ20052	12q12	AK000059	NM_017641	WDR	WD repeat domain containing	362
+29442	KIF21B	kinesin family member 21B	Approved		DKFZP434J212, KIAA0449	1q32.1	BC031927	XM_371332	WDR	WD repeat domain containing	362
+6628	LLGL1	LLGL1, scribble cell polarity complex component	Approved	DLG4, LLGL, HUGL, HUGL-1	Lgl1, Mgl1	17p11.2			WDR	WD repeat domain containing	362
+6629	LLGL2	LLGL2, scribble cell polarity complex component	Approved		HGL, Hugl-2	17q25.1	X87342	NM_004524	WDR	WD repeat domain containing	362
+1742	LRBA	LPS responsive beige-like anchor protein	Approved	CDC4L	BGL, LAB300, LBA	4q31.3	AF216648		WDR	WD repeat domain containing	362
+21769	LRWD1	leucine rich repeats and WD repeat domain containing 1	Approved		DKFZp434K1815, ORCA, CENP-33	7q22.1	AL133057	NM_152892	WDR	WD repeat domain containing	362
+1968	LYST	lysosomal trafficking regulator	Approved	CHS1	CHS	1q42.3	U70064		WDR	WD repeat domain containing	362
+29536	MAPKBP1	mitogen-activated protein kinase binding protein 1	Approved		KIAA0596	15q15.1	AB011168	NM_014994	WDR	WD repeat domain containing	362
+17556	MED16	mediator complex subunit 16	Approved	THRAP5	DRIP92, TRAP95	19p13.3	AF121228	NM_005481	WDR	WD repeat domain containing	362
+24825	MLST8	MTOR associated protein, LST8 homolog	Approved		Lst8, Pop3, GBL, GbetaL	16p13.3		NM_022372	WDR	WD repeat domain containing	362
+7648	NBEA	neurobeachin	Approved		KIAA1544, BCL8B, FLJ10197, LYST2	13q13.3	AF467288	NM_015678	WDR	WD repeat domain containing	362
+20681	NBEAL1	neurobeachin like 1	Approved	ALS2CR17, ALS2CR16	MGC164581	2q33.2	AY172970	NM_001114132	WDR	WD repeat domain containing	362
+31928	NBEAL2	neurobeachin like 2	Approved		KIAA0540	3p21.31	AB011112	NM_015175	WDR	WD repeat domain containing	362
+7723	NEDD1	neural precursor cell expressed, developmentally down-regulated 1	Approved		GCP-WD, TUBGCP7	12q23.1			WDR	WD repeat domain containing	362
+19889	NLE1	notchless homolog 1	Approved	NLE	FLJ10458	17q12		NM_018096	WDR	WD repeat domain containing	362
+8017	NSMAF	neutral sphingomyelinase activation associated factor	Approved		FAN, GRAMD5	8q12.1	X96586	NM_003580	WDR	WD repeat domain containing	362
+29929	NUP37	nucleoporin 37	Approved		MGC5585, FLJ22618	12q23.2	AF514994	NM_024057	WDR	WD repeat domain containing	362
+21182	NUP43	nucleoporin 43	Approved		bA350J20.1, FLJ13287	6q25.1	AF514997	NM_198887	WDR	WD repeat domain containing	362
+27619	NWD1	NACHT and WD repeat domain containing 1	Approved			19p13.11	BX648940	NM_001007525	WDR	WD repeat domain containing	362
+25687	PAAF1	proteasomal ATPase associated factor 1	Approved	WDR71	FLJ11848, Rpn14	11q13.4	BC006142	NM_025155	WDR	WD repeat domain containing	362
+8574	PAFAH1B1	platelet activating factor acetylhydrolase 1b regulatory subunit 1	Approved	MDCR, MDS	LIS1, PAFAH, NudF	17p13.3	L25107	NM_000430	WDR	WD repeat domain containing	362
+20882	PAK1IP1	PAK1 interacting protein 1	Approved		FLJ20624, hPIP1, PIP1, bA421M1.5, MAK11, WDR84	6p24.2	AF283303	NM_017906	WDR	WD repeat domain containing	362
+8860	PEX7	peroxisomal biogenesis factor 7	Approved		PTS2R, RD	6q23.3	AF180814	NM_000288	WDR	WD repeat domain containing	362
+15673	PHIP	pleckstrin homology domain interacting protein	Approved	WDR11	ndrp, FLJ20705, DCAF14, BRWD2	6q14.1	AF310250		WDR	WD repeat domain containing	362
+8982	PIK3R4	phosphoinositide-3-kinase regulatory subunit 4	Approved		VPS15, p150	3q22.1	Y08991	NM_014602	WDR	WD repeat domain containing	362
+9043	PLAA	phospholipase A2 activating protein	Approved		PLAP, PLA2P, FLJ11281, FLJ12699, DOA1	9p21.2	AF083395	NM_001031689	WDR	WD repeat domain containing	362
+9089	PLRG1	pleiotropic regulator 1	Approved		PRL1, Prp46, PRPF46, Cwc1, TANGO4	4q31.3	AF044333	NM_002669	WDR	WD repeat domain containing	362
+24488	POC1A	POC1 centriolar protein A	Approved	WDR51A	DKFZP434C245	3p21.2	AL117629	NM_015426	WDR	WD repeat domain containing	362
+30836	POC1B	POC1 centriolar protein B	Approved	WDR51B	TUWD12, FLJ14923	12q21.33	AL832918	NM_172240	WDR	WD repeat domain containing	362
+9304	PPP2R2A	protein phosphatase 2 regulatory subunit Balpha	Approved		PR52A, PR55A, B55A, PR55alpha, B55alpha	8p21.2	M64929	NM_002717	WDR	WD repeat domain containing	362
+9305	PPP2R2B	protein phosphatase 2 regulatory subunit Bbeta	Approved	SCA12	PR55-BETA, PR52B, B55beta	5q32	M64930	NM_181678	WDR	WD repeat domain containing	362
+9306	PPP2R2C	protein phosphatase 2 regulatory subunit Bgamma	Approved		PR52, IMYPNO, MGC33570, PR55G, B55gamma	4p16.1	AF086924	NM_181876	WDR	WD repeat domain containing	362
+23732	PPP2R2D	protein phosphatase 2 regulatory subunit Bdelta	Approved		MDS026, B55delta, B55D	10q26.3	AF220046	NM_018461	WDR	WD repeat domain containing	362
+28954	PPWD1	peptidylprolyl isomerase domain and WD repeat containing 1	Approved		KIAA0073	5q12.3	AK025679	NM_015342	WDR	WD repeat domain containing	362
+9356	PREB	prolactin regulatory element binding	Approved		SEC12	2p23.3		NM_013388	WDR	WD repeat domain containing	362
+17896	PRPF19	pre-mRNA processing factor 19	Approved	PRP19	UBOX4, NMP200, PSO4, hPSO4, SNEV	11q12.2	BC018698	NM_014502	WDR	WD repeat domain containing	362
+17349	PRPF4	pre-mRNA processing factor 4	Approved		Prp4p, HPRP4, HPRP4P, PRP4, SNRNP60	9q32	AF001687	NM_004697	WDR	WD repeat domain containing	362
+17015	PWP1	PWP1 homolog, endonuclein	Approved		IEF-SSP-9502	12q23.3	BC000067	NM_007062	WDR	WD repeat domain containing	362
+9711	PWP2	PWP2, small subunit processome component	Approved	PWP2H	EHOC-17, UTP1	21q22.3		NM_005049	WDR	WD repeat domain containing	362
+4399	RACK1	receptor for activated C kinase 1	Approved	GNB2L1	Gnb2-rs1, H12.3	5q35.3	M24194	NM_006098	WDR	WD repeat domain containing	362
+9828	RAE1	ribonucleic acid export 1	Approved		Mnrp41	20q13.31	U84720		WDR	WD repeat domain containing	362
+9887	RBBP4	RB binding protein 4, chromatin remodeling factor	Approved		RbAp48, NURF55, lin-53	1p35.1	BC053904	NM_005610	WDR	WD repeat domain containing	362
+9888	RBBP5	RB binding protein 5, histone lysine methyltransferase complex subunit	Approved		RBQ3, SWD1	1q32.1	BC053856	NM_005057	WDR	WD repeat domain containing	362
+9890	RBBP7	RB binding protein 7, chromatin remodeling factor	Approved		RbAp46	Xp22.2	U35143	NM_002893	WDR	WD repeat domain containing	362
+17440	COP1	COP1, E3 ubiquitin ligase	Approved	RFWD2	FLJ10416, RNF200	1q25.1-q25.2	AK001278	NM_022457	WDR	WD repeat domain containing	362
+25539	RFWD3	ring finger and WD repeat domain 3	Approved		FLJ10520, RNF201, FANCW	16q23.1	AK001382	NM_018124	WDR	WD repeat domain containing	362
+30287	RPTOR	regulatory associated protein of MTOR complex 1	Approved		KOG1, Mip1, KIAA1303, raptor	17q25.3		NM_020761	WDR	WD repeat domain containing	362
+16829	RRP9	ribosomal RNA processing 9, U3 small nucleolar RNA binding protein	Approved	RNU3IP2	U3-55K	3p21.2	AJ001340	NM_004704	WDR	WD repeat domain containing	362
+30634	SCAP	SREBF chaperone	Approved		KIAA0199	3p21.31	BC020987	NM_012235	WDR	WD repeat domain containing	362
+10697	SEC13	SEC13 homolog, nuclear pore and COPII coat complex component	Approved	D3S1231E, SEC13L1	SEC13R, npp-20	3p25.3		NM_001136026	WDR	WD repeat domain containing	362
+17052	SEC31A	SEC31 homolog A, COPII coat complex component	Approved	SEC31L1	KIAA0905, ABP125, ABP130	4q21.22	AB018358	NM_016211	WDR	WD repeat domain containing	362
+23197	SEC31B	SEC31 homolog B, COPII coat complex component	Approved	SEC31L2	SEC31B-1, DKFZP434M183	10q24.31	AF274863	NM_015490	WDR	WD repeat domain containing	362
+30379	SEH1L	SEH1 like nucleoporin	Approved		SEH1A, SEH1B, Seh1, SEC13L	18p11.21	BC012430	NM_031216	WDR	WD repeat domain containing	362
+19214	SHKBP1	SH3KBP1 binding protein 1	Approved		PP203, Sb1	19q13.2	AF258553	NM_138392	WDR	WD repeat domain containing	362
+18247	SMU1	SMU1, DNA replication regulator and spliceosomal factor	Approved		SMU-1, FLJ10805, BWD, fSAP57	9p21.1	AK001667	NM_018225	WDR	WD repeat domain containing	362
+30857	SNRNP40	small nuclear ribonucleoprotein U5 subunit 40	Approved	WDR57	PRP8BP, SPF38, PRPF8BP, HPRP8BP	1p35.2	AF090988	NM_004814	WDR	WD repeat domain containing	362
+23225	SPAG16	sperm associated antigen 16	Approved		PF20, FLJ22724, DKFZp666P1710, WDR29	2q34	AF310672	NM_024532	WDR	WD repeat domain containing	362
+30796	STRAP	serine/threonine kinase receptor associated protein	Approved		UNRIP, pt-wd, MAWD	12p12.3	AB024327	NM_007178	WDR	WD repeat domain containing	362
+11424	STRN	striatin	Approved		PPP2R6A, STRN1	2p22.2	AJ223814		WDR	WD repeat domain containing	362
+15720	STRN3	striatin 3	Approved		SG2NA, PPP2R6B, S/G2NA	14q12		NM_014574	WDR	WD repeat domain containing	362
+15721	STRN4	striatin 4	Approved		ZIN, PPP2R6C	19q13.32	AF212940		WDR	WD repeat domain containing	362
+19665	STXBP5	syntaxin binding protein 5	Approved		tomosyn, LLGL3	6q24.3	AK055484		WDR	WD repeat domain containing	362
+30757	STXBP5L	syntaxin binding protein 5 like	Approved		KIAA1006, LLGL4	3q13.33	AB023223		WDR	WD repeat domain containing	362
+11539	TAF5	TATA-box binding protein associated factor 5	Approved	TAF2D	TAFII100	10q24.33	X95525		WDR	WD repeat domain containing	362
+17304	TAF5L	TATA-box binding protein associated factor 5 like	Approved		PAF65B	1q42.13	AF069736	NM_014409	WDR	WD repeat domain containing	362
+30888	TBC1D31	TBC1 domain family member 31	Approved	WDR67	MGC21654, Gm85	8q24.13	AK094612	NM_145647	WDR	WD repeat domain containing	362
+11585	TBL1X	transducin beta like 1 X-linked	Approved	TBL1	EBI	Xp22.31-p22.2	Y12781	NM_005647	WDR	WD repeat domain containing	362
+29529	TBL1XR1	transducin beta like 1 X-linked receptor 1	Approved		IRA1, FLJ12894, TBLR1, C21, DC42	3q26.32	AK022956	NM_024665	WDR	WD repeat domain containing	362
+18502	TBL1Y	transducin beta like 1 Y-linked	Approved		TBL1	Yp11.2	AF332220	NM_033284	WDR	WD repeat domain containing	362
+11586	TBL2	transducin beta like 2	Approved		WS-betaTRP, WBSCR13, DKFZP43N024	7q11.23	AF056183	NM_012453	WDR	WD repeat domain containing	362
+11587	TBL3	transducin beta like 3	Approved		SAZD, UTP13	16p13.3	U02609	NM_006453	WDR	WD repeat domain containing	362
+11726	TEP1	telomerase associated protein 1	Approved		TP1, TLP1, VAULT2, p240, TROVE1	14q11.2		NM_007110	WDR	WD repeat domain containing	362
+19072	THOC3	THO complex 3	Approved		TEX1, MGC5469	5q35.2	BC006849		WDR	WD repeat domain containing	362
+28369	THOC6	THO complex 6	Approved	WDR58	MGC2655, fSAP35	16p13.3	BC050674	NM_024339	WDR	WD repeat domain containing	362
+11837	TLE1	transducin like enhancer of split 1	Approved		ESG1, GRG1, ESG	9q21.32		NM_005077	WDR	WD repeat domain containing	362
+11838	TLE2	transducin like enhancer of split 2	Approved		ESG2, GRG2, ESG, FLJ41188	19p13.3	M99436	NM_003260	WDR	WD repeat domain containing	362
+11839	TLE3	transducin like enhancer of split 3	Approved		ESG, ESG3, KIAA1547, HsT18976, GRG3	15q23	M99438	NM_005078	WDR	WD repeat domain containing	362
+11840	TLE4	transducin like enhancer of split 4	Approved		E(spI), ESG, GRG4	9q21.31	M99439	XM_212237	WDR	WD repeat domain containing	362
+30788	TLE6	transducin like enhancer of split 6	Approved		FLJ14009, GRG6	19p13.3	AK024071	NM_024760	WDR	WD repeat domain containing	362
+53648	TLE7	transducin like enhancer of split family member 7	Approved		chico	16q22.2			WDR	WD repeat domain containing	362
+20456	TRAF7	TNF receptor associated factor 7	Approved	RFWD1	RNF119, DKFZp586I021, MGC7807	16p13.3	AL136921	NM_032271	WDR	WD repeat domain containing	362
+15530	TULP4	tubby like protein 4	Approved		TUSP, KIAA1397	6q25.3		NM_020245	WDR	WD repeat domain containing	362
+25758	UTP15	UTP15, small subunit processome component	Approved		FLJ12787, NET21, FLJ23637	5q13.2	AL831972	NM_032175	WDR	WD repeat domain containing	362
+24274	UTP18	UTP18, small subunit processome component	Approved	WDR50	CGI-48	17q21.33	AF151806	NM_016001	WDR	WD repeat domain containing	362
+1983	UTP4	UTP4, small subunit processome component	Approved	CIRH1A	NAIC, FLJ14728, KIAA1988, TEX292, CIRHIN	16q22.1	AB075868	NM_032830	WDR	WD repeat domain containing	362
+20451	WDFY1	WD repeat and FYVE domain containing 1	Approved		KIAA1435, FENS-1, WDF1, ZFYVE17	2q36.1	AB037856	NM_020830	WDR	WD repeat domain containing	362
+20482	WDFY2	WD repeat and FYVE domain containing 2	Approved		ZFYVE22	13q14.3	AF411978	NM_052950	WDR	WD repeat domain containing	362
+20751	WDFY3	WD repeat and FYVE domain containing 3	Approved		KIAA0993, ALFY, ZFYVE25	4q21.23	AB023210	NM_014991	WDR	WD repeat domain containing	362
+29323	WDFY4	WDFY family member 4	Approved	C10orf64	KIAA1607, Em:AC060234.3, FLJ45748	10q11.23	AK074085	XM_033379	WDR	WD repeat domain containing	362
+23170	WDHD1	WD repeat and HMG-box DNA binding protein 1	Approved		AND-1, CTF4, CHTF4	14q22.2-q22.3	AJ006266	NM_007086	WDR	WD repeat domain containing	362
+12754	WDR1	WD repeat domain 1	Approved			4p16.1	AF020260		WDR	WD repeat domain containing	362
+13831	WDR11	WD repeat domain 11	Approved	BRWD2	KIAA1351, FLJ10506, WDR15, HH14, DR11, SRI1	10q26.12	AF320223		WDR	WD repeat domain containing	362
+14098	WDR12	WD repeat domain 12	Approved		YTM1, FLJ10881	2q33.2	AF242546	NM_018256	WDR	WD repeat domain containing	362
+14352	WDR13	WD repeat domain 13	Approved			Xp11.23	AF329819		WDR	WD repeat domain containing	362
+16661	WDR17	WD repeat domain 17	Approved			4q34.2	AF492460		WDR	WD repeat domain containing	362
+17956	WDR18	WD repeat domain 18	Approved		Ipi3	19p13.3			WDR	WD repeat domain containing	362
+18340	WDR19	WD repeat domain 19	Approved		Pwdmp, KIAA1638, FLJ23127, ORF26, DYF-2, Oseg6, IFT144, NPHP13	4p14	AB046858, AY029257		WDR	WD repeat domain containing	362
+19667	WDR20	WD repeat domain 20	Approved		DMR, MGC33177, FLJ33659	14q32.31	BC028387	NM_181291	WDR	WD repeat domain containing	362
+20852	WDR24	WD repeat domain 24	Approved	C16orf21	DKFZp434F054, JFP7	16p13.3	AL136863	NM_032259	WDR	WD repeat domain containing	362
+21064	WDR25	WD repeat domain 25	Approved	C14orf67	MGC4645	14q32.32	BC007953	NM_024515	WDR	WD repeat domain containing	362
+21208	WDR26	WD repeat domain 26	Approved		FLJ21016, GID7	1q42.11-q42.12	AK024669	NM_025160	WDR	WD repeat domain containing	362
+21248	WDR27	WD repeat domain 27	Approved		MGC43690	6q27	AK131435	NM_182552	WDR	WD repeat domain containing	362
+12755	WDR3	WD repeat domain 3	Approved		FLJ12796, UTP12, DIP2	1p12	AF083217	NM_006784	WDR	WD repeat domain containing	362
+21421	WDR31	WD repeat domain 31	Approved		FLJ35921	9q32	BC012352	NM_145241	WDR	WD repeat domain containing	362
+25651	WDR33	WD repeat domain 33	Approved		FLJ11294, WDC146, NET14	2q14.3		NM_018383	WDR	WD repeat domain containing	362
+28296	WDR34	WD repeat domain 34	Approved		DIC5, MGC20486, bA216B9.3, FAP133	9q34.11	BC011874	NM_052844	WDR	WD repeat domain containing	362
+29250	WDR35	WD repeat domain 35	Approved		MGC33196, KIAA1336, IFT121, IFTA1	2p24.1	AB037757	NM_020779	WDR	WD repeat domain containing	362
+30696	WDR36	WD repeat domain 36	Approved	GLC1G	TA-WDRP, UTP21	5q22.1	AF385437	NM_139281	WDR	WD repeat domain containing	362
+31406	WDR37	WD repeat domain 37	Approved		KIAA0982	10p15.3	AB023199	NM_014023	WDR	WD repeat domain containing	362
+23745	WDR38	WD repeat domain 38	Approved			9q33.3		NM_001045476	WDR	WD repeat domain containing	362
+12756	WDR4	WD repeat domain 4	Approved		TRM82, TRMT82	21q22.3	AJ243912		WDR	WD repeat domain containing	362
+25601	WDR41	WD repeat domain 41	Approved		FLJ10904	5q13.3-q14.1	AF115511	NM_018268	WDR	WD repeat domain containing	362
+28945	WDR43	WD repeat domain 43	Approved		KIAA0007, NET12, UTP5	2p23.2	D87716	XM_087089	WDR	WD repeat domain containing	362
+30512	WDR44	WD repeat domain 44	Approved		DKFZp686L20145, RPH11, RAB11BP, SYM-4	Xq24	AK001978	NM_019045	WDR	WD repeat domain containing	362
+28912	WDR45	WD repeat domain 45	Approved	WDRX1	JM5, WIPI4, NBIA5	Xp11.23	BC003037	NM_007075	WDR	WD repeat domain containing	362
+25072	WDR45B	WD repeat domain 45B	Approved	WDR45L	WIPI3	17q25.3	AF091083	NM_019613	WDR	WD repeat domain containing	362
+13923	WDR46	WD repeat domain 46	Approved	C6orf11	BING4, UTP7	6p21.32	Z97184	NM_005452	WDR	WD repeat domain containing	362
+29141	WDR47	WD repeat domain 47	Approved		KIAA0893	1p13.3	AB020700	NM_014969	WDR	WD repeat domain containing	362
+30914	WDR48	WD repeat domain 48	Approved		KIAA1449, P80, SPG60	3p22.2	AF468833	NM_020839	WDR	WD repeat domain containing	362
+26587	WDR49	WD repeat domain 49	Approved		FLJ33620	3q26.1	AK097556	NM_178824	WDR	WD repeat domain containing	362
+12757	WDR5	WD repeat domain 5	Approved		SWD3, CFAP89	9q34.2	AJ011376	NM_052821	WDR	WD repeat domain containing	362
+28786	WDR53	WD repeat domain 53	Approved		MGC64882, MGC12928	3q29	BC054030	NM_182627	WDR	WD repeat domain containing	362
+25770	WDR54	WD repeat domain 54	Approved		FLJ12953	2p13.1	AK023015	NM_032118	WDR	WD repeat domain containing	362
+25971	WDR55	WD repeat domain 55	Approved		FLJ20195, FLJ21702	5q31.3	AK000202	NM_017706	WDR	WD repeat domain containing	362
+25706	WDR59	WD repeat domain 59	Approved		FLJ12270	16q23.1	AB067510	NM_030581	WDR	WD repeat domain containing	362
+17826	WDR5B	WD repeat domain 5B	Approved		FLJ11287	3q21.1	AK002149	NM_019069	WDR	WD repeat domain containing	362
+12758	WDR6	WD repeat domain 6	Approved			3p21.31	AF099100		WDR	WD repeat domain containing	362
+21862	WDR60	WD repeat domain 60	Approved		FLJ10300, FAP163	7q36.3		NM_018051	WDR	WD repeat domain containing	362
+30300	WDR61	WD repeat domain 61	Approved		REC14	15q25.1		NM_025234	WDR	WD repeat domain containing	362
+24502	WDR62	WD repeat domain 62	Approved	C19orf14, MCPH2	DKFZP434J046, FLJ33298	19q13.12	BX647726	NM_015671	WDR	WD repeat domain containing	362
+30711	WDR63	WD repeat domain 63	Approved		DIC3, FLJ30067, NYD-SP29	1p22.3		NM_145172	WDR	WD repeat domain containing	362
+26570	WDR64	WD repeat domain 64	Approved		FLJ32978	1q43	AK057540	NM_144625	WDR	WD repeat domain containing	362
+28506	WDR66	WD repeat domain 66	Approved		MGC33630, CaM-IP4	12q24.31	AL833930	NM_144668	WDR	WD repeat domain containing	362
+13490	WDR7	WD repeat domain 7	Approved		KIAA0541, TRAG	18q21.31	AB011113		WDR	WD repeat domain containing	362
+25495	WDR70	WD repeat domain 70	Approved		FLJ10233	5p13.2	BC009648	NM_018034	WDR	WD repeat domain containing	362
+26790	WDR72	WD repeat domain 72	Approved		FLJ38736	15q21.3	BX537884	NM_182758	WDR	WD repeat domain containing	362
+25928	WDR73	WD repeat domain 73	Approved		FLJ14888, HSPC264	15q25.2	AK027200	NM_032856	WDR	WD repeat domain containing	362
+25529	WDR74	WD repeat domain 74	Approved		FLJ10439, Nsa1	11q12.3		NM_018093	WDR	WD repeat domain containing	362
+25725	WDR75	WD repeat domain 75	Approved		FLJ12519, NET16, UTP17	2q32.2	AK091546	NM_032168	WDR	WD repeat domain containing	362
+25773	WDR76	WD repeat domain 76	Approved		FLJ12973	15q15.3	AK023035	NM_024908	WDR	WD repeat domain containing	362
+29652	WDR77	WD repeat domain 77	Approved		MEP50, p44	1p13.2	BC016946	NM_024102	WDR	WD repeat domain containing	362
+26252	WDR78	WD repeat domain 78	Approved		DIC4, FLJ23129	1p31.3	BX648840	NM_024763	WDR	WD repeat domain containing	362
+26600	WDR81	WD repeat domain 81	Approved		FLJ33817, PPP1R166, CAMRQ2, SORF-2	17p13.3	AK074111	NM_152348	WDR	WD repeat domain containing	362
+28826	WDR82	WD repeat domain 82	Approved	TMEM113	PRO2730, MST107, MSTP107, PRO34047, WDR82A, SWD2	3p21.2	AF132207	NM_025222	WDR	WD repeat domain containing	362
+32672	WDR83	WD repeat domain 83	Approved		MORG1	19p13.13	AK074525	NM_032332	WDR	WD repeat domain containing	362
+28020	WDR86	WD repeat domain 86	Approved			7q36.1	AK125347	NM_198285	WDR	WD repeat domain containing	362
+29934	WDR87	WD repeat domain 87	Approved		NYD-SP11	19q13.13	AK128826	NM_031951	WDR	WD repeat domain containing	362
+26999	WDR88	WD repeat domain 88	Approved	PQWD		19q13.11	BC031227	NM_173479	WDR	WD repeat domain containing	362
+20489	WDR89	WD repeat domain 89	Approved	C14orf150	MGC9907	14q23.2	AF115513	NM_080666	WDR	WD repeat domain containing	362
+26960	WDR90	WD repeat domain 90	Approved	C16orf17, C16orf15, C16orf16, C16orf19, C16orf18	FLJ36483, KIAA1924	16p13.3	AB067511	NM_145294	WDR	WD repeat domain containing	362
+24997	WDR91	WD repeat domain 91	Approved		HSPC049, SORF-1	7q33	AF161534	NM_014149	WDR	WD repeat domain containing	362
+25176	WDR92	WD repeat domain 92	Approved		FLJ31741, Monad	2p14	AK056303	NM_138458	WDR	WD repeat domain containing	362
+26924	WDR93	WD repeat domain 93	Approved			15q26.1		NM_020212	WDR	WD repeat domain containing	362
+42637	WDR95P	WD repeat domain 95, pseudogene	Approved			13q12.3			WDR	WD repeat domain containing	362
+26959	WDR97	WD repeat domain 97	Approved	KIAA1875		8q24.3	AB058778	NM_001316309	WDR	WD repeat domain containing	362
+24326	RMC1	regulator of MON1-CCZ1	Approved	C18orf8, WDR98	MIC1, HsT2591	18q11.2	AK057192	NM_013326	WDR	WD repeat domain containing	362
+26697	WDSUB1	WD repeat, sterile alpha motif and U-box domain containing 1	Approved	WDSAM1	UBOX6, FLJ36175	2q24.2	AK093494	NM_152528	WDR	WD repeat domain containing	362
+29175	WDTC1	WD and tetratricopeptide repeats 1	Approved		KIAA1037, ADP, DCAF9	1p36.11	AK023778	NM_015023	WDR	WD repeat domain containing	362
+25471	WIPI1	WD repeat domain, phosphoinositide interacting 1	Approved		FLJ10055, WIPI49, ATG18, ATG18A	17q24.2		NM_017983	WDR	WD repeat domain containing	362
+32225	WIPI2	WD repeat domain, phosphoinositide interacting 2	Approved		ATG21, CGI-50, FLJ12979, FLJ14217, FLJ42984, DKFZP434J154, DKFZp686P02188, ATG18B	7p22.1		NM_015610	WDR	WD repeat domain containing	362
+25522	WRAP53	WD repeat containing antisense to TP53	Approved	WDR79	FLJ10385, TCAB1	17p13.1	AK001247, DQ431240	NM_018081	WDR	WD repeat domain containing	362
+12759	WRAP73	WD repeat containing, antisense to TP73	Approved	WDR8		1p36.32	AB034912, EF494669		WDR	WD repeat domain containing	362
+19221	WSB1	WD repeat and SOCS box containing 1	Approved		DKFZp564A122, DKFZp564B0482, SWIP1	17q11.1	AF069313	NM_015626	WDR	WD repeat domain containing	362
+19222	WSB2	WD repeat and SOCS box containing 2	Approved		SBA2, MGC10210	12q24.23	AF038187	NM_018639	WDR	WD repeat domain containing	362
+17157	EDC4	enhancer of mRNA decapping 4	Approved		RCD-8, Ge-1, HEDLS	16q22.1	U17474	NM_014329	WDR	WD repeat domain containing	362
+21305	KCTD3	potassium channel tetramerization domain containing 3	Approved		NY-REN-45	1q41	AK024547	NM_016121	WDR	WD repeat domain containing	362
+21905	MIOS	meiosis regulator for oocyte development	Approved		FLJ20323, MIO, Sea4, Yulink	7p21.3		NM_019005	WDR	WD repeat domain containing	362
+25862	NOL10	nucleolar protein 10	Approved	PQBP5	FLJ14075	2p25.1	AK024137	NM_024894	WDR	WD repeat domain containing	362
+29229	NWD2	NACHT and WD repeat domain containing 2	Approved	KIAA1239		4p14	AB033065	NM_001144990	WDR	WD repeat domain containing	362
+12886	ZNF106	zinc finger protein 106	Approved	ZFP106	ZNF474, SH3BP3	15q15.1	AF205632	NM_022473	WDR	WD repeat domain containing	362
+3254	EIF2A	eukaryotic translation initiation factor 2A	Approved		EIF-2A	3q25.1	AF212241	NM_032025	WDR	WD repeat domain containing	362
+17022	HPS5	HPS5, biogenesis of lysosomal organelles complex 2 subunit 2	Approved		BLOC2S2, AIBP63, RU2	11p15.1	AB023234	NM_181507	WDR	WD repeat domain containing	362
+26144	PALB2	partner and localizer of BRCA2	Approved		FLJ21816, FANCN	16p12.2		NM_024675	WDR	WD repeat domain containing	362
+20074	PAN2	poly(A) specific ribonuclease subunit PAN2	Approved	USP52	KIAA0710, hPAN2	12q13.3	AB014610	NM_014871	WDR	WD repeat domain containing	362
+17686	RIC1	RIC1 homolog, RAB6A GEF complex partner 1	Approved	KIAA1432	bA207C16.1	9p24.1	AB037853	XM_039698	WDR	WD repeat domain containing	362

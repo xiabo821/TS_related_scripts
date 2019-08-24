@@ -1,0 +1,305 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+463	AMFR	autocrine motility factor receptor	Approved		RNF45, gp78	16q13	L35233		RNF	Ring finger proteins	58
+14452	ANAPC11	anaphase promoting complex subunit 11	Approved		HSPC214, APC11, Apc11p, MGC882	17q25.3	AF247565	NM_016476	RNF	Ring finger proteins	58
+952	BARD1	BRCA1 associated RING domain 1	Approved			2q35		NM_000465	RNF	Ring finger proteins	58
+17613	BFAR	bifunctional apoptosis regulator	Approved		BAR, RNF47	16p13.12	AF173003	NM_016561	RNF	Ring finger proteins	58
+590	BIRC2	baculoviral IAP repeat containing 2	Approved	API1	cIAP1, hiap-2, MIHB, RNF48, c-IAP1	11q22.2	L49431	NM_001166	RNF	Ring finger proteins	58
+591	BIRC3	baculoviral IAP repeat containing 3	Approved	API2	cIAP2, hiap-1, MIHC, RNF49, MALT2, c-IAP2	11q22.2	L49432	NM_001165	RNF	Ring finger proteins	58
+13702	BIRC7	baculoviral IAP repeat containing 7	Approved		mliap, ML-IAP, KIAP, RNF50	20q13.33	AF301009	NM_139317	RNF	Ring finger proteins	58
+14878	BIRC8	baculoviral IAP repeat containing 8	Approved		ILP-2, hILP2, RNF136	19q13.42	AF164682	NM_033341	RNF	Ring finger proteins	58
+1066	BMI1	BMI1 proto-oncogene, polycomb ring finger	Approved	PCGF4	RNF51	10p12.2	BC011652	NM_005180	RNF	Ring finger proteins	58
+1099	BRAP	BRCA1 associated protein	Approved		BRAP2, RNF52, IMP	12q24.12	AF035620		RNF	Ring finger proteins	58
+1100	BRCA1	BRCA1, DNA repair associated	Approved		RNF53, BRCC1, PPP1R53, FANCS	17q21.31	U14680	NM_007294	RNF	Ring finger proteins	58
+1541	CBL	Cbl proto-oncogene	Approved	CBL2	RNF55, c-Cbl	11q23.3	X57110	NM_005188	RNF	Ring finger proteins	58
+1542	CBLB	Cbl proto-oncogene B	Approved		RNF56, Cbl-b	3q13.11	U26710	NM_170662	RNF	Ring finger proteins	58
+15961	CBLC	Cbl proto-oncogene C	Approved		CBL-3, CBL-SL, RNF57	19q13.32	AB028645	NM_012116	RNF	Ring finger proteins	58
+21225	CBLL1	Cbl proto-oncogene like 1	Approved		HAKAI, FLJ23109, RNF188	7q22.3	AK026762	NM_024814	RNF	Ring finger proteins	58
+19437	CCNB1IP1	cyclin B1 interacting protein 1	Approved	C14orf18	HEI10	14q11.2	AF216381	NM_021178, NM_182849, NM_182851, NM_182852	RNF	Ring finger proteins	58
+15528	CGRRF1	cell growth regulator with ring finger domain 1	Approved		CGR19, RNF197	14q22.2	BC015063	NM_006568	RNF	Ring finger proteins	58
+20455	CHFR	checkpoint with forkhead and ring finger domains	Approved		FLJ10796, RNF196	12q24.33	AK001658		RNF	Ring finger proteins	58
+13164	CNBP	CCHC-type zinc finger nucleic acid binding protein	Approved	DM2, ZNF9	RNF163, ZCCHC22, CNBP1	3q21.3	U19765	NM_003418	RNF	Ring finger proteins	58
+7880	CNOT4	CCR4-NOT transcription complex subunit 4	Approved	NOT4	CLONE243, NOT4H	7q33	AF180475	NM_013316	RNF	Ring finger proteins	58
+17440	COP1	COP1, E3 ubiquitin ligase	Approved	RFWD2	FLJ10416, RNF200	1q25.1-q25.2	AK001278	NM_022457	RNF	Ring finger proteins	58
+17806	CYHR1	cysteine and histidine rich 1	Approved		CHRP, KIAA0496, MGC13010	8q24.3	AB007965	NM_032687	RNF	Ring finger proteins	58
+26539	DCST1	DC-STAMP domain containing 1	Approved		FLJ32785	1q21.3	AK057347	NM_152494	RNF	Ring finger proteins	58
+3060	DTX1	deltex E3 ubiquitin ligase 1	Approved		hDx-1, RNF140	12q24.13	AF053700		RNF	Ring finger proteins	58
+15973	DTX2	deltex E3 ubiquitin ligase 2	Approved		RNF58, KIAA1528	7q11.23			RNF	Ring finger proteins	58
+24457	DTX3	deltex E3 ubiquitin ligase 3	Approved		FLJ34766, RNF154	12q13.3	AK094385	NM_178502	RNF	Ring finger proteins	58
+30323	DTX3L	deltex E3 ubiquitin ligase 3L	Approved		BBAP, RNF143	3q21.1		NM_138287	RNF	Ring finger proteins	58
+29151	DTX4	deltex E3 ubiquitin ligase 4	Approved		KIAA0937, RNF155	11q12.1	AB023154	XM_166213	RNF	Ring finger proteins	58
+30938	DZIP3	DAZ interacting zinc finger protein 3	Approved		hRUL138, PPP1R66	3q13.13	AF279370	NM_014648	RNF	Ring finger proteins	58
+11099	HLTF	helicase like transcription factor	Approved	SNF2L3, SMARCA3	HIP116A, HLTF1, RNF80	3q24	L34673		RNF	Ring finger proteins	58
+6657	LNX1	ligand of numb-protein X 1	Approved	LNX	MPDZ, PDZRN2	4q12	AF237782		RNF	Ring finger proteins	58
+20421	LNX2	ligand of numb-protein X 2	Approved	PDZRN1	MGC46315	13q12.2	AL138699		RNF	Ring finger proteins	58
+26302	LONRF1	LON peptidase N-terminal domain and ring finger 1	Approved		FLJ23749, RNF191	8p23.1	AK074329	NM_152271	RNF	Ring finger proteins	58
+24788	LONRF2	LON peptidase N-terminal domain and ring finger 2	Approved		FLJ45273, RNF192	2q11.2	AK127206	NM_198461	RNF	Ring finger proteins	58
+21152	LONRF3	LON peptidase N-terminal domain and ring finger 3	Approved	RNF127	FLJ22612	Xq24	AK026265	NM_024778	RNF	Ring finger proteins	58
+25135	LRSAM1	leucine rich repeat and sterile alpha motif containing 1	Approved		FLJ31641, CMT2P	9q33.3-q34.11	AK056203	NM_138361	RNF	Ring finger proteins	58
+13082	LTN1	listerin E3 ubiquitin protein ligase 1	Approved	C21orf98, C21orf10, ZNF294, RNF160	KIAA0714, FLJ11053, LISTERIN	21q21.3	AK001915	NM_015565	RNF	Ring finger proteins	58
+6848	MAP3K1	mitogen-activated protein kinase kinase kinase 1	Approved	MEKK1	MEKK, MAPKKK1	5q11.2	U29671, AF042838	XM_042066	RNF	Ring finger proteins	58
+26077	MARCH1	membrane associated ring-CH-type finger 1	Approved		FLJ20668, MARCH-I, RNF171	4q32.2-q32.3	AK000675	NM_017923	RNF	Ring finger proteins	58
+26655	MARCH10	membrane associated ring-CH-type finger 10	Approved	RNF190	FLJ35757, MARCH-X	17q23.3	AK093076	NM_152598	RNF	Ring finger proteins	58
+33609	MARCH11	membrane associated ring-CH-type finger 11	Approved		MARCH-XI, RNF226	5p15.1	BC150513	NM_001102562	RNF	Ring finger proteins	58
+28038	MARCH2	membrane associated ring-CH-type finger 2	Approved		HSPC240, MARCH-II, RNF172	19p13.2	AF151074	NM_016496	RNF	Ring finger proteins	58
+28728	MARCH3	membrane associated ring-CH-type finger 3	Approved		MGC48332, MARCH-III, RNF173	5q23.2	AF055007	NM_178450	RNF	Ring finger proteins	58
+29269	MARCH4	membrane associated ring-CH-type finger 4	Approved		KIAA1399, MARCH-IV, RNF174	2q35	AB037820	NM_020814	RNF	Ring finger proteins	58
+26025	MARCH5	membrane associated ring-CH-type finger 5	Approved	RNF153	FLJ20445, MARCH-V, MITOL	10q23.32-q23.33	BC015480	NM_017824	RNF	Ring finger proteins	58
+30550	MARCH6	membrane associated ring-CH-type finger 6	Approved		TEB4, MARCH-VI, RNF176	5p15.2	AB011169	NM_005885	RNF	Ring finger proteins	58
+17393	MARCH7	membrane associated ring-CH-type finger 7	Approved	AXOT	MARCH-VII, RNF177	2q24.2	AK022973	NM_022826	RNF	Ring finger proteins	58
+23356	MARCH8	membrane associated ring-CH-type finger 8	Approved	MIR	c-MIR, CMIR, MARCH-VIII, RNF178	10q11.21-q11.22	AL833316	NM_145021	RNF	Ring finger proteins	58
+25139	MARCH9	membrane associated ring-CH-type finger 9	Approved		RNF179, FLJ36578	12q14.1	BC009489	NM_138396	RNF	Ring finger proteins	58
+6973	MDM2	MDM2 proto-oncogene	Approved		HDM2, MGC5370	12q15		NM_006880	RNF	Ring finger proteins	58
+6974	MDM4	MDM4, p53 regulator	Approved		MDMX, HDMX	1q32.1	AF007111	NM_002393	RNF	Ring finger proteins	58
+33482	MEX3A	mex-3 RNA binding family member A	Approved	RKHD4	RNF162	1q22	AK024097	NM_001093725	RNF	Ring finger proteins	58
+25297	MEX3B	mex-3 RNA binding family member B	Approved	RKHD3	DKFZp434J0617, RNF195	15q25.2	AK131424	XM_290645	RNF	Ring finger proteins	58
+28040	MEX3C	mex-3 RNA binding family member C	Approved	RKHD2	FLJ38871, RNF194	18q21.2	BC041122	NM_016626	RNF	Ring finger proteins	58
+16734	MEX3D	mex-3 RNA binding family member D	Approved	RKHD1	Tino, KIAA2031, OK/SW-cl.4, RNF193	19p13.3	AB107353	NM_203304	RNF	Ring finger proteins	58
+20254	MGRN1	mahogunin ring finger 1	Approved		KIAA0544, RNF156	16p13.3	AB011116		RNF	Ring finger proteins	58
+21086	MIB1	mindbomb E3 ubiquitin protein ligase 1	Approved		DIP-1, MIB, KIAA1323, ZZANK2, ZZZ6	18q11.2	AB037744	NM_020774	RNF	Ring finger proteins	58
+30577	MIB2	mindbomb E3 ubiquitin protein ligase 2	Approved	ZZANK1	skeletrophin, ZZZ5, FLJ39787	1p36.33	AK097106	NM_080875	RNF	Ring finger proteins	58
+7095	MID1	midline 1	Approved		OS, FXY, TRIM18, RNF59	Xp22	Y13667		RNF	Ring finger proteins	58
+7096	MID2	midline 2	Approved		FXY2, TRIM1, RNF60, MRX101	Xq22.3		NM_012216	RNF	Ring finger proteins	58
+7112	MKRN1	makorin ring finger protein 1	Approved		RNF61	7q34	AF192784	NM_013446	RNF	Ring finger proteins	58
+7113	MKRN2	makorin ring finger protein 2	Approved		RNF62, HSPC070	3p25.2		NM_014160	RNF	Ring finger proteins	58
+7114	MKRN3	makorin ring finger protein 3	Approved	ZNF127, D15S9	RNF63, ZFP127, MGC88288	15q11.2	U19107	NM_005664	RNF	Ring finger proteins	58
+7115	MKRN4P	makorin ring finger protein 4, pseudogene	Approved	ZNF127L1, MKRN4, MKRNP5	ZNF-Xp, RNF64	Xp11.4	U41315	NM_030757	RNF	Ring finger proteins	58
+7117	MKRN5P	makorin ring finger protein 5, pseudogene	Approved	ZNF127L2, MKRNP1	ZNF-Xq	Xq13.2	U41316		RNF	Ring finger proteins	58
+7118	MKRN6P	makorin ring finger protein 6, pseudogene	Approved	MKRNP2		6p21.2			RNF	Ring finger proteins	58
+7119	MKRN7P	makorin ring finger protein 7, pseudogene	Approved	ZNF127L5, MKRNP3		20q13.12			RNF	Ring finger proteins	58
+7120	MKRN8P	makorin ring finger protein 8, pseudogene	Approved	ZNF127L4, MKRNP4	LOC391033	1p34.2		NG_009613	RNF	Ring finger proteins	58
+7116	MKRN9P	makorin ring finger protein 9, pseudogene	Approved	ZNF127L3, MKRN5, MKRNP6	MKRN9, RNF65	12q21.32	BC067894	NG_004764	RNF	Ring finger proteins	58
+7181	MNAT1	MNAT1, CDK activating kinase assembly factor	Approved		MAT1, RNF66	14q23.1	X87843	NM_002431	RNF	Ring finger proteins	58
+25544	MSL2	MSL complex subunit 2	Approved	RNF184, MSL2L1	FLJ10546, KIAA1585, msl-2	3q22.3	AK001408	NM_018133	RNF	Ring finger proteins	58
+25762	MUL1	mitochondrial E3 ubiquitin protein ligase 1	Approved	C1orf166	FLJ12875, MULAN, RNF218, MAPL, GIDE	1p36.12	BC014010	NM_024544	RNF	Ring finger proteins	58
+23386	MYCBP2	MYC binding protein 2, E3 ubiquitin protein ligase	Approved		PAM, KIAA0916, FLJ10106	13q22.3	AB020723	NM_015057	RNF	Ring finger proteins	58
+21155	MYLIP	myosin regulatory light chain interacting protein	Approved		MIR, IDOL	6p22.3	AF187016	NM_013262	RNF	Ring finger proteins	58
+7761	NEURL1	neuralized E3 ubiquitin protein ligase 1	Approved	NEURL	h-neu, RNF67, neu-1	10q24.33	U87864		RNF	Ring finger proteins	58
+35422	NEURL1B	neuralized E3 ubiquitin protein ligase 1B	Approved		DKFZP761M1511, Neur2, RNF67B	5q35.1			RNF	Ring finger proteins	58
+25162	NEURL3	neuralized E3 ubiquitin protein ligase 3	Approved		Lincr, LOC93082, RNF132	2q11.2		NM_138397	RNF	Ring finger proteins	58
+7803	NFX1	nuclear transcription factor, X-box binding 1	Approved		NFX2, MGC20369, Tex42, TEG-42	9p12	U19759		RNF	Ring finger proteins	58
+18726	NFXL1	nuclear transcription factor, X-box binding like 1	Approved		HOZFP	4p12	AY134856	NM_152995	RNF	Ring finger proteins	58
+21576	NHLRC1	NHL repeat containing E3 ubiquitin protein ligase 1	Approved		bA204B7.2, EPM2B	6p22.3	AY324849		RNF	Ring finger proteins	58
+29897	NSMCE1	NSE1 homolog, SMC5-SMC6 complex component	Approved		NSE1	16p12.1	AF161451	NM_145080	RNF	Ring finger proteins	58
+17615	PCGF1	polycomb group ring finger 1	Approved		NSPC1, RNF68, MGC10882	2p13.1	AF087884	NM_032673	RNF	Ring finger proteins	58
+12929	PCGF2	polycomb group ring finger 2	Approved	ZNF144, RNF110	MEL-18	17q12	D13969	NM_007144	RNF	Ring finger proteins	58
+10066	PCGF3	polycomb group ring finger 3	Approved	RNF3	FLJ36550, DONG1, RNF3A, MGC40413	4p16.3	AK093869	NM_006315	RNF	Ring finger proteins	58
+28264	PCGF5	polycomb group ring finger 5	Approved	RNF159	MGC16202	10q23.32	AL832003	NM_032373	RNF	Ring finger proteins	58
+21156	PCGF6	polycomb group ring finger 6	Approved	RNF134	MBLR	10q24.33	AB047006	NM_032154	RNF	Ring finger proteins	58
+30341	PCGF7P	polycomb group ring finger 7 pseudogene	Approved	RNF134P1		19p12	AC073539	NG_003076	RNF	Ring finger proteins	58
+17704	PDZRN3	PDZ domain containing ring finger 3	Approved		KIAA1095, SEMACAP3, LNX3	3p13	AB029018	NM_015009	RNF	Ring finger proteins	58
+30552	PDZRN4	PDZ domain containing ring finger 4	Approved		DKFZp434B0417, LNX4, FLJ33777, IMAGE5767589	12q12	AK094690	NM_013377	RNF	Ring finger proteins	58
+8851	PEX10	peroxisomal biogenesis factor 10	Approved		RNF69	1p36.32	AF060502	NM_153818	RNF	Ring finger proteins	58
+9717	PEX2	peroxisomal biogenesis factor 2	Approved	PXMP3	PMP35, PAF-1, RNF72, ZWS3	8q21.13	M86852	NM_000318	RNF	Ring finger proteins	58
+24351	PHRF1	PHD and ring finger domains 1	Approved	RNF221	KIAA1542, PPP1R125	11p15.5	BC004950	NM_020901	RNF	Ring finger proteins	58
+16648	PJA1	praja ring finger ubiquitin ligase 1	Approved		FLJ11830, RNF70	Xq13.1	AK021892	NM_145119	RNF	Ring finger proteins	58
+17481	PJA2	praja ring finger ubiquitin ligase 2	Approved	RNF131	KIAA0438, Neurodap1	5q21.3	AB007898	NM_014819	RNF	Ring finger proteins	58
+9113	PML	promyelocytic leukemia	Approved		MYL, TRIM19, RNF71	15q24.1	AB208950	NM_002675	RNF	Ring finger proteins	58
+18278	RAD18	RAD18, E3 ubiquitin protein ligase	Approved		RNF73	3p25.3		NM_020165	RNF	Ring finger proteins	58
+9831	RAG1	recombination activating 1	Approved		RNF74, MGC43321	11p12	M29474	NM_000448	RNF	Ring finger proteins	58
+9863	RAPSN	receptor associated protein of the synapse	Approved		RNF205, CMS1D, CMS1E	11p11.2			RNF	Ring finger proteins	58
+9889	RBBP6	RB binding protein 6, ubiquitin ligase	Approved		P2P-R, PACT, SNAMA	16p12.1		NM_006910	RNF	Ring finger proteins	58
+15864	RBCK1	RANBP2-type and C3HC4-type zinc finger containing 1	Approved	C20orf18	RBCK2, XAP4, RNF54, ZRANB4, UBCE7IP3, HOIL1	20p13	U67322	NM_031229	RNF	Ring finger proteins	58
+9928	RBX1	ring-box 1	Approved		ROC1, RNF75, BA554C12.1	22q13.2	AF140598	NM_014248	RNF	Ring finger proteins	58
+29434	RC3H1	ring finger and CCCH-type domains 1	Approved		KIAA2025, roquin, RP5-1198E17.5, RNF198	1q25.1	AK093501	NM_172071	RNF	Ring finger proteins	58
+21461	RC3H2	ring finger and CCCH-type domains 2	Approved	MNAB	FLJ20301, FLJ20713, RNF164	9q33.2	AK000308	NM_018835	RNF	Ring finger proteins	58
+17479	RCHY1	ring finger and CHY zinc finger domain containing 1	Approved	ZNF363	CHIMP, DKFZp586C1620, PRO1996, RNF199, ARNIP, PIRH2, ZCHY	4q21.1	AF255666	NM_015436	RNF	Ring finger proteins	58
+24821	RFFL	ring finger and FYVE like domain containing E3 ubiquitin protein ligase	Approved		rififylin, fring, RNF189, RNF34L, CARP2, CARP-2	17q12	AF434816	NM_057178	RNF	Ring finger proteins	58
+9977	RFPL1	ret finger protein like 1	Approved		RNF78	22q12.2	AJ010228	NM_021026	RNF	Ring finger proteins	58
+9979	RFPL2	ret finger protein like 2	Approved		RNF79	22q12.3	AJ010231	NM_006605	RNF	Ring finger proteins	58
+9980	RFPL3	ret finger protein like 3	Approved		RNF120	22q12.3	AJ010232	NM_006604	RNF	Ring finger proteins	58
+16449	RFPL4A	ret finger protein like 4A	Approved	RFPL4	RNF210	19q13.42		XM_292796	RNF	Ring finger proteins	58
+45147	RFPL4AL1	ret finger protein like 4A like 1	Approved		RNF210B	19q13.42			RNF	Ring finger proteins	58
+33264	RFPL4B	ret finger protein like 4B	Approved		RNF211	6q21	AK122906	NM_001013734	RNF	Ring finger proteins	58
+25539	RFWD3	ring finger and WD repeat domain 3	Approved		FLJ10520, RNF201, FANCW	16q23.1	AK001382	NM_018124	RNF	Ring finger proteins	58
+10018	RING1	ring finger protein 1	Approved		RNF1	6p21.32			RNF	Ring finger proteins	58
+13429	RLIM	ring finger protein, LIM domain interacting	Approved	RNF12	NY-REN-43, MGC15161	Xq13.2	AF155109	NM_016120	RNF	Ring finger proteins	58
+10055	RNF10	ring finger protein 10	Approved		KIAA0262, RIE2	12q24.31	AB027196		RNF	Ring finger proteins	58
+12859	RNF103	ring finger protein 103	Approved	ZFP103	hkf-1, KF1	2p11.2	D76444	NM_005667	RNF	Ring finger proteins	58
+10056	RNF11	ring finger protein 11	Approved		CGI-123, Sid1669p, MGC51169	1p32.3	AB024703	NM_014372	RNF	Ring finger proteins	58
+17384	RNF111	ring finger protein 111	Approved		ARK, Arkadia, FLJ38008, DKFZP761D081	15q22.1-q22.2	AL157474	NM_017610	RNF	Ring finger proteins	58
+12968	RNF112	ring finger protein 112	Approved	ZNF179	BFP	17p11.2	AF054587	NM_007148	RNF	Ring finger proteins	58
+12974	RNF113A	ring finger protein 113A	Approved	ZNF183	RNF113, Cwc24	Xq24	X98253	NM_006978	RNF	Ring finger proteins	58
+17267	RNF113B	ring finger protein 113B	Approved	ZNF183L1	RNF161	13q32.2	AF539427	NM_178861	RNF	Ring finger proteins	58
+13094	RNF114	ring finger protein 114	Approved	ZNF313	PSORS12	20q13.13	AF265215	NM_018683	RNF	Ring finger proteins	58
+18154	RNF115	ring finger protein 115	Approved	ZNF364	CL469780	1q21.1	AF419857	NM_014455	RNF	Ring finger proteins	58
+21070	RNF121	ring finger protein 121	Approved		FLJ11099	11q13.4	AK001961	NM_018320	RNF	Ring finger proteins	58
+21147	RNF122	ring finger protein 122	Approved		FLJ12526	8p12	AK022588	NM_024787	RNF	Ring finger proteins	58
+21148	RNF123	ring finger protein 123	Approved		FLJ12565, KPC1	3p21.31	AK022627	NM_022064	RNF	Ring finger proteins	58
+21150	RNF125	ring finger protein 125	Approved		FLJ20456	18q12.1	AK000463	NM_017831	RNF	Ring finger proteins	58
+21151	RNF126	ring finger protein 126	Approved		FLJ20552	19p13.3	BC025374	NM_017876	RNF	Ring finger proteins	58
+21153	RNF128	ring finger protein 128, E3 ubiquitin protein ligase	Approved		FLJ23516, GRAIL	Xq22.3	AK027169	NM_024539	RNF	Ring finger proteins	58
+10057	RNF13	ring finger protein 13	Approved		RZF	3q25.1	AF037204	NM_183384	RNF	Ring finger proteins	58
+18280	RNF130	ring finger protein 130	Approved		GP, G1RZFP, GOLIATH	5q35.3	AF155650	NM_018434	RNF	Ring finger proteins	58
+21154	RNF133	ring finger protein 133	Approved			7q31.32	AF447589	NM_139175	RNF	Ring finger proteins	58
+21158	RNF135	ring finger protein 135	Approved		MGC13061	17q11.2	AJ496729	NM_032322	RNF	Ring finger proteins	58
+17765	RNF138	ring finger protein 138	Approved		STRIN, NARF	18q12.1	AF162680	NM_016271	RNF	Ring finger proteins	58
+17023	RNF139	ring finger protein 139	Approved		TRC8, RCA1, HRCA1	8q24.13	AF064801	NM_007218	RNF	Ring finger proteins	58
+10058	RNF14	ring finger protein 14	Approved		ARA54, HFB30, TRIAD2	5q31.3	AF060544	NM_004290	RNF	Ring finger proteins	58
+21159	RNF141	ring finger protein 141	Approved		ZFP26, ZNF230	11p15.3	AF214680	NM_016422	RNF	Ring finger proteins	58
+20457	RNF144A	ring finger protein 144A	Approved	RNF144	UBCE7IP4, KIAA0161, hUIP4	2p25.1	D79983	NM_014746	RNF	Ring finger proteins	58
+21578	RNF144B	ring finger protein 144B	Approved	IBRDC2	bA528A10.3, P53RFP	6p22.3	AK096832	XM_172581	RNF	Ring finger proteins	58
+20853	RNF145	ring finger protein 145	Approved		FLJ31951	5q33.3	BC042684	NM_144726	RNF	Ring finger proteins	58
+21336	RNF146	ring finger protein 146	Approved		DKFZp434O1427, dactylidin, dJ351K20.1	6q22.33	AK027558	NM_030963	RNF	Ring finger proteins	58
+22411	RNF148	ring finger protein 148	Approved		MGC35222	7q31.32	BC029264	NM_198085	RNF	Ring finger proteins	58
+23137	RNF149	ring finger protein 149	Approved		FLJ90504	2q11.2	AK074985	NM_173647	RNF	Ring finger proteins	58
+23138	RNF150	ring finger protein 150	Approved		KIAA1214	4q31.21	AB033040	XM_291090	RNF	Ring finger proteins	58
+23235	RNF151	ring finger protein 151	Approved			16p13.3	BC029501	NM_174903	RNF	Ring finger proteins	58
+26811	RNF152	ring finger protein 152	Approved		FLJ39176	18q21.33	AK096495	NM_173557	RNF	Ring finger proteins	58
+29402	RNF157	ring finger protein 157	Approved		KIAA1917	17q25.1	AK091467	XM_290732	RNF	Ring finger proteins	58
+31696	RNF165	ring finger protein 165	Approved		ARKL2, RNF111L2, Ark2C	18q21.1	BC012190	NM_152470	RNF	Ring finger proteins	58
+28856	RNF166	ring finger protein 166	Approved		MGC2647, MGC14381	16q24.2-q24.3	AK057106	NM_178841	RNF	Ring finger proteins	58
+24544	RNF167	ring finger protein 167	Approved		DKFZP566H073	17p13.2	AL050060	NM_015528	RNF	Ring finger proteins	58
+26661	RNF168	ring finger protein 168	Approved		FLJ35794	3q29	AK054732	NM_152617	RNF	Ring finger proteins	58
+26961	RNF169	ring finger protein 169	Approved		KIAA1991	11q13.4	AB082522	XM_495886	RNF	Ring finger proteins	58
+10060	RNF17	ring finger protein 17	Approved	TDRD4	Mmip-2, SPATA23, FLJ11045	13q12.12	AF285602, AK001907	NM_031994	RNF	Ring finger proteins	58
+25358	RNF170	ring finger protein 170	Approved	SNAX1	DKFZP564A022, ADSA	8p11.21	AL136620	NM_030954	RNF	Ring finger proteins	58
+27735	RNF175	ring finger protein 175	Approved		FLJ34190	4q31.3	BC034385	NM_173662	RNF	Ring finger proteins	58
+27752	RNF180	ring finger protein 180	Approved			5q12.3	AK090756	NM_178532	RNF	Ring finger proteins	58
+28037	RNF181	ring finger protein 181	Approved		HSPC238	2p11.2	AF151072	NM_016494	RNF	Ring finger proteins	58
+28522	RNF182	ring finger protein 182	Approved		MGC33993	6p23	AK090576	NM_152737	RNF	Ring finger proteins	58
+28721	RNF183	ring finger protein 183	Approved		MGC4734	9q32		NM_145051	RNF	Ring finger proteins	58
+26783	RNF185	ring finger protein 185	Approved		FLJ38628	22q12.2		NM_152267	RNF	Ring finger proteins	58
+25978	RNF186	ring finger protein 186	Approved		FLJ20225	1p36.13		NM_019062	RNF	Ring finger proteins	58
+27146	RNF187	ring finger protein 187	Approved		RACO1, RACO-1	1q42.13	BC008022	NM_001010858	RNF	Ring finger proteins	58
+13432	RNF19A	ring finger protein 19A, RBR E3 ubiquitin protein ligase	Approved	RNF19	dorfin, DKFZp566B1346	8q22.2	AB029316	NM_015435	RNF	Ring finger proteins	58
+26886	RNF19B	ring finger protein 19B	Approved	IBRDC3	FLJ90005	1p35.1	AK074486	NM_153341	RNF	Ring finger proteins	58
+10061	RNF2	ring finger protein 2	Approved		BAP-1, BAP1, DING, HIPI3, RING1B, RING2	1q25.3	BC012583, Y10571	NM_007212	RNF	Ring finger proteins	58
+10062	RNF20	ring finger protein 20	Approved		FLJ20382, FLJ11189, KAIA2779, BRE1A, hBRE1, BRE1	9q31.1	AF265230	NM_019592	RNF	Ring finger proteins	58
+32947	RNF207	ring finger protein 207	Approved	C1orf188	FLJ46380, FLJ32096	1p36.31	AK128246	NM_207396	RNF	Ring finger proteins	58
+25420	RNF208	ring finger protein 208	Approved		DKFZP761H1710	9q34.3	AF416715	NM_031297	RNF	Ring finger proteins	58
+27729	RNF212	ring finger protein 212	Approved	LOC285498	FLJ38841	4p16.3	AK096160	NM_194439	RNF	Ring finger proteins	58
+20438	RNF212B	ring finger protein 212B	Approved	C14orf164		14q11.2			RNF	Ring finger proteins	58
+14539	RNF213	ring finger protein 213	Approved	C17orf27, KIAA1618, MYMY2	KIAA1554, NET57, ALO17	17q25.3	AK074030	NM_020914	RNF	Ring finger proteins	58
+25335	RNF214	ring finger protein 214	Approved		DKFZp547C195	11q23.3	AL834448	NM_001077239	RNF	Ring finger proteins	58
+33434	RNF215	ring finger protein 215	Approved			22q12.2		NM_001017981	RNF	Ring finger proteins	58
+21698	RNF216	ring finger protein 216	Approved		TRIAD3, UBCE7IP1, ZIN	7p22.1	AY062174	NM_207111	RNF	Ring finger proteins	58
+21487	RNF217	ring finger protein 217	Approved	C6orf172, IBRDC1	MGC26996, dJ84N20.1	6q22.31	BC026087	NM_152553	RNF	Ring finger proteins	58
+20308	RNF219	ring finger protein 219	Approved	C13orf7	FLJ13449	13q31.1	BC028586	NM_024546	RNF	Ring finger proteins	58
+25552	RNF220	ring finger protein 220	Approved	C1orf164	FLJ10597	1p34.1	AK056424	NM_018150	RNF	Ring finger proteins	58
+34517	RNF222	ring finger protein 222	Approved			17p13.1		NM_001146684.2	RNF	Ring finger proteins	58
+40020	RNF223	ring finger protein 223	Approved			1p36.33		NM_001205252	RNF	Ring finger proteins	58
+41912	RNF224	ring finger protein 224	Approved			9q34.3	BX255925	NM_001190228	RNF	Ring finger proteins	58
+51249	RNF225	ring finger protein 225	Approved			19q13.43			RNF	Ring finger proteins	58
+13779	RNF24	ring finger protein 24	Approved		G1L	20p13	AF151081		RNF	Ring finger proteins	58
+14662	RNF25	ring finger protein 25	Approved		AO7, FLJ13906	2q35		NM_022453	RNF	Ring finger proteins	58
+14646	RNF26	ring finger protein 26	Approved		MGC2642	11q23	AB055622	NM_032015	RNF	Ring finger proteins	58
+16031	RNF31	ring finger protein 31	Approved		ZIBRA, FLJ10111, FLJ23501, HOIP, Paul	14q12	AK000973	NM_017999	RNF	Ring finger proteins	58
+17118	RNF32	ring finger protein 32	Approved		FKSG33, HSD15, LMBR2	7q36.3		NM_030936	RNF	Ring finger proteins	58
+17297	RNF34	ring finger protein 34	Approved		RIFF, FLJ21786, RIF	12q24.31	AF306709, AB084914	NM_194271	RNF	Ring finger proteins	58
+18052	RNF38	ring finger protein 38	Approved			9p13.2		NM_022781	RNF	Ring finger proteins	58
+18064	RNF39	ring finger protein 39	Approved		HZFw1, LIRF	6p22.1	AF238315	NM_170769	RNF	Ring finger proteins	58
+10067	RNF4	ring finger protein 4	Approved		RES4-26, SNURF, SLX5	4p16.3	U95140	NM_002938	RNF	Ring finger proteins	58
+16867	RNF40	ring finger protein 40	Approved		KIAA0661, RBP95, BRE1B, STARING	16p11.2	AB014561	NM_014771	RNF	Ring finger proteins	58
+18401	RNF41	ring finger protein 41	Approved		SBBI03, NRDP1	12q13.3	AF077599	NM_005785	RNF	Ring finger proteins	58
+18505	RNF43	ring finger protein 43	Approved		FLJ20315, DKFZp781H0392, URCC	17q23.2		NM_017763	RNF	Ring finger proteins	58
+19180	RNF44	ring finger protein 44	Approved		KIAA1100	5q35.2	AB029023		RNF	Ring finger proteins	58
+10068	RNF5	ring finger protein 5	Approved		NG2, G16, RING5, RMA1	6p21.32	U89336	NM_006913	RNF	Ring finger proteins	58
+10069	RNF6	ring finger protein 6	Approved		DKFZp686P0776	13q12.13	AJ010346	NM_005977	RNF	Ring finger proteins	58
+10070	RNF7	ring finger protein 7	Approved		SAG, ROC2, CKBBP1	3q23	AF092878	NM_014245	RNF	Ring finger proteins	58
+10071	RNF8	ring finger protein 8	Approved		KIAA0646	6p21.2	AB012770		RNF	Ring finger proteins	58
+30206	RNFT1	ring finger protein, transmembrane 1	Approved		PTD016	17q23.1	BC006971	NM_016125	RNF	Ring finger proteins	58
+25905	RNFT2	ring finger protein, transmembrane 2	Approved	TMEM118	FLJ14627	12q24.22	AK027533	NM_032814	RNF	Ring finger proteins	58
+29420	RSPRY1	ring finger and SPRY domain containing 1	Approved		KIAA1972	16q13	AB075852	NM_133368	RNF	Ring finger proteins	58
+10784	SCAF11	SR-related CTD associated factor 11	Approved	SFRS2IP, SRSF2IP	SIP1, SRRP129, CASP11	12q12	Y11251	NM_004719	RNF	Ring finger proteins	58
+17650	SH3RF1	SH3 domain containing ring finger 1	Approved	SH3MD2	POSH, RNF142, KIAA1494	4q32.3-q33	BC033203	NM_020870	RNF	Ring finger proteins	58
+26299	SH3RF2	SH3 domain containing ring finger 2	Approved	PPP1R39	FLJ23654, RNF158, Hepp1, POSHER	5q32	AL833297	NM_152550	RNF	Ring finger proteins	58
+24699	SH3RF3	SH3 domain containing ring finger 3	Approved	SH3MD4	FLJ00204, POSH2	2q13	AK074131	NM_001099289	RNF	Ring finger proteins	58
+19336	SHPRH	SNF2 histone linker PHD RING helicase	Approved		FLJ90837, KIAA2023, bA545I5.2	6q24.3	AB095943	NM_173082	RNF	Ring finger proteins	58
+10857	SIAH1	siah E3 ubiquitin protein ligase 1	Approved		hSIAH1	16q12.1	U76247		RNF	Ring finger proteins	58
+10858	SIAH2	siah E3 ubiquitin protein ligase 2	Approved			3q25.1	U76248	NM_005067	RNF	Ring finger proteins	58
+20738	SYVN1	synoviolin 1	Approved		HRD1, DER3	11q13.1	AB085847	NM_032431	RNF	Ring finger proteins	58
+21653	TOPORS	TOP1 binding arginine/serine rich protein	Approved	RP31	TP53BPL, LUN	9p21.1	AF098300	NM_005802	RNF	Ring finger proteins	58
+12032	TRAF2	TNF receptor associated factor 2	Approved		TRAP3, RNF117	9q34.3	U12597	NM_021138	RNF	Ring finger proteins	58
+12033	TRAF3	TNF receptor associated factor 3	Approved		CAP-1, CD40bp, CRAF1, LAP1, RNF118	14q32.32	U21092	NM_145725	RNF	Ring finger proteins	58
+12034	TRAF4	TNF receptor associated factor 4	Approved		CART1, MLN62, RNF83	17q11.2	X80200	NM_145751	RNF	Ring finger proteins	58
+12035	TRAF5	TNF receptor associated factor 5	Approved		RNF84	1q32.3	AB000509	NM_004619	RNF	Ring finger proteins	58
+12036	TRAF6	TNF receptor associated factor 6	Approved		RNF85	11p12		NM_145803	RNF	Ring finger proteins	58
+20456	TRAF7	TNF receptor associated factor 7	Approved	RFWD1	RNF119, DKFZp586I021, MGC7807	16p13.3	AL136921	NM_032271	RNF	Ring finger proteins	58
+30764	TRAIP	TRAF interacting protein	Approved		TRIP, RNF206	3p21.31	BC019283	NM_005879	RNF	Ring finger proteins	58
+10072	TRIM10	tripartite motif containing 10	Approved	RNF9	RFB30, HERF1	6p22.1	Y07829		RNF	Ring finger proteins	58
+16281	TRIM11	tripartite motif containing 11	Approved		RNF92, BIA1	1q42.13	AF220125	NM_145214	RNF	Ring finger proteins	58
+9976	TRIM13	tripartite motif containing 13	Approved	RFP2	Leu5, RNF77, DLEU5	13q14.2	AF220127	NM_001007278	RNF	Ring finger proteins	58
+16284	TRIM15	tripartite motif containing 15	Approved	ZNF178	ZNFB7, RNF93	6p22.1	AF220132, U34249	NM_033229	RNF	Ring finger proteins	58
+13430	TRIM17	tripartite motif containing 17	Approved	RNF16	terf, RBCC	1q42.13	AF156271	NM_016102	RNF	Ring finger proteins	58
+15974	TRIM2	tripartite motif containing 2	Approved		KIAA0517, RNF86, CMT2R	4q31.3	AF220018		RNF	Ring finger proteins	58
+11312	TRIM21	tripartite motif containing 21	Approved	SSA1	RNF81, RO52	11p15.5-p15.3	AF391283	NM_003141	RNF	Ring finger proteins	58
+16379	TRIM22	tripartite motif containing 22	Approved		STAF50, GPSTAF50, RNF94	11p15.4	X82200	NM_006074	RNF	Ring finger proteins	58
+660	TRIM23	tripartite motif containing 23	Approved	ARFD1	ARD1, RNF46	5q12.3	L04510	NM_001656	RNF	Ring finger proteins	58
+11812	TRIM24	tripartite motif containing 24	Approved	TIF1	hTIF1, Tif1a, RNF82, TIF1A	7q33-q34	AF009353	NM_015905	RNF	Ring finger proteins	58
+12932	TRIM25	tripartite motif containing 25	Approved	ZNF147	EFP, RNF147	17q23.1	D21205	NM_005082	RNF	Ring finger proteins	58
+12962	TRIM26	tripartite motif containing 26	Approved	ZNF173	RNF95	6p22.1	AB088090	NM_003449	RNF	Ring finger proteins	58
+9975	TRIM27	tripartite motif containing 27	Approved	RFP	RNF76	6p22.1	Z58939	NM_030950	RNF	Ring finger proteins	58
+16384	TRIM28	tripartite motif containing 28	Approved		TIF1B, KAP1, TF1B, RNF96, PPP1R157	19q13.4		NM_005762	RNF	Ring finger proteins	58
+10064	TRIM3	tripartite motif containing 3	Approved	RNF22	HAC1, BERP, RNF97	11p15.4	AF045239	NM_006458	RNF	Ring finger proteins	58
+16289	TRIM31	tripartite motif containing 31	Approved		RNF, HCGI, C6orf13, HCG1	6p22.1	AF230386		RNF	Ring finger proteins	58
+16380	TRIM32	tripartite motif containing 32	Approved	LGMD2H	HT2A, TATIP, BBS11	9q33.1	U18543	NM_012210	RNF	Ring finger proteins	58
+16290	TRIM33	tripartite motif containing 33	Approved		TIF1GAMMA, FLJ11429, KIAA1113, TIFGAMMA, RFG7, TF1G, TIF1G, PTC7	1p13.2	AF220136	NM_015906	RNF	Ring finger proteins	58
+10063	TRIM34	tripartite motif containing 34	Approved	RNF21		11p15.4	AB039902	NM_001003827	RNF	Ring finger proteins	58
+16285	TRIM35	tripartite motif containing 35	Approved		KIAA1098, MAIR, HLS5	8p21.2	AB029021	NM_171982	RNF	Ring finger proteins	58
+16280	TRIM36	tripartite motif containing 36	Approved		RBCC728, RNF98, HAPRIN	5q22.3	AJ272269	NM_018700	RNF	Ring finger proteins	58
+7523	TRIM37	tripartite motif containing 37	Approved	MUL	KIAA0898, POB1, TEF3	17q22	AB020705	NM_015294	RNF	Ring finger proteins	58
+10059	TRIM38	tripartite motif containing 38	Approved	RNF15	RORET	6p22.2	U90547		RNF	Ring finger proteins	58
+10065	TRIM39	tripartite motif containing 39	Approved	RNF23		6p22.1	BC034985	NM_172016	RNF	Ring finger proteins	58
+16275	TRIM4	tripartite motif containing 4	Approved		RNF87	7q22.1	AF220023	NM_033017	RNF	Ring finger proteins	58
+18736	TRIM40	tripartite motif containing 40	Approved		RNF35	6p22.1	AF489517		RNF	Ring finger proteins	58
+19013	TRIM41	tripartite motif containing 41	Approved		MGC1127, RINCK	5q35.3	AF258579	NM_201627	RNF	Ring finger proteins	58
+19014	TRIM42	tripartite motif containing 42	Approved		FLJ40097, PPP1R40, T4A1	3q23	AF521868	NM_152616	RNF	Ring finger proteins	58
+19015	TRIM43	tripartite motif containing 43	Approved		TRIM43A	2q11.1	BK000505	NM_138800	RNF	Ring finger proteins	58
+37146	TRIM43B	tripartite motif containing 43B	Approved			2q11.1			RNF	Ring finger proteins	58
+19016	TRIM44	tripartite motif containing 44	Approved		DIPB, MC7	11p13	BC024031	NM_017583	RNF	Ring finger proteins	58
+19018	TRIM45	tripartite motif containing 45	Approved		FLJ13181, RNF99	1p13.1		NM_025188	RNF	Ring finger proteins	58
+19019	TRIM46	tripartite motif containing 46	Approved		FLJ23229, TRIFIC	1q22		NM_025058	RNF	Ring finger proteins	58
+19020	TRIM47	tripartite motif containing 47	Approved		GOA, RNF100	17q25	AY026763		RNF	Ring finger proteins	58
+19021	TRIM48	tripartite motif containing 48	Approved		RNF101	11q11	AF521869		RNF	Ring finger proteins	58
+13431	TRIM49	tripartite motif containing 49	Approved	RNF18	TRIM49A	11p11.12-q12	AB037682	NM_020358	RNF	Ring finger proteins	58
+42955	TRIM49B	tripartite motif containing 49B	Approved			11p11.12			RNF	Ring finger proteins	58
+38877	TRIM49C	tripartite motif containing 49C	Approved	TRIM49L2		11q14.3	BC126470	NM_001195234	RNF	Ring finger proteins	58
+43973	TRIM49D1	tripartite motif containing 49D1	Approved	TRIM49DP, TRIM49D1P	TRIM49D	11q14.3		NM_001206627	RNF	Ring finger proteins	58
+37217	TRIM49D2	tripartite motif containing 49D2	Approved	TRIM49L, TRIM49L1, TRIM49D2P		11q14.3		NM_001105522	RNF	Ring finger proteins	58
+16276	TRIM5	tripartite motif containing 5	Approved		RNF88, TRIM5alpha	11p15.4	AF220025	NM_033034	RNF	Ring finger proteins	58
+19017	TRIM50	tripartite motif containing 50	Approved	TRIM50A	FLJ32804	7q11.23	AY081948	NM_178125	RNF	Ring finger proteins	58
+19023	TRIM51	tripartite motif-containing 51	Approved	SPRYD5	TRIM51A	11q12.1	BC005014	NM_032681	RNF	Ring finger proteins	58
+19024	TRIM52	tripartite motif containing 52	Approved		RNF102	5q35.3		NM_032765	RNF	Ring finger proteins	58
+16008	TRIM54	tripartite motif containing 54	Approved	RNF30	MURF, MURF-3	2p23.3	AJ291714	NM_187841	RNF	Ring finger proteins	58
+14215	TRIM55	tripartite motif containing 55	Approved	RNF29	MURF-2	8q13.1	AJ291712	NM_184085	RNF	Ring finger proteins	58
+19028	TRIM56	tripartite motif containing 56	Approved		RNF109	7q22.1	BK000511	NM_030961	RNF	Ring finger proteins	58
+24150	TRIM58	tripartite motif containing 58	Approved		BIA2	1q44	AF327057	NM_015431	RNF	Ring finger proteins	58
+30834	TRIM59	tripartite motif containing 59	Approved	TRIM57	TSBF1, Mrf1, RNF104	3q25.33	AY159379	NM_173084	RNF	Ring finger proteins	58
+16277	TRIM6	tripartite motif containing 6	Approved		RNF89	11p15.4	AF220030	NM_001003818	RNF	Ring finger proteins	58
+21162	TRIM60	tripartite motif containing 60	Approved	RNF129, RNF33	FLJ35882	4q32.3	AK093201	NM_152620	RNF	Ring finger proteins	58
+24339	TRIM61	tripartite motif containing 61	Approved	RNF35		4q32.3		XM_373038	RNF	Ring finger proteins	58
+25574	TRIM62	tripartite motif containing 62	Approved		FLJ10759, DEAR1	1p35.1	BC007999	NM_018207	RNF	Ring finger proteins	58
+16007	TRIM63	tripartite motif containing 63	Approved	RNF28	MURF-1, IRF, SMRZ	1p36.11	AF353673	NM_032588	RNF	Ring finger proteins	58
+14663	TRIM64	tripartite motif containing 64	Approved	C11orf28	TRIM64A	11q14.3	AP001769	XM_061890	RNF	Ring finger proteins	58
+37147	TRIM64B	tripartite motif containing 64B	Approved			11q14.3			RNF	Ring finger proteins	58
+37148	TRIM64C	tripartite motif containing 64C	Approved			11p11.12			RNF	Ring finger proteins	58
+27316	TRIM65	tripartite motif containing 65	Approved			17q25.1	BC006138	NM_173547	RNF	Ring finger proteins	58
+31859	TRIM67	tripartite motif containing 67	Approved		TNL	1q42.2	AK126782	NM_001004342	RNF	Ring finger proteins	58
+21161	TRIM68	tripartite motif containing 68	Approved	RNF137	SS-56, FLJ10369	11p15.4	AF360739	NM_018073	RNF	Ring finger proteins	58
+17857	TRIM69	tripartite motif containing 69	Approved	RNF36	Trif, TRIMLESS	15q15-q21	AF302088		RNF	Ring finger proteins	58
+16278	TRIM7	tripartite motif containing 7	Approved		RNF90, GNIP	5q35.3	AF220032	NM_203296	RNF	Ring finger proteins	58
+32669	TRIM71	tripartite motif containing 71	Approved		LIN41, LIN-41	3p22.3		NM_001039111	RNF	Ring finger proteins	58
+32671	TRIM72	tripartite motif containing 72	Approved		MG53	16p11.2	AK090695	NM_001008274	RNF	Ring finger proteins	58
+18162	TRIM73	tripartite motif containing 73	Approved	TRIM50B		7q11.23	AF498998		RNF	Ring finger proteins	58
+17453	TRIM74	tripartite motif containing 74	Approved	TRIM50C	MGC45440	7q11.23	AF498999	NM_198853	RNF	Ring finger proteins	58
+32686	TRIM75P	tripartite motif containing 75, pseudogene	Approved	TRIM75		4q32.3		NG_016722	RNF	Ring finger proteins	58
+34228	TRIM77	tripartite motif containing 77	Approved	TRIM77P		11q14.3		NM_001146162	RNF	Ring finger proteins	58
+15579	TRIM8	tripartite motif containing 8	Approved	RNF27	GERP	10q24.32	AF281046	NM_030912	RNF	Ring finger proteins	58
+16288	TRIM9	tripartite motif containing 9	Approved		SPRING, RNF91	14q22.1	AF220036	NM_015163	RNF	Ring finger proteins	58
+26698	TRIML1	tripartite motif family like 1	Approved		FLJ36180, RNF209	4q35.2	AK093499	NM_178556	RNF	Ring finger proteins	58
+12393	TTC3	tetratricopeptide repeat domain 3	Approved		TPRD, TPRDI, DCRR1, TPRDII, TPRDIII, RNF105	21q22.13	D84296		RNF	Ring finger proteins	58
+17777	UBOX5	U-box domain containing 5	Approved		UIP5, KIAA0860, Ubce7ip5, RNF37	20p13	AB020667	NM_014948	RNF	Ring finger proteins	58
+12556	UHRF1	ubiquitin like with PHD and ring finger domains 1	Approved		ICBP90, Np95, FLJ21925, RNF106, TDRD22	19p13.3	AF129507	NM_001048201	RNF	Ring finger proteins	58
+12557	UHRF2	ubiquitin like with PHD and ring finger domains 2	Approved		RNF107, NIRF, URF2, MGC33463, TDRD23	9p24.1	AF274049	NM_152306	RNF	Ring finger proteins	58
+14184	UNKL	unkempt family like zinc finger	Approved	C16orf28	ZC3HDC5L, ZC3H5L, FLJ23360	16p13.3	BC011924	NM_001037125	RNF	Ring finger proteins	58
+14583	VPS11	VPS11, CORVET/HOPS core subunit	Approved		RNF108, PEP5	11q23.3	AB027508	NM_021729	RNF	Ring finger proteins	58
+12713	VPS41	VPS41, HOPS complex subunit	Approved		HVSP41	7p14.1	U87309		RNF	Ring finger proteins	58
+29122	VPS8	VPS8, CORVET complex subunit	Approved	KIAA0804	FLJ32099	3q27.2	AK056661	NM_015303	RNF	Ring finger proteins	58
+592	XIAP	X-linked inhibitor of apoptosis	Approved	API3, BIRC4	hILP	Xq25	U45880	NM_001167	RNF	Ring finger proteins	58
+26371	CBLL2	Cbl proto-oncogene like 2	Approved	ZNF645	FLJ25735, HAKAIL, CT138	Xp22.11	AK098601	NM_152577	RNF	Ring finger proteins	58
+18452	ZNRF1	zinc and ring finger 1	Approved		nin283, FLJ14846, DKFZp434E229	16q23.1	AF378524		RNF	Ring finger proteins	58
+22316	ZNRF2	zinc and ring finger 2	Approved		RNF202	7p14.3	AF513707	NM_147128	RNF	Ring finger proteins	58
+18126	ZNRF3	zinc and ring finger 3	Approved		KIAA1133, BK747E2.3, FLJ22057, RNF203	22q12.1	AB051436	XM_290972	RNF	Ring finger proteins	58
+17726	ZNRF4	zinc and ring finger 4	Approved		spzn, Ssrzf1, RNF204	19p13.3	AK098722	NM_181710	RNF	Ring finger proteins	58
+30990	ZSWIM2	zinc finger SWIM-type containing 2	Approved		MGC33890, ZZZ2, MEX	2q32.1	AK128006	NM_182521	RNF	Ring finger proteins	58
+27571	RNF227	ring finger protein 227	Approved	LINC02581		17p13.1		NM_001358699	RNF	Ring finger proteins	58

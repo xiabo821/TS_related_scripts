@@ -1,0 +1,329 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+5297	HTR3A	5-hydroxytryptamine receptor 3A	Approved	HTR3	5-HT3R, 5-HT3A	11q23.2	D49394	NM_000869		5-hydroxytryptamine receptors, ionotropic 	172
+5298	HTR3B	5-hydroxytryptamine receptor 3B	Approved		5-HT3B	11q23.2	AF080582	NM_006028		5-hydroxytryptamine receptors, ionotropic 	172
+24003	HTR3C	5-hydroxytryptamine receptor 3C	Approved			3q27.1	AF459285	NM_130770		5-hydroxytryptamine receptors, ionotropic 	172
+24004	HTR3D	5-hydroxytryptamine receptor 3D	Approved			3q27.1	AY159812	NM_182537		5-hydroxytryptamine receptors, ionotropic 	172
+24005	HTR3E	5-hydroxytryptamine receptor 3E	Approved			3q27.1	AY159813	NM_182589		5-hydroxytryptamine receptors, ionotropic 	172
+100	ASIC1	acid sensing ion channel subunit 1	Approved	ACCN2	BNaC2, hBNaC2	12q13.12	U78181	NM_020039	ASIC	Acid sensing ion channel subunits	290
+99	ASIC2	acid sensing ion channel subunit 2	Approved	ACCN, ACCN1	ASIC2a, BNC1, BNaC1, hBNaC1, MDEG	17q11.2-q12	AL834182	NM_183377, NM_001094	ASIC	Acid sensing ion channel subunits	290
+101	ASIC3	acid sensing ion channel subunit 3	Approved	ACCN3	TNaC1, DRASIC	7q36.1	AB010575	NM_004769	ASIC	Acid sensing ion channel subunits	290
+21263	ASIC4	acid sensing ion channel subunit family member 4	Approved	ACCN4	BNAC4	2q35	AJ271643	NM_018674	ASIC	Acid sensing ion channel subunits	290
+17537	ASIC5	acid sensing ion channel subunit family member 5	Approved	ACCN5	INAC, HINAC	4q32.1	AJ252011		ASIC	Acid sensing ion channel subunits	290
+21625	ANO1	anoctamin 1	Approved	ORAOV2, TMEM16A	TAOS2, FLJ10261, DOG1	11q13.3	BC033036	NM_018043	ANO	Anoctamins	865
+25519	ANO10	anoctamin 10	Approved	TMEM16K	FLJ10375, MGC47890, SCAR10	3p22.1-p21.33	AL832508	NM_018075	ANO	Anoctamins	865
+1183	ANO2	anoctamin 2	Approved	C12orf3, TMEM16B		12p13.31	AJ272204	NM_020373	ANO	Anoctamins	865
+14004	ANO3	anoctamin 3	Approved	C11orf25, TMEM16C	GENX-3947, DYT23	11p14.2	AJ300461	NM_031418	ANO	Anoctamins	865
+23837	ANO4	anoctamin 4	Approved	TMEM16D	FLJ34221, FLJ34272, FLJ35277	12q23.1	AK091540	NM_178826	ANO	Anoctamins	865
+27337	ANO5	anoctamin 5	Approved	TMEM16E, LGMD2L	GDD1	11p14.3	AL833271	NM_213599	ANO	Anoctamins	865
+25240	ANO6	anoctamin 6	Approved	TMEM16F	DKFZp313M0720	12q12	AL832340	NM_001025356	ANO	Anoctamins	865
+31677	ANO7	anoctamin 7	Approved	PCANAP5, TMEM16G	NGEP, PCANAP5L, IPCA-5	2q37.3	AY617079	NM_001001891	ANO	Anoctamins	865
+29329	ANO8	anoctamin 8	Approved	KIAA1623, TMEM16H		19p13.11	AB046843	NM_020959	ANO	Anoctamins	865
+20679	ANO9	anoctamin 9	Approved	TP53I5, TMEM16J	PIG5	11p15.5	U33271	NM_001012302	ANO	Anoctamins	865
+7103	MIP	major intrinsic protein of lens fiber	Approved		MP26, LIM1, AQP0	12q13		NM_012064	AQP	Aquaporins	305
+633	AQP1	aquaporin 1 (Colton blood group)	Approved	CO	CHIP28	7p14.3	M77829	NM_000385	AQP	Aquaporins	305
+16029	AQP10	aquaporin 10	Approved			1q21.3	AF159174	NM_080429	AQP	Aquaporins	305
+19940	AQP11	aquaporin 11	Approved			11q14.1	AB028147	NM_173039	AQP	Aquaporins	305
+19941	AQP12A	aquaporin 12A	Approved	AQP12		2q37.3	AB040748	NM_198998	AQP	Aquaporins	305
+6096	AQP12B	aquaporin 12B	Approved	INSSA3		2q37.3	BC041460		AQP	Aquaporins	305
+634	AQP2	aquaporin 2	Approved			12q13.12		NM_000486	AQP	Aquaporins	305
+636	AQP3	aquaporin 3 (Gill blood group)	Approved		GIL	9p13.3		NM_004925	AQP	Aquaporins	305
+637	AQP4	aquaporin 4	Approved		MIWC	18q11.2	U63622	NM_001650, NM_004028	AQP	Aquaporins	305
+638	AQP5	aquaporin 5	Approved			12q13.12	U46569	NM_001651	AQP	Aquaporins	305
+639	AQP6	aquaporin 6	Approved	AQP2L		12q13.12	AL137716	NM_001652, NM_053286	AQP	Aquaporins	305
+640	AQP7	aquaporin 7	Approved	AQP7L	AQP9, AQPap	9p13.3	AB006190	NM_001170	AQP	Aquaporins	305
+642	AQP8	aquaporin 8	Approved			16p12.1	BC040630	NM_001169	AQP	Aquaporins	305
+643	AQP9	aquaporin 9	Approved		SSC1, HsT17287	15q21.3	AF016495	NM_020980	AQP	Aquaporins	305
+12703	BEST1	bestrophin 1	Approved	VMD2	BMD, BEST, RP50	11q12.3	AF057170	NM_004183	BEST	Bestrophins	866
+17107	BEST2	bestrophin 2	Approved	VMD2L1	FLJ20132	19p13.13	AF440756	NM_017682	BEST	Bestrophins	866
+17105	BEST3	bestrophin 3	Approved	VMD2L3	MGC40411, MGC13168	12q15	AF440758	NM_152439	BEST	Bestrophins	866
+17106	BEST4	bestrophin 4	Approved	VMD2L2		1p34.1	AF440757	NM_153274	BEST	Bestrophins	866
+1405	CACNG1	calcium voltage-gated channel auxiliary subunit gamma 1	Approved	CACNLG		17q24.2	L07738		CACNG	Calcium channel auxiliary gamma subunits	1511
+1406	CACNG2	calcium voltage-gated channel auxiliary subunit gamma 2	Approved		stargazin, MGC138502, MGC138504	22q12.3	AF096322		CACNG	Calcium channel auxiliary gamma subunits	1511
+1407	CACNG3	calcium voltage-gated channel auxiliary subunit gamma 3	Approved			16p12.1	AF131911	NM_006539	CACNG	Calcium channel auxiliary gamma subunits	1511
+1408	CACNG4	calcium voltage-gated channel auxiliary subunit gamma 4	Approved		MGC11138, MGC24983	17q24.2	AH008289	NM_014405	CACNG	Calcium channel auxiliary gamma subunits	1511
+1409	CACNG5	calcium voltage-gated channel auxiliary subunit gamma 5	Approved			17q24.2	AF148220	NM_014404, NM_145811	CACNG	Calcium channel auxiliary gamma subunits	1511
+13625	CACNG6	calcium voltage-gated channel auxiliary subunit gamma 6	Approved			19q13.42	AF288386		CACNG	Calcium channel auxiliary gamma subunits	1511
+13626	CACNG7	calcium voltage-gated channel auxiliary subunit gamma 7	Approved			19q13.42	AF288387		CACNG	Calcium channel auxiliary gamma subunits	1511
+13628	CACNG8	calcium voltage-gated channel auxiliary subunit gamma 8	Approved			19q13.42	AF288388		CACNG	Calcium channel auxiliary gamma subunits	1511
+1388	CACNA1A	calcium voltage-gated channel subunit alpha1 A	Approved	CACNL1A4, SCA6, MHP1, MHP	Cav2.1, EA2, APCA, HPCA, FHM	19p13.13	U79666	NM_000068	CACNA1	Calcium voltage-gated channel alpha1 subunits	1512
+1389	CACNA1B	calcium voltage-gated channel subunit alpha1 B	Approved	CACNL1A5	Cav2.2, CACNN	9q34.3	AB209467	NM_000718	CACNA1	Calcium voltage-gated channel alpha1 subunits	1512
+1390	CACNA1C	calcium voltage-gated channel subunit alpha1 C	Approved	CCHL1A1, CACNL1A1	Cav1.2, CACH2, CACN2, TS, LQT8	12p13.33	AF070589	NM_000719	CACNA1	Calcium voltage-gated channel alpha1 subunits	1512
+1391	CACNA1D	calcium voltage-gated channel subunit alpha1 D	Approved	CCHL1A2, CACNL1A2	Cav1.3, CACH3, CACN4	3p21.1	AB209171	NM_000720	CACNA1	Calcium voltage-gated channel alpha1 subunits	1512
+1392	CACNA1E	calcium voltage-gated channel subunit alpha1 E	Approved	CACNL1A6	Cav2.3, BII, CACH6	1q25.3	AK096563	NM_000721	CACNA1	Calcium voltage-gated channel alpha1 subunits	1512
+1393	CACNA1F	calcium voltage-gated channel subunit alpha1 F	Approved	CSNB2, AIED	Cav1.4, JM8, JMC8, CSNBX2, CORDX3, CSNB2A, OA2	Xp11.23	AA019975	NM_005183	CACNA1	Calcium voltage-gated channel alpha1 subunits	1512
+1394	CACNA1G	calcium voltage-gated channel subunit alpha1 G	Approved		Cav3.1, NBR13	17q21.33	AC004590	NM_018896	CACNA1	Calcium voltage-gated channel alpha1 subunits	1512
+1395	CACNA1H	calcium voltage-gated channel subunit alpha1 H	Approved		Cav3.2	16p13.3	AL031703	NM_001005407	CACNA1	Calcium voltage-gated channel alpha1 subunits	1512
+1396	CACNA1I	calcium voltage-gated channel subunit alpha1 I	Approved		Cav3.3	22q13.1	AF129133	NM_001003406	CACNA1	Calcium voltage-gated channel alpha1 subunits	1512
+1397	CACNA1S	calcium voltage-gated channel subunit alpha1 S	Approved	HOKPP, MHS5, CACNL1A3	Cav1.1, hypoPP	1q32.1	L33798	NM_000069	CACNA1	Calcium voltage-gated channel alpha1 subunits	1512
+1399	CACNA2D1	calcium voltage-gated channel auxiliary subunit alpha2delta 1	Approved	CACNL2A, CACNA2, MHS3, LINC01112	lncRNA-N3	7q21.11	M76559		CACNA2D	Calcium voltage-gated channel auxiliary alpha2delta subunits	1514
+1400	CACNA2D2	calcium voltage-gated channel auxiliary subunit alpha2delta 2	Approved		KIAA0558	3p21.31	AF040709	NM_006030	CACNA2D	Calcium voltage-gated channel auxiliary alpha2delta subunits	1514
+15460	CACNA2D3	calcium voltage-gated channel auxiliary subunit alpha2delta 3	Approved		HSA272268	3p21.1-p14.3	AJ272268		CACNA2D	Calcium voltage-gated channel auxiliary alpha2delta subunits	1514
+20202	CACNA2D4	calcium voltage-gated channel auxiliary subunit alpha2delta 4	Approved			12p13.33	AF516695		CACNA2D	Calcium voltage-gated channel auxiliary alpha2delta subunits	1514
+1401	CACNB1	calcium voltage-gated channel auxiliary subunit beta 1	Approved	CACNLB1		17q12			CACNB	Calcium voltage-gated channel auxiliary beta subunits	1515
+1402	CACNB2	calcium voltage-gated channel auxiliary subunit beta 2	Approved	MYSB, CACNLB2		10p12	U95019	NM_000724	CACNB	Calcium voltage-gated channel auxiliary beta subunits	1515
+1403	CACNB3	calcium voltage-gated channel auxiliary subunit beta 3	Approved	CACNLB3		12q13.12			CACNB	Calcium voltage-gated channel auxiliary beta subunits	1515
+1404	CACNB4	calcium voltage-gated channel auxiliary subunit beta 4	Approved		EJM4	2q23.3	AF038852	NM_000726.3	CACNB	Calcium voltage-gated channel auxiliary beta subunits	1515
+17116	CATSPER1	cation channel sperm associated 1	Approved		CATSPER	11q13.1	AF407333	NM_053054	CATSPER	Cation channels sperm associated 	186
+18810	CATSPER2	cation channel sperm associated 2	Approved			15q15.3	AF411817	NM_054020	CATSPER	Cation channels sperm associated 	186
+20819	CATSPER3	cation channel sperm associated 3	Approved		CACRC	5q31.1	AF432876	NM_178019	CATSPER	Cation channels sperm associated 	186
+23220	CATSPER4	cation channel sperm associated 4	Approved			1p36.11	BN000273	NM_198137	CATSPER	Cation channels sperm associated 	186
+20500	CATSPERB	cation channel sperm associated auxiliary subunit beta	Approved	C14orf161	FLJ14298	14q32.12	AK024360	NM_024764	CATSPER	Cation channels sperm associated 	186
+28598	CATSPERD	cation channel sperm associated auxiliary subunit delta	Approved	TMEM146	MGC39581	19p13.3	BC043005	NM_152784	CATSPER	Cation channels sperm associated 	186
+25243	CATSPERG	cation channel sperm associated auxiliary subunit gamma	Approved	C19orf15	DKFZp434A1022, FLJ46353	19q13.2	AK128220	NM_021185	CATSPER	Cation channels sperm associated 	186
+1884	CFTR	cystic fibrosis transmembrane conductance regulator	Approved	CF, ABCC7	MRP7, ABC35, TNR-CFTR, dJ760C5.1, CFTR/MRP	7q31.2	M28668	NM_000492	CFTR	Chloride channels, ATP-gated CFTR	309
+2062	CLIC1	chloride intracellular channel 1	Approved		NCC27, p64CLCP, G6	6p21.33	U93205	NM_001288	CLIC	Chloride intracellular channels	307
+2063	CLIC2	chloride intracellular channel 2	Approved		XAP121	Xq28	AJ000217	NM_001289	CLIC	Chloride intracellular channels	307
+2064	CLIC3	chloride intracellular channel 3	Approved			9q34.3	AF102166	NM_004669	CLIC	Chloride intracellular channels	307
+13518	CLIC4	chloride intracellular channel 4	Approved		DKFZP566G223, CLIC4L, P64H1, H1, huH1, p64H1	1p36.11	AF097330	NM_013943	CLIC	Chloride intracellular channels	307
+13517	CLIC5	chloride intracellular channel 5	Approved		DFNB102	6p21.1	AF216941		CLIC	Chloride intracellular channels	307
+2065	CLIC6	chloride intracellular channel 6	Approved	CLIC1L	CLIC5	21q22.12	AF426169		CLIC	Chloride intracellular channels	307
+2019	CLCN1	chloride voltage-gated channel 1	Approved		CLC1, ClC-1	7q34	Z25884	NM_000083	CLCN	Chloride voltage-gated channels	302
+2020	CLCN2	chloride voltage-gated channel 2	Approved		CLC2, EJM6, ClC-2	3q27.1	S77770		CLCN	Chloride voltage-gated channels	302
+2021	CLCN3	chloride voltage-gated channel 3	Approved		CLC3, ClC-3	4q33	X78520		CLCN	Chloride voltage-gated channels	302
+2022	CLCN4	chloride voltage-gated channel 4	Approved		CLC4, ClC-4	Xp22.2	X77197		CLCN	Chloride voltage-gated channels	302
+2023	CLCN5	chloride voltage-gated channel 5	Approved	NPHL2, NPHL1	DENTS, XLRH, hClC-K2, hCIC-K2, CLC5, XRN, ClC-5	Xp11.23	X91906		CLCN	Chloride voltage-gated channels	302
+2024	CLCN6	chloride voltage-gated channel 6	Approved		CLC-6, KIAA0046, ClC-6	1p36.22	X83378	NM_001286	CLCN	Chloride voltage-gated channels	302
+2025	CLCN7	chloride voltage-gated channel 7	Approved		CLC-7, OPTA2, CLC7, ClC-7, PPP1R63	16p13.3	Z67743	NM_001287	CLCN	Chloride voltage-gated channels	302
+2026	CLCNKA	chloride voltage-gated channel Ka	Approved		hClC-Ka	1p36.13			CLCN	Chloride voltage-gated channels	302
+2027	CLCNKB	chloride voltage-gated channel Kb	Approved		hClC-Kb	1p36.13	AK098217	NM_000085	CLCN	Chloride voltage-gated channels	302
+16512	BSND	barttin CLCNK type accessory beta subunit	Approved	DFNB73	BART	1p32.3	AY034632	NM_057176	CLCN	Chloride voltage-gated channels	302
+1955	CHRNA1	cholinergic receptor nicotinic alpha 1 subunit	Approved	CHRNA		2q31.1	Y00762		CHRN	Cholinergic receptors nicotinic subunits	173
+13800	CHRNA10	cholinergic receptor nicotinic alpha 10 subunit	Approved			11p15.4	AF199235		CHRN	Cholinergic receptors nicotinic subunits	173
+1956	CHRNA2	cholinergic receptor nicotinic alpha 2 subunit	Approved			8p21.2	U62431		CHRN	Cholinergic receptors nicotinic subunits	173
+1957	CHRNA3	cholinergic receptor nicotinic alpha 3 subunit	Approved			15q25.1			CHRN	Cholinergic receptors nicotinic subunits	173
+1958	CHRNA4	cholinergic receptor nicotinic alpha 4 subunit	Approved	EBN, EBN1	BFNC	20q13.33			CHRN	Cholinergic receptors nicotinic subunits	173
+1959	CHRNA5	cholinergic receptor nicotinic alpha 5 subunit	Approved			15q25.1			CHRN	Cholinergic receptors nicotinic subunits	173
+15963	CHRNA6	cholinergic receptor nicotinic alpha 6 subunit	Approved			8p11.21	U62435		CHRN	Cholinergic receptors nicotinic subunits	173
+1960	CHRNA7	cholinergic receptor nicotinic alpha 7 subunit	Approved			15q13.3	Z23141		CHRN	Cholinergic receptors nicotinic subunits	173
+14079	CHRNA9	cholinergic receptor nicotinic alpha 9 subunit	Approved		NACHRA9	4p14	AF227732		CHRN	Cholinergic receptors nicotinic subunits	173
+1961	CHRNB1	cholinergic receptor nicotinic beta 1 subunit	Approved	CHRNB		17p13.1	X14830		CHRN	Cholinergic receptors nicotinic subunits	173
+1962	CHRNB2	cholinergic receptor nicotinic beta 2 subunit	Approved			1q21.3	U62437	NM_000748	CHRN	Cholinergic receptors nicotinic subunits	173
+1963	CHRNB3	cholinergic receptor nicotinic beta 3 subunit	Approved			8p11.21	U62438		CHRN	Cholinergic receptors nicotinic subunits	173
+1964	CHRNB4	cholinergic receptor nicotinic beta 4 subunit	Approved			15q25.1	U48861		CHRN	Cholinergic receptors nicotinic subunits	173
+1965	CHRND	cholinergic receptor nicotinic delta subunit	Approved	ACHRD		2q37.1	X55019		CHRN	Cholinergic receptors nicotinic subunits	173
+1966	CHRNE	cholinergic receptor nicotinic epsilon subunit	Approved		ACHRE	17p13.2	X66403		CHRN	Cholinergic receptors nicotinic subunits	173
+1967	CHRNG	cholinergic receptor nicotinic gamma subunit	Approved	ACHRG		2q37.1	X01715	NM_005199	CHRN	Cholinergic receptors nicotinic subunits	173
+2148	CNGA1	cyclic nucleotide gated channel alpha 1	Approved	CNCG1, CNCG	RCNC1, RCNCa, CNG1, RP49	4p12	M84741	NM_000087	CNG	Cyclic nucleotide gated channels	250
+2149	CNGA2	cyclic nucleotide gated channel alpha 2	Approved	CNCA1, CNCA	CNG2, OCNC1, OCNCa, OCNCALPHA, OCNCalpha, FLJ46312	Xq28	S76067	NM_005140	CNG	Cyclic nucleotide gated channels	250
+2150	CNGA3	cyclic nucleotide gated channel alpha 3	Approved	CNCG3, ACHM2	CCNC1, CCNCa, CNG3	2q11.2	S76069	NM_001298	CNG	Cyclic nucleotide gated channels	250
+2152	CNGA4	cyclic nucleotide gated channel alpha 4	Approved	CNCA2, CNGB2	OCNC2, OCNCb, CNG5	11p15.4	AK122736	NM_001037329	CNG	Cyclic nucleotide gated channels	250
+2151	CNGB1	cyclic nucleotide gated channel beta 1	Approved	CNCG2, CNCG3L	RCNC2, RCNCb, GARP, GAR1, CNGB1B, RP45	16q21	AF042498	NM_001297	CNG	Cyclic nucleotide gated channels	250
+2153	CNGB3	cyclic nucleotide gated channel beta 3	Approved	ACHM3, ACHM1, RMCH		8q21.3	AF228520	NM_019098	CNG	Cyclic nucleotide gated channels	250
+4845	HCN1	hyperpolarization activated cyclic nucleotide gated potassium channel 1	Approved	BCNG1	BCNG-1, HAC-2	5p12	AF064876	NM_021072	CNG	Cyclic nucleotide gated channels	250
+4846	HCN2	hyperpolarization activated cyclic nucleotide gated potassium and sodium channel 2	Approved	BCNG2	BCNG-2, HAC-1	19p13.3	AF064877	NM_001194	CNG	Cyclic nucleotide gated channels	250
+19183	HCN3	hyperpolarization activated cyclic nucleotide gated potassium channel 3	Approved		KIAA1535	1q22	AB040968	NM_020897	CNG	Cyclic nucleotide gated channels	250
+16882	HCN4	hyperpolarization activated cyclic nucleotide gated potassium channel 4	Approved			15q24.1	AJ132429	NM_005477	CNG	Cyclic nucleotide gated channels	250
+4075	GABRA1	gamma-aminobutyric acid type A receptor alpha1 subunit	Approved		EJM5	5q34		NM_000806.5	GABR	Gamma-aminobutyric acid type A receptor subunits	563
+4076	GABRA2	gamma-aminobutyric acid type A receptor alpha2 subunit	Approved			4p12			GABR	Gamma-aminobutyric acid type A receptor subunits	563
+4077	GABRA3	gamma-aminobutyric acid type A receptor alpha3 subunit	Approved			Xq28		NM_000808	GABR	Gamma-aminobutyric acid type A receptor subunits	563
+4078	GABRA4	gamma-aminobutyric acid type A receptor alpha4 subunit	Approved			4p12			GABR	Gamma-aminobutyric acid type A receptor subunits	563
+4079	GABRA5	gamma-aminobutyric acid type A receptor alpha5 subunit	Approved			15q12			GABR	Gamma-aminobutyric acid type A receptor subunits	563
+4080	GABRA6	gamma-aminobutyric acid type A receptor alpha6 subunit	Approved			5q34			GABR	Gamma-aminobutyric acid type A receptor subunits	563
+4081	GABRB1	gamma-aminobutyric acid type A receptor beta1 subunit	Approved			4p12			GABR	Gamma-aminobutyric acid type A receptor subunits	563
+4082	GABRB2	gamma-aminobutyric acid type A receptor beta2 subunit	Approved			5q34			GABR	Gamma-aminobutyric acid type A receptor subunits	563
+4083	GABRB3	gamma-aminobutyric acid type A receptor beta3 subunit	Approved			15q12			GABR	Gamma-aminobutyric acid type A receptor subunits	563
+4084	GABRD	gamma-aminobutyric acid type A receptor delta subunit	Approved			1p36.33	BC033801	NM_000815	GABR	Gamma-aminobutyric acid type A receptor subunits	563
+4085	GABRE	gamma-aminobutyric acid type A receptor epsilon subunit	Approved			Xq28	Y09765	NM_004961, NM_021990, NM_021984	GABR	Gamma-aminobutyric acid type A receptor subunits	563
+4086	GABRG1	gamma-aminobutyric acid type A receptor gamma1 subunit	Approved			4p12	BC031087	NM_173536	GABR	Gamma-aminobutyric acid type A receptor subunits	563
+4087	GABRG2	gamma-aminobutyric acid type A receptor gamma2 subunit	Approved			5q34			GABR	Gamma-aminobutyric acid type A receptor subunits	563
+4088	GABRG3	gamma-aminobutyric acid type A receptor gamma3 subunit	Approved			15q12			GABR	Gamma-aminobutyric acid type A receptor subunits	563
+4089	GABRP	gamma-aminobutyric acid type A receptor pi subunit	Approved			5q35.1	U95367	NM_014211	GABR	Gamma-aminobutyric acid type A receptor subunits	563
+14454	GABRQ	gamma-aminobutyric acid type A receptor theta subunit	Approved		THETA	Xq28	U47334	NM_018558	GABR	Gamma-aminobutyric acid type A receptor subunits	563
+4090	GABRR1	gamma-aminobutyric acid type A receptor rho1 subunit	Approved			6q15			GABR	Gamma-aminobutyric acid type A receptor subunits	563
+4091	GABRR2	gamma-aminobutyric acid type A receptor rho2 subunit	Approved			6q15			GABR	Gamma-aminobutyric acid type A receptor subunits	563
+17969	GABRR3	gamma-aminobutyric acid type A receptor rho3 subunit (gene/pseudogene)	Approved			3q11.2	Y18994		GABR	Gamma-aminobutyric acid type A receptor subunits	563
+4274	GJA1	gap junction protein alpha 1	Approved	ODDD, GJAL	CX43, ODD, ODOD, SDTY3	6q22.31	BC026329	NM_000165	GJ	Gap junction proteins	314
+16995	GJA10	gap junction protein alpha 10	Approved		CX62	6q15	AF296766	NM_032602	GJ	Gap junction proteins	314
+4277	GJA3	gap junction protein alpha 3	Approved	CZP3	CX46	13q12.11	AF075290	NM_021954	GJ	Gap junction proteins	314
+4278	GJA4	gap junction protein alpha 4	Approved		CX37	1p34.3	M96789	NM_002060	GJ	Gap junction proteins	314
+4279	GJA5	gap junction protein alpha 5	Approved		CX40	1q21.2		NM_181703	GJ	Gap junction proteins	314
+32542	GJA6P	gap junction protein alpha 6 pseudogene	Approved			Xp22.13			GJ	Gap junction proteins	314
+4281	GJA8	gap junction protein alpha 8	Approved	CAE1, CZP1, CAE	CX50	1q21.2	U34802	NM_005267	GJ	Gap junction proteins	314
+19155	GJA9	gap junction protein alpha 9	Approved	GJA10	CX59, CX58	1p34.3	AF179597	NM_030772	GJ	Gap junction proteins	314
+4283	GJB1	gap junction protein beta 1	Approved	CMTX1, CMTX	CX32	Xq13.1	X04325	NM_000166	GJ	Gap junction proteins	314
+4284	GJB2	gap junction protein beta 2	Approved	DFNB1, DFNA3	CX26, NSRD1	13q12.11	M86849		GJ	Gap junction proteins	314
+4285	GJB3	gap junction protein beta 3	Approved	DFNA2, EKV	CX31	1p34.3	BC012918	NM_024009	GJ	Gap junction proteins	314
+4286	GJB4	gap junction protein beta 4	Approved		CX30.3	1p34.3		NM_153212	GJ	Gap junction proteins	314
+4287	GJB5	gap junction protein beta 5	Approved		CX31.1	1p34.3	BC004379	NM_005268	GJ	Gap junction proteins	314
+4288	GJB6	gap junction protein beta 6	Approved	DFNA3, ED2	EDH, HED, CX30	13q12.11	AJ005585		GJ	Gap junction proteins	314
+16690	GJB7	gap junction protein beta 7	Approved		CX25, bA136M9.1	6q14.3-q15	AJ414563		GJ	Gap junction proteins	314
+4280	GJC1	gap junction protein gamma 1	Approved	GJA7	CX45	17q21.31	U03493	NM_005497	GJ	Gap junction proteins	314
+17494	GJC2	gap junction protein gamma 2	Approved	GJA12	CX47, CX46.6, SPG44	1q42.13	AF014643	NM_020435	GJ	Gap junction proteins	314
+17495	GJC3	gap junction protein gamma 3	Approved	GJE1	CX30.2	7q22.1	AF503615	NM_181538	GJ	Gap junction proteins	314
+19154	GJD2	gap junction protein delta 2	Approved	GJA9	CX36	15q14	AB037509		GJ	Gap junction proteins	314
+19147	GJD3	gap junction protein delta 3	Approved	GJC1	CX31.9, GJA11, Cx30.2	17q21.2	AF514298	NM_152219	GJ	Gap junction proteins	314
+23296	GJD4	gap junction protein delta 4	Approved		CX40.1, FLJ90023	10p11.21	AJ414564	NM_153368	GJ	Gap junction proteins	314
+33251	GJE1	gap junction protein epsilon 1	Approved		CX23	6q24.1			GJ	Gap junction proteins	314
+4571	GRIA1	glutamate ionotropic receptor AMPA type subunit 1	Approved	GLUR1	GluA1, GLURA	5q33.2			GRIA	Glutamate ionotropic receptor AMPA type subunits	1200
+4572	GRIA2	glutamate ionotropic receptor AMPA type subunit 2	Approved	GLUR2	GluA2, GLURB	4q32.1			GRIA	Glutamate ionotropic receptor AMPA type subunits	1200
+4573	GRIA3	glutamate ionotropic receptor AMPA type subunit 3	Approved	GLUR3	GluA3, GLURC, MRX94	Xq25	U10301	NM_000828	GRIA	Glutamate ionotropic receptor AMPA type subunits	1200
+4574	GRIA4	glutamate ionotropic receptor AMPA type subunit 4	Approved	GLUR4	GluA4, GLURD	11q22.3	U16129		GRIA	Glutamate ionotropic receptor AMPA type subunits	1200
+4575	GRID1	glutamate ionotropic receptor delta type subunit 1	Approved		GluD1, KIAA1220	10q23.1-q23.2	AB033046	XM_043613	GRID	Glutamate ionotropic receptor delta type subunits	1202
+4576	GRID2	glutamate ionotropic receptor delta type subunit 2	Approved		GluD2, GluR-delta-2	4q22.1-q22.2	AF009014		GRID	Glutamate ionotropic receptor delta type subunits	1202
+4579	GRIK1	glutamate ionotropic receptor kainate type subunit 1	Approved	GLUR5	GluK1	21q21.3			GRIK	Glutamate ionotropic receptor kainate type subunits	1199
+4580	GRIK2	glutamate ionotropic receptor kainate type subunit 2	Approved	GLUR6	GluK2, MRT6	6q16.3			GRIK	Glutamate ionotropic receptor kainate type subunits	1199
+4581	GRIK3	glutamate ionotropic receptor kainate type subunit 3	Approved		GluK3, GLUR7	1p34.3	U16127	NM_000831	GRIK	Glutamate ionotropic receptor kainate type subunits	1199
+4582	GRIK4	glutamate ionotropic receptor kainate type subunit 4	Approved	GRIK	GluK4, KA1	11q23.3	S67803	NM_014619	GRIK	Glutamate ionotropic receptor kainate type subunits	1199
+4583	GRIK5	glutamate ionotropic receptor kainate type subunit 5	Approved	GRIK2	GluK5, KA2	19q13.2			GRIK	Glutamate ionotropic receptor kainate type subunits	1199
+4584	GRIN1	glutamate ionotropic receptor NMDA type subunit 1	Approved	NMDAR1	GluN1	9q34.3		NM_007327	GRIN	Glutamate ionotropic receptor NMDA type subunits	1201
+4585	GRIN2A	glutamate ionotropic receptor NMDA type subunit 2A	Approved	NMDAR2A	GluN2A	16p13.2			GRIN	Glutamate ionotropic receptor NMDA type subunits	1201
+4586	GRIN2B	glutamate ionotropic receptor NMDA type subunit 2B	Approved	NMDAR2B	GluN2B	12p13.1			GRIN	Glutamate ionotropic receptor NMDA type subunits	1201
+4587	GRIN2C	glutamate ionotropic receptor NMDA type subunit 2C	Approved	NMDAR2C	GluN2C	17q25.1			GRIN	Glutamate ionotropic receptor NMDA type subunits	1201
+4588	GRIN2D	glutamate ionotropic receptor NMDA type subunit 2D	Approved	NMDAR2D	GluN2D, EB11, NR2D	19q13.33	U77783		GRIN	Glutamate ionotropic receptor NMDA type subunits	1201
+16767	GRIN3A	glutamate ionotropic receptor NMDA type subunit 3A	Approved		GluN3A	9q31.1			GRIN	Glutamate ionotropic receptor NMDA type subunits	1201
+16768	GRIN3B	glutamate ionotropic receptor NMDA type subunit 3B	Approved		GluN3B	19p13.3			GRIN	Glutamate ionotropic receptor NMDA type subunits	1201
+4326	GLRA1	glycine receptor alpha 1	Approved	STHE		5q33.1			GLRA, GLRB	Glycine receptors	868
+4327	GLRA2	glycine receptor alpha 2	Approved	GLR		Xp22.2			GLRA, GLRB	Glycine receptors	868
+4328	GLRA3	glycine receptor alpha 3	Approved			4q34.1	AF017724		GLRA, GLRB	Glycine receptors	868
+31715	GLRA4	glycine receptor alpha 4	Approved			Xq22.2	Z93848	NM_001024452	GLRA, GLRB	Glycine receptors	868
+4329	GLRB	glycine receptor beta	Approved			4q32.1	U33267	NM_000824	GLRA, GLRB	Glycine receptors	868
+28240	HVCN1	hydrogen voltage gated channel 1	Approved		MGC15619, Hv1, VSOP	12q24.11	BC007277	NM_032369	HVCN	Hydrogen voltage gated channels	254
+6180	ITPR1	inositol 1,4,5-trisphosphate receptor type 1	Approved	SCA15, SCA16, SCA29	Insp3r1, IP3R1, ACV, PPP1R94	3p26.1	D26070	NM_002222	ITPR	Inositol 1,4,5-triphosphate receptors	297
+6181	ITPR2	inositol 1,4,5-trisphosphate receptor type 2	Approved		IP3R2, CFAP48	12p11.23	D26350	NM_002223	ITPR	Inositol 1,4,5-triphosphate receptors	297
+6182	ITPR3	inositol 1,4,5-trisphosphate receptor type 3	Approved		IP3R3	6p21.31	D26351	NM_002224	ITPR	Inositol 1,4,5-triphosphate receptors	297
+6284	KCNMA1	potassium calcium-activated channel subfamily M alpha 1	Approved	SLO	KCa1.1, mSLO1	10q22.3	U11717	NM_002247		Potassium calcium-activated channels	255
+6290	KCNN1	potassium calcium-activated channel subfamily N member 1	Approved		KCa2.1, hSK1	19p13.11	U69883	NM_002248		Potassium calcium-activated channels	255
+6291	KCNN2	potassium calcium-activated channel subfamily N member 2	Approved		KCa2.2, hSK2	5q22.3	AF239613	NM_021614		Potassium calcium-activated channels	255
+6292	KCNN3	potassium calcium-activated channel subfamily N member 3	Approved		KCa2.3, hSK3, SKCA3	1q21.3	AF031815	NM_002249		Potassium calcium-activated channels	255
+6293	KCNN4	potassium calcium-activated channel subfamily N member 4	Approved		KCa3.1, hSK4, hKCa4, hIKCa1, IK	19q13.31	AF022797	NM_002250		Potassium calcium-activated channels	255
+18867	KCNU1	potassium calcium-activated channel subfamily U member 1	Approved		KCa5.1, Slo3, KCNMC1, Kcnma3	8p11.23	BC028701	NM_001031836		Potassium calcium-activated channels	255
+18865	KCNT1	potassium sodium-activated channel subfamily T member 1	Approved		KCa4.1, KIAA1422, SLACK, Slo2.2	9q34.3	AB037843	NM_020822	KCNT	Potassium sodium-activated channel subfamily T 	856
+18866	KCNT2	potassium sodium-activated channel subfamily T member 2	Approved		KCa4.2, SLICK, SLO2.1	1q31.3	BX647852, AY359444, AK127807	NM_198503	KCNT	Potassium sodium-activated channel subfamily T 	856
+6272	KCNK1	potassium two pore domain channel subfamily K member 1	Approved		K2p1.1, DPK, TWIK-1	1q42.2	U33632	NM_002245	KCNK	Potassium two pore domain channel subfamily K 	277
+6273	KCNK10	potassium two pore domain channel subfamily K member 10	Approved		K2p10.1, TREK-2, TREK2, PPP1R97	14q31.3	AF279890	NM_021161	KCNK	Potassium two pore domain channel subfamily K 	277
+6274	KCNK12	potassium two pore domain channel subfamily K member 12	Approved		THIK-2, THIK2, K2p12.1	2p16.3	AF287302	NM_022055	KCNK	Potassium two pore domain channel subfamily K 	277
+6275	KCNK13	potassium two pore domain channel subfamily K member 13	Approved		K2p13.1, THIK-1, THIK1	14q32.11	AF287303	NM_022054	KCNK	Potassium two pore domain channel subfamily K 	277
+13814	KCNK15	potassium two pore domain channel subfamily K member 15	Approved	KCNK11, KCNK14	K2p15.1, dJ781B1.1, KT3.3, KIAA0237, TASK5, TASK-5	20q13.12	AF257081	NM_022358	KCNK	Potassium two pore domain channel subfamily K 	277
+14464	KCNK16	potassium two pore domain channel subfamily K member 16	Approved		K2p16.1, TALK-1, TALK1	6p21.2	AF358909	NM_032115	KCNK	Potassium two pore domain channel subfamily K 	277
+14465	KCNK17	potassium two pore domain channel subfamily K member 17	Approved		K2p17.1, TALK-2, TALK2, TASK4, TASK-4	6p21.2	AF358910	NM_031460	KCNK	Potassium two pore domain channel subfamily K 	277
+19439	KCNK18	potassium two pore domain channel subfamily K member 18	Approved		K2p18.1, TRESK-2, TRESK2, TRESK, TRIK	10q25.3	AB087138	NM_181840	KCNK	Potassium two pore domain channel subfamily K 	277
+6277	KCNK2	potassium two pore domain channel subfamily K member 2	Approved		K2p2.1, TREK-1	1q41	AF004711	NM_014217	KCNK	Potassium two pore domain channel subfamily K 	277
+6278	KCNK3	potassium two pore domain channel subfamily K member 3	Approved		K2p3.1, TASK, TASK-1	2p23.3	AF006823	NM_002246	KCNK	Potassium two pore domain channel subfamily K 	277
+6279	KCNK4	potassium two pore domain channel subfamily K member 4	Approved		K2p4.1, TRAAK	11q13.1	AF247042	NM_033311	KCNK	Potassium two pore domain channel subfamily K 	277
+6280	KCNK5	potassium two pore domain channel subfamily K member 5	Approved		K2p5.1, TASK-2	6p21.2	AF084830	NM_003740	KCNK	Potassium two pore domain channel subfamily K 	277
+6281	KCNK6	potassium two pore domain channel subfamily K member 6	Approved		K2p6.1, TWIK-2	19q13.2	AF117708	NM_004823	KCNK	Potassium two pore domain channel subfamily K 	277
+6282	KCNK7	potassium two pore domain channel subfamily K member 7	Approved		K2p7.1	11q13.1	AF110522	NM_005714	KCNK	Potassium two pore domain channel subfamily K 	277
+6283	KCNK9	potassium two pore domain channel subfamily K member 9	Approved		K2p9.1, TASK3, TASK-3	8q24.3	AF212829	NM_016601	KCNK	Potassium two pore domain channel subfamily K 	277
+6255	KCNJ1	potassium voltage-gated channel subfamily J member 1	Approved		Kir1.1, ROMK1	11q24.3	BC063109	NM_000220	KCNJ	Potassium voltage-gated channel subfamily J	276
+6256	KCNJ10	potassium voltage-gated channel subfamily J member 10	Approved		Kir4.1, Kir1.2	1q23.2	U52155	NM_002241	KCNJ	Potassium voltage-gated channel subfamily J	276
+6257	KCNJ11	potassium voltage-gated channel subfamily J member 11	Approved		Kir6.2, BIR	11p15.1	D50582	NM_000525	KCNJ	Potassium voltage-gated channel subfamily J	276
+6258	KCNJ12	potassium voltage-gated channel subfamily J member 12	Approved	KCNJN1	Kir2.2, Kir2.2v, IRK2, hIRK1	17p11.2	L36069	NM_021012	KCNJ	Potassium voltage-gated channel subfamily J	276
+6259	KCNJ13	potassium voltage-gated channel subfamily J member 13	Approved		Kir7.1, Kir1.4, LCA16	2q37.1	AJ006128	NM_002242	KCNJ	Potassium voltage-gated channel subfamily J	276
+6260	KCNJ14	potassium voltage-gated channel subfamily J member 14	Approved		Kir2.4, IRK4	19q13.33	BC042033	NM_013348	KCNJ	Potassium voltage-gated channel subfamily J	276
+6261	KCNJ15	potassium voltage-gated channel subfamily J member 15	Approved		Kir4.2, Kir1.3, IRKK	21q22.13-q22.2	Y10745	NM_002243	KCNJ	Potassium voltage-gated channel subfamily J	276
+6262	KCNJ16	potassium voltage-gated channel subfamily J member 16	Approved		Kir5.1, BIR9	17q24.3	AF153815	NM_018658	KCNJ	Potassium voltage-gated channel subfamily J	276
+39080	KCNJ18	potassium voltage-gated channel subfamily J member 18	Approved		KIR2.6, TTPP2	17p11.2		NM_001194958	KCNJ	Potassium voltage-gated channel subfamily J	276
+6263	KCNJ2	potassium voltage-gated channel subfamily J member 2	Approved		Kir2.1, IRK1, LQT7	17q24.3	AF011904	NM_000891	KCNJ	Potassium voltage-gated channel subfamily J	276
+6264	KCNJ3	potassium voltage-gated channel subfamily J member 3	Approved		Kir3.1, GIRK1, KGA	2q24.1	U50964	NM_002239	KCNJ	Potassium voltage-gated channel subfamily J	276
+6265	KCNJ4	potassium voltage-gated channel subfamily J member 4	Approved		Kir2.3, HIR, HRK1, hIRK2, IRK3	22q13.1	U07364	NM_004981	KCNJ	Potassium voltage-gated channel subfamily J	276
+6266	KCNJ5	potassium voltage-gated channel subfamily J member 5	Approved		Kir3.4, CIR, KATP1, GIRK4, LQT13	11q24.3	D50134	NM_000890	KCNJ	Potassium voltage-gated channel subfamily J	276
+6267	KCNJ6	potassium voltage-gated channel subfamily J member 6	Approved	KCNJ7	Kir3.2, GIRK2, KATP2, BIR1, hiGIRK2	21q22.13	U24660	NM_002240	KCNJ	Potassium voltage-gated channel subfamily J	276
+6269	KCNJ8	potassium voltage-gated channel subfamily J member 8	Approved		Kir6.1	12p12.1	BC000544	NM_004982	KCNJ	Potassium voltage-gated channel subfamily J	276
+6270	KCNJ9	potassium voltage-gated channel subfamily J member 9	Approved		Kir3.3, GIRK3	1q23.2	U52152	NM_004983	KCNJ	Potassium voltage-gated channel subfamily J	276
+6218	KCNA1	potassium voltage-gated channel subfamily A member 1	Approved	AEMK	Kv1.1, RBK1, HUK1, MBK1	12p13.32	L02750	NM_000217		Potassium voltage-gated channels	274
+6219	KCNA10	potassium voltage-gated channel subfamily A member 10	Approved		Kv1.8	1p13.3	U96110	NM_005549		Potassium voltage-gated channels	274
+6220	KCNA2	potassium voltage-gated channel subfamily A member 2	Approved		Kv1.2, HK4	1p13.3	L02752	NM_004974		Potassium voltage-gated channels	274
+6221	KCNA3	potassium voltage-gated channel subfamily A member 3	Approved		Kv1.3, MK3, HLK3, HPCN3	1p13.3	L23499	NM_002232		Potassium voltage-gated channels	274
+6222	KCNA4	potassium voltage-gated channel subfamily A member 4	Approved	KCNA4L	Kv1.4, HK1, HPCN2	11p14.1	M55514	NM_002233		Potassium voltage-gated channels	274
+6224	KCNA5	potassium voltage-gated channel subfamily A member 5	Approved		Kv1.5, HK2, HPCN1	12p13.32	M83254	NM_002234		Potassium voltage-gated channels	274
+6225	KCNA6	potassium voltage-gated channel subfamily A member 6	Approved		Kv1.6, HBK2, PPP1R96	12p13.32	X17622	NM_002235		Potassium voltage-gated channels	274
+6226	KCNA7	potassium voltage-gated channel subfamily A member 7	Approved		Kv1.7, HAK6	19q13.33	AF315818	NM_031886		Potassium voltage-gated channels	274
+6231	KCNB1	potassium voltage-gated channel subfamily B member 1	Approved		Kv2.1	20q13.13	AF026005	NM_004975		Potassium voltage-gated channels	274
+6232	KCNB2	potassium voltage-gated channel subfamily B member 2	Approved		Kv2.2	8q21.11	U69962	NM_004770		Potassium voltage-gated channels	274
+6233	KCNC1	potassium voltage-gated channel subfamily C member 1	Approved		Kv3.1	11p15.1	M96747	NM_004976		Potassium voltage-gated channels	274
+6234	KCNC2	potassium voltage-gated channel subfamily C member 2	Approved		Kv3.2	12q21.1	AF268896	NM_153748		Potassium voltage-gated channels	274
+6235	KCNC3	potassium voltage-gated channel subfamily C member 3	Approved	SCA13	Kv3.3	19q13.33	AB208930	NM_004977		Potassium voltage-gated channels	274
+6236	KCNC4	potassium voltage-gated channel subfamily C member 4	Approved	C1orf30	Kv3.4, HKSHIIIC	1p13.3	BC101769	NM_001039574		Potassium voltage-gated channels	274
+6237	KCND1	potassium voltage-gated channel subfamily D member 1	Approved		Kv4.1	Xp11.23	AF166003	NM_004979		Potassium voltage-gated channels	274
+6238	KCND2	potassium voltage-gated channel subfamily D member 2	Approved		Kv4.2, RK5, KIAA1044	7q31.31	AJ010969	NM_012281		Potassium voltage-gated channels	274
+6239	KCND3	potassium voltage-gated channel subfamily D member 3	Approved	SCA22, SCA19	Kv4.3, KSHIVB	1p13.2	AF048713	NM_172198		Potassium voltage-gated channels	274
+6246	KCNF1	potassium voltage-gated channel modifier subfamily F member 1	Approved	KCNF	Kv5.1, kH1, IK8	2p25.1	AF033382	NM_002236		Potassium voltage-gated channels	274
+6248	KCNG1	potassium voltage-gated channel modifier subfamily G member 1	Approved	KCNG	Kv6.1, kH2, K13	20q13.13	AF033383	NM_002237		Potassium voltage-gated channels	274
+6249	KCNG2	potassium voltage-gated channel modifier subfamily G member 2	Approved		Kv6.2, KCNF2	18q23	AJ011021	NM_012283		Potassium voltage-gated channels	274
+18306	KCNG3	potassium voltage-gated channel modifier subfamily G member 3	Approved		Kv6.3	2p21	AB070604	NM_172344		Potassium voltage-gated channels	274
+19697	KCNG4	potassium voltage-gated channel modifier subfamily G member 4	Approved		Kv6.4	16q24.1	AF348984	NM_172347		Potassium voltage-gated channels	274
+6250	KCNH1	potassium voltage-gated channel subfamily H member 1	Approved		Kv10.1, eag, h-eag, eag1	1q32.2	AJ001366	NM_002238		Potassium voltage-gated channels	274
+6251	KCNH2	potassium voltage-gated channel subfamily H member 2	Approved	LQT2	Kv11.1, HERG, erg1	7q36.1	U04270	NM_000238		Potassium voltage-gated channels	274
+6252	KCNH3	potassium voltage-gated channel subfamily H member 3	Approved		Kv12.2, BEC1, elk2	12q13.12	AB022696	NM_012284		Potassium voltage-gated channels	274
+6253	KCNH4	potassium voltage-gated channel subfamily H member 4	Approved		Kv12.3, elk1	17q21.2	AB022698	NM_012285		Potassium voltage-gated channels	274
+6254	KCNH5	potassium voltage-gated channel subfamily H member 5	Approved		Kv10.2, H-EAG2, eag2	14q23.2	U69185	NM_139318		Potassium voltage-gated channels	274
+18862	KCNH6	potassium voltage-gated channel subfamily H member 6	Approved		Kv11.2, erg2, HERG2	17q23.3	AF311913	NM_030779		Potassium voltage-gated channels	274
+18863	KCNH7	potassium voltage-gated channel subfamily H member 7	Approved		Kv11.3, HERG3, erg3	2q24.2	AF032897	NM_033272		Potassium voltage-gated channels	274
+18864	KCNH8	potassium voltage-gated channel subfamily H member 8	Approved		Kv12.1, elk3	3p24.3	AY053503	NM_144633		Potassium voltage-gated channels	274
+6294	KCNQ1	potassium voltage-gated channel subfamily Q member 1	Approved	LQT, KCNA9	Kv7.1, KCNA8, KVLQT1, JLNS1, LQT1	11p15.5-p15.4	AF000571	NM_000218		Potassium voltage-gated channels	274
+6296	KCNQ2	potassium voltage-gated channel subfamily Q member 2	Approved	EBN, EBN1	Kv7.2, ENB1, BFNC, KCNA11, HNSPC	20q13.33	AF033348	NM_172109		Potassium voltage-gated channels	274
+6297	KCNQ3	potassium voltage-gated channel subfamily Q member 3	Approved	EBN2	Kv7.3	8q24.22	AB208890	NM_004519		Potassium voltage-gated channels	274
+6298	KCNQ4	potassium voltage-gated channel subfamily Q member 4	Approved	DFNA2	Kv7.4	1p34.2	AF105202	NM_004700		Potassium voltage-gated channels	274
+6299	KCNQ5	potassium voltage-gated channel subfamily Q member 5	Approved		Kv7.5	6q13	AF202977	NM_019842		Potassium voltage-gated channels	274
+6300	KCNS1	potassium voltage-gated channel modifier subfamily S member 1	Approved		Kv9.1	20q13.12	AF043473	NM_002251		Potassium voltage-gated channels	274
+6301	KCNS2	potassium voltage-gated channel modifier subfamily S member 2	Approved		Kv9.2	8q22.2	AB032970	NM_020697		Potassium voltage-gated channels	274
+6302	KCNS3	potassium voltage-gated channel modifier subfamily S member 3	Approved		Kv9.3	2p24.2	AF043472	NM_002252		Potassium voltage-gated channels	274
+18861	KCNV1	potassium voltage-gated channel modifier subfamily V member 1	Approved		Kv8.1	8q23.2	AF167082	NM_014379		Potassium voltage-gated channels	274
+19698	KCNV2	potassium voltage-gated channel modifier subfamily V member 2	Approved		Kv8.2	9p24.2	AF348983	NM_133497		Potassium voltage-gated channels	274
+8533	P2RX1	purinergic receptor P2X 1	Approved		P2X1	17p13.3	X83688	NM_002558	P2RX	Purinergic receptors P2X	214
+15459	P2RX2	purinergic receptor P2X 2	Approved	DFNA41	P2X2	12q24.33	AF109387		P2RX	Purinergic receptors P2X	214
+8534	P2RX3	purinergic receptor P2X 3	Approved		P2X3	11q12.1	Y07683	NM_002559	P2RX	Purinergic receptors P2X	214
+8535	P2RX4	purinergic receptor P2X 4	Approved		P2X4	12q24.31	Y07684	NM_175567	P2RX	Purinergic receptors P2X	214
+8536	P2RX5	purinergic receptor P2X 5	Approved		P2X5, LRH-1	17p13.2	AF016709	NM_002561, NM_175080, NM_175081	P2RX	Purinergic receptors P2X	214
+8538	P2RX6	purinergic receptor P2X 6	Approved	P2RXL1	P2XM, MGC129625, P2X6	22q11.21		NM_005446	P2RX	Purinergic receptors P2X	214
+8537	P2RX7	purinergic receptor P2X 7	Approved		P2X7, MGC20089	12q24.31	Y09561	NM_002562	P2RX	Purinergic receptors P2X	214
+10483	RYR1	ryanodine receptor 1	Approved	MHS, MHS1, CCO	RYR, PPP1R137	19q13.2	J05200		RYR	Ryanodine receptors	287
+10484	RYR2	ryanodine receptor 2	Approved	ARVD2	ARVC2, VTSIP	1q43	X91869	NM_001035	RYR	Ryanodine receptors	287
+10485	RYR3	ryanodine receptor 3	Approved			15q13.3-q14			RYR	Ryanodine receptors	287
+10599	SCNN1A	sodium channel epithelial 1 alpha subunit	Approved	SCNN1	ENaCalpha	12p13	Z92978		SCNN	Sodium channels epithelial	185
+10600	SCNN1B	sodium channel epithelial 1 beta subunit	Approved		ENaCbeta	16p12.2-p12.1	X87159		SCNN	Sodium channels epithelial	185
+10601	SCNN1D	sodium channel epithelial 1 delta subunit	Approved		ENaCdelta, dNaCh	1p36.33	U38254	NM_002978	SCNN	Sodium channels epithelial	185
+10602	SCNN1G	sodium channel epithelial 1 gamma subunit	Approved		ENaCgamma, SCNEG	16p12.2	U48937	NM_001039	SCNN	Sodium channels epithelial	185
+19082	NALCN	sodium leak channel, non-selective	Approved	VGCNL1	bA430M15.1, CanIon	13q32.3-q33.1	AY141972	NM_052867	NALCN	Sodium leak channels, non selective	283
+10582	SCN10A	sodium voltage-gated channel alpha subunit 10	Approved		Nav1.8, hPN3, SNS, PN3	3p22.2	AF117907	NM_006514		Sodium voltage-gated channel alpha subunits	1203
+10583	SCN11A	sodium voltage-gated channel alpha subunit 11	Approved	SCN12A	Nav1.9, NaN, SNS-2	3p22.2	AF126739	NM_014139		Sodium voltage-gated channel alpha subunits	1203
+10585	SCN1A	sodium voltage-gated channel alpha subunit 1	Approved	SCN1, FEB3	Nav1.1, GEFSP2, HBSCI, NAC1, SMEI	2q24.3	AB093548	NM_006920		Sodium voltage-gated channel alpha subunits	1203
+10588	SCN2A	sodium voltage-gated channel alpha subunit 2	Approved	SCN2A1, SCN2A2	Nav1.2, HBSCII, HBSCI	2q24.3	AB208888	NM_021007		Sodium voltage-gated channel alpha subunits	1203
+10590	SCN3A	sodium voltage-gated channel alpha subunit 3	Approved		Nav1.3	2q24.3	AF035685	NM_006922		Sodium voltage-gated channel alpha subunits	1203
+10591	SCN4A	sodium voltage-gated channel alpha subunit 4	Approved	HYKPP	Nav1.4, HYPP, SkM1	17q23.3	U24693	NM_000334		Sodium voltage-gated channel alpha subunits	1203
+10593	SCN5A	sodium voltage-gated channel alpha subunit 5	Approved	CMD1E	Nav1.5, LQT3, HB1, HBBD, PFHB1, IVF, HB2, HH1, SSS1, CDCD2, CMPD2, ICCD	3p22.2	AJ310893	NM_198056		Sodium voltage-gated channel alpha subunits	1203
+10596	SCN8A	sodium voltage-gated channel alpha subunit 8	Approved	MED	Nav1.6, NaCh6, PN4, CerIII, CIAT	12q13.13	AB027567	NM_014191		Sodium voltage-gated channel alpha subunits	1203
+10597	SCN9A	sodium voltage-gated channel alpha subunit 9	Approved		Nav1.7, PN1, NE-NA, NENA, ETHA	2q24.3	X82835	NM_002977		Sodium voltage-gated channel alpha subunits	1203
+10586	SCN1B	sodium voltage-gated channel beta subunit 1	Approved			19q13.11				Sodium voltage-gated channel beta subunits	1204
+10589	SCN2B	sodium voltage-gated channel beta subunit 2	Approved			11q23.3	AY358945	NM_004588		Sodium voltage-gated channel beta subunits	1204
+20665	SCN3B	sodium voltage-gated channel beta subunit 3	Approved		HSA243396	11q24.1	AJ243396	NM_018400		Sodium voltage-gated channel beta subunits	1204
+10592	SCN4B	sodium voltage-gated channel beta subunit 4	Approved		LQT10	11q23.3	AY149967			Sodium voltage-gated channel beta subunits	1204
+497	TRPA1	transient receptor potential cation channel subfamily A member 1	Approved	ANKTM1		8q21.11	Y10601	NM_007332	TRP	Transient receptor potential cation channels	249
+12333	TRPC1	transient receptor potential cation channel subfamily C member 1	Approved		HTRP-1	3q23	X89066	NM_003304	TRP	Transient receptor potential cation channels	249
+12334	TRPC2	transient receptor potential cation channel subfamily C member 2 (pseudogene)	Approved			11p15.4	X89067	NR_002720	TRP	Transient receptor potential cation channels	249
+12335	TRPC3	transient receptor potential cation channel subfamily C member 3	Approved			4q27	Y13758	NM_003305	TRP	Transient receptor potential cation channels	249
+12336	TRPC4	transient receptor potential cation channel subfamily C member 4	Approved		HTRP4, TRP4	13q13.3	U40983	NM_003306	TRP	Transient receptor potential cation channels	249
+12337	TRPC5	transient receptor potential cation channel subfamily C member 5	Approved		PPP1R159	Xq23	AF054568	NM_012471	TRP	Transient receptor potential cation channels	249
+12338	TRPC6	transient receptor potential cation channel subfamily C member 6	Approved	FSGS2	TRP6	11q22.1	AJ006276	NM_004621	TRP	Transient receptor potential cation channels	249
+20754	TRPC7	transient receptor potential cation channel subfamily C member 7	Approved			5q31.1	AJ272034	NM_020389	TRP	Transient receptor potential cation channels	249
+7146	TRPM1	transient receptor potential cation channel subfamily M member 1	Approved	MLSN1	LTRPC1, CSNB1C	15q13.3	AF071787	NM_002420	TRP	Transient receptor potential cation channels	249
+12339	TRPM2	transient receptor potential cation channel subfamily M member 2	Approved	TRPC7	KNP3, LTRPC2, NUDT9L1, NUDT9H, EREG1	21q22.3	AB001535	NM_003307	TRP	Transient receptor potential cation channels	249
+17992	TRPM3	transient receptor potential cation channel subfamily M member 3	Approved		KIAA1616, LTRPC3, GON-2	9q21.12-q21.13	AB046836	NM_206945	TRP	Transient receptor potential cation channels	249
+17993	TRPM4	transient receptor potential cation channel subfamily M member 4	Approved		FLJ20041	19q13.3	AK000048	NM_017636	TRP	Transient receptor potential cation channels	249
+14323	TRPM5	transient receptor potential cation channel subfamily M member 5	Approved		LTRPC5, MTR1	11p15.5	AF177473	NM_014555	TRP	Transient receptor potential cation channels	249
+17995	TRPM6	transient receptor potential cation channel subfamily M member 6	Approved	HOMG, HSH	CHAK2, FLJ22628	9q21.13	AK026281	NM_017662	TRP	Transient receptor potential cation channels	249
+17994	TRPM7	transient receptor potential cation channel subfamily M member 7	Approved		CHAK1, LTRPC7, TRP-PLIK	15q21.2	AF346629	NM_017672	TRP	Transient receptor potential cation channels	249
+17961	TRPM8	transient receptor potential cation channel subfamily M member 8	Approved			2q37.1	AC005538	NM_024080	TRP	Transient receptor potential cation channels	249
+13356	MCOLN1	mucolipin 1	Approved		TRPML1, ML4, MLIV, MST080, MSTP080, TRPM-L1	19p13.2	AF249319	NM_020533	TRP	Transient receptor potential cation channels	249
+13357	MCOLN2	mucolipin 2	Approved		TRPML2, FLJ36691, TRP-ML2	1p22.3	AK094010	NM_153259	TRP	Transient receptor potential cation channels	249
+13358	MCOLN3	mucolipin 3	Approved		TRPML3, FLJ11006, TRP-ML3	1p22.3	AF475085	NM_018298	TRP	Transient receptor potential cation channels	249
+9009	PKD2	polycystin 2, transient receptor potential cation channel	Approved		PKD4, PC2, Pc-2, TRPP2	4q22.1	U50928	NM_000297	TRP	Transient receptor potential cation channels	249
+9011	PKD2L1	polycystin 2 like 1, transient receptor potential cation channel	Approved	PKD2L, PKDL	PCL, TRPP3	10q24.31	AF094827	NM_016112	TRP	Transient receptor potential cation channels	249
+9012	PKD2L2	polycystin 2 like 2, transient receptor potential cation channel	Approved		TRPP5	5q31.2	AF118125	NM_014386	TRP	Transient receptor potential cation channels	249
+12716	TRPV1	transient receptor potential cation channel subfamily V member 1	Approved	VR1		17p13.2	AJ272063	NM_018727	TRP	Transient receptor potential cation channels	249
+18082	TRPV2	transient receptor potential cation channel subfamily V member 2	Approved		VRL, VRL-1, VRL1	17p11.2	AF129112	NM_016113	TRP	Transient receptor potential cation channels	249
+18084	TRPV3	transient receptor potential cation channel subfamily V member 3	Approved		VRL3	17p13.2	AF514998	NM_145068	TRP	Transient receptor potential cation channels	249
+18083	TRPV4	transient receptor potential cation channel subfamily V member 4	Approved		OTRPC4, TRP12, VROAC, VRL-2, VR-OAC, CMT2C	12q24.11	AF263523	NM_021625	TRP	Transient receptor potential cation channels	249
+3145	TRPV5	transient receptor potential cation channel subfamily V member 5	Approved	ECAC1	CaT2	7q34	AJ271207	NM_019841	TRP	Transient receptor potential cation channels	249
+14006	TRPV6	transient receptor potential cation channel subfamily V member 6	Approved	ECAC2	CaT1	7q34	AJ277909	NM_014274	TRP	Transient receptor potential cation channels	249
+18182	TPCN1	two pore segment channel 1	Approved		KIAA1169, FLJ20612, TPC1	12q24.13	AB032995	NM_017901	TPCN	Two pore segment channels	247
+20820	TPCN2	two pore segment channel 2	Approved		TPC2	11q13.3	AK023366	NM_139075	TPCN	Two pore segment channels	247
+12669	VDAC1	voltage dependent anion channel 1	Approved		MGC111064, PORIN	5q31.1			VDAC	Voltage dependent anion channels	306
+12672	VDAC2	voltage dependent anion channel 2	Approved			10q22.2	BC000165	NM_003375	VDAC	Voltage dependent anion channels	306
+12674	VDAC3	voltage dependent anion channel 3	Approved		HD-VDAC3	8p11.21	AF038962		VDAC	Voltage dependent anion channels	306
+19027	LRRC8A	leucine rich repeat containing 8 VRAC subunit A	Approved	LRRC8	KIAA1437, FLJ10337, SWELL1	9q34.11	AB037858	NM_019594	LRRC8	Volume regulated anion channel subunits	1158
+30692	LRRC8B	leucine rich repeat containing 8 VRAC subunit B	Approved		TA-LRRP, KIAA0231	1p22.2	AF385436	NM_015350	LRRC8	Volume regulated anion channel subunits	1158
+25075	LRRC8C	leucine rich repeat containing 8 VRAC subunit C	Approved		AD158	1p22.2		NM_032270	LRRC8	Volume regulated anion channel subunits	1158
+16992	LRRC8D	leucine rich repeat containing 8 VRAC subunit D	Approved	LRRC5	FLJ10470	1p22.2	AK001332	NM_018103	LRRC8	Volume regulated anion channel subunits	1158
+26272	LRRC8E	leucine rich repeat containing 8 VRAC subunit E	Approved		FLJ23420	19p13.2		NM_025061	LRRC8	Volume regulated anion channel subunits	1158
+29504	ZACN	zinc activated ion channel	Approved	LGICZ1	LGICZ, L2, ZAC, ZAC1	17q25.1	AK122638	NM_180990	ZACN	Zinc activated channels	176

@@ -1,0 +1,160 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+652	ARF1	ADP ribosylation factor 1	Approved			1q42.13	M84326	NM_001024227		ARF GTPase family	357
+654	ARF3	ADP ribosylation factor 3	Approved			12q13.12	M74491	NM_001659		ARF GTPase family	357
+655	ARF4	ADP ribosylation factor 4	Approved	ARF2		3p14.3	M36341	NM_001660		ARF GTPase family	357
+658	ARF5	ADP ribosylation factor 5	Approved			7q32.1		NM_001662		ARF GTPase family	357
+659	ARF6	ADP ribosylation factor 6	Approved			14q21.3		NM_001663		ARF GTPase family	357
+660	TRIM23	tripartite motif containing 23	Approved	ARFD1	ARD1, RNF46	5q12.3	L04510	NM_001656		ARF GTPase family	357
+692	ARL1	ADP ribosylation factor like GTPase 1	Approved		ARFL1	12q23.2	BX537387	NM_001177		ARF GTPase family	357
+22042	ARL10	ADP ribosylation factor like GTPase 10	Approved	ARL10A		5q35.2	BK001673	NM_173664		ARF GTPase family	357
+24046	ARL11	ADP ribosylation factor like GTPase 11	Approved		ARLTS1, FLJ33930	13q14.2	AF441378	NM_138450		ARF GTPase family	357
+31709	ARL13A	ADP ribosylation factor like GTPase 13A	Approved	ARL13		Xq22.1		NM_001162491		ARF GTPase family	357
+25419	ARL13B	ADP ribosylation factor like GTPase 13B	Approved	ARL2L1	DKFZp761H079, JBTS8	3q11.1-q11.2	AL713789	NM_182896		ARF GTPase family	357
+22974	ARL14	ADP ribosylation factor like GTPase 14	Approved	ARF7	FLJ22595	3q25.33	AK026248	NM_025047		ARF GTPase family	357
+25945	ARL15	ADP ribosylation factor like GTPase 15	Approved	ARFRP2	FLJ20051	5q11.2	BC026093	NM_019087		ARF GTPase family	357
+27902	ARL16	ADP ribosylation factor like GTPase 16	Approved			17q25.3		NM_001040025		ARF GTPase family	357
+24096	ARL17A	ADP ribosylation factor like GTPase 17A	Approved	ARF1P2, ARL17P1		17q21.31	AF208864	NM_016632		ARF GTPase family	357
+32387	ARL17B	ADP ribosylation factor like GTPase 17B	Approved	ARL17		17q21.31	AF493886	NM_001039083		ARF GTPase family	357
+662	ARFRP1	ADP ribosylation factor related protein 1	Approved		ARP, Arp1, ARL18	20q13.33	X91504			ARF GTPase family	357
+693	ARL2	ADP ribosylation factor like GTPase 2	Approved		ARFL2	11q13.1	AF493888	NM_001667		ARF GTPase family	357
+694	ARL3	ADP ribosylation factor like GTPase 3	Approved		ARFL3	10q24.32	U07151	NM_004311		ARF GTPase family	357
+695	ARL4A	ADP ribosylation factor like GTPase 4A	Approved	ARL4		7p21.3	U73960	NM_005738		ARF GTPase family	357
+698	ARL4C	ADP ribosylation factor like GTPase 4C	Approved	ARL7	LAK	2q37.1	AB016811	NM_005737		ARF GTPase family	357
+656	ARL4D	ADP ribosylation factor like GTPase 4D	Approved	ARF4L		17q21.31	AB060692	NM_001661		ARF GTPase family	357
+696	ARL5A	ADP ribosylation factor like GTPase 5A	Approved	ARL5		2q23.3	AF100740	NM_012097		ARF GTPase family	357
+23052	ARL5B	ADP ribosylation factor like GTPase 5B	Approved	ARL8		10p12.31	AF494061	NM_178815		ARF GTPase family	357
+31111	ARL5C	ADP ribosylation factor like GTPase 5C	Approved	ARL12		17q12		NM_001143968		ARF GTPase family	357
+13210	ARL6	ADP ribosylation factor like GTPase 6	Approved	BBS3	RP55	3q11.2	BC024239	NM_032146		ARF GTPase family	357
+25192	ARL8A	ADP ribosylation factor like GTPase 8A	Approved	ARL10B	FLJ45195, Gie2	1q32.1	BC015408	NM_138795		ARF GTPase family	357
+25564	ARL8B	ADP ribosylation factor like GTPase 8B	Approved	ARL10C	FLJ10702, Gie1	3p26.1	AK001564	NM_018184		ARF GTPase family	357
+23592	ARL9	ADP ribosylation factor like GTPase 9	Approved			4q12	AY439003	NM_206919		ARF GTPase family	357
+10534	SAR1A	secretion associated Ras related GTPase 1A	Approved	SARA1	SAR1, Sara	10q22.1				ARF GTPase family	357
+10535	SAR1B	secretion associated Ras related GTPase 1B	Approved	SARA2		5q31.1	AF092130	NM_016103		ARF GTPase family	357
+21168	RHOT1	ras homolog family member T1	Approved	ARHT1	MIRO-1, FLJ11040	17q11.2	AJ517412	NM_018307		Miro like atypical Rho GTPases	392
+21169	RHOT2	ras homolog family member T2	Approved	C16orf39, ARHT2	MIRO-2	16p13.3	BC014942	NM_138769		Miro like atypical Rho GTPases	392
+9799	RABL2A	RAB, member of RAS oncogene family like 2A	Approved			2q14.1			RABL	RAB like GTPases	394
+9800	RABL2B	RAB, member of RAS oncogene family like 2B	Approved			22q13.33		NM_001003789	RABL	RAB like GTPases	394
+18072	RABL3	RAB, member of RAS oncogene family like 3	Approved		MGC23920	3q13.33	BC020832	NM_173825	RABL	RAB like GTPases	394
+21895	IFT22	intraflagellar transport 22	Approved	RABL5	FLJ14117, FLJ13225, DKFZp761N0823	7q22.1	AK024179	NM_022777	RABL	RAB like GTPases	394
+24703	RABL6	RAB, member RAS oncogene family like 6	Approved	C9orf86	FLJ10101, FLJ13045, pp8875, bA216L13.9, Parf, RBEL1	9q34.3	AK094382	NM_024718	RABL	RAB like GTPases	394
+9759	RAB10	RAB10, member RAS oncogene family	Approved			2p23.3	AF106681	NM_016131	RAB	RAB, member RAS oncogene GTPases	388
+9760	RAB11A	RAB11A, member RAS oncogene family	Approved		YL8	15q22.31	X56740		RAB	RAB, member RAS oncogene GTPases	388
+9761	RAB11B	RAB11B, member RAS oncogene family	Approved		H-YPT3	19p13.2	X79780	NM_004218	RAB	RAB, member RAS oncogene GTPases	388
+31332	RAB12	RAB12, member RAS oncogene family	Approved			18p11.22		XM_113967	RAB	RAB, member RAS oncogene GTPases	388
+9762	RAB13	RAB13, member RAS oncogene family	Approved			1q21.3	X75593	NM_002870	RAB	RAB, member RAS oncogene GTPases	388
+16524	RAB14	RAB14, member RAS oncogene family	Approved		FBP, RAB-14	9q33.2	AF152463	NM_016322	RAB	RAB, member RAS oncogene GTPases	388
+20150	RAB15	RAB15, member RAS oncogene family	Approved			14q23.3	BC014511	NM_198686	RAB	RAB, member RAS oncogene GTPases	388
+16523	RAB17	RAB17, member RAS oncogene family	Approved			2q37.3	AK022600		RAB	RAB, member RAS oncogene GTPases	388
+14244	RAB18	RAB18, member RAS oncogene family	Approved			10p12.1	AJ277145	NM_021252	RAB	RAB, member RAS oncogene GTPases	388
+19982	RAB19	RAB19, member RAS oncogene family	Approved		RAB19B	7q34			RAB	RAB, member RAS oncogene GTPases	388
+9758	RAB1A	RAB1A, member RAS oncogene family	Approved	RAB1	YPT1	2p14	M28209	NM_004161	RAB	RAB, member RAS oncogene GTPases	388
+18370	RAB1B	RAB1B, member RAS oncogene family	Approved			11q13.2	AJ245875	NM_030981	RAB	RAB, member RAS oncogene GTPases	388
+23683	RAB1C	RAB1C, member RAS oncogene family pseudogene	Approved			9p13.2			RAB	RAB, member RAS oncogene GTPases	388
+18260	RAB20	RAB20, member RAS oncogene family	Approved		FLJ20429	13q34	AK000436	NM_017817	RAB	RAB, member RAS oncogene GTPases	388
+18263	RAB21	RAB21, member RAS oncogene family	Approved		KIAA0118	12q21.1	AF091035		RAB	RAB, member RAS oncogene GTPases	388
+9764	RAB22A	RAB22A, member RAS oncogene family	Approved			20q13.32	AF091034		RAB	RAB, member RAS oncogene GTPases	388
+14263	RAB23	RAB23, member RAS oncogene family	Approved			6p12.1-p11.2	AB034244		RAB	RAB, member RAS oncogene GTPases	388
+9765	RAB24	RAB24, member RAS oncogene family	Approved			5q35.3	AF087904	NM_130781	RAB	RAB, member RAS oncogene GTPases	388
+18238	RAB25	RAB25, member RAS oncogene family	Approved		CATX-8	1q22	AF083124		RAB	RAB, member RAS oncogene GTPases	388
+14259	RAB26	RAB26, member RAS oncogene family	Approved			16p13.3	AB027137		RAB	RAB, member RAS oncogene GTPases	388
+9766	RAB27A	RAB27A, member RAS oncogene family	Approved		RAB27, RAM, GS2, HsT18676	15q21.3	U38654	NM_004580, NM_183236	RAB	RAB, member RAS oncogene GTPases	388
+9767	RAB27B	RAB27B, member RAS oncogene family	Approved			18q21.2	U57093	NM_004163	RAB	RAB, member RAS oncogene GTPases	388
+9768	RAB28	RAB28, member RAS oncogene family	Approved			4p15.33	X94703	NM_001017979	RAB	RAB, member RAS oncogene GTPases	388
+9789	RAB29	RAB29, member RAS oncogene family	Approved	RAB7L, RAB7L1		1q32.1	D84488	NM_003929	RAB	RAB, member RAS oncogene GTPases	388
+9763	RAB2A	RAB2A, member RAS oncogene family	Approved	RAB2		8q12.1-q12.2			RAB	RAB, member RAS oncogene GTPases	388
+20246	RAB2B	RAB2B, member RAS oncogene family	Approved		FLJ14824	14q11.2	AK027730		RAB	RAB, member RAS oncogene GTPases	388
+9770	RAB30	RAB30, member RAS oncogene family	Approved			11q14.1	U57092	NM_014488	RAB	RAB, member RAS oncogene GTPases	388
+9771	RAB31	RAB31, member RAS oncogene family	Approved		Rab22B	18p11.22	U59877		RAB	RAB, member RAS oncogene GTPases	388
+9772	RAB32	RAB32, member RAS oncogene family	Approved			6q24.3	U71127	NM_006834	RAB	RAB, member RAS oncogene GTPases	388
+9773	RAB33A	RAB33A, member RAS oncogene family	Approved		RabS10	Xq26.1	D14889	NM_004794	RAB	RAB, member RAS oncogene GTPases	388
+16075	RAB33B	RAB33B, member RAS oncogene family	Approved		DKFZP434G099	4q31.1	AF350420	NM_031296	RAB	RAB, member RAS oncogene GTPases	388
+16519	RAB34	RAB34, member RAS oncogene family	Approved		RAB39, RAH, NARR	17q11.2	AF322067	NM_031934	RAB	RAB, member RAS oncogene GTPases	388
+9774	RAB35	RAB35, member RAS oncogene family	Approved		H-ray	12q24.23	X79781		RAB	RAB, member RAS oncogene GTPases	388
+9775	RAB36	RAB36, member RAS oncogene family	Approved			22q11.23	AB023061	NM_004914	RAB	RAB, member RAS oncogene GTPases	388
+30268	RAB37	RAB37, member RAS oncogene family	Approved			17q25.1	BC040547	NM_175738	RAB	RAB, member RAS oncogene GTPases	388
+9776	RAB38	RAB38, member RAS oncogene family	Approved		NY-MEL-1	11q14.2	AF235022		RAB	RAB, member RAS oncogene GTPases	388
+16521	RAB39A	RAB39A, member RAS oncogene family	Approved	RAB39		11q22.3	X99962	NM_017516	RAB	RAB, member RAS oncogene GTPases	388
+16499	RAB39B	RAB39B, member RAS oncogene family	Approved	MRX72, WSN		Xq28	AY052478	NM_171998	RAB	RAB, member RAS oncogene GTPases	388
+9777	RAB3A	RAB3A, member RAS oncogene family	Approved			19p13.11		NM_002866	RAB	RAB, member RAS oncogene GTPases	388
+9778	RAB3B	RAB3B, member RAS oncogene family	Approved			1p32.3	BC005035	NM_002867	RAB	RAB, member RAS oncogene GTPases	388
+30269	RAB3C	RAB3C, member RAS oncogene family	Approved			5q11.2	AY026936	NM_138453	RAB	RAB, member RAS oncogene GTPases	388
+9779	RAB3D	RAB3D, member RAS oncogene family	Approved	GOV	RAB16, D2-2, RAD3D	19p13.2	AF081353	NM_004283	RAB	RAB, member RAS oncogene GTPases	388
+18283	RAB40A	RAB40A, member RAS oncogene family	Approved		RAR2A, Rar-2	Xq22.2	AF132748		RAB	RAB, member RAS oncogene GTPases	388
+18284	RAB40B	RAB40B, member RAS oncogene family	Approved		SEC4L, RAR	17q25.3	U05227		RAB	RAB, member RAS oncogene GTPases	388
+18285	RAB40C	RAB40C, member RAS oncogene family	Approved	RASL8C	RARL	16p13.3	Z84779	NM_021168	RAB	RAB, member RAS oncogene GTPases	388
+18293	RAB41	RAB41, member RAS oncogene family	Approved			Xq13.1		XM_293398	RAB	RAB, member RAS oncogene GTPases	388
+28702	RAB42	RAB42, member RAS oncogene family	Approved		MGC45806	1p35.3	BC033175	NM_152304	RAB	RAB, member RAS oncogene GTPases	388
+19983	RAB43	RAB43, member RAS oncogene family	Approved		RAB41, RAB11B, ISY1	3q21.3	AY166852	XM_290714	RAB	RAB, member RAS oncogene GTPases	388
+21068	RAB44	RAB44, member RAS oncogene family	Approved	RASD3, RASL13	dJ431A14.3	6p21.2		XM_003403440	RAB	RAB, member RAS oncogene GTPases	388
+26464	RASEF	RAS and EF-hand domain containing	Approved	RAB45	FLJ31614	9q21.32	AK056176	NM_152573	RAB	RAB, member RAS oncogene GTPases	388
+9781	RAB4A	RAB4A, member RAS oncogene family	Approved	RAB4	HRES-1/RAB4	1q42.13	BC004309	NM_004578	RAB	RAB, member RAS oncogene GTPases	388
+9782	RAB4B	RAB4B, member RAS oncogene family	Approved		FLJ78649, MGC52123	19q13.2	AF165522	NM_016154	RAB	RAB, member RAS oncogene GTPases	388
+9783	RAB5A	RAB5A, member RAS oncogene family	Approved	RAB5		3p24.3		NM_004162	RAB	RAB, member RAS oncogene GTPases	388
+9784	RAB5B	RAB5B, member RAS oncogene family	Approved			12q13			RAB	RAB, member RAS oncogene GTPases	388
+9785	RAB5C	RAB5C, member RAS oncogene family	Approved	RABL	RAB5CL	17q21.2	U18420	NM_004583	RAB	RAB, member RAS oncogene GTPases	388
+9786	RAB6A	RAB6A, member RAS oncogene family	Approved	RAB6		11q13.4	AF130986		RAB	RAB, member RAS oncogene GTPases	388
+14902	RAB6B	RAB6B, member RAS oncogene family	Approved			3q22.1	AF166492		RAB	RAB, member RAS oncogene GTPases	388
+16525	RAB6C	RAB6C, member RAS oncogene family	Approved		WTH3	2q21.1	AF124200	NM_032144	RAB	RAB, member RAS oncogene GTPases	388
+9788	RAB7A	RAB7A, member RAS oncogene family	Approved	RAB7		3q21.3	X93499		RAB	RAB, member RAS oncogene GTPases	388
+30513	RAB7B	RAB7B, member RAS oncogene family	Approved		MGC9726, MGC16212	1q32.1	AY094596	NM_177403	RAB	RAB, member RAS oncogene GTPases	388
+7007	RAB8A	RAB8A, member RAS oncogene family	Approved	MEL	RAB8	19p13.11		NM_005370	RAB	RAB, member RAS oncogene GTPases	388
+30273	RAB8B	RAB8B, member RAS oncogene family	Approved			15q22.2	AL833365	NM_016530	RAB	RAB, member RAS oncogene GTPases	388
+9792	RAB9A	RAB9A, member RAS oncogene family	Approved	RAB9		Xp22.2	U44103	NM_004251	RAB	RAB, member RAS oncogene GTPases	388
+14090	RAB9B	RAB9B, member RAS oncogene family	Approved		RAB9L	Xq22.2	AB036693		RAB	RAB, member RAS oncogene GTPases	388
+18626	IFT27	intraflagellar transport 27	Approved	RABL4	RAYL, BBS19	22q12.3	Z80897	NM_006860	RAB	RAB, member RAS oncogene GTPases	388
+9846	RAN	RAN, member RAS oncogene family	Approved		ARA24, TC4, Gsp1	12q24.33	M31469	NM_006325	RAN	RAN family GTPases	391
+19127	DIRAS1	DIRAS family GTPase 1	Approved		Di-Ras1, GBTS1, RIG	19p13.3	BC030660		RAS	RAS type GTPase family	389
+19323	DIRAS2	DIRAS family GTPase 2	Approved		Di-Ras2, DKFZp761C07121	9q22.2	AB076889		RAS	RAS type GTPase family	389
+687	DIRAS3	DIRAS family GTPase 3	Approved	ARHI	NOEY2	1p31.3	U96750	NM_004675	RAS	RAS type GTPase family	389
+5174	ERAS	ES cell expressed Ras	Approved	HRAS2, HRASP		Xp11.23	X00419	NM_181532	RAS	RAS type GTPase family	389
+5173	HRAS	HRas proto-oncogene, GTPase	Approved	HRAS1		11p15.5	AJ437024	NM_176795	RAS	RAS type GTPase family	389
+6407	KRAS	KRAS proto-oncogene, GTPase	Approved	KRAS2	KRAS1	12p12.1	BC010502	NM_033360	RAS	RAS type GTPase family	389
+7227	MRAS	muscle RAS oncogene homolog	Approved		M-RAs, R-RAS3, RRAS3	3q22.3	AF022080		RAS	RAS type GTPase family	389
+17899	NKIRAS1	NFKB inhibitor interacting Ras like 1	Approved		KBRAS1, kappaB-Ras1	3p24.2	AF229839	NM_020345	RAS	RAS type GTPase family	389
+17898	NKIRAS2	NFKB inhibitor interacting Ras like 2	Approved		KBRAS2, DKFZP434N1526, kappaB-Ras2	17q21.2	AF229840	NM_017595	RAS	RAS type GTPase family	389
+7989	NRAS	NRAS proto-oncogene, GTPase	Approved		N-ras	1p13.2	BC005219	NM_002524	RAS	RAS type GTPase family	389
+9839	RALA	RAS like proto-oncogene A	Approved	RAL		7p14.1		NM_005402	RAS	RAS type GTPase family	389
+9840	RALB	RAS like proto-oncogene B	Approved			2q14.2		NM_002881	RAS	RAS type GTPase family	389
+9855	RAP1A	RAP1A, member of RAS oncogene family	Approved		KREV-1, SMGP21	1p13.2	BC014086	NM_002884	RAS	RAS type GTPase family	389
+9857	RAP1B	RAP1B, member of RAS oncogene family	Approved		K-REV, RAL1B, DKFZp586H0723	12q15		NM_001010942	RAS	RAS type GTPase family	389
+9861	RAP2A	RAP2A, member of RAS oncogene family	Approved	RAP2	K-REV	13q32.1	AF205602		RAS	RAS type GTPase family	389
+9862	RAP2B	RAP2B, member of RAS oncogene family	Approved			3q25.2		NM_002886	RAS	RAS type GTPase family	389
+21165	RAP2C	RAP2C, member of RAS oncogene family	Approved		DKFZp313B211	Xq26.2	BC051467	NM_021183	RAS	RAS type GTPase family	389
+18229	RASD2	RASD family member 2	Approved		TEM2, Rhes, MGC:4834	22q12.3	AF279143	NM_014310	RAS	RAS type GTPase family	389
+16954	RASL10A	RAS like family 10 member A	Approved		RRP22	22q12.2	Y07847		RAS	RAS type GTPase family	389
+30295	RASL10B	RAS like family 10 member B	Approved		VTS58635, RRP17	17q12	BC041133	NM_033315	RAS	RAS type GTPase family	389
+23802	RASL11A	RAS like family 11 member A	Approved			13q12.2	AY439004	NM_206827	RAS	RAS type GTPase family	389
+23804	RASL11B	RAS like family 11 member B	Approved			4q12	BK001672	NM_023940	RAS	RAS type GTPase family	389
+30289	RASL12	RAS like family 12	Approved		RIS	15q22.31	AF233588	NM_016563	RAS	RAS type GTPase family	389
+15980	RERG	RAS like estrogen regulated growth inhibitor	Approved		MGC15754	12p12.3	AF339750	NM_032918	RAS	RAS type GTPase family	389
+26213	RERGL	RERG like	Approved		FLJ22655	12p12.3	AK026308	NM_024730	RAS	RAS type GTPase family	389
+10011	RHEB	Ras homolog, mTORC1 binding	Approved	RHEB2		7q36.1	D78132	NM_005614	RAS	RAS type GTPase family	389
+21166	RHEBL1	RHEB like 1	Approved		MGC34869, FLJ25797, RHEB2	12q13.12	AK098663	NM_144593	RAS	RAS type GTPase family	389
+10023	RIT1	Ras like without CAAX 1	Approved	RIT	RIBB, ROC1, MGC125864, MGC125865	1q22	AF084462	NM_006912	RAS	RAS type GTPase family	389
+10017	RIT2	Ras like without CAAX 2	Approved	RIN	RIBA	18q12.3	BC018060	NM_002930	RAS	RAS type GTPase family	389
+10447	RRAS	RAS related	Approved		R-Ras	19q13.33		NM_006270	RAS	RAS type GTPase family	389
+17271	RRAS2	RAS related 2	Approved		TC21	11p15.2	M31468	NM_012250	RAS	RAS type GTPase family	389
+4234	GEM	GTP binding protein overexpressed in skeletal muscle	Approved		KIR	8q22.1		NM_181702		RGK type GTPase family	1260
+15922	REM1	RRAD and GEM like GTPase 1	Approved	REM	GES	20q11.21	AF152863	NM_014012		RGK type GTPase family	1260
+20248	REM2	RRAD and GEM like GTPase 2	Approved		FLJ38964	14q11.2		NM_173527		RGK type GTPase family	1260
+10446	RRAD	RRAD, Ras related glycolysis inhibitor and calcium channel regulator	Approved		REM3, RAD	16q22.1	L24564	NM_004165		RGK type GTPase family	1260
+1736	CDC42	cell division cycle 42	Approved		G25K, CDC42Hs	1p36.12	BC018266	NM_001791	RHO	Rho family GTPases	390
+9801	RAC1	Rac family small GTPase 1	Approved		TC-25, p21-Rac1, Rac-1	7p22.1	AJ132695	NM_018890	RHO	Rho family GTPases	390
+9802	RAC2	Rac family small GTPase 2	Approved		EN-7	22q13.1	M64595		RHO	Rho family GTPases	390
+9803	RAC3	Rac family small GTPase 3	Approved			17q25.3	AF008591		RHO	Rho family GTPases	390
+667	RHOA	ras homolog family member A	Approved	ARH12, ARHA	RhoA, Rho12, RHOH12	3p21.31	BC001360	NM_001664	RHO	Rho family GTPases	390
+668	RHOB	ras homolog family member B	Approved	ARH6, ARHB	RhoB, RHOH6, MST081	2p24.1		NM_004040	RHO	Rho family GTPases	390
+18738	RHOBTB1	Rho related BTB domain containing 1	Approved		KIAA0740	10q21.2	AB018283		RHO	Rho family GTPases	390
+18756	RHOBTB2	Rho related BTB domain containing 2	Approved		KIAA0717, DBC2	8p21.3	AF315385		RHO	Rho family GTPases	390
+669	RHOC	ras homolog family member C	Approved	ARH9, ARHC	RhoC	1p13.2	BC052808	NM_175744	RHO	Rho family GTPases	390
+670	RHOD	ras homolog family member D	Approved	ARHD	RhoHP1, RhoD, Rho	11q13.2	D85815	NM_014578	RHO	Rho family GTPases	390
+15703	RHOF	ras homolog family member F, filopodia associated	Approved	ARHF	FLJ20247, RIF	12q24.31	AK000254		RHO	Rho family GTPases	390
+672	RHOG	ras homolog family member G	Approved	ARHG	RhoG, MGC125835, MGC125836	11p15.4	X61587	NM_001665	RHO	Rho family GTPases	390
+686	RHOH	ras homolog family member H	Approved	ARHH	RhoH, TTF	4p14	Z35227	NM_004310	RHO	Rho family GTPases	390
+688	RHOJ	ras homolog family member J	Approved	RASL7B, ARHJ	FLJ14445, TCL	14q23.2	AK027351		RHO	Rho family GTPases	390
+17736	RHOQ	ras homolog family member Q	Approved	RASL7A, ARHQ	TC10	2p21	M31470	NM_012249	RHO	Rho family GTPases	390
+17794	RHOU	ras homolog family member U	Approved	ARHU	WRCH-1, DJ646B12.2, FLJ10616, WRCH1, CDC42L1, hG28K, fJ646B12.2	1q42.13		NM_021205	RHO	Rho family GTPases	390
+18313	RHOV	ras homolog family member V	Approved	ARHV	Chp, WRCH2	15q15.1	AY059636		RHO	Rho family GTPases	390
+18314	RND1	Rho family GTPase 1	Approved		Rho6, ARHS, RHOS	12q13.12	Y07923	NM_014470	RHO	Rho family GTPases	390
+18315	RND2	Rho family GTPase 2	Approved	ARHN	Rho7, RhoN	17q21.31	X95456	NM_005440	RHO	Rho family GTPases	390
+671	RND3	Rho family GTPase 3	Approved	ARHE	RhoE, Rho8	2q23.3		NM_005168	RHO	Rho family GTPases	390

@@ -1,0 +1,153 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+347	AHNAK	AHNAK nucleoprotein	Approved		MGC5395	11q12.3	M80899	NM_024060	PDZ	PDZ domain containing	1220
+20125	AHNAK2	AHNAK nucleoprotein 2	Approved	C14orf78		14q32.33	AB095939	NM_138420	PDZ	PDZ domain containing	1220
+578	APBA1	amyloid beta precursor protein binding family A member 1	Approved	MINT1	D9S411E, X11	9q21.12	AF029106	NM_001163	PDZ	PDZ domain containing	1220
+579	APBA2	amyloid beta precursor protein binding family A member 2	Approved	X11L, MINT2	D15S1518E, LIN-10, MGC:14091, HsT16821	15q13.1	AB014719	NM_005503	PDZ	PDZ domain containing	1220
+580	APBA3	amyloid beta precursor protein binding family A member 3	Approved		X11L2, mint3	19p13.3	AB021638		PDZ	PDZ domain containing	1220
+23725	ARHGAP21	Rho GTPase activating protein 21	Approved		KIAA1424, ARHGAP10	10p12.1	AF480466	NM_020824	PDZ	PDZ domain containing	1220
+29293	ARHGAP23	Rho GTPase activating protein 23	Approved		KIAA1501	17q12	AB040934	NM_001199417	PDZ	PDZ domain containing	1220
+14580	ARHGEF11	Rho guanine nucleotide exchange factor 11	Approved		KIAA0380, GTRAP48, PDZ-RHOGEF	1q23.1	AB002378	NM_198236	PDZ	PDZ domain containing	1220
+14193	ARHGEF12	Rho guanine nucleotide exchange factor 12	Approved		KIAA0382, LARG	11q23.3	AF180681	NM_015313	PDZ	PDZ domain containing	1220
+16393	CARD11	caspase recruitment domain family member 11	Approved		CARMA1, BIMP3	7p22.2	AF322641	NM_032415	PDZ	PDZ domain containing	1220
+16446	CARD14	caspase recruitment domain family member 14	Approved	PSORS2	CARMA2, BIMP2	17q25.3	AF322642		PDZ	PDZ domain containing	1220
+1497	CASK	calcium/calmodulin dependent serine protein kinase	Approved	TNRC8	LIN2, CAGH39, FGS4	Xp11.4	AF035582	NM_003688	PDZ	PDZ domain containing	1220
+19700	CNKSR1	connector enhancer of kinase suppressor of Ras 1	Approved		CNK1, KSR, CNK	1p36.11	AF100153	NM_006314	PDZ	PDZ domain containing	1220
+19701	CNKSR2	connector enhancer of kinase suppressor of Ras 2	Approved		KIAA0902, CNK2, KSR2	Xp22.12	AB020709	NM_014927	PDZ	PDZ domain containing	1220
+23034	CNKSR3	CNKSR family member 3	Approved	MAGI1	FLJ31349	6q25.2	AK055911	NM_173515	PDZ	PDZ domain containing	1220
+9506	CYTIP	cytohesin 1 interacting protein	Approved	PSCDBP	B3-1, HE, CYBR, CASP, CYTHIP	2q24.1	L06633	NM_004288	PDZ	PDZ domain containing	1220
+22953	DEPTOR	DEP domain containing MTOR interacting protein	Approved	DEPDC6	DEP.6, FLJ12428	8q24.12		NM_022783	PDZ	PDZ domain containing	1220
+16361	WHRN	whirlin	Approved	DFNB31	CIP98, USH2D, PDZD7B	9q32	AK056190	NM_015404	PDZ	PDZ domain containing	1220
+2900	DLG1	discs large MAGUK scaffold protein 1	Approved		SAP97, SAP-97, hdlg, DLGH1, dJ1061C18.1.1	3q29	U13897	NM_004087	PDZ	PDZ domain containing	1220
+2901	DLG2	discs large MAGUK scaffold protein 2	Approved		PSD-93, PSD93, chapsyn-110, PPP1R58	11q14.1	U32376	NM_001364	PDZ	PDZ domain containing	1220
+2902	DLG3	discs large MAGUK scaffold protein 3	Approved		NE-Dlg, SAP102, SAP-102, NEDLG, KIAA1232, MRX90, PPP1R82	Xq13.1	U49089	NM_021120	PDZ	PDZ domain containing	1220
+2903	DLG4	discs large MAGUK scaffold protein 4	Approved		PSD-95, PSD95, SAP90, SAP-90	17p13.1	U83192	NM_001365	PDZ	PDZ domain containing	1220
+2904	DLG5	discs large MAGUK scaffold protein 5	Approved		P-dlg, KIAA0583	10q22.3	U61843	NM_004747	PDZ	PDZ domain containing	1220
+3084	DVL1	dishevelled segment polarity protein 1	Approved			1p36.33	AF006011	NM_004421	PDZ	PDZ domain containing	1220
+3086	DVL2	dishevelled segment polarity protein 2	Approved			17p13.1	BC014844	NM_004422	PDZ	PDZ domain containing	1220
+3087	DVL3	dishevelled segment polarity protein 3	Approved		KIAA0208	3q27.1	D86963	NM_004423	PDZ	PDZ domain containing	1220
+15842	ERBIN	erbb2 interacting protein	Approved	ERBB2IP	LAP2	5q12.3		NM_018695	PDZ	PDZ domain containing	1220
+29159	FRMPD1	FERM and PDZ domain containing 1	Approved		KIAA0967, FRMD2	9p13.2	AB023184	NM_014907	PDZ	PDZ domain containing	1220
+28572	FRMPD2	FERM and PDZ domain containing 2	Approved	PDZD5C, PDZK5C	MGC35285	10q11.22	AK123038	NM_152428	PDZ	PDZ domain containing	1220
+16843	FRMPD2B	FERM and PDZ domain containing 2B, pseudogene	Approved	PDZK5A, PDZD5A, FRMPD2L1, FRMPD2P2, PDZK5B, PDZD5B, FRMPD2L2, FRMPD2P1	yX59F3.2, bA556L1.2	10q11.22		NR_033172	PDZ	PDZ domain containing	1220
+29382	FRMPD3	FERM and PDZ domain containing 3	Approved		RP5-1070B1.1, KIAA1817	Xq22.3	AB058720	XM_042978	PDZ	PDZ domain containing	1220
+29007	FRMPD4	FERM and PDZ domain containing 4	Approved	PDZK10, PDZD10	KIAA0316	Xp22.2	AB002314	XM_045712	PDZ	PDZ domain containing	1220
+1226	GIPC1	GIPC PDZ domain containing family member 1	Approved	C19orf3, RGS19IP1	TIP-2, Hs.6454, GIPC, SEMCAP, GLUT1CBP, SYNECTIN, NIP	19p13.12	AF089816		PDZ	PDZ domain containing	1220
+18177	GIPC2	GIPC PDZ domain containing family member 2	Approved		FLJ20075, SEMCAP-2	1p31.1	AB073737	NM_017655	PDZ	PDZ domain containing	1220
+18183	GIPC3	GIPC PDZ domain containing family member 3	Approved	C19orf64, DFNB72, DFNB15	DFNB95	19p13.3	AB073738	NM_133261	PDZ	PDZ domain containing	1220
+17643	GOPC	golgi associated PDZ and coiled-coil motif containing	Approved		dJ94G16.2, PIST, FIG, GOPC1, CAL	6q22.1	AF287894	NM_020399	PDZ	PDZ domain containing	1220
+16769	GORASP1	golgi reassembly stacking protein 1	Approved	GOLPH5	GRASP65, P65, FLJ23443	3p22.2	AJ409349	NM_031899	PDZ	PDZ domain containing	1220
+17500	GORASP2	golgi reassembly stacking protein 2	Approved		GRASP55, GRS2, GOLPH6	2q31.1			PDZ	PDZ domain containing	1220
+18707	GRASP	general receptor for phosphoinositides 1 associated scaffold protein	Approved		Tamalin	12q13.13	AC019244		PDZ	PDZ domain containing	1220
+18464	GRID2IP	Grid2 interacting protein	Approved			7p22.1		XM_294249	PDZ	PDZ domain containing	1220
+18708	GRIP1	glutamate receptor interacting protein 1	Approved			12q14.3	AJ133439		PDZ	PDZ domain containing	1220
+23841	GRIP2	glutamate receptor interacting protein 2	Approved		KIAA1719	3p25.1	AB051506	NM_001080423	PDZ	PDZ domain containing	1220
+9476	HTRA1	HtrA serine peptidase 1	Approved	PRSS11	HtrA, IGFBP5-protease, ARMD7	10q26.13	AF097709	NM_002775	PDZ	PDZ domain containing	1220
+14348	HTRA2	HtrA serine peptidase 2	Approved	PRSS25	OMI, PARK13	2p13.1		NM_013247	PDZ	PDZ domain containing	1220
+30406	HTRA3	HtrA serine peptidase 3	Approved		Tasp, Prsp	4p16.1	AY040094	NM_053044	PDZ	PDZ domain containing	1220
+26909	HTRA4	HtrA serine peptidase 4	Approved		FLJ90724	8p11.22	AK075205	NM_153692	PDZ	PDZ domain containing	1220
+5980	IL16	interleukin 16	Approved		LCF, IL-16, prIL-16, HsT19289, FLJ42735, FLJ16806	15q25.1	U82972	NM_172217	PDZ	PDZ domain containing	1220
+28881	PATJ	PATJ, crumbs cell polarity complex component	Approved	INADL	Cipp	1p31.3	AB044807	NM_170605	PDZ	PDZ domain containing	1220
+29239	INTU	inturned planar cell polarity protein	Approved	PDZK6, PDZD6	KIAA1284, CPLANE4	4q28.1	BC051698	XM_371707	PDZ	PDZ domain containing	1220
+15710	LDB3	LIM domain binding 3	Approved	CMD1C	PDLIM6, KIAA0613, ZASP	10q23.2	AB014513		PDZ	PDZ domain containing	1220
+6613	LIMK1	LIM domain kinase 1	Approved		LIMK	7q11.23	D26309	NM_002314	PDZ	PDZ domain containing	1220
+6614	LIMK2	LIM domain kinase 2	Approved			22q12.2	D45906	NM_016733	PDZ	PDZ domain containing	1220
+17787	LIN7A	lin-7 homolog A, crumbs cell polarity complex component	Approved		MALS-1, TIP-33, LIN-7A, VELI1	12q21.31	AF028826		PDZ	PDZ domain containing	1220
+17788	LIN7B	lin-7 homolog B, crumbs cell polarity complex component	Approved		MALS-2, LIN-7B, VELI2	19q13.33	AF311862	NM_022165	PDZ	PDZ domain containing	1220
+17789	LIN7C	lin-7 homolog C, crumbs cell polarity complex component	Approved		MALS-3, Lin7c, LIN-7C, LIN-7-C, VELI3, FLJ11215	11p14	AK002077	NM_018362	PDZ	PDZ domain containing	1220
+6646	LMO7	LIM domain 7	Approved	FBXO20	FBX20, KIAA0858	13q22.2	AF092557	NM_005358	PDZ	PDZ domain containing	1220
+6657	LNX1	ligand of numb-protein X 1	Approved	LNX	MPDZ, PDZRN2	4q12	AF237782		PDZ	PDZ domain containing	1220
+20421	LNX2	ligand of numb-protein X 2	Approved	PDZRN1	MGC46315	13q12.2	AL138699		PDZ	PDZ domain containing	1220
+18531	LRRC7	leucine rich repeat containing 7	Approved		KIAA1365, densin-180	1p31.1		NM_020794	PDZ	PDZ domain containing	1220
+946	MAGI1	membrane associated guanylate kinase, WW and PDZ domain containing 1	Approved	BAIAP1	BAP1, MAGI-1, TNRC19, AIP3, WWP3	3p14.1	AB010894	NM_004742	PDZ	PDZ domain containing	1220
+18957	MAGI2	membrane associated guanylate kinase, WW and PDZ domain containing 2	Approved		AIP1, ARIP1, KIAA0705, ACVRIP1, MAGI-2	7q21.11	AB014605	NM_012301	PDZ	PDZ domain containing	1220
+29647	MAGI3	membrane associated guanylate kinase, WW and PDZ domain containing 3	Approved		MAGI-3	1p13.2	AF213259	NM_152900	PDZ	PDZ domain containing	1220
+30006	MAGIX	MAGI family member, X-linked	Approved		PDZX, JM10, FLJ21687	Xp11.23	AK025340	NM_024859	PDZ	PDZ domain containing	1220
+19034	MAST1	microtubule associated serine/threonine kinase 1	Approved		SAST, KIAA0973	19p13.2	AB023190	NM_014975	PDZ	PDZ domain containing	1220
+19035	MAST2	microtubule associated serine/threonine kinase 2	Approved		MAST205, KIAA0807	1p34.1	AB047005	NM_015112	PDZ	PDZ domain containing	1220
+19036	MAST3	microtubule associated serine/threonine kinase 3	Approved		KIAA0561	19p13.11	AB011133	XM_038150	PDZ	PDZ domain containing	1220
+19037	MAST4	microtubule associated serine/threonine kinase family member 4	Approved		KIAA0303	5q12.3	AY830839		PDZ	PDZ domain containing	1220
+7137	AFDN	afadin, adherens junction formation factor	Approved	MLLT4	AF-6, AF6	6q27	AB011399	NM_005936	PDZ	PDZ domain containing	1220
+7208	MPDZ	multiple PDZ domain crumbs cell polarity complex component	Approved		MUPP1	9p23	AF093419	NM_003829	PDZ	PDZ domain containing	1220
+7219	MPP1	membrane palmitoylated protein 1	Approved	DXS552E	PEMP	Xq28		NM_002436	PDZ	PDZ domain containing	1220
+7220	MPP2	membrane palmitoylated protein 2	Approved	DLG2	DKFZp761D0712	17q21.31		NM_005374	PDZ	PDZ domain containing	1220
+7221	MPP3	membrane palmitoylated protein 3	Approved	DLG3		17q21.31		NM_001932	PDZ	PDZ domain containing	1220
+13680	MPP4	membrane palmitoylated protein 4	Approved	DLG6		2q33.1	AF316032		PDZ	PDZ domain containing	1220
+18669	MPP5	membrane palmitoylated protein 5	Approved		PALS1, FLJ12615	14q23.3	AK022677	NM_022474	PDZ	PDZ domain containing	1220
+18167	MPP6	membrane palmitoylated protein 6	Approved		PALS2, VAM-1, p55T	7p15.3	AF162130		PDZ	PDZ domain containing	1220
+26542	MPP7	membrane palmitoylated protein 7	Approved		FLJ32798	10p12.1	BC038105	NM_173496	PDZ	PDZ domain containing	1220
+31104	MYO18A	myosin XVIIIA	Approved		KIAA0216, MysPDZ	17q11.2	D86970	NM_078471	PDZ	PDZ domain containing	1220
+7872	NOS1	nitric oxide synthase 1	Approved	NOS	nNOS	12q24.22			PDZ	PDZ domain containing	1220
+16051	PARD3	par-3 family cell polarity regulator	Approved		PAR3, PARD3A, Bazooka, Baz, ASIP, PPP1R118	10p11.22-p11.21	AF252293	NM_019619	PDZ	PDZ domain containing	1220
+14446	PARD3B	par-3 family cell polarity regulator beta	Approved	ALS2CR19	Par3L, PAR3beta	2q33.3	AB053321	NM_057177	PDZ	PDZ domain containing	1220
+15943	PARD6A	par-6 family cell polarity regulator alpha	Approved		PAR-6, PAR-6A, TAX40, PAR6alpha, TIP-40	16q22.1		NM_016948	PDZ	PDZ domain containing	1220
+16245	PARD6B	par-6 family cell polarity regulator beta	Approved		PAR-6B	20q13.13	AB044555	NM_032521	PDZ	PDZ domain containing	1220
+16076	PARD6G	par-6 family cell polarity regulator gamma	Approved		PAR-6G, PAR6gamma	18q23		NM_032510	PDZ	PDZ domain containing	1220
+13406	PCLO	piccolo presynaptic cytomatrix protein	Approved		KIAA0559, DKFZp779G1236, ACZ	7q21.11	AB011131	NM_014510	PDZ	PDZ domain containing	1220
+2067	PDLIM1	PDZ and LIM domain 1	Approved	CLIM1	CLP-36, hCLIM1, CLP36	10q23.33	U90878		PDZ	PDZ domain containing	1220
+13992	PDLIM2	PDZ and LIM domain 2	Approved			8p21.3	AY007729		PDZ	PDZ domain containing	1220
+20767	PDLIM3	PDZ and LIM domain 3	Approved		ALP	4q35.1	AF002280	NM_014476	PDZ	PDZ domain containing	1220
+16501	PDLIM4	PDZ and LIM domain 4	Approved		RIL	5q31.1	AF153882	NM_003687	PDZ	PDZ domain containing	1220
+17468	PDLIM5	PDZ and LIM domain 5	Approved		LIM, Enh	4q22.3	AF061258		PDZ	PDZ domain containing	1220
+22958	PDLIM7	PDZ and LIM domain 7	Approved		ENIGMA	5q35.3	BC001093	NM_005451	PDZ	PDZ domain containing	1220
+28034	PDZD11	PDZ domain containing 11	Approved	PDZK11		Xq13.1	AF151061	NM_016484	PDZ	PDZ domain containing	1220
+18486	PDZD2	PDZ domain containing 2	Approved	PDZK3	KIAA0300	5p13.3	AB002298		PDZ	PDZ domain containing	1220
+19891	PDZD3	PDZ domain containing 3	Approved	PDZK2	FLJ22756, IKEPP	11q23.3	AK091966	NM_024791	PDZ	PDZ domain containing	1220
+21167	PDZD4	PDZ domain containing 4	Approved	PDZK4	KIAA1444, LU1, FLJ34125, PDZRN4L, LNX5	Xq28	AK091444	NM_032512	PDZ	PDZ domain containing	1220
+26257	PDZD7	PDZ domain containing 7	Approved	PDZK7, DFNB57	FLJ23209, bA108L7.8	10q24.31	AK026862	NM_024895	PDZ	PDZ domain containing	1220
+26974	PDZD8	PDZ domain containing 8	Approved	PDZK8	bA129M16.2, FLJ34427	10q25.3-q26.11	AL122051	NM_173791	PDZ	PDZ domain containing	1220
+28740	PDZD9	PDZ domain containing 9	Approved	C16orf65	MGC50721	16p12.2	BC039562	NM_173806	PDZ	PDZ domain containing	1220
+8821	PDZK1	PDZ domain containing 1	Approved		PDZD1, NHERF3	1q21.1	AF012281	NM_002614	PDZ	PDZ domain containing	1220
+51488	PDZPH1P	PDZ and pleckstrin homology domains 1, pseudogene	Approved			5q21.2			PDZ	PDZ domain containing	1220
+17704	PDZRN3	PDZ domain containing ring finger 3	Approved		KIAA1095, SEMACAP3, LNX3	3p13	AB029018	NM_015009	PDZ	PDZ domain containing	1220
+30552	PDZRN4	PDZ domain containing ring finger 4	Approved		DKFZp434B0417, LNX4, FLJ33777, IMAGE5767589	12q12	AK094690	NM_013377	PDZ	PDZ domain containing	1220
+9394	PICK1	protein interacting with PRKCA 1	Approved	PRKCABP	dJ1039K5, MGC15204	22q13.1	AL049654	NM_012407	PDZ	PDZ domain containing	1220
+14946	PPP1R9A	protein phosphatase 1 regulatory subunit 9A	Approved		Neurabin-I, KIAA1222, FLJ20068	7q21.3	AB033048	NM_001166160	PDZ	PDZ domain containing	1220
+9298	PPP1R9B	protein phosphatase 1 regulatory subunit 9B	Approved	PPP1R6, PPP1R9	Spn, SPINO	17q21.33	AJ401189	NM_032595	PDZ	PDZ domain containing	1220
+32594	PREX1	phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 1	Approved		KIAA1415, P-REX1	20q13.13	AB037836	NM_020820	PDZ	PDZ domain containing	1220
+22950	PREX2	phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 2	Approved	DEPDC2	DEP.2, FLJ12987, P-REX2, PPP1R129	8q13.2	AK024079	NM_025170	PDZ	PDZ domain containing	1220
+13797	PRX	periaxin	Approved		KIAA1620	19q13.2	AB046840	NM_020956	PDZ	PDZ domain containing	1220
+9567	PSMD9	proteasome 26S subunit, non-ATPase 9	Approved		p27, Rpn4	12q24.31	AB003177	NM_002813	PDZ	PDZ domain containing	1220
+9646	PTPN13	protein tyrosine phosphatase, non-receptor type 13	Approved		PTP1E, PTP-BAS, PTPL1, PTP-BL	4q21.3			PDZ	PDZ domain containing	1220
+9655	PTPN3	protein tyrosine phosphatase, non-receptor type 3	Approved		PTPH1	9q31			PDZ	PDZ domain containing	1220
+9656	PTPN4	protein tyrosine phosphatase, non-receptor type 4	Approved		PTPMEG	2q14.2			PDZ	PDZ domain containing	1220
+22226	RADIL	Rap associating with DIL domain	Approved		FLJ10324, KIAA1849, RASIP2	7p22.1	AB058752	NM_018059	PDZ	PDZ domain containing	1220
+16854	RAPGEF2	Rap guanine nucleotide exchange factor 2	Approved	PDZGEF1	PDZ-GEF1, RA-GEF, DKFZP586O1422, KIAA0313	4q32.1	AB002311	NM_014247	PDZ	PDZ domain containing	1220
+20655	RAPGEF6	Rap guanine nucleotide exchange factor 6	Approved	PDZGEF2	RA-GEF-2, PDZ-GEF2	5q31.1	AF117947	NM_016340	PDZ	PDZ domain containing	1220
+9994	RGS12	regulator of G protein signaling 12	Approved			4p16.3	AF035152	NM_002926	PDZ	PDZ domain containing	1220
+9999	RGS3	regulator of G protein signaling 3	Approved		C2PA, FLJ20370, PDZ-RGS3	9q32	AF006610	NM_017790	PDZ	PDZ domain containing	1220
+19973	RHPN1	rhophilin Rho GTPase binding protein 1	Approved		KIAA1929, RHPN, ODF5	8q24.3	AB067516		PDZ	PDZ domain containing	1220
+19974	RHPN2	rhophilin Rho GTPase binding protein 2	Approved			19q13.12	AF268032	NM_033103	PDZ	PDZ domain containing	1220
+17282	RIMS1	regulating synaptic membrane exocytosis 1	Approved	RAB3IP2, CORD7	RIM, KIAA0340, RIM1	6q13	AB002338	NM_014989	PDZ	PDZ domain containing	1220
+17283	RIMS2	regulating synaptic membrane exocytosis 2	Approved	RAB3IP3	KIAA0751, RIM2, OBOE	8q22.3	AB018294	NM_001100117	PDZ	PDZ domain containing	1220
+30377	SCRIB	scribbled planar cell polarity protein	Approved		KIAA0147, SCRB1, Vartul	8q24.3	AY062238	NM_015356	PDZ	PDZ domain containing	1220
+10662	SDCBP	syndecan binding protein	Approved		SYCL, MDA-9	8q12.1	AF000652	NM_005625	PDZ	PDZ domain containing	1220
+15756	SDCBP2	syndecan binding protein 2	Approved		ST-2, SITAC18	20p13	AF131809	NM_080489	PDZ	PDZ domain containing	1220
+15474	SHANK1	SH3 and multiple ankyrin repeat domains 1	Approved		SSTRIP, SPANK-1, synamon	19q13.33	AF163302	NM_016148	PDZ	PDZ domain containing	1220
+14295	SHANK2	SH3 and multiple ankyrin repeat domains 2	Approved	CORTBP1	CTTNBP1, ProSAP1, SHANK, SPANK-3	11q13.3-q13.4	AF141901	NM_012309	PDZ	PDZ domain containing	1220
+14294	SHANK3	SH3 and multiple ankyrin repeat domains 3	Approved		SPANK-2, prosap2, KIAA1650, PSAP2	22q13.33	AB051437	NM_001080420	PDZ	PDZ domain containing	1220
+630	SHROOM2	shroom family member 2	Approved	APXL		Xp22.2	X83543	NM_001649	PDZ	PDZ domain containing	1220
+30422	SHROOM3	shroom family member 3	Approved		ShrmL, SHRM, KIAA1481, APXL3	4q21.1	AB055660	NM_020859	PDZ	PDZ domain containing	1220
+29215	SHROOM4	shroom family member 4	Approved		KIAA1202	Xp11.22	AB033028	NM_020717	PDZ	PDZ domain containing	1220
+10885	SIPA1	signal-induced proliferation-associated 1	Approved		SPA1	11q13.1	AH006363, BC010492, BM677738	NM_006747	PDZ	PDZ domain containing	1220
+20284	SIPA1L1	signal induced proliferation associated 1 like 1	Approved		KIAA0440, E6TP1	14q24.1	AB007900	NM_015556	PDZ	PDZ domain containing	1220
+23800	SIPA1L2	signal induced proliferation associated 1 like 2	Approved		KIAA1389	1q42.2	AB037810	XM_045839	PDZ	PDZ domain containing	1220
+23801	SIPA1L3	signal induced proliferation associated 1 like 3	Approved		KIAA0545	19q13.13-q13.2	AB011117	XM_032278	PDZ	PDZ domain containing	1220
+11075	SLC9A3R1	SLC9A3 regulator 1	Approved		NHERF, EBP50, NHERF1	17q25.1	AF015926		PDZ	PDZ domain containing	1220
+11076	SLC9A3R2	SLC9A3 regulator 2	Approved		SIP-1, TKA-1, NHERF-2, E3KARP	16p13.3	AF004900		PDZ	PDZ domain containing	1220
+11167	SNTA1	syntrophin alpha 1	Approved	SNT1	TACIP1, LQT12	20q11.21	U40571	NM_003098	PDZ	PDZ domain containing	1220
+11168	SNTB1	syntrophin beta 1	Approved	SNT2B1	59-DAP, A1B, BSYN2, TIP-43, SNT2	8q24.12	AF028828	NM_021021	PDZ	PDZ domain containing	1220
+11169	SNTB2	syntrophin beta 2	Approved	SNT2B2, SNTL, D16S2531E	EST25263, SNT3	16q22.1	U40572		PDZ	PDZ domain containing	1220
+13740	SNTG1	syntrophin gamma 1	Approved		SYN4, G1SYN	8q11.21	AJ003030		PDZ	PDZ domain containing	1220
+13741	SNTG2	syntrophin gamma 2	Approved		SYN5, G2SYN	2p25.3	AJ003029	NM_018968	PDZ	PDZ domain containing	1220
+20073	SNX27	sorting nexin family member 27	Approved		MY014, KIAA0488, MGC20471	1q21.3	AB007957	NM_030918	PDZ	PDZ domain containing	1220
+19694	STXBP4	syntaxin binding protein 4	Approved		Synip, MGC50337	17q22	BC041485	NM_178509	PDZ	PDZ domain containing	1220
+18955	SYNJ2BP	synaptojanin 2 binding protein	Approved		Arip2	14q24.2	AK002133	NM_018373	PDZ	PDZ domain containing	1220
+17732	SYNPO2	synaptopodin 2	Approved		MYOPODIN	4q26	AJ010482		PDZ	PDZ domain containing	1220
+23532	SYNPO2L	synaptopodin 2 like	Approved		FLJ12921	10q22.2	AK022983	NM_024875	PDZ	PDZ domain containing	1220
+30684	TAX1BP3	Tax1 binding protein 3	Approved		TIP-1	17p13.2	AF028823	NM_014604	PDZ	PDZ domain containing	1220
+11805	TIAM1	T cell lymphoma invasion and metastasis 1	Approved			21q22.11		NM_003253	PDZ	PDZ domain containing	1220
+11806	TIAM2	T cell lymphoma invasion and metastasis 2	Approved		STEF	6q25.2-q25.3		NM_012454	PDZ	PDZ domain containing	1220
+11827	TJP1	tight junction protein 1	Approved		ZO-1, MGC133289, DKFZp686M05161	15q13.1		NM_003257	PDZ	PDZ domain containing	1220
+11828	TJP2	tight junction protein 2	Approved	DFNA51	ZO-2, X104, ZO2	9q21.11	L27476	NM_201629	PDZ	PDZ domain containing	1220
+11829	TJP3	tight junction protein 3	Approved		ZO-3	19p13.3	AC005954		PDZ	PDZ domain containing	1220
+12597	USH1C	USH1 protein network component harmonin	Approved	DFNB18	PDZ73, harmonin, NY-CO-37, NY-CO-38, PDZ-73, AIE-75, PDZD7C	11p15.1	AB006955	NM_005709	PDZ	PDZ domain containing	1220

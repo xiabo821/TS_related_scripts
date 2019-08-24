@@ -1,0 +1,207 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+81	ABR	ABR, RhoGEF and GTPase activating protein	Approved		MDB	17p13.3	L19704		PLEKH	Pleckstrin homology domain containing	682
+16467	ACAP1	ArfGAP with coiled-coil, ankyrin repeat and PH domains 1	Approved	CENTB1	KIAA0050	17p13.1	D30758	NM_014716	PLEKH	Pleckstrin homology domain containing	682
+16469	ACAP2	ArfGAP with coiled-coil, ankyrin repeat and PH domains 2	Approved	CENTB2	KIAA0041, CNT-B2	3q29		NM_012287	PLEKH	Pleckstrin homology domain containing	682
+16754	ACAP3	ArfGAP with coiled-coil, ankyrin repeat and PH domains 3	Approved	CENTB5	KIAA1716	1p36.33	AF411981	NM_030649	PLEKH	Pleckstrin homology domain containing	682
+16486	ADAP1	ArfGAP with dual PH domains 1	Approved	CENTA1	GCS1L	7p22.3	AJ006422	NM_006869	PLEKH	Pleckstrin homology domain containing	682
+16487	ADAP2	ArfGAP with dual PH domains 2	Approved	CENTA2		17q11.2	AJ238994	NM_018404	PLEKH	Pleckstrin homology domain containing	682
+289	GRK2	G protein-coupled receptor kinase 2	Approved	ADRBK1	BARK1	11q13.2	X61157	NM_001619	PLEKH	Pleckstrin homology domain containing	682
+290	GRK3	G protein-coupled receptor kinase 3	Approved	ADRBK2	BARK2	22q12.1	X69117	NM_005160	PLEKH	Pleckstrin homology domain containing	682
+24017	AFAP1	actin filament associated protein 1	Approved		AFAP-110, AFAP	4p16.1	AB209676	NM_021638	PLEKH	Pleckstrin homology domain containing	682
+26714	AFAP1L1	actin filament associated protein 1 like 1	Approved		FLJ36748	5q32	AK094067	NM_152406	PLEKH	Pleckstrin homology domain containing	682
+25901	AFAP1L2	actin filament associated protein 1 like 2	Approved	KIAA1914	FLJ14564, Em:AC005383.4, XB130	10q25.3	BC024314	NM_032550	PLEKH	Pleckstrin homology domain containing	682
+16922	AGAP1	ArfGAP with GTPase domain, ankyrin repeat and PH domain 1	Approved	CENTG2	KIAA1099, GGAP1	2q37.2	AF413078	NM_014914	PLEKH	Pleckstrin homology domain containing	682
+16921	AGAP2	ArfGAP with GTPase domain, ankyrin repeat and PH domain 2	Approved	CENTG1		12q14.1	AF413077	NM_014770	PLEKH	Pleckstrin homology domain containing	682
+16923	AGAP3	ArfGAP with GTPase domain, ankyrin repeat and PH domain 3	Approved	CENTG3		7q36.1	AF413079	NM_031946	PLEKH	Pleckstrin homology domain containing	682
+23459	AGAP4	ArfGAP with GTPase domain, ankyrin repeat and PH domain 4	Approved	CTGLF1, AGAP8, CTGLF5	Em:AC012044.1, MRIP2	10q11.22	AF411132	NM_133446	PLEKH	Pleckstrin homology domain containing	682
+23467	AGAP5	ArfGAP with GTPase domain, ankyrin repeat and PH domain 5	Approved	CTGLF2	Em:AC073389.1	10q22.2		NM_001144000	PLEKH	Pleckstrin homology domain containing	682
+23466	AGAP6	ArfGAP with GTPase domain, ankyrin repeat and PH domain 6	Approved	CTGLF3	bA324H6.1	10q11.23		NM_001077665	PLEKH	Pleckstrin homology domain containing	682
+23465	AGAP7P	ArfGAP with GTPase domain, ankyrin repeat and PH domain 7, pseudogene	Approved	CTGLF4, AGAP7	bA109G10.1	10q11.22		NM_001077685	PLEKH	Pleckstrin homology domain containing	682
+23463	AGAP9	ArfGAP with GTPase domain, ankyrin repeat and PH domain 9	Approved	CTGLF6	bA301J7.2, FLJ00312	10q11.22		NM_001190810	PLEKH	Pleckstrin homology domain containing	682
+371	AKAP13	A-kinase anchoring protein 13	Approved	LBC	Ht31, BRX, AKAP-Lbc, c-lbc, PROTO-LB, HA-3, ARHGEF13	15q25.3	M90360	NM_007200	PLEKH	Pleckstrin homology domain containing	682
+391	AKT1	AKT serine/threonine kinase 1	Approved		RAC, PKB, PRKBA, AKT	14q32.33	M63167	NM_005163	PLEKH	Pleckstrin homology domain containing	682
+392	AKT2	AKT serine/threonine kinase 2	Approved			19q13.2	M77198	NM_001626	PLEKH	Pleckstrin homology domain containing	682
+393	AKT3	AKT serine/threonine kinase 3	Approved		PKBG, RAC-gamma, PRKBG	1q43-q44	AF124141	NM_181690	PLEKH	Pleckstrin homology domain containing	682
+14082	ANLN	anillin actin binding protein	Approved		ANILLIN, Scraps, scra	7p14.2	AF273437	NM_018685	PLEKH	Pleckstrin homology domain containing	682
+17379	APBB1IP	amyloid beta precursor protein binding family B member 1 interacting protein	Approved		INAG1, RIAM	10p12.1	AB085852	NM_019043	PLEKH	Pleckstrin homology domain containing	682
+24035	APPL1	adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 1	Approved		APPL	3p14.3	AB037849	NM_012096	PLEKH	Pleckstrin homology domain containing	682
+18242	APPL2	adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 2	Approved		FLJ10659, DIP13B	12q23.3	AY113704	NM_018171	PLEKH	Pleckstrin homology domain containing	682
+16925	ARAP1	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	Approved	CENTD2		11q13.4	AF411983	NM_001040118	PLEKH	Pleckstrin homology domain containing	682
+16924	ARAP2	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 2	Approved	CENTD1	PARX	4p14	AF411982	NM_015230	PLEKH	Pleckstrin homology domain containing	682
+24097	ARAP3	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 3	Approved	CENTD3	FLJ21065, DRAG1	5q31.3	AJ310567	NM_022481	PLEKH	Pleckstrin homology domain containing	682
+16348	ARHGAP12	Rho GTPase activating protein 12	Approved		FLJ20737, FLJ10971, FLJ21785	10p11.22	AY033594		PLEKH	Pleckstrin homology domain containing	682
+21030	ARHGAP15	Rho GTPase activating protein 15	Approved		BM046	2q22.2-q22.3	AY219338	NM_018460	PLEKH	Pleckstrin homology domain containing	682
+23725	ARHGAP21	Rho GTPase activating protein 21	Approved		KIAA1424, ARHGAP10	10p12.1	AF480466	NM_020824	PLEKH	Pleckstrin homology domain containing	682
+30320	ARHGAP22	Rho GTPase activating protein 22	Approved		RhoGAP2	10q11.22-q11.23	AY324801	NM_021226	PLEKH	Pleckstrin homology domain containing	682
+29293	ARHGAP23	Rho GTPase activating protein 23	Approved		KIAA1501	17q12	AB040934	NM_001199417	PLEKH	Pleckstrin homology domain containing	682
+25361	ARHGAP24	Rho GTPase activating protein 24	Approved		DKFZP564B1162, FLJ33877, FilGAP	4q21.23-q21.3	AK091196	NM_031305	PLEKH	Pleckstrin homology domain containing	682
+28951	ARHGAP25	Rho GTPase activating protein 25	Approved		KIAA0053	2p13.3	D29642	NM_014882	PLEKH	Pleckstrin homology domain containing	682
+31813	ARHGAP27	Rho GTPase activating protein 27	Approved	SH3D20	CAMGAP1, FLJ43547, SH3P20	17q21.31	AK125535	NM_199282	PLEKH	Pleckstrin homology domain containing	682
+14130	ARHGAP9	Rho GTPase activating protein 9	Approved		MGC1295, 10C	12q13.3	AB051853	NM_032496	PLEKH	Pleckstrin homology domain containing	682
+15515	ARHGEF16	Rho guanine nucleotide exchange factor 16	Approved		NBR, GEF16	1p36.32	D89016	NM_014448	PLEKH	Pleckstrin homology domain containing	682
+17090	ARHGEF18	Rho/Rac guanine nucleotide exchange factor 18	Approved		P114-RhoGEF, KIAA0521, MGC15913	19p13.2	AK074372	NM_015318	PLEKH	Pleckstrin homology domain containing	682
+682	ARHGEF2	Rho/Rac guanine nucleotide exchange factor 2	Approved		LFP40, GEF-H1, KIAA0651, P40	1q22	AB014551	NM_004723	PLEKH	Pleckstrin homology domain containing	682
+24490	ARHGEF26	Rho guanine nucleotide exchange factor 26	Approved		DKFZP434D146, SGEF	3q25.2	BC016628	NM_015595	PLEKH	Pleckstrin homology domain containing	682
+684	ARHGEF4	Rho guanine nucleotide exchange factor 4	Approved		STM6, KIAA1112, ASEF	2q21.1	AL137289		PLEKH	Pleckstrin homology domain containing	682
+685	ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor 6	Approved	MRX46	alphaPIX, Cool-2, KIAA0006, alpha-PIX, Cool2	Xq26.3	D13631	NM_004840	PLEKH	Pleckstrin homology domain containing	682
+15607	ARHGEF7	Rho guanine nucleotide exchange factor 7	Approved		KIAA0142, PIXB, DKFZp761K1021, Nbla10314, DKFZp686C12170, BETA-PIX, COOL1, P85SPR, P85, P85COOL1, P50BP, PAK3, P50	13q34	D63476	NM_001113511	PLEKH	Pleckstrin homology domain containing	682
+14561	ARHGEF9	Cdc42 guanine nucleotide exchange factor 9	Approved		KIAA0424, PEM-2	Xq11.1	AB007884		PLEKH	Pleckstrin homology domain containing	682
+2720	ASAP1	ArfGAP with SH3 domain, ankyrin repeat and PH domain 1	Approved	DDEF1	PAP, KIAA1249, ZG14P, CENTB4	8q24.21-q24.22	AB033075	NM_018482	PLEKH	Pleckstrin homology domain containing	682
+2721	ASAP2	ArfGAP with SH3 domain, ankyrin repeat and PH domain 2	Approved	DDEF2	KIAA0400, PAP, SHAG1, CENTB3	2p25.1	AB007860	NM_003887	PLEKH	Pleckstrin homology domain containing	682
+14987	ASAP3	ArfGAP with SH3 domain, ankyrin repeat and PH domain 3	Approved	DDEFL1	FLJ20199, UPLC1, CENTB6	1p36.12	AK000206	NM_017707	PLEKH	Pleckstrin homology domain containing	682
+1014	BCR	BCR, RhoGEF and GTPase activating protein	Approved	D22S11, BCR1	D22S662, CML, PHL, ALL	22q11.23		NM_004327	PLEKH	Pleckstrin homology domain containing	682
+1079	BMX	BMX non-receptor tyrosine kinase	Approved		ETK, PSCTK3	Xp22.2	AF045459	NM_001721	PLEKH	Pleckstrin homology domain containing	682
+1133	BTK	Bruton tyrosine kinase	Approved	AGMX1, IMD1	ATK, XLA, PSCTK1	Xq22.1	AK057105	NM_000061	PLEKH	Pleckstrin homology domain containing	682
+1426	CADPS	calcium dependent secretion activator	Approved		CAPS, KIAA1121, CAPS1, UNC-31	3p14.2	U36448	NM_003716, NM_183393, NM_183394	PLEKH	Pleckstrin homology domain containing	682
+16018	CADPS2	calcium dependent secretion activator 2	Approved		CAPS2	7q31.32		NM_017954	PLEKH	Pleckstrin homology domain containing	682
+29829	CDC42BPG	CDC42 binding protein kinase gamma	Approved		HSMDPKIN, MRCKgamma, DMPK2, kappa-200	11q13.1	AY648038	NM_017525	PLEKH	Pleckstrin homology domain containing	682
+19700	CNKSR1	connector enhancer of kinase suppressor of Ras 1	Approved		CNK1, KSR, CNK	1p36.11	AF100153	NM_006314	PLEKH	Pleckstrin homology domain containing	682
+19701	CNKSR2	connector enhancer of kinase suppressor of Ras 2	Approved		KIAA0902, CNK2, KSR2	Xp22.12	AB020709	NM_014927	PLEKH	Pleckstrin homology domain containing	682
+2205	COL4A3BP	collagen type IV alpha 3 binding protein	Approved		GPBP, STARD11, CERT	5q13.3	AF136450	NM_005713	PLEKH	Pleckstrin homology domain containing	682
+9501	CYTH1	cytohesin 1	Approved	PSCD1	B2-1, D17S811E, cytohesin-1	17q25.3	M85169	NM_004762	PLEKH	Pleckstrin homology domain containing	682
+9502	CYTH2	cytohesin 2	Approved	PSCD2L, PSCD2	CTS18.1, Sec7p-L, ARNO, Sec7p-like, cytohesin-2	19q13.33	X99753	NM_004228	PLEKH	Pleckstrin homology domain containing	682
+9504	CYTH3	cytohesin 3	Approved	PSCD3	GRP1, ARNO3, cytohesin-3	7p22.1	AJ223957	NM_004227	PLEKH	Pleckstrin homology domain containing	682
+9505	CYTH4	cytohesin 4	Approved	PSCD4	CYT4, cytohesin-4	22q13.1	AF075458		PLEKH	Pleckstrin homology domain containing	682
+16500	DAPP1	dual adaptor of phosphotyrosine and 3-phosphoinositides 1	Approved		BAM32	4q23	AF186022		PLEKH	Pleckstrin homology domain containing	682
+2760	DEF6	DEF6, guanine nucleotide exchange factor	Approved		IBP, SLAT, SWAP70L	6p21.31	AJ276095	NM_022047	PLEKH	Pleckstrin homology domain containing	682
+2851	DGKD	diacylglycerol kinase delta	Approved		KIAA0145, DGKdelta	2q37.1	D63479	NM_003648	PLEKH	Pleckstrin homology domain containing	682
+2854	DGKH	diacylglycerol kinase eta	Approved		DGKeta	13q14.11	AB078967	NM_178009	PLEKH	Pleckstrin homology domain containing	682
+2972	DNM1	dynamin 1	Approved	DNM		9q34.11	L07807	NM_004408	PLEKH	Pleckstrin homology domain containing	682
+2974	DNM2	dynamin 2	Approved		DYNII, DYN2, CMTDIB, CMTDI1, DI-CMTB, CMT2M	19p13.2		NM_004945	PLEKH	Pleckstrin homology domain containing	682
+29125	DNM3	dynamin 3	Approved		KIAA0820	1q24.3	AL136712	NM_015569	PLEKH	Pleckstrin homology domain containing	682
+23479	DOCK10	dedicator of cytokinesis 10	Approved		ZIZ3, KIAA0694	2q36.2	AB014594		PLEKH	Pleckstrin homology domain containing	682
+23483	DOCK11	dedicator of cytokinesis 11	Approved		FLJ32122, FLJ43653, ZIZ2, ACG	Xq24	AK125641	NM_144658	PLEKH	Pleckstrin homology domain containing	682
+14132	DOCK9	dedicator of cytokinesis 9	Approved		KIAA1058, ZIZ1	13q32.3	AF527605	NM_015296	PLEKH	Pleckstrin homology domain containing	682
+19868	DOK4	docking protein 4	Approved		FLJ10488	16q21	BC003541		PLEKH	Pleckstrin homology domain containing	682
+16173	DOK5	docking protein 5	Approved	C20orf180	dJ805C22.1	20q13.2	AF132732		PLEKH	Pleckstrin homology domain containing	682
+28301	DOK6	docking protein 6	Approved	DOK5L	MGC20785, HsT3226	18q22.2	AK057795	NM_152721	PLEKH	Pleckstrin homology domain containing	682
+26509	PHETA1	PH domain containing endocytic trafficking adaptor 1	Approved	FAM109A	FLJ32356, SES1, IPIP27A	12q24.12	BC034809	NM_144671	PLEKH	Pleckstrin homology domain containing	682
+27161	PHETA2	PH domain containing endocytic trafficking adaptor 2	Approved	FAM109B	DKFZp686J07229, SES2, IPIP27B	22q13.2	BX648402	NM_001002034	PLEKH	Pleckstrin homology domain containing	682
+3591	FARP1	FERM, ARH/RhoGEF and pleckstrin domain protein 1	Approved		CDEP, PLEKHC2, MGC87400, PPP1R75	13q32.2	AB008430	NM_005766	PLEKH	Pleckstrin homology domain containing	682
+16460	FARP2	FERM, ARH/RhoGEF and pleckstrin domain protein 2	Approved		KIAA0793, FIR, PLEKHC3, FRG	2q37.3	AB018336		PLEKH	Pleckstrin homology domain containing	682
+15889	FERMT1	fermitin family member 1	Approved	C20orf42	FLJ20116, URP1, KIND1, UNC112A	20p12.3	AK000123	NM_017671	PLEKH	Pleckstrin homology domain containing	682
+15767	FERMT2	fermitin family member 2	Approved	PLEKHC1	mig-2, KIND2, UNC112B	14q22.1	Z24725	NM_006832	PLEKH	Pleckstrin homology domain containing	682
+23151	FERMT3	fermitin family member 3	Approved		URP2, KIND3, MIG2B, MGC10966, MIG-2, UNC112C	11q13.1	L25343	NM_031471	PLEKH	Pleckstrin homology domain containing	682
+3663	FGD1	FYVE, RhoGEF and PH domain containing 1	Approved	FGDY	ZFYVE3	Xp11.22	U11690	NM_004463	PLEKH	Pleckstrin homology domain containing	682
+3664	FGD2	FYVE, RhoGEF and PH domain containing 2	Approved		ZFYVE4	6p21.2	AK097230	NM_173558	PLEKH	Pleckstrin homology domain containing	682
+16027	FGD3	FYVE, RhoGEF and PH domain containing 3	Approved		FLJ00004, ZFYVE5	9q22.31	AK000004	NM_033086	PLEKH	Pleckstrin homology domain containing	682
+19125	FGD4	FYVE, RhoGEF and PH domain containing 4	Approved		FRABP, frabin, ZFYVE6, CMT4H	12p11.21	AK057294	NM_139241	PLEKH	Pleckstrin homology domain containing	682
+19117	FGD5	FYVE, RhoGEF and PH domain containing 5	Approved		ZFYVE23, FLJ39957, FLJ00274	3p25.1	AK097276	NM_152536	PLEKH	Pleckstrin homology domain containing	682
+21740	FGD6	FYVE, RhoGEF and PH domain containing 6	Approved		ZFYVE24, FLJ11183	12q22	AB037783	NM_018351	PLEKH	Pleckstrin homology domain containing	682
+4066	GAB1	GRB2 associated binding protein 1	Approved			4q31.21	U43885	NM_002039	PLEKH	Pleckstrin homology domain containing	682
+14458	GAB2	GRB2 associated binding protein 2	Approved		KIAA0571	11q14.1	AB011143	NM_080491	PLEKH	Pleckstrin homology domain containing	682
+17515	GAB3	GRB2 associated binding protein 3	Approved			Xq28	AY057989	NM_001081573	PLEKH	Pleckstrin homology domain containing	682
+18325	GAB4	GRB2 associated binding protein family member 4	Approved			22q11.1	AK057252	XM_372882	PLEKH	Pleckstrin homology domain containing	682
+4564	GRB10	growth factor receptor bound protein 10	Approved			7p12.1		NM_005311	PLEKH	Pleckstrin homology domain containing	682
+4565	GRB14	growth factor receptor bound protein 14	Approved			2q24.3		NM_004490	PLEKH	Pleckstrin homology domain containing	682
+4567	GRB7	growth factor receptor bound protein 7	Approved			17q12	D43772	NM_005310	PLEKH	Pleckstrin homology domain containing	682
+21204	IPCEF1	interaction protein for cytohesin exchange factors 1	Approved		PIP3-E, KIAA0403	6q25.2	AB007863	NM_001130699	PLEKH	Pleckstrin homology domain containing	682
+6125	IRS1	insulin receptor substrate 1	Approved		HIRS-1	2q36.3		NM_005544	PLEKH	Pleckstrin homology domain containing	682
+6126	IRS2	insulin receptor substrate 2	Approved			13q34	AB000732	NM_003749	PLEKH	Pleckstrin homology domain containing	682
+6171	ITK	IL2 inducible T cell kinase	Approved		EMT, PSCTK2, LYK	5q33.3	D13720		PLEKH	Pleckstrin homology domain containing	682
+6183	ITSN1	intersectin 1	Approved	SH3D1A, ITSN	SH3P17, MGC134948, MGC134949	21q22.11	AF064244	NM_003024	PLEKH	Pleckstrin homology domain containing	682
+888	KIF1A	kinesin family member 1A	Approved	ATSV, C2orf20, SPG30	UNC104	2q37.3	AF004425	NM_138483	PLEKH	Pleckstrin homology domain containing	682
+16636	KIF1B	kinesin family member 1B	Approved	CMT2A, CMT2	KIAA0591, KLP, HMSNII	1p36.22	AF257176		PLEKH	Pleckstrin homology domain containing	682
+14576	MCF2L	MCF.2 cell line derived transforming sequence like	Approved		KIAA0362, DBS, OST, ARHGEF14	13q34	AB002360		PLEKH	Pleckstrin homology domain containing	682
+30321	MPRIP	myosin phosphatase Rho interacting protein	Approved		RHOIP3, M-RIP, p116Rip	17p11.2	BC014102	NM_015134	PLEKH	Pleckstrin homology domain containing	682
+7593	MYO10	myosin X	Approved		KIAA0799	5p15.1	AF247457	NM_012334	PLEKH	Pleckstrin homology domain containing	682
+14592	NET1	neuroepithelial cell transforming 1	Approved		ARHGEF8, NET1A	10p15.1	AJ010046	NM_005863	PLEKH	Pleckstrin homology domain containing	682
+8503	OSBP	oxysterol binding protein	Approved		OSBP1	11q12.1	AF185696		PLEKH	Pleckstrin homology domain containing	682
+8504	OSBP2	oxysterol binding protein 2	Approved	OSBPL1	KIAA1664, ORP-4, ORP4	22q12.2		NM_030758	PLEKH	Pleckstrin homology domain containing	682
+16395	OSBPL10	oxysterol binding protein like 10	Approved			3p23	AF392451		PLEKH	Pleckstrin homology domain containing	682
+16397	OSBPL11	oxysterol binding protein like 11	Approved		ORP-11, ORP11, FLJ13012, FLJ13164	3q21.2	AF392454	NM_022776	PLEKH	Pleckstrin homology domain containing	682
+16370	OSBPL3	oxysterol binding protein like 3	Approved	OSBP3	ORP-3, ORP3, KIAA0704	7p15.3	AB014604		PLEKH	Pleckstrin homology domain containing	682
+16392	OSBPL5	oxysterol binding protein like 5	Approved		KIAA1534, ORP5, OBPH1	11p15.4	AF392453		PLEKH	Pleckstrin homology domain containing	682
+16387	OSBPL7	oxysterol binding protein like 7	Approved		ORP7, MGC71150	17q21	AF392446	NM_017731	PLEKH	Pleckstrin homology domain containing	682
+16396	OSBPL8	oxysterol binding protein like 8	Approved		OSBP10, ORP8, MST120, MSTP120	12q14	AF392452	NM_020841	PLEKH	Pleckstrin homology domain containing	682
+16386	OSBPL9	oxysterol binding protein like 9	Approved			1p32.3	AF392445		PLEKH	Pleckstrin homology domain containing	682
+12385	PHLDA2	pleckstrin homology like domain family A member 2	Approved	TSSC3	IPL, BWR1C, HLDA2	11p15.4	AF035444	NM_003311	PLEKH	Pleckstrin homology domain containing	682
+23697	PHLDB1	pleckstrin homology like domain family B member 1	Approved		FLJ00141, LL5a, KIAA0638	11q23.3		NM_015157	PLEKH	Pleckstrin homology domain containing	682
+29573	PHLDB2	pleckstrin homology like domain family B member 2	Approved		LL5beta, FLJ21791, LL5b	3q13.2		NM_145753	PLEKH	Pleckstrin homology domain containing	682
+30499	PHLDB3	pleckstrin homology like domain family B member 3	Approved		FLJ40193	19q13.31			PLEKH	Pleckstrin homology domain containing	682
+20610	PHLPP1	PH domain and leucine rich repeat protein phosphatase 1	Approved	PLEKHE1, PHLPP	KIAA0606, SCOP, PPM3A	18q21.33	AB011178	NM_194449	PLEKH	Pleckstrin homology domain containing	682
+29149	PHLPP2	PH domain and leucine rich repeat protein phosphatase 2	Approved	PHLPPL	KIAA0931, PPM3B	16q22.2	BX647823	NM_015020	PLEKH	Pleckstrin homology domain containing	682
+9065	PLCG1	phospholipase C gamma 1	Approved	PLC1	PLC148, PLC-II, PLCgamma1, NCKAP3	20q12	M34667	NM_182811	PLEKH	Pleckstrin homology domain containing	682
+9067	PLD1	phospholipase D1	Approved			3q26.31	U38545	NM_002662	PLEKH	Pleckstrin homology domain containing	682
+9070	PLEK	pleckstrin	Approved		P47	2p14	X07743	NM_002664	PLEKH	Pleckstrin homology domain containing	682
+19238	PLEK2	pleckstrin 2	Approved			14q23.3-q24.1	AF228603		PLEKH	Pleckstrin homology domain containing	682
+14335	PLEKHA1	pleckstrin homology domain containing A1	Approved		TAPP1	10q26.13	AF286160	NM_001001974	PLEKH	Pleckstrin homology domain containing	682
+14336	PLEKHA2	pleckstrin homology domain containing A2	Approved		TAPP2	8p11.22	AF286164	NM_021623	PLEKH	Pleckstrin homology domain containing	682
+14338	PLEKHA3	pleckstrin homology domain containing A3	Approved		FAPP1	2q31.2	AF286162	NM_019091	PLEKH	Pleckstrin homology domain containing	682
+14339	PLEKHA4	pleckstrin homology domain containing A4	Approved		PEPP1	19q13.33	AY007233		PLEKH	Pleckstrin homology domain containing	682
+30036	PLEKHA5	pleckstrin homology domain containing A5	Approved		PEPP2, KIAA1686, FLJ10667	12p12.3	AF302150	NM_019012	PLEKH	Pleckstrin homology domain containing	682
+17053	PLEKHA6	pleckstrin homology domain containing A6	Approved		PEPP3, KIAA0969	1q32.1	AB023186	NM_014935	PLEKH	Pleckstrin homology domain containing	682
+27049	PLEKHA7	pleckstrin homology domain containing A7	Approved		DKFZp686M22243	11p15	BC033239	NM_175058	PLEKH	Pleckstrin homology domain containing	682
+30037	PLEKHA8	pleckstrin homology domain containing A8	Approved		FAPP2, MGC3358	7p14.3	BC053990	NM_032639	PLEKH	Pleckstrin homology domain containing	682
+19079	PLEKHB1	pleckstrin homology domain containing B1	Approved	PHRET1	PHR1, KPL1	11q13.4	AF081583		PLEKH	Pleckstrin homology domain containing	682
+19236	PLEKHB2	pleckstrin homology domain containing B2	Approved		EVT2, FLJ20783	2q21.1		NM_017958	PLEKH	Pleckstrin homology domain containing	682
+20148	PLEKHD1	pleckstrin homology and coiled-coil domain containing D1	Approved		UPF0639	14q24.1	AK126770	NM_001161498	PLEKH	Pleckstrin homology domain containing	682
+20764	PLEKHF1	pleckstrin homology and FYVE domain containing 1	Approved		APPD, MGC4090, PHAFIN1, ZFYVE15	19q12	AF434818	NM_024310	PLEKH	Pleckstrin homology domain containing	682
+20757	PLEKHF2	pleckstrin homology and FYVE domain containing 2	Approved		ZFYVE18, PHAFIN2, FLJ13187	8q22.1	AF434819	NM_024613	PLEKH	Pleckstrin homology domain containing	682
+20884	PLEKHG1	pleckstrin homology and RhoGEF domain containing G1	Approved		KIAA1209, ARHGEF41	6q25.1	AB033035		PLEKH	Pleckstrin homology domain containing	682
+29515	PLEKHG2	pleckstrin homology and RhoGEF domain containing G2	Approved		CLG, FLJ00018, ARHGEF42	19q13.2	AK024429	NM_022835	PLEKH	Pleckstrin homology domain containing	682
+20364	PLEKHG3	pleckstrin homology and RhoGEF domain containing G3	Approved	KIAA0599	ARHGEF43	14q23.3	AB011171	NM_015549	PLEKH	Pleckstrin homology domain containing	682
+24501	PLEKHG4	pleckstrin homology and RhoGEF domain containing G4	Approved	SCA4	DKFZP434I216, ARHGEF44	16q22.1	AK024475	NM_015432	PLEKH	Pleckstrin homology domain containing	682
+29399	PLEKHG4B	pleckstrin homology and RhoGEF domain containing G4B	Approved		KIAA1909	5p15.33	BC008352	NM_052909	PLEKH	Pleckstrin homology domain containing	682
+29105	PLEKHG5	pleckstrin homology and RhoGEF domain containing G5	Approved		KIAA0720, Syx, GEF720, Tech	1p36.31	AK024676	NM_020631	PLEKH	Pleckstrin homology domain containing	682
+25562	PLEKHG6	pleckstrin homology and RhoGEF domain containing G6	Approved		FLJ10665, MYOGEF	12p13.31	AK001527	NM_018173	PLEKH	Pleckstrin homology domain containing	682
+33829	PLEKHG7	pleckstrin homology and RhoGEF domain containing G7	Approved		FLJ46688	12q22	AK128530	NM_001004330	PLEKH	Pleckstrin homology domain containing	682
+17733	PLEKHH1	pleckstrin homology, MyTH4 and FERM domain containing H1	Approved		KIAA1200	14q24.1	AB033026	XM_031054	PLEKH	Pleckstrin homology domain containing	682
+30506	PLEKHH2	pleckstrin homology, MyTH4 and FERM domain containing H2	Approved		KIAA2028, PLEKHH1L	2p21	AB095948	NM_172069	PLEKH	Pleckstrin homology domain containing	682
+26105	PLEKHH3	pleckstrin homology, MyTH4 and FERM domain containing H3	Approved		FLJ21019	17q21.2	BC052978	NM_024927	PLEKH	Pleckstrin homology domain containing	682
+18211	PLEKHJ1	pleckstrin homology domain containing J1	Approved		FLJ10297	19p13.3	AK001159	NM_018049	PLEKH	Pleckstrin homology domain containing	682
+29017	PLEKHM1	pleckstrin homology and RUN domain containing M1	Approved		KIAA0356	17q21.31	X85792	NM_014798	PLEKH	Pleckstrin homology domain containing	682
+29131	PLEKHM2	pleckstrin homology and RUN domain containing M2	Approved		KIAA0842	1p36.21	AB020649	NM_015164	PLEKH	Pleckstrin homology domain containing	682
+34006	PLEKHM3	pleckstrin homology domain containing M3	Approved	PLEKHM1L	DAPR	2q33.3	AK057612	NM_001080475	PLEKH	Pleckstrin homology domain containing	682
+25284	PLEKHN1	pleckstrin homology domain containing N1	Approved		DKFZP434H2010	1p36.33	AL136730	NM_032129	PLEKH	Pleckstrin homology domain containing	682
+24310	PLEKHO1	pleckstrin homology domain containing O1	Approved		CKIP-1, OC120	1q21.2	AF073836	NM_016274	PLEKH	Pleckstrin homology domain containing	682
+30026	PLEKHO2	pleckstrin homology domain containing O2	Approved	PLEKHQ1	DKFZp761K2312, PP1628, pp9099	15q22.31	AF318373	NM_025201	PLEKH	Pleckstrin homology domain containing	682
+26285	PLEKHS1	pleckstrin homology domain containing S1	Approved	C10orf81	FLJ23537, bA211N11.2	10q25.3	AK027190	NM_024889	PLEKH	Pleckstrin homology domain containing	682
+32594	PREX1	phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 1	Approved		KIAA1415, P-REX1	20q13.13	AB037836	NM_020820	PLEKH	Pleckstrin homology domain containing	682
+9407	PRKD1	protein kinase D1	Approved	PRKCM	PKCM, PKD, PKC-mu	14q12		NM_002742	PLEKH	Pleckstrin homology domain containing	682
+17293	PRKD2	protein kinase D2	Approved		PKD2, HSPC187, DKFZP586E0820	19q13.2	AF151021	NM_016457	PLEKH	Pleckstrin homology domain containing	682
+9408	PRKD3	protein kinase D3	Approved	PRKCN	EPK2	2p22.2	AB015982	NM_005813	PLEKH	Pleckstrin homology domain containing	682
+9507	PSD	pleckstrin and Sec7 domain containing	Approved		KIAA2011, TYL, PSD1, EFA6A, EFA6	10q24.32	X99688		PLEKH	Pleckstrin homology domain containing	682
+19092	PSD2	pleckstrin and Sec7 domain containing 2	Approved		DKFZp761B0514, EFA6C	5q31.2	AL136559	NM_032289	PLEKH	Pleckstrin homology domain containing	682
+19093	PSD3	pleckstrin and Sec7 domain containing 3	Approved		KIAA0942, HCA67, EFA6R, DKFZp761K1423, EFA6D	8p22	AF243495	NM_015310	PLEKH	Pleckstrin homology domain containing	682
+19096	PSD4	pleckstrin and Sec7 domain containing 4	Approved		TIC, EFA6B	2q14.1	U63127	NM_012455	PLEKH	Pleckstrin homology domain containing	682
+16851	RALGPS1	Ral GEF with PH domain and SH3 binding motif 1	Approved		RALGPS1A, RALGEF2, KIAA0351	9q33.3	AB002349	NM_014636	PLEKH	Pleckstrin homology domain containing	682
+30279	RALGPS2	Ral GEF with PH domain and SH3 binding motif 2	Approved		KIAA0351, FLJ10244, FLJ25604	1q25.2	AK098470	NM_152663	PLEKH	Pleckstrin homology domain containing	682
+14436	RAPH1	Ras association (RalGDS/AF-6) and pleckstrin homology domains 1	Approved	ALS2CR9, ALS2CR18	KIAA1681	2q33.2	AJ584699	NM_025252	PLEKH	Pleckstrin homology domain containing	682
+9871	RASA1	RAS p21 protein activator 1	Approved	RASA	GAP, CM-AVM, p120GAP, p120RASGAP, p120	5q14.3		NM_002890	PLEKH	Pleckstrin homology domain containing	682
+9872	RASA2	RAS p21 protein activator 2	Approved		GAP1M	3q23	AF115573	NM_006506	PLEKH	Pleckstrin homology domain containing	682
+20331	RASA3	RAS p21 protein activator 3	Approved		GAP1IP4BP, GAPIII	13q34		NM_007368	PLEKH	Pleckstrin homology domain containing	682
+35202	RASA4B	RAS p21 protein activator 4B	Approved			7q22.1		XM_003118600	PLEKH	Pleckstrin homology domain containing	682
+9873	RASAL1	RAS protein activator like 1	Approved		RASAL	12q24.13	AF086713	NM_004658	PLEKH	Pleckstrin homology domain containing	682
+9874	RASAL2	RAS protein activator like 2	Approved		nGAP	1q25.2	AF047711	NM_170692	PLEKH	Pleckstrin homology domain containing	682
+9875	RASGRF1	Ras protein specific guanine nucleotide releasing factor 1	Approved	GRF1	CDC25L, CDC25, GRF55, H-GRF55, GNRP, PP13187	15q25.1	M91815	NM_002891	PLEKH	Pleckstrin homology domain containing	682
+9876	RASGRF2	Ras protein specific guanine nucleotide releasing factor 2	Approved		GRF2, Ras-GRF2	5q14.1	AF023130	NM_006909	PLEKH	Pleckstrin homology domain containing	682
+10251	ROCK1	Rho associated coiled-coil containing protein kinase 1	Approved		p160ROCK	18q11.1		NM_005406	PLEKH	Pleckstrin homology domain containing	682
+10252	ROCK2	Rho associated coiled-coil containing protein kinase 2	Approved			2p25.1	D87931		PLEKH	Pleckstrin homology domain containing	682
+10466	RTKN	rhotekin	Approved		B5	2p13.1	AF049227	NM_001015055	PLEKH	Pleckstrin homology domain containing	682
+19364	RTKN2	rhotekin 2	Approved	PLEKHK1	Em:AC024597.2, bA531F24.1, FLJ39352	10q21.2	BC025765	NM_145307	PLEKH	Pleckstrin homology domain containing	682
+10542	SBF1	SET binding factor 1	Approved		MTMR5, DENND7A	22q13.33	U93181		PLEKH	Pleckstrin homology domain containing	682
+2135	SBF2	SET binding factor 2	Approved	CMT4B2	KIAA1766, MTMR13, DENND7B	11p15.4	AB051553	NM_030962	PLEKH	Pleckstrin homology domain containing	682
+30417	SH2B1	SH2B adaptor protein 1	Approved		FLJ30542, SH2B	16p11.2	AK055104	NM_015503	PLEKH	Pleckstrin homology domain containing	682
+17381	SH2B2	SH2B adaptor protein 2	Approved		APS	7q22.1	AB000520	NM_020979	PLEKH	Pleckstrin homology domain containing	682
+29605	SH2B3	SH2B adaptor protein 3	Approved		LNK, IDDM20	12q24.12	AF055581	NM_005475	PLEKH	Pleckstrin homology domain containing	682
+10825	SH3BP2	SH3 domain binding protein 2	Approved		RES4-23, CRBM	4p16.3	BC022996	NM_003023	PLEKH	Pleckstrin homology domain containing	682
+15605	SKAP1	src kinase associated phosphoprotein 1	Approved	SCAP1	SKAP55	17q21.32	Y11215	NM_003726	PLEKH	Pleckstrin homology domain containing	682
+15687	SKAP2	src kinase associated phosphoprotein 2	Approved	SCAP2	RA70, SKAP-HOM, SKAP55R, SAPS	7p15.2			PLEKH	Pleckstrin homology domain containing	682
+11168	SNTB1	syntrophin beta 1	Approved	SNT2B1	59-DAP, A1B, BSYN2, TIP-43, SNT2	8q24.12	AF028828	NM_021021	PLEKH	Pleckstrin homology domain containing	682
+11187	SOS1	SOS Ras/Rac guanine nucleotide exchange factor 1	Approved	GINGF	HGF, GF1	2p22.1	L13857	NM_005633	PLEKH	Pleckstrin homology domain containing	682
+11188	SOS2	SOS Ras/Rho guanine nucleotide exchange factor 2	Approved			14q21.3	L13858		PLEKH	Pleckstrin homology domain containing	682
+23222	SPATA13	spermatogenesis associated 13	Approved		FLJ31208, ARHGEF29	13q12.12	AK055770	NM_153023	PLEKH	Pleckstrin homology domain containing	682
+11274	SPTB	spectrin beta, erythrocytic	Approved			14q23.3			PLEKH	Pleckstrin homology domain containing	682
+11275	SPTBN1	spectrin beta, non-erythrocytic 1	Approved			2p16.2			PLEKH	Pleckstrin homology domain containing	682
+11276	SPTBN2	spectrin beta, non-erythrocytic 2	Approved	SCA5		11q13.2	AB008567, AF026487, AF026488, AF079569	NM_006946	PLEKH	Pleckstrin homology domain containing	682
+14896	SPTBN4	spectrin beta, non-erythrocytic 4	Approved		SPTBN3, KIAA1642	19q13.13	AF082075		PLEKH	Pleckstrin homology domain containing	682
+17070	SWAP70	switching B cell complex subunit SWAP70	Approved		KIAA0640, SWAP-70	11p15.4	AB014540	NM_015055	PLEKH	Pleckstrin homology domain containing	682
+11719	TEC	tec protein tyrosine kinase	Approved		PSCTK4	4p12-p11	D29767		PLEKH	Pleckstrin homology domain containing	682
+11805	TIAM1	T cell lymphoma invasion and metastasis 1	Approved			21q22.11		NM_003253	PLEKH	Pleckstrin homology domain containing	682
+11806	TIAM2	T cell lymphoma invasion and metastasis 2	Approved		STEF	6q25.2-q25.3		NM_012454	PLEKH	Pleckstrin homology domain containing	682
+17009	TRIOBP	TRIO and F-actin binding protein	Approved	DFNB28	HRIHFB2122, KIAA1662, Tara, TAP68	22q13.1	AB051449		PLEKH	Pleckstrin homology domain containing	682
+12657	VAV1	vav guanine nucleotide exchange factor 1	Approved	VAV		19p13.3			PLEKH	Pleckstrin homology domain containing	682
+12658	VAV2	vav guanine nucleotide exchange factor 2	Approved			9q34.2			PLEKH	Pleckstrin homology domain containing	682
+12659	VAV3	vav guanine nucleotide exchange factor 3	Approved			1p13.3	AF118886	NM_006113	PLEKH	Pleckstrin homology domain containing	682
+25735	VEPH1	ventricular zone expressed PH domain containing 1	Approved		FLJ12604, KIAA1692	3q25.31-q25.32	AL713656	NM_024621	PLEKH	Pleckstrin homology domain containing	682

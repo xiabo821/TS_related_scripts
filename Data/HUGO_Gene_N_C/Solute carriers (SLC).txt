@@ -1,0 +1,418 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+15492	ANKH	ANKH inorganic pyrophosphate transport regulator	Approved	CCAL2, CMDJ	HANK, ANK, CPPDD, SLC62A1	5p15.2	AF274753	NM_054027	SLC	Solute carriers	752
+16628	SLC49A4	solute carrier family 49 member 4	Approved	DIRC2	FLJ14784, RCC4	3q21.1	AK027690	NM_032839	SLC	Solute carriers	752
+24682	FLVCR1	feline leukemia virus subgroup C cellular receptor 1	Approved	AXPC1	FLVCR, MFSD7B, PCA, SLC49A1	1q32.3	AF118637	NM_014053	SLC	Solute carriers	752
+20105	FLVCR2	feline leukemia virus subgroup C cellular receptor family member 2	Approved	C14orf58	FLJ20371, MFSD7C, SLC49A2, CCT	14q24.3	AK000378	NM_017791	SLC	Solute carriers	752
+6556	LETM1	leucine zipper and EF-hand containing transmembrane protein 1	Approved		SLC55A1	4p16.3	AF061025		SLC	Solute carriers	752
+14648	LETM2	leucine zipper and EF-hand containing transmembrane protein 2	Approved		FLJ25409, SLC55A2	8p11.23	AK058138	NM_144652	SLC	Solute carriers	752
+24241	LETMD1	LETM1 domain containing 1	Approved		HCCR1, HCCR, HCCR-2, HCCR-1, HCCR2, SLC55A3	12q13.12	AF195651	NM_015416	SLC	Solute carriers	752
+21606	MPC1	mitochondrial pyruvate carrier 1	Approved	BRP44L	dJ68L15.3, CGI-129, SLC54A1	6q27	AF125101	NM_016098	SLC	Solute carriers	752
+44205	MPC1L	mitochondrial pyruvate carrier 1 like	Approved		SLC54A3	Xp11.4		NM_001195522	SLC	Solute carriers	752
+24515	MPC2	mitochondrial pyruvate carrier 2	Approved	BRP44	DKFZP564B167, SLC54A2	1q24.2		NM_015415	SLC	Solute carriers	752
+17586	MTCH1	mitochondrial carrier 1	Approved		CGI-64, PSAP, SLC25A49	6p21.2	AF151822	NM_014341	SLC	Solute carriers	752
+17587	MTCH2	mitochondrial carrier 2	Approved		SLC25A50	11p11.2	AF085361	NM_014342	SLC	Solute carriers	752
+17043	NIPA1	NIPA magnesium transporter 1	Approved	SPG6	MGC35570, SLC57A1	15q11.2	BK001020	NM_144599	SLC	Solute carriers	752
+17044	NIPA2	NIPA magnesium transporter 2	Approved		SLC57A2	15q11.2	AY732242	NM_030922	SLC	Solute carriers	752
+7897	NPC1	NPC intracellular cholesterol transporter 1	Approved		SLC65A1	18q11.2	AF002020	NM_000271	SLC	Solute carriers	752
+7898	NPC1L1	NPC1 like intracellular cholesterol transporter 1	Approved		SLC65A2	7p13		NM_013389	SLC	Solute carriers	752
+10006	RHAG	Rh associated glycoprotein	Approved		RH50A, CD241, SLC42A1	6p12.3			SLC	Solute carriers	752
+14572	RHBG	Rh family B glycoprotein (gene/pseudogene)	Approved		SLC42A2	1q22	AF193807	NM_001256395	SLC	Solute carriers	752
+18140	RHCG	Rh family C glycoprotein	Approved	C15orf6	RHGK, PDRC2, SLC42A3	15q26.1	AF081497	NM_016321	SLC	Solute carriers	752
+16085	SFXN1	sideroflexin 1	Approved		FLJ12876, SLC56A1	5q35.2	AF327346	NM_022754	SLC	Solute carriers	752
+16086	SFXN2	sideroflexin 2	Approved		SLC56A2	10q24.32	AF462052	XM_058359	SLC	Solute carriers	752
+16087	SFXN3	sideroflexin 3	Approved		SFX3, SLC56A3	10q24.31	AK074707	NM_030971	SLC	Solute carriers	752
+16088	SFXN4	sideroflexin 4	Approved		SLC56A4	10q26.11		XM_058406	SLC	Solute carriers	752
+16073	SFXN5	sideroflexin 5	Approved		BBG-TCC, SLC56A5	2p13.2	AY044437	NM_144579	SLC	Solute carriers	752
+10905	SLC10A1	solute carrier family 10 member 1	Approved		NTCP	14q24.1	L21893		SLC	Solute carriers	752
+10906	SLC10A2	solute carrier family 10 member 2	Approved	ASBT, ISBT		13q33.1	U10417		SLC	Solute carriers	752
+22979	SLC10A3	solute carrier family 10 member 3	Approved		P3, DXS253E	Xq28	X12458	NM_019848	SLC	Solute carriers	752
+22980	SLC10A4	solute carrier family 10 member 4	Approved		MGC29802	4p11	BC012048	NM_152679	SLC	Solute carriers	752
+22981	SLC10A5	solute carrier family 10 member 5	Approved			8q21.13		XM_294493	SLC	Solute carriers	752
+30603	SLC10A6	solute carrier family 10 member 6	Approved		SOAT	4q21.3	AJ583502	NM_197965	SLC	Solute carriers	752
+23088	SLC10A7	solute carrier family 10 member 7	Approved	C4orf13	MGC25043, DKFZp566M114, DKFZp313H0531, DKFZp779O2438	4q31.22	AY346324	NM_032128	SLC	Solute carriers	752
+10907	SLC11A1	solute carrier family 11 member 1	Approved	LSH, NRAMP, NRAMP1		2q35	D38171	NM_000578	SLC	Solute carriers	752
+10908	SLC11A2	solute carrier family 11 member 2	Approved	NRAMP2	DCT1, DMT1	12q13.12	AB015355		SLC	Solute carriers	752
+10910	SLC12A1	solute carrier family 12 member 1	Approved		NKCC2	15q21.1			SLC	Solute carriers	752
+10911	SLC12A2	solute carrier family 12 member 2	Approved		NKCC1, BSC, BSC2, PPP1R141	5q23.3		NM_001046	SLC	Solute carriers	752
+10912	SLC12A3	solute carrier family 12 member 3	Approved		NCCT	16q13			SLC	Solute carriers	752
+10913	SLC12A4	solute carrier family 12 member 4	Approved		KCC1	16q22.1		NM_005072	SLC	Solute carriers	752
+13818	SLC12A5	solute carrier family 12 member 5	Approved		KIAA1176, KCC2	20q13.12	AB033002		SLC	Solute carriers	752
+10914	SLC12A6	solute carrier family 12 member 6	Approved	KCC3, ACCPN		15q14	AF108831	NM_005135	SLC	Solute carriers	752
+10915	SLC12A7	solute carrier family 12 member 7	Approved		KCC4, DKFZP434F076	5p15.33	AF105365	NM_006598	SLC	Solute carriers	752
+15595	SLC12A8	solute carrier family 12 member 8	Approved		CCC9	3q21.2		NM_024628	SLC	Solute carriers	752
+17435	SLC12A9	solute carrier family 12 member 9	Approved		CIP1	7q22.1	AF284422	NM_020246	SLC	Solute carriers	752
+10916	SLC13A1	solute carrier family 13 member 1	Approved		NaSi-1, NAS1	7q31.32		NM_022444	SLC	Solute carriers	752
+10917	SLC13A2	solute carrier family 13 member 2	Approved		NaDC-1	17q11.2	U26209	NM_003984	SLC	Solute carriers	752
+14430	SLC13A3	solute carrier family 13 member 3	Approved		NADC3, SDCT2	20q13.12	AF154121		SLC	Solute carriers	752
+15827	SLC13A4	solute carrier family 13 member 4	Approved		SUT-1, SUT1	7q33	AF169301	NM_012450	SLC	Solute carriers	752
+23089	SLC13A5	solute carrier family 13 member 5	Approved		NACT, INDY	17p13.1	AJ489980	NM_177550	SLC	Solute carriers	752
+10918	SLC14A1	solute carrier family 14 member 1 (Kidd blood group)	Approved	JK	HsT1341, RACH1, RACH2	18q12.3	BC040128	NM_015865	SLC	Solute carriers	752
+10919	SLC14A2	solute carrier family 14 member 2	Approved		HUT2, UT2	18q12.3	X96969		SLC	Solute carriers	752
+10920	SLC15A1	solute carrier family 15 member 1	Approved		PEPT1, HPECT1, HPEPT1	13q32.2-q32.3	U13173	NM_005073	SLC	Solute carriers	752
+10921	SLC15A2	solute carrier family 15 member 2	Approved		PEPT2	3q13.33	BC044572	NM_021082	SLC	Solute carriers	752
+18068	SLC15A3	solute carrier family 15 member 3	Approved		PHT2, hPTR3	11q12.2	AB020598	NM_016582	SLC	Solute carriers	752
+23090	SLC15A4	solute carrier family 15 member 4	Approved		PHT1, PTR4	12q24.33	AY038999	NM_145648	SLC	Solute carriers	752
+33455	SLC15A5	solute carrier family 15 member 5	Approved			12p12.3		NM_001170798	SLC	Solute carriers	752
+10922	SLC16A1	solute carrier family 16 member 1	Approved		MCT, MCT1	1p13.2	BC026317	NM_003051	SLC	Solute carriers	752
+17027	SLC16A10	solute carrier family 16 member 10	Approved		TAT1, MCT10	6q21	AF116652		SLC	Solute carriers	752
+23093	SLC16A11	solute carrier family 16 member 11	Approved		FLJ90193, MCT11	17p13.1	AK074674	NM_153357	SLC	Solute carriers	752
+23094	SLC16A12	solute carrier family 16 member 12	Approved		MCT12	10q23.31		NM_213606	SLC	Solute carriers	752
+31037	SLC16A13	solute carrier family 16 member 13	Approved		MCT13	17p13.1	BN000145		SLC	Solute carriers	752
+26417	SLC16A14	solute carrier family 16 member 14	Approved		FLJ30794, MCT14	2q36.3	BN000146	NM_152527	SLC	Solute carriers	752
+10923	SLC16A2	solute carrier family 16 member 2	Approved	DXS128, AHDS, MRX22	XPCT, MCT8, MCT7	Xq13.2			SLC	Solute carriers	752
+10924	SLC16A3	solute carrier family 16 member 3	Approved		MCT3, MCT4	17q25.3	U81800	NM_004207	SLC	Solute carriers	752
+10925	SLC16A4	solute carrier family 16 member 4	Approved		MCT4, MCT5	1p13.3	U59185	NM_004696	SLC	Solute carriers	752
+10926	SLC16A5	solute carrier family 16 member 5	Approved		MCT5, MCT6	17q25.1	U59299	NM_004695	SLC	Solute carriers	752
+10927	SLC16A6	solute carrier family 16 member 6	Approved		MCT6, MCT7	17q24.2	U79745	NM_004694	SLC	Solute carriers	752
+10928	SLC16A7	solute carrier family 16 member 7	Approved		MCT2	12q14.1	AF049608	NM_004731	SLC	Solute carriers	752
+16270	SLC16A8	solute carrier family 16 member 8	Approved		MCT3, REMP	22q13.1	AF132610	NM_013356	SLC	Solute carriers	752
+23520	SLC16A9	solute carrier family 16 member 9	Approved	C10orf36	FLJ43803, MCT9	10q21.2	AK125791	NM_194298	SLC	Solute carriers	752
+10929	SLC17A1	solute carrier family 17 member 1	Approved	NPT1	NAPI-1	6p22.2			SLC	Solute carriers	752
+10930	SLC17A2	solute carrier family 17 member 2	Approved		NPT3	6p22.2	U90544		SLC	Solute carriers	752
+10931	SLC17A3	solute carrier family 17 member 3	Approved		NPT4	6p22.2	U90545		SLC	Solute carriers	752
+10932	SLC17A4	solute carrier family 17 member 4	Approved		KIAA2138	6p22.2	AB020527		SLC	Solute carriers	752
+10933	SLC17A5	solute carrier family 17 member 5	Approved	SIASD	AST, SD, ISSD, NSD, SIALIN, SLD	6q13	AJ387747		SLC	Solute carriers	752
+16703	SLC17A6	solute carrier family 17 member 6	Approved		DNPI, VGLUT2	11p14.3	AB032435	NM_020346	SLC	Solute carriers	752
+16704	SLC17A7	solute carrier family 17 member 7	Approved		BNPI, VGLUT1	19q13.33	AB032436		SLC	Solute carriers	752
+20151	SLC17A8	solute carrier family 17 member 8	Approved	DFNA25	VGLUT3	12q23.1	AJ459241	NM_139319	SLC	Solute carriers	752
+16192	SLC17A9	solute carrier family 17 member 9	Approved	C20orf59	FLJ23412, VNUT	20q13.33	AK027065	NM_022082	SLC	Solute carriers	752
+10934	SLC18A1	solute carrier family 18 member A1	Approved	VMAT1, VAT1	CGAT	8p21.3			SLC	Solute carriers	752
+10935	SLC18A2	solute carrier family 18 member A2	Approved	VMAT2	SVMT, SVAT	10q25.3	L14269	NM_003054	SLC	Solute carriers	752
+10936	SLC18A3	solute carrier family 18 member A3	Approved		VACHT	10q11.23	BC007765	NM_003055	SLC	Solute carriers	752
+21573	SLC18B1	solute carrier family 18 member B1	Approved	C6orf192	dJ55C23.6	6q23.2	AK124442	NM_052831	SLC	Solute carriers	752
+10937	SLC19A1	solute carrier family 19 member 1	Approved		FOLT, RFC1	21q22.3	U15939		SLC	Solute carriers	752
+10938	SLC19A2	solute carrier family 19 member 2	Approved	TRMA	THTR1	1q24.2	AF135488	NM_006996	SLC	Solute carriers	752
+16266	SLC19A3	solute carrier family 19 member 3	Approved		THTR2	2q36.3	AF271633	NM_025243	SLC	Solute carriers	752
+10939	SLC1A1	solute carrier family 1 member 1	Approved		EAAC1, EAAT3	9p24.2			SLC	Solute carriers	752
+10940	SLC1A2	solute carrier family 1 member 2	Approved		GLT-1, EAAT2	11p13	AB209444	NM_004171	SLC	Solute carriers	752
+10941	SLC1A3	solute carrier family 1 member 3	Approved		EAAT1, GLAST, EA6	5p13.2		NM_004172	SLC	Solute carriers	752
+10942	SLC1A4	solute carrier family 1 member 4	Approved		SATT, ASCT1	2p14		NM_003038	SLC	Solute carriers	752
+10943	SLC1A5	solute carrier family 1 member 5	Approved	RDRC, M7V1	AAAT, ASCT2	19q13.32	U53347		SLC	Solute carriers	752
+10944	SLC1A6	solute carrier family 1 member 6	Approved		EAAT4	19p13.12		NM_005071	SLC	Solute carriers	752
+10945	SLC1A7	solute carrier family 1 member 7	Approved		EAAT5	1p32.3	U76362	NM_006671	SLC	Solute carriers	752
+10946	SLC20A1	solute carrier family 20 member 1	Approved	GLVR1	PiT-1, Glvr-1	2q14.1		NM_005415	SLC	Solute carriers	752
+10947	SLC20A2	solute carrier family 20 member 2	Approved	MLVAR, GLVR2	PiT-2, Glvr-2, Ram-1	8p11.21			SLC	Solute carriers	752
+10963	SLC22A1	solute carrier family 22 member 1	Approved		OCT1	6q25.3	U77086		SLC	Solute carriers	752
+18057	SLC22A10	solute carrier family 22 member 10	Approved		OAT5, hOAT5	11q12.3	AP003420	NM_001039752	SLC	Solute carriers	752
+18120	SLC22A11	solute carrier family 22 member 11	Approved		OAT4	11q13.1	AB026116	NM_018484	SLC	Solute carriers	752
+17989	SLC22A12	solute carrier family 22 member 12	Approved		OAT4L, RST, URAT1	11q13.1	AB071863	NM_144585	SLC	Solute carriers	752
+8494	SLC22A13	solute carrier family 22 member 13	Approved	ORCTL3	OCTL1, OCTL3, OAT10	3p22.2	AB010438	NM_004256	SLC	Solute carriers	752
+8495	SLC22A14	solute carrier family 22 member 14	Approved	ORCTL4	OCTL2	3p22.2	AB011082	NM_004803	SLC	Solute carriers	752
+20301	SLC22A15	solute carrier family 22 member 15	Approved		FLIPT1	1p13.1	AY145501	NM_018420	SLC	Solute carriers	752
+20302	SLC22A16	solute carrier family 22 member 16	Approved		FLIPT2, CT2, OKB1, OAT6	6q21		NM_033125	SLC	Solute carriers	752
+23095	SLC22A17	solute carrier family 22 member 17	Approved		BOCT, BOIT, NGALR	14q11.2	AJ243653	NM_020372	SLC	Solute carriers	752
+10964	SLC22A18	solute carrier family 22 member 18	Approved	ORCTL2, BWSCR1A, IMPT1, SLC22A1L	BWR1A, TSSC5, ITM	11p15.4	AF028738	NM_183233	SLC	Solute carriers	752
+10966	SLC22A2	solute carrier family 22 member 2	Approved		OCT2	6q25.3	X98333	NM_003058	SLC	Solute carriers	752
+29867	SLC22A20P	solute carrier family 22 member 20, pseudogene	Approved	SLC22A20	Oat6, FLJ16331	11q13.1	DQ053017	NR_033396	SLC	Solute carriers	752
+21106	SLC22A23	solute carrier family 22 member 23	Approved	C6orf85	FLJ22174	6p25.2	AJ420525	NM_021945	SLC	Solute carriers	752
+28542	SLC22A24	solute carrier family 22 member 24	Approved		MGC34821, NET46	11q12.3		NM_173586	SLC	Solute carriers	752
+32935	SLC22A25	solute carrier family 22 member 25	Approved		UST6, HIMTP, MGC120420	11q12.3	AY437532	NM_199352	SLC	Solute carriers	752
+10967	SLC22A3	solute carrier family 22 member 3	Approved		OCT3, EMT	6q25.3	AF078749	NM_021977	SLC	Solute carriers	752
+27091	SLC22A31	solute carrier family 22 member 31	Approved			16q24.3		NM_001242757	SLC	Solute carriers	752
+10968	SLC22A4	solute carrier family 22 member 4	Approved	DFNB60	OCTN1, MGC34546	5q31.1	AB007448	NM_003059	SLC	Solute carriers	752
+10969	SLC22A5	solute carrier family 22 member 5	Approved	CDSP	OCTN2, SCD	5q31.1	AF057164	NM_003060	SLC	Solute carriers	752
+10970	SLC22A6	solute carrier family 22 member 6	Approved		ROAT1, PAHT, OAT1	11q12.3	AF057039	NM_004790	SLC	Solute carriers	752
+10971	SLC22A7	solute carrier family 22 member 7	Approved		NLT, OAT2	6p21.1	AF097518		SLC	Solute carriers	752
+10972	SLC22A8	solute carrier family 22 member 8	Approved		OAT3	11q12.3	AF097491, BC022387	NM_004254	SLC	Solute carriers	752
+16261	SLC22A9	solute carrier family 22 member 9	Approved		OAT4, FLJ23666, UST3, OAT7	11q12.3	AP001880	NM_080866	SLC	Solute carriers	752
+10974	SLC23A1	solute carrier family 23 member 1	Approved	SLC23A2	YSPL3, SVCT1	5q31.2	AF058317	NM_152685	SLC	Solute carriers	752
+10973	SLC23A2	solute carrier family 23 member 2	Approved	SLC23A1	SVCT2, KIAA0238, YSPL2	20p13	AF058319		SLC	Solute carriers	752
+20601	SLC23A3	solute carrier family 23 member 3	Approved		SVCT3, FLJ31168, Yspl1	2q35	BC030243	NM_144712	SLC	Solute carriers	752
+20602	SLC23A4P	solute carrier family 23 member 4, pseudogene	Approved	SLC23A4		7q33			SLC	Solute carriers	752
+10975	SLC24A1	solute carrier family 24 member 1	Approved		NCKX1, NCKX, RODX, KIAA0702, HsT17412, CSNB1D	15q22.31	AF062922	NM_004727	SLC	Solute carriers	752
+10976	SLC24A2	solute carrier family 24 member 2	Approved		NCKX2	9p22.1	AF097366	NM_020344	SLC	Solute carriers	752
+10977	SLC24A3	solute carrier family 24 member 3	Approved			20p11.23	AF169257	NM_020689	SLC	Solute carriers	752
+10978	SLC24A4	solute carrier family 24 member 4	Approved		NCKX4	14q32.12	AF520704	NM_153646	SLC	Solute carriers	752
+20611	SLC24A5	solute carrier family 24 member 5	Approved		JSX, OCA6	15q21.1	AF348468	NM_205850	SLC	Solute carriers	752
+10979	SLC25A1	solute carrier family 25 member 1	Approved	SLC20A3	CTP	22q11.21	U25147	NM_005984	SLC	Solute carriers	752
+10980	SLC25A10	solute carrier family 25 member 10	Approved	DIC		17q25.3			SLC	Solute carriers	752
+10981	SLC25A11	solute carrier family 25 member 11	Approved	SLC20A4	OGC	17p13.2	X66114	NM_003562	SLC	Solute carriers	752
+10982	SLC25A12	solute carrier family 25 member 12	Approved		Aralar	2q31.1	Y14494	NM_003705	SLC	Solute carriers	752
+10983	SLC25A13	solute carrier family 25 member 13	Approved	CTLN2	CITRIN, ARALAR2	7q21.3	AF118838	NM_014251	SLC	Solute carriers	752
+10984	SLC25A14	solute carrier family 25 member 14	Approved		BMCP1, UCP5	Xq26.1	AF078544	NM_022810, NM_003951	SLC	Solute carriers	752
+10985	SLC25A15	solute carrier family 25 member 15	Approved	ORNT1, HHH	ORC1, D13S327	13q14.11	AF112968	NM_014252	SLC	Solute carriers	752
+10986	SLC25A16	solute carrier family 25 member 16	Approved		GDA, D10S105E, HGT.1, ML7	10q21.3	M31659		SLC	Solute carriers	752
+10987	SLC25A17	solute carrier family 25 member 17	Approved		PMP34	22q13.2	Y12860	NM_006358	SLC	Solute carriers	752
+10988	SLC25A18	solute carrier family 25 member 18	Approved			22q11.21	AY008285	NM_031481	SLC	Solute carriers	752
+14409	SLC25A19	solute carrier family 25 member 19	Approved	MCPHA	DNC, MUP1, TPC	17q25.1		NM_021734	SLC	Solute carriers	752
+22921	SLC25A2	solute carrier family 25 member 2	Approved		ORNT2	5q31.3	AF332005	NM_031947	SLC	Solute carriers	752
+1421	SLC25A20	solute carrier family 25 member 20	Approved	CACT	CAC	3p21.31	Y10319	NM_000387	SLC	Solute carriers	752
+14411	SLC25A21	solute carrier family 25 member 21	Approved		ODC1, ODC	14q13.3	AJ278148	NM_030631	SLC	Solute carriers	752
+19954	SLC25A22	solute carrier family 25 member 22	Approved		GC1, FLJ13044, NET44, EIEE3	11p15.5	AJ428202		SLC	Solute carriers	752
+19375	SLC25A23	solute carrier family 25 member 23	Approved		FLJ30339, MGC2615, APC2	19p13.3	AJ619962	NM_024103	SLC	Solute carriers	752
+20662	SLC25A24	solute carrier family 25 member 24	Approved		DKFZp586G0123, APC1	1p13.3	AJ619961	NM_013386	SLC	Solute carriers	752
+20663	SLC25A25	solute carrier family 25 member 25	Approved		KIAA1896, PCSCL, MCSC	9q34.11	AJ619963	NM_052901	SLC	Solute carriers	752
+20661	SLC25A26	solute carrier family 25 member 26	Approved			3p14.1	AJ580932	NM_173471	SLC	Solute carriers	752
+21065	SLC25A27	solute carrier family 25 member 27	Approved		UCP4, FLJ33552	6p12.3	AK090871	NM_004277	SLC	Solute carriers	752
+23472	SLC25A28	solute carrier family 25 member 28	Approved		MRS3/4, MRS4L	10q24.2	AF327402	NM_031212	SLC	Solute carriers	752
+20116	SLC25A29	solute carrier family 25 member 29	Approved	C14orf69	FLJ38975	14q32.2	AK095532		SLC	Solute carriers	752
+10989	SLC25A3	solute carrier family 25 member 3	Approved	PHC		12q23.1		NM_005888	SLC	Solute carriers	752
+27371	SLC25A30	solute carrier family 25 member 30	Approved			13q14.13	AK074457	XM_170736	SLC	Solute carriers	752
+25319	SLC25A31	solute carrier family 25 member 31	Approved		DKFZP434N1235, ANT4	4q28.1	AL136857	NM_031291	SLC	Solute carriers	752
+29683	SLC25A32	solute carrier family 25 member 32	Approved		MFTC	8q22.3	AF283645	NM_030780	SLC	Solute carriers	752
+29681	SLC25A33	solute carrier family 25 member 33	Approved		MGC4399, BMSC-MCP, PNC1	1p36.22	AF495714	NM_032315	SLC	Solute carriers	752
+27653	SLC25A34	solute carrier family 25 member 34	Approved		DKFZp781A10161	1p36.21	BC027998	NM_207348	SLC	Solute carriers	752
+31921	SLC25A35	solute carrier family 25 member 35	Approved		FLJ40217	17p13.1	AY498866	NM_201520	SLC	Solute carriers	752
+25554	SLC25A36	solute carrier family 25 member 36	Approved		FLJ10618, PNC2	3q23	AK001480	NM_018155	SLC	Solute carriers	752
+29786	SLC25A37	solute carrier family 25 member 37	Approved		MSCP, MFRN, MFRN1, HT015	8p21.2	AF495725	NM_016612	SLC	Solute carriers	752
+26054	SLC25A38	solute carrier family 25 member 38	Approved		FLJ20551	3p22.1	BC013194	NM_017875	SLC	Solute carriers	752
+24279	SLC25A39	solute carrier family 25 member 39	Approved		FLJ22407, CGI-69	17q21.31	BC096819	NM_016016	SLC	Solute carriers	752
+10990	SLC25A4	solute carrier family 25 member 4	Approved	PEO3, PEO2, ANT1	T1	4q35.1	BC008664	NM_001151	SLC	Solute carriers	752
+29680	SLC25A40	solute carrier family 25 member 40	Approved		MCFP	7q21.12	AF125531	NM_018843	SLC	Solute carriers	752
+28533	SLC25A41	solute carrier family 25 member 41	Approved		FLJ40442, MGC34725, APC4	19p13.3	AK097761	NM_173637	SLC	Solute carriers	752
+28380	SLC25A42	solute carrier family 25 member 42	Approved		MGC26694	19p13.11		NM_178526	SLC	Solute carriers	752
+30557	SLC25A43	solute carrier family 25 member 43	Approved			Xq24	BC019584	NM_145305	SLC	Solute carriers	752
+29036	SLC25A44	solute carrier family 25 member 44	Approved		FLJ90431, KIAA0446	1q22	AB007915	NM_014655	SLC	Solute carriers	752
+27442	SLC25A45	solute carrier family 25 member 45	Approved			11q13.1	BC041100	NM_182556	SLC	Solute carriers	752
+25198	SLC25A46	solute carrier family 25 member 46	Approved			5q22.1	BC017169	NM_138773	SLC	Solute carriers	752
+20115	SLC25A47	solute carrier family 25 member 47	Approved	C14orf68		14q32.2			SLC	Solute carriers	752
+30451	SLC25A48	solute carrier family 25 member 48	Approved		FLJ44862, HDMCP	5q31.1		NM_145282	SLC	Solute carriers	752
+10991	SLC25A5	solute carrier family 25 member 5	Approved	ANT2	T2, 2F1, T3	Xq24	BC068199	NM_001152	SLC	Solute carriers	752
+23323	SLC25A51	solute carrier family 25 member 51	Approved	MCART1	MGC14836, CG7943	9p13.2-p13.1	BC008500	NM_033412	SLC	Solute carriers	752
+23324	SLC25A52	solute carrier family 25 member 52	Approved	MCART2		18q12.1		XM_084000	SLC	Solute carriers	752
+31894	SLC25A53	solute carrier family 25 member 53	Approved	MCART6		Xq22.2		NM_001012755	SLC	Solute carriers	752
+10992	SLC25A6	solute carrier family 25 member 6	Approved	ANT3	ANT3Y, MGC17525	Xp22.32 and Yp11.3	AY007135	NM_001636	SLC	Solute carriers	752
+10993	SLC26A1	solute carrier family 26 member 1	Approved		SAT-1, EDM4	4p16.3	AF297659	NM_022042, NM_134425	SLC	Solute carriers	752
+14470	SLC26A10	solute carrier family 26 member 10	Approved			12q13.3			SLC	Solute carriers	752
+14471	SLC26A11	solute carrier family 26 member 11	Approved			17q25.3			SLC	Solute carriers	752
+10994	SLC26A2	solute carrier family 26 member 2	Approved	DTD	DTDST	5q32	U14528	NM_000112	SLC	Solute carriers	752
+3018	SLC26A3	solute carrier family 26 member 3	Approved	DRA, CLD		7q22.3-q31.1	L02785	NM_000111	SLC	Solute carriers	752
+8818	SLC26A4	solute carrier family 26 member 4	Approved	DFNB4	PDS	7q22.3	AF030880	NM_000441	SLC	Solute carriers	752
+9359	SLC26A5	solute carrier family 26 member 5	Approved	PRES	DFNB61	7q22.1	AC005064	NM_198999	SLC	Solute carriers	752
+14472	SLC26A6	solute carrier family 26 member 6	Approved		DKFZp586E1422	3p21.31	AF279265	NM_022911	SLC	Solute carriers	752
+14467	SLC26A7	solute carrier family 26 member 7	Approved		SUT2	8q21.3	AF331521		SLC	Solute carriers	752
+14468	SLC26A8	solute carrier family 26 member 8	Approved			6p21.31	AF331522		SLC	Solute carriers	752
+14469	SLC26A9	solute carrier family 26 member 9	Approved			1q32.1	AF331525	NM_052934	SLC	Solute carriers	752
+10995	SLC27A1	solute carrier family 27 member 1	Approved		FATP1, FATP, MGC71751, FLJ00336, ACSVL5	19p13.11	BC059399	NM_198580	SLC	Solute carriers	752
+10996	SLC27A2	solute carrier family 27 member 2	Approved	FACVL1	FATP2, hFACVL1, VLACS, VLCS, HsT17226, ACSVL1	15q21.2	D88308	NM_003645	SLC	Solute carriers	752
+10997	SLC27A3	solute carrier family 27 member 3	Approved		FATP3, MGC4365, ACSVL3	1q21.3	BC009916	NM_024330	SLC	Solute carriers	752
+10998	SLC27A4	solute carrier family 27 member 4	Approved		FATP4, ACSVL4	9q34.11	AF055899		SLC	Solute carriers	752
+10999	SLC27A5	solute carrier family 27 member 5	Approved		FATP5, VLACSR, VLCS-H2, VLCSH2, FACVL3, FLJ22987, ACSVL6, ACSB	19q13.43	AF064255	NM_012254	SLC	Solute carriers	752
+11000	SLC27A6	solute carrier family 27 member 6	Approved		FATP6, VLCS-H1, FACVL2, ACSVL2	5q23.3	AF064254	NM_014031	SLC	Solute carriers	752
+11001	SLC28A1	solute carrier family 28 member 1	Approved		CNT1	15q25.3	U62967		SLC	Solute carriers	752
+11002	SLC28A2	solute carrier family 28 member 2	Approved		CNT2, SPNT1, HCNT2, HsT17153	15q21.1	U84392	NM_004212	SLC	Solute carriers	752
+16484	SLC28A3	solute carrier family 28 member 3	Approved		CNT3	9q21.32-q21.33	AF305210	NM_022127	SLC	Solute carriers	752
+11003	SLC29A1	solute carrier family 29 member 1 (Augustine blood group)	Approved	ENT1		6p21.1	U81375		SLC	Solute carriers	752
+11004	SLC29A2	solute carrier family 29 member 2	Approved	ENT2, HNP36	DER12	11q13.2	X86681	NM_001532	SLC	Solute carriers	752
+23096	SLC29A3	solute carrier family 29 member 3	Approved		ENT3, FLJ11160	10q22.1	AF326987	NM_018344	SLC	Solute carriers	752
+23097	SLC29A4	solute carrier family 29 member 4	Approved		FLJ34923, ENT4	7p22.1	AK075422	NM_153247	SLC	Solute carriers	752
+11005	SLC2A1	solute carrier family 2 member 1	Approved	GLUT1, GLUT, HTLVR, CSE	DYT18, DYT9	1p34.2	K03195	NM_006516	SLC	Solute carriers	752
+13444	SLC2A10	solute carrier family 2 member 10	Approved		GLUT10	20q13.12	AL137188		SLC	Solute carriers	752
+14239	SLC2A11	solute carrier family 2 member 11	Approved		GLUT11, GLUT10	22q11.23	AJ271290	NM_030807	SLC	Solute carriers	752
+18067	SLC2A12	solute carrier family 2 member 12	Approved		GLUT12, GLUT8	6q23.2	AL035699		SLC	Solute carriers	752
+15956	SLC2A13	solute carrier family 2 member 13	Approved		HMIT	12q12	AJ315644		SLC	Solute carriers	752
+18301	SLC2A14	solute carrier family 2 member 14	Approved	SLC2A3P3	GLUT14	12p13.31	AF481878	NM_153449	SLC	Solute carriers	752
+11006	SLC2A2	solute carrier family 2 member 2	Approved	GLUT2		3q26.2	J03810	NM_000340	SLC	Solute carriers	752
+11007	SLC2A3	solute carrier family 2 member 3	Approved	GLUT3		12p13.31	M20681	NM_006931	SLC	Solute carriers	752
+11009	SLC2A4	solute carrier family 2 member 4	Approved	GLUT4		17p13.1	M20747		SLC	Solute carriers	752
+11010	SLC2A5	solute carrier family 2 member 5	Approved	GLUT5		1p36.23	BC001820	NM_003039	SLC	Solute carriers	752
+11011	SLC2A6	solute carrier family 2 member 6	Approved		GLUT9, GLUT6, HSA011372	9q34.2	AJ011372	NM_017585	SLC	Solute carriers	752
+13445	SLC2A7	solute carrier family 2 member 7	Approved		GLUT7	1p36.23	AL356306	NM_207420	SLC	Solute carriers	752
+13812	SLC2A8	solute carrier family 2 member 8	Approved		GLUTX1, GLUT8	9q33.3	AJ245937	NM_014580	SLC	Solute carriers	752
+13446	SLC2A9	solute carrier family 2 member 9	Approved		Glut9, GLUTX, URATv1	4p16.1	AF210317		SLC	Solute carriers	752
+11012	SLC30A1	solute carrier family 30 member 1	Approved	ZNT1	ZRC1	1q32.3	AF323590		SLC	Solute carriers	752
+25355	SLC30A10	solute carrier family 30 member 10	Approved		DKFZp547M236, ZnT-10, ZRC1, ZNT8	1q41	AY212919	NM_018713	SLC	Solute carriers	752
+11013	SLC30A2	solute carrier family 30 member 2	Approved	ZNT2		1p36.11	AK023491	NM_032513	SLC	Solute carriers	752
+11014	SLC30A3	solute carrier family 30 member 3	Approved	ZNT3		2p23.3	U76010		SLC	Solute carriers	752
+11015	SLC30A4	solute carrier family 30 member 4	Approved	ZNT4		15q21.1			SLC	Solute carriers	752
+19089	SLC30A5	solute carrier family 30 member 5	Approved		ZTL1, ZnT-5, FLJ12496, FLJ12756, ZNT5, MGC5499, ZNTL1	5q13.1-q13.2	AF212235		SLC	Solute carriers	752
+19305	SLC30A6	solute carrier family 30 member 6	Approved		FLJ31101, ZNT6	2p22.3	AK055663		SLC	Solute carriers	752
+19306	SLC30A7	solute carrier family 30 member 7	Approved		ZnTL2, ZNT7	1p21.2	AF233345	NM_133496	SLC	Solute carriers	752
+20303	SLC30A8	solute carrier family 30 member 8	Approved		ZnT-8, ZNT8	8q24.11		NM_173851	SLC	Solute carriers	752
+1329	SLC30A9	solute carrier family 30 member 9	Approved	C4orf1	HUEL, ZNT9, GAC63	4p13	AF006621		SLC	Solute carriers	752
+11016	SLC31A1	solute carrier family 31 member 1	Approved	COPT1	hCTR1, CTR1	9q32	U83460	NM_001859	SLC	Solute carriers	752
+11017	SLC31A2	solute carrier family 31 member 2	Approved	COPT2	hCTR2, CTR2	9q32		NM_001860	SLC	Solute carriers	752
+11018	SLC32A1	solute carrier family 32 member 1	Approved	VIAAT	VGAT, bA122O1.1	20q11.23	AL133519	NM_080552	SLC	Solute carriers	752
+95	SLC33A1	solute carrier family 33 member 1	Approved	ACATN, SPG42	AT-1, AT1	3q25.31	D88152	NM_004733	SLC	Solute carriers	752
+11019	SLC34A1	solute carrier family 34 member 1	Approved	NPT2, SLC17A2	NAPI-3, NPTIIa, SLC11	5q35.3	L13258	NM_003052	SLC	Solute carriers	752
+11020	SLC34A2	solute carrier family 34 member 2	Approved		NAPI-3B	4p15.2	AF111856	NM_006424	SLC	Solute carriers	752
+20305	SLC34A3	solute carrier family 34 member 3	Approved		NPTIIc, FLJ38680	9q34.3	AB055000	NM_080877	SLC	Solute carriers	752
+11021	SLC35A1	solute carrier family 35 member A1	Approved		CMPST, hCST	6q15	D87969		SLC	Solute carriers	752
+11022	SLC35A2	solute carrier family 35 member A2	Approved	UGALT	UGAT, UGT, UGT1, UGT2, UGTL	Xp11.23	D88146	NM_005660	SLC	Solute carriers	752
+11023	SLC35A3	solute carrier family 35 member A3	Approved			1p21.2	AB021981	NM_012243	SLC	Solute carriers	752
+20753	SLC35A4	solute carrier family 35 member A4	Approved			5q31.3	AJ420598	NM_080670	SLC	Solute carriers	752
+20792	SLC35A5	solute carrier family 35 member A5	Approved		FLJ20730	3q13.2	AK000737	NM_017945	SLC	Solute carriers	752
+20798	SLC35B1	solute carrier family 35 member B1	Approved		UGTREL1	17q21.33	D16978	NM_005827	SLC	Solute carriers	752
+16872	SLC35B2	solute carrier family 35 member B2	Approved		UGTrel4	6p21.1	AK075456		SLC	Solute carriers	752
+21601	SLC35B3	solute carrier family 35 member B3	Approved	C6orf196	CGI-19, dJ453H5.1, PAPST2	6p24.3	AF132953	NM_015948	SLC	Solute carriers	752
+20584	SLC35B4	solute carrier family 35 member B4	Approved		FLJ14697, YEA4	7q33	AB052892	NM_032826	SLC	Solute carriers	752
+20197	SLC35C1	solute carrier family 35 member C1	Approved		FUCT1, FLJ11320	11p11.2		NM_018389	SLC	Solute carriers	752
+17117	SLC35C2	solute carrier family 35 member C2	Approved	C20orf5, OVCOV1	CGI-15, bA394O2.1	20q13.12		NM_015945	SLC	Solute carriers	752
+20800	SLC35D1	solute carrier family 35 member D1	Approved		UGTREL7, KIAA0260	1p31.3	AB044343	NM_015139	SLC	Solute carriers	752
+20799	SLC35D2	solute carrier family 35 member D2	Approved		UGTrel8, SQV7L	9q22.32	AB122077		SLC	Solute carriers	752
+15621	SLC35D3	solute carrier family 35 member D3	Approved	FRCL1		6q23.3		XM_294017	SLC	Solute carriers	752
+20803	SLC35E1	solute carrier family 35 member E1	Approved		FLJ14251	19p13.11	AK024313	NM_024881	SLC	Solute carriers	752
+20863	SLC35E2A	solute carrier family 35 member E2A	Approved	SLC35E2	KIAA0447	1p36.33	AB007916	XM_049733	SLC	Solute carriers	752
+33941	SLC35E2B	solute carrier family 35 member E2B	Approved			1p36.33			SLC	Solute carriers	752
+20864	SLC35E3	solute carrier family 35 member E3	Approved		BLOV1	12q15	AF148713, AY358943	NM_018656	SLC	Solute carriers	752
+17058	SLC35E4	solute carrier family 35 member E4	Approved			22q12.2		XM_290973	SLC	Solute carriers	752
+21483	SLC35F1	solute carrier family 35 member F1	Approved	C6orf169	dJ230I3.1	6q22.2-q22.31	BC028615	XM_167044	SLC	Solute carriers	752
+23615	SLC35F2	solute carrier family 35 member F2	Approved		FLJ13018	11q22.3		NM_017515	SLC	Solute carriers	752
+23616	SLC35F3	solute carrier family 35 member F3	Approved		FLJ37712	1q42.2		NM_173508	SLC	Solute carriers	752
+19845	SLC35F4	solute carrier family 35 member F4	Approved	C14orf36	FLJ37712	14q22.3-q23.1		XM_292260	SLC	Solute carriers	752
+23617	SLC35F5	solute carrier family 35 member F5	Approved		FLJ22004	2q14.1	AF529364	NM_025181	SLC	Solute carriers	752
+26607	SLC35G1	solute carrier family 35 member G1	Approved	TMEM20	FLJ33990, C10orf60	10q23.33	AK091309	NM_153226	SLC	Solute carriers	752
+28480	SLC35G2	solute carrier family 35 member G2	Approved	TMEM22	MGC3295, DKFZp564K2464	3q22.3	BC022557	NM_025246	SLC	Solute carriers	752
+26848	SLC35G3	solute carrier family 35 member G3	Approved	TMEM21A, AMAC1	FLJ40154	17q12	AK097473	NM_152462	SLC	Solute carriers	752
+31043	SLC35G4	solute carrier family 35 member G4	Approved	AMAC1L1, SLC35G4P		18p11.21		XM_928960	SLC	Solute carriers	752
+15546	SLC35G5	solute carrier family 35 member G5	Approved	AMAC, AMAC1L2		8p23.1	AJ291677	NM_054028	SLC	Solute carriers	752
+31351	SLC35G6	solute carrier family 35 member G6	Approved	TMEM21B, AMAC1L3		17p13.1		NM_001102614	SLC	Solute carriers	752
+18761	SLC36A1	solute carrier family 36 member 1	Approved		LYAAT-1, PAT1, TRAMD3	5q33.1	AK057340	NM_078483	SLC	Solute carriers	752
+18762	SLC36A2	solute carrier family 36 member 2	Approved		PAT2, tramdorin, TRAMD1	5q33.1	AY162214		SLC	Solute carriers	752
+19659	SLC36A3	solute carrier family 36 member 3	Approved		PAT3, TRAMD2, tramdorin2	5q33.1	AY162215	NM_181774	SLC	Solute carriers	752
+19660	SLC36A4	solute carrier family 36 member 4	Approved		PAT4, FLJ38932	11q21	AY162216		SLC	Solute carriers	752
+11024	SLC37A1	solute carrier family 37 member 1	Approved			21q22.3	AJ269529		SLC	Solute carriers	752
+20644	SLC37A2	solute carrier family 37 member 2	Approved		FLJ00171	11q24.2	AK074100	XM_166184	SLC	Solute carriers	752
+20651	SLC37A3	solute carrier family 37 member 3	Approved		DKFZp761N0624	7q34	AK074823	NM_032295	SLC	Solute carriers	752
+4061	SLC37A4	solute carrier family 37 member 4	Approved	G6PT1, G6PT2, G6PT3	GSD1b, GSD1c, GSD1d	11q23.3	Y15409	NM_001467	SLC	Solute carriers	752
+13447	SLC38A1	solute carrier family 38 member 1	Approved		ATA1, NAT2, SAT1	12q13.11	AF271070		SLC	Solute carriers	752
+28237	SLC38A10	solute carrier family 38 member 10	Approved		MGC15523, PP1744	17q25.3	BC014642	NM_138570	SLC	Solute carriers	752
+26836	SLC38A11	solute carrier family 38 member 11	Approved		FLJ39822, AVT2	2q24.3		NM_173512	SLC	Solute carriers	752
+13448	SLC38A2	solute carrier family 38 member 2	Approved		SAT2, ATA2, KIAA1382, SNAT2	12q13.11	AB037803		SLC	Solute carriers	752
+18044	SLC38A3	solute carrier family 38 member 3	Approved		G17, SN1	3p21.31	U49082	NM_006841	SLC	Solute carriers	752
+14679	SLC38A4	solute carrier family 38 member 4	Approved		PAAT, NAT3, ATA3	12q13.11	AF193836		SLC	Solute carriers	752
+18070	SLC38A5	solute carrier family 38 member 5	Approved		SN2, JM24	Xp11.23	AF276889	NM_033518	SLC	Solute carriers	752
+19863	SLC38A6	solute carrier family 38 member 6	Approved		NAT-1	14q23.1	AF070578		SLC	Solute carriers	752
+25582	SLC38A7	solute carrier family 38 member 7	Approved		FLJ10815	16q21	BC001961	NM_018231	SLC	Solute carriers	752
+32434	SLC38A8	solute carrier family 38 member 8	Approved			16q23.3		NM_001080442	SLC	Solute carriers	752
+26907	SLC38A9	solute carrier family 38 member 9	Approved		FLJ90709	5q11.2		NM_173514	SLC	Solute carriers	752
+12876	SLC39A1	solute carrier family 39 member 1	Approved	ZIRTL	ZIP1	1q21.3	BC007886	NM_014437	SLC	Solute carriers	752
+20861	SLC39A10	solute carrier family 39 member 10	Approved		KIAA1265, FLJ90515, DKFZp564L2123	2q32.3		XM_047707	SLC	Solute carriers	752
+14463	SLC39A11	solute carrier family 39 member 11	Approved	C17orf26		17q24.3-q25.1	AF331643		SLC	Solute carriers	752
+20860	SLC39A12	solute carrier family 39 member 12	Approved		FLJ30499	10p12.33		NM_152725	SLC	Solute carriers	752
+20859	SLC39A13	solute carrier family 39 member 13	Approved		FLJ25785	11p11.2		NM_152264	SLC	Solute carriers	752
+20858	SLC39A14	solute carrier family 39 member 14	Approved		KIAA0062, NET34, ZIP14	8p21.3	D31887	XM_046677	SLC	Solute carriers	752
+17127	SLC39A2	solute carrier family 39 member 2	Approved		ZIP2	14q11.2	AF186081	NM_014579	SLC	Solute carriers	752
+17128	SLC39A3	solute carrier family 39 member 3	Approved		ZIP3	19p13.3	AF052125		SLC	Solute carriers	752
+17129	SLC39A4	solute carrier family 39 member 4	Approved	AEZ	ZIP4, AWMS2	8q24.3	AK025537		SLC	Solute carriers	752
+20502	SLC39A5	solute carrier family 39 member 5	Approved			12q13.3		NM_173596	SLC	Solute carriers	752
+18607	SLC39A6	solute carrier family 39 member 6	Approved		LIV-1	18q12.2	U41060		SLC	Solute carriers	752
+4927	SLC39A7	solute carrier family 39 member 7	Approved	HKE4	H2-KE4, D6S2244E, KE4, RING5, ZIP7	6p21.32	AF117221	NM_006979	SLC	Solute carriers	752
+20862	SLC39A8	solute carrier family 39 member 8	Approved		BIGM103	4q24		NM_022154	SLC	Solute carriers	752
+20182	SLC39A9	solute carrier family 39 member 9	Approved		FLJ11274	14q24.1		NM_018375	SLC	Solute carriers	752
+11025	SLC3A1	solute carrier family 3 member 1	Approved		CSNU1, D2H, RBAT, ATR1, NBAT	2p21		NM_000341	SLC	Solute carriers	752
+11026	SLC3A2	solute carrier family 3 member 2	Approved	MDU1	4T2HC, 4F2, NACAE, CD98, CD98HC, 4F2HC	11q12.3		NM_001012661	SLC	Solute carriers	752
+10909	SLC40A1	solute carrier family 40 member 1	Approved	SLC11A3	MTP1, IREG1, FPN1, HFE4	2q32.2	AF215636		SLC	Solute carriers	752
+19429	SLC41A1	solute carrier family 41 member 1	Approved		MgtE	1q32.1	AJ514402		SLC	Solute carriers	752
+31045	SLC41A2	solute carrier family 41 member 2	Approved		DKFZP434K0427	12q23.3	BC036734	NM_032148	SLC	Solute carriers	752
+31046	SLC41A3	solute carrier family 41 member 3	Approved		FLJ20473	3q21.2-q21.3		NM_017836	SLC	Solute carriers	752
+9225	SLC43A1	solute carrier family 43 member 1	Approved	POV1	R00504, PB39	11q12.1	AF045584	NM_003627	SLC	Solute carriers	752
+23087	SLC43A2	solute carrier family 43 member 2	Approved		MGC34680	17p13.3	BC027923	NM_152346	SLC	Solute carriers	752
+17466	SLC43A3	solute carrier family 43 member 3	Approved		SEEEG-1, Eeg1, DKFZp762A227, FOAP-13, PRO1659	11q12.1	AL157431	NM_017611	SLC	Solute carriers	752
+18798	SLC44A1	solute carrier family 44 member 1	Approved	CDW92	CDw92, CTL1, CHTL1, CD92	9q31.1-q31.2	AJ420812	NM_080546	SLC	Solute carriers	752
+17292	SLC44A2	solute carrier family 44 member 2	Approved		CTL2	19p13.2	AF070636		SLC	Solute carriers	752
+28689	SLC44A3	solute carrier family 44 member 3	Approved		MGC45474, CTL3	1p21.3	BC033858	NM_152369	SLC	Solute carriers	752
+13941	SLC44A4	solute carrier family 44 member 4	Approved	C6orf29	NG22, CTL4, FLJ14491, TPPT, DFNA72	6p21.33	AF134726		SLC	Solute carriers	752
+28524	SLC44A5	solute carrier family 44 member 5	Approved		MGC34032, CTL5	1p31.1	BC034580	NM_152697	SLC	Solute carriers	752
+17939	SLC45A1	solute carrier family 45 member 1	Approved	DNB5		1p36.23	AF118274		SLC	Solute carriers	752
+16472	SLC45A2	solute carrier family 45 member 2	Approved	MATP	AIM-1, OCA4	5p13.2	AF172849	NM_016180	SLC	Solute carriers	752
+8642	SLC45A3	solute carrier family 45 member 3	Approved	PCANAP6, PCANAP2, PCANAP8	IPCA-6, prostein, IPCA-2, IPCA-8	1q32.1	AF109301	NM_033102	SLC	Solute carriers	752
+29196	SLC45A4	solute carrier family 45 member 4	Approved		KIAA1126	8q24.3	AB032952	XM_050325	SLC	Solute carriers	752
+30521	SLC46A1	solute carrier family 46 member 1	Approved		HCP1, MGC9564, PCFT	17q11.2	AK054669	NM_080669	SLC	Solute carriers	752
+16055	SLC46A2	solute carrier family 46 member 2	Approved	TSCOT	Ly110	9q32	AF242557	NM_033051	SLC	Solute carriers	752
+27501	SLC46A3	solute carrier family 46 member 3	Approved		DKFZp686A1775, FLJ42613	13q12.3		NM_181785	SLC	Solute carriers	752
+25588	SLC47A1	solute carrier family 47 member 1	Approved		FLJ10847, MATE1	17p11.2		NM_018242	SLC	Solute carriers	752
+26439	SLC47A2	solute carrier family 47 member 2	Approved		FLJ31196, MATE2, MATE2-K	17p11.2	AB250364	NM_152908	SLC	Solute carriers	752
+26035	SLC48A1	solute carrier family 48 member 1	Approved		FLJ20489, hHRG-1, HRG1	12q13.11		NM_017842	SLC	Solute carriers	752
+26177	SLC49A3	solute carrier family 49 member 3	Approved	MFSD7	FLJ22269, LP2561	4p16.3	AK025922	NM_032219	SLC	Solute carriers	752
+11027	SLC4A1	solute carrier family 4 member 1 (Diego blood group)	Approved	EPB3, AE1, DI, WD	RTA1A, CD233, FR, SW, WR	17q21.31		NM_000342	SLC	Solute carriers	752
+13811	SLC4A10	solute carrier family 4 member 10	Approved		NBCn2, NCBE	2q24.2		NM_022058	SLC	Solute carriers	752
+16438	SLC4A11	solute carrier family 4 member 11	Approved	CHED2, CDPD1	dJ794I6.2, BTR1, NaBC1, FECD4	20p13	AF336127		SLC	Solute carriers	752
+11028	SLC4A2	solute carrier family 4 member 2	Approved	EPB3L1, AE2	HKB3, BND3L, NBND3	7q36.1		NM_003040	SLC	Solute carriers	752
+11029	SLC4A3	solute carrier family 4 member 3	Approved		AE3, SLC2C	2q35		NM_005070	SLC	Solute carriers	752
+11030	SLC4A4	solute carrier family 4 member 4	Approved	SLC4A5	NBC1, HNBC1, NBC2, pNBC, hhNMC	4q13.3	AF007216	NM_003759	SLC	Solute carriers	752
+18168	SLC4A5	solute carrier family 4 member 5	Approved		NBC4	2p13.1	AF243499		SLC	Solute carriers	752
+11033	SLC4A7	solute carrier family 4 member 7	Approved	SLC4A6	NBC3, SBC2	3p24.1	AB012130	NM_003615	SLC	Solute carriers	752
+11034	SLC4A8	solute carrier family 4 member 8	Approved		NBC3	12q13.13	AB018282	NM_004858	SLC	Solute carriers	752
+11035	SLC4A9	solute carrier family 4 member 9	Approved		AE4	5q31.3	AF313465	NM_031467	SLC	Solute carriers	752
+30657	SLC50A1	solute carrier family 50 member 1	Approved	RAG1AP1	SCP, RP11-540D14.5, slv, RZPDo834D038D, HsSWEET1, SWEET1	1q22	AF126023, AF126024	NM_018845	SLC	Solute carriers	752
+29955	SLC51A	solute carrier family 51 alpha subunit	Approved		OSTalpha	3q29		NM_152672	SLC	Solute carriers	752
+29956	SLC51B	solute carrier family 51 beta subunit	Approved		OSTbeta	15q22.31		NM_178859	SLC	Solute carriers	752
+30225	SLC52A1	solute carrier family 52 member 1	Approved	GPR172B	FLJ10060, GPCR42, PAR2, hRFT1, RFVT1	17p13.2	AY070775	NM_017986	SLC	Solute carriers	752
+30224	SLC52A2	solute carrier family 52 member 2	Approved	GPR172A	FLJ11856, PAR1, GPCR41, D15Ertd747e, RFVT2, hRFT3	8q24.3	AY070774	NM_024531	SLC	Solute carriers	752
+16187	SLC52A3	solute carrier family 52 member 3	Approved	C20orf54	bA371L19.1, hRFT2, RFVT3	20p13	AL118502	NM_033409	SLC	Solute carriers	752
+11036	SLC5A1	solute carrier family 5 member 1	Approved	SGLT1	D22S675, NAGT	22q12.3		NM_000343	SLC	Solute carriers	752
+23155	SLC5A10	solute carrier family 5 member 10	Approved		SGLT5	17p11.2		NM_152351	SLC	Solute carriers	752
+23091	SLC5A11	solute carrier family 5 member 11	Approved		KST1, SMIT2, SGLT6	16p12.1	AF292385	NM_052944	SLC	Solute carriers	752
+28750	SLC5A12	solute carrier family 5 member 12	Approved		MGC52019, SMCT2	11p14.2	BC049207	NM_178498	SLC	Solute carriers	752
+11037	SLC5A2	solute carrier family 5 member 2	Approved	SGLT2		16p11.2			SLC	Solute carriers	752
+11038	SLC5A3	solute carrier family 5 member 3	Approved		SMIT, SMIT1	21q22.11			SLC	Solute carriers	752
+11039	SLC5A4	solute carrier family 5 member 4	Approved		SAAT1, SGLT3, DJ90G24.4	22q12.3	U41897	NM_014227	SLC	Solute carriers	752
+11040	SLC5A5	solute carrier family 5 member 5	Approved		NIS	19p13.11			SLC	Solute carriers	752
+11041	SLC5A6	solute carrier family 5 member 6	Approved		SMVT	2p23.3	AF069307	NM_021095	SLC	Solute carriers	752
+14025	SLC5A7	solute carrier family 5 member 7	Approved		hCHT, CHT1	2q12.3	AF276871		SLC	Solute carriers	752
+19119	SLC5A8	solute carrier family 5 member 8	Approved		AIT	12q23.1-q23.2	AY081220	NM_145913	SLC	Solute carriers	752
+22146	SLC5A9	solute carrier family 5 member 9	Approved		SGLT4	1p33	BX648549	XM_117174	SLC	Solute carriers	752
+11042	SLC6A1	solute carrier family 6 member 1	Approved		GAT1, GABATR, GABATHG	3p25.3		NM_003042	SLC	Solute carriers	752
+11043	SLC6A10P	solute carrier family 6 member 10, pseudogene	Approved	SLC6A10	CT-2	16p11.2	U41163		SLC	Solute carriers	752
+11044	SLC6A11	solute carrier family 6 member 11	Approved		GAT3	3p25.3	S75989	NM_014229	SLC	Solute carriers	752
+11045	SLC6A12	solute carrier family 6 member 12	Approved		BGT-1	12p13.33	L42300	NM_003044	SLC	Solute carriers	752
+11046	SLC6A13	solute carrier family 6 member 13	Approved		GAT2	12p13.33	U76343	NM_016615	SLC	Solute carriers	752
+11047	SLC6A14	solute carrier family 6 member 14	Approved			Xq23	AF151978		SLC	Solute carriers	752
+13621	SLC6A15	solute carrier family 6 member 15	Approved		hv7-3, NTT73, FLJ10316, V7-3, SBAT1	12q21.31	AF265577	NM_018057, NM_182767	SLC	Solute carriers	752
+13622	SLC6A16	solute carrier family 6 member 16	Approved		NTT5	19q13.33	AF265578	NM_014037	SLC	Solute carriers	752
+31399	SLC6A17	solute carrier family 6 member 17	Approved			1p13.3		XM_371280	SLC	Solute carriers	752
+26441	SLC6A18	solute carrier family 6 member 18	Approved		FLJ31236, Xtrp2	5p15.33	AK055798	NM_182632	SLC	Solute carriers	752
+27960	SLC6A19	solute carrier family 6 member 19	Approved			5p15.33	AK096054	XM_291120	SLC	Solute carriers	752
+11048	SLC6A2	solute carrier family 6 member 2	Approved	NET1, NAT1, SLC6A5	NET	16q12.2			SLC	Solute carriers	752
+30927	SLC6A20	solute carrier family 6 member 20	Approved		XT3, Xtrp3	3p21.31	AF075260	NM_020208	SLC	Solute carriers	752
+31400	SLC6A21P	solute carrier family 6 member 21, pseudogene	Approved	SLC6A21		19q13.33	AC008891.7		SLC	Solute carriers	752
+11049	SLC6A3	solute carrier family 6 member 3	Approved	DAT1	DAT	5p15.33		NM_001044	SLC	Solute carriers	752
+11050	SLC6A4	solute carrier family 6 member 4	Approved	HTT, OCD1	5-HTT, SERT1	17q11.2	L05568	NM_001045	SLC	Solute carriers	752
+11051	SLC6A5	solute carrier family 6 member 5	Approved	NET1	GLYT2	11p15.1	AF085412	NM_004211	SLC	Solute carriers	752
+11052	SLC6A6	solute carrier family 6 member 6	Approved		TAUT	3p25.1		NM_003043	SLC	Solute carriers	752
+11054	SLC6A7	solute carrier family 6 member 7	Approved		PROT	5q32	S80071	NM_014228	SLC	Solute carriers	752
+11055	SLC6A8	solute carrier family 6 member 8	Approved		CRTR, CT1	Xq28			SLC	Solute carriers	752
+11056	SLC6A9	solute carrier family 6 member 9	Approved		GLYT1	1p34.1	S70609	NM_201649	SLC	Solute carriers	752
+11057	SLC7A1	solute carrier family 7 member 1	Approved	ERR, ATRC1	CAT-1, HCAT1, REC1L	13q12.3	AF078107	NM_003045	SLC	Solute carriers	752
+11058	SLC7A10	solute carrier family 7 member 10	Approved		asc-1	19q13.11	AB037670	NM_019849	SLC	Solute carriers	752
+11059	SLC7A11	solute carrier family 7 member 11	Approved		xCT	4q28.3	AB026891		SLC	Solute carriers	752
+23092	SLC7A13	solute carrier family 7 member 13	Approved		AGT-1, XAT2	8q21.3	AJ417661	NM_138817	SLC	Solute carriers	752
+29326	SLC7A14	solute carrier family 7 member 14	Approved		KIAA1613, PPP1R142	3q26.2	BC022968	NM_020949	SLC	Solute carriers	752
+32724	SLC7A15P	solute carrier family 7 member 15, pseudogene	Approved			2p24.1			SLC	Solute carriers	752
+11060	SLC7A2	solute carrier family 7 member 2	Approved	ATRC2	CAT-2, HCAT2	8p22	D29990	NM_003046	SLC	Solute carriers	752
+11061	SLC7A3	solute carrier family 7 member 3	Approved		CAT-3, ATRC3, FLJ14541	Xq13.1	AF320612	NM_032803	SLC	Solute carriers	752
+11062	SLC7A4	solute carrier family 7 member 4	Approved		HCAT3, CAT-4, VH	22q11.21	AJ000730	NM_004173	SLC	Solute carriers	752
+11063	SLC7A5	solute carrier family 7 member 5	Approved		LAT1, E16, D16S469E, MPE16, CD98	16q24.2	AF077866	NM_003486	SLC	Solute carriers	752
+11064	SLC7A6	solute carrier family 7 member 6	Approved		y+LAT-2, KIAA0245, LAT3, LAT-2	16q22.1	D87432	NM_003983	SLC	Solute carriers	752
+11065	SLC7A7	solute carrier family 7 member 7	Approved	LPI	y+LAT-1	14q11.2	AF092032		SLC	Solute carriers	752
+11066	SLC7A8	solute carrier family 7 member 8	Approved		LPI-PC1, LAT2	14q11.2	Y18483		SLC	Solute carriers	752
+11067	SLC7A9	solute carrier family 7 member 9	Approved	CSNU3		19q13.11	AF141289		SLC	Solute carriers	752
+11068	SLC8A1	solute carrier family 8 member A1	Approved	NCX1		2p22.1		NM_021097	SLC	Solute carriers	752
+11069	SLC8A2	solute carrier family 8 member A2	Approved		NCX2, KIAA1087	19q13.32	AB029010		SLC	Solute carriers	752
+11070	SLC8A3	solute carrier family 8 member A3	Approved		NCX3	14q24.2	AJ304852		SLC	Solute carriers	752
+26175	SLC8B1	solute carrier family 8 member B1	Approved	SLC24A6	FLJ22233, NCKX6, NCLX	12q24.13	AK025886	NM_024959	SLC	Solute carriers	752
+11071	SLC9A1	solute carrier family 9 member A1	Approved	APNH, NHE1	PPP1R143	1p36.11	M81768	NM_003047	SLC	Solute carriers	752
+11072	SLC9A2	solute carrier family 9 member A2	Approved	NHE2		2q12.1			SLC	Solute carriers	752
+11073	SLC9A3	solute carrier family 9 member A3	Approved	NHE3		5p15.33		NM_004174	SLC	Solute carriers	752
+11077	SLC9A4	solute carrier family 9 member A4	Approved		NHE4	2q12.1		NM_001011552.3	SLC	Solute carriers	752
+11078	SLC9A5	solute carrier family 9 member A5	Approved		NHE5	16q22.1			SLC	Solute carriers	752
+11079	SLC9A6	solute carrier family 9 member A6	Approved		NHE6, KIAA0267	Xq26.3	AF030409	NM_006359	SLC	Solute carriers	752
+17123	SLC9A7	solute carrier family 9 member A7	Approved		NHE7	Xp11.3	AF298591	NM_032591	SLC	Solute carriers	752
+20728	SLC9A8	solute carrier family 9 member A8	Approved		KIAA0939, NHE8	20q13.13	AB023156	XM_030524	SLC	Solute carriers	752
+20653	SLC9A9	solute carrier family 9 member A9	Approved		FLJ35613, NHE9	3q24	AY254100	NM_173653	SLC	Solute carriers	752
+24244	SLC9B1	solute carrier family 9 member B1	Approved	NHEDC1	NHA1	4q24	AF447585	NM_139173	SLC	Solute carriers	752
+25143	SLC9B2	solute carrier family 9 member B2	Approved	NHEDC2	FLJ23984, NHA2	4q24	AK172823	NM_178833	SLC	Solute carriers	752
+31401	SLC9C1	solute carrier family 9 member C1	Approved	SLC9A10	NHE	3q13.2	AK128084	NM_183061	SLC	Solute carriers	752
+28664	SLC9C2	solute carrier family 9 member C2 (putative)	Approved	SLC9A11	MGC43026	1q25.1	AK128104	NM_178527	SLC	Solute carriers	752
+10956	SLCO1A2	solute carrier organic anion transporter family member 1A2	Approved	SLC21A3	OATP, OATP1A2, OATP-A	12p12.1		NM_021094	SLC	Solute carriers	752
+10959	SLCO1B1	solute carrier organic anion transporter family member 1B1	Approved	SLC21A6	OATP-C, LST-1, OATP1B1	12p12.1		NM_006446	SLC	Solute carriers	752
+10961	SLCO1B3	solute carrier organic anion transporter family member 1B3	Approved	SLC21A8	OATP8, OATP1B3	12p12.2		NM_019844	SLC	Solute carriers	752
+32934	SLCO1B7	solute carrier organic anion transporter family member 1B7 (putative)	Approved		LST3, SLC21A21	12p12.2	AF401642	NM_001009562	SLC	Solute carriers	752
+13819	SLCO1C1	solute carrier organic anion transporter family member 1C1	Approved	SLC21A14	OATP-F, OATP1C1, OATP1	12p12.2	AF260704	NM_017435	SLC	Solute carriers	752
+10955	SLCO2A1	solute carrier organic anion transporter family member 2A1	Approved	SLC21A2, MATR1	PGT, OATP2A1	3q22.1-q22.2		NM_005630	SLC	Solute carriers	752
+10962	SLCO2B1	solute carrier organic anion transporter family member 2B1	Approved	SLC21A9	OATP-B, OATP2B1	11q13	AB026256	NM_007256	SLC	Solute carriers	752
+10952	SLCO3A1	solute carrier organic anion transporter family member 3A1	Approved	SLC21A11	OATP-D, OATP3A1	15q26.1	AB031050	NM_013272	SLC	Solute carriers	752
+10953	SLCO4A1	solute carrier organic anion transporter family member 4A1	Approved	SLC21A12	OATP-E, OATP4A1	20q13.33	AB031051	NM_016354	SLC	Solute carriers	752
+23612	SLCO4C1	solute carrier organic anion transporter family member 4C1	Approved		SLC21A20, OATP4C1, OATPX, OATP-H	5q21.1	AY273896	NM_180991	SLC	Solute carriers	752
+19046	SLCO5A1	solute carrier organic anion transporter family member 5A1	Approved	SLC21A15	OATPRP4, OATP-J, OATP5A1	8q13.3	AF205075	NM_030958	SLC	Solute carriers	752
+23613	SLCO6A1	solute carrier organic anion transporter family member 6A1	Approved		OATP6A1, OATPY, MGC26949, CT48	5q21.1	AF505657	NM_173488	SLC	Solute carriers	752
+12517	UCP1	uncoupling protein 1	Approved	UCP	SLC25A7	4q31.1	X51955		SLC	Solute carriers	752
+12518	UCP2	uncoupling protein 2	Approved	BMIQ4	SLC25A8	11q13	U76367	NM_003355	SLC	Solute carriers	752
+12519	UCP3	uncoupling protein 3	Approved		SLC25A9	11q13.4	AF001787	NM_003356	SLC	Solute carriers	752
+12827	XPR1	xenotropic and polytropic retrovirus receptor 1	Approved		SYG1, X3, SLC53A1	1q25.3	AF099082	NM_004736	SLC	Solute carriers	752
+26188	PQLC1	PQ loop repeat containing 1	Approved		FLJ22378, SLC66A2	18q23	AK123870	NM_025078	SLC	Solute carriers	752
+26001	PQLC2	PQ loop repeat containing 2	Approved		FLJ20320, SLC66A1	1p36.13	BC015324	NM_017765	SLC	Solute carriers	752
+28503	PQLC3	PQ loop repeat containing 3	Approved	C2orf22	MGC33602, SLC66A3	2p25.1	BC027625	NM_152391	SLC	Solute carriers	752
+2518	CTNS	cystinosin, lysosomal cystine transporter	Approved		CTNS-LSB, PQLC4, SLC66A4	17p13.2	AJ222967	NM_004937	SLC	Solute carriers	752
+7207	MPDU1	mannose-P-dolichol utilization defect 1	Approved		SL15, Lec35, PQLC5, CDGIf, SLC66A5	17p13.1	AF038961		SLC	Solute carriers	752

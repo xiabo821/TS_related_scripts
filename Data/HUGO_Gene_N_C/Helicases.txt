@@ -1,0 +1,112 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+2734	DDX1	DEAD-box helicase 1	Approved		DBP-RB	2p24.3	X70649	NM_004939	DDX	DEAD-box helicases	499
+2735	DDX10	DEAD-box helicase 10	Approved		HRH-J8, Dbp4	11q22.3	U28042	NM_004398	DDX	DEAD-box helicases	499
+2736	DDX11	DEAD/H-box helicase 11	Approved		CHLR1, KRG2, CHL1, ChlR1, WABS	12p11.21	U75969	NM_030653	DDX	DEAD-box helicases	499
+2737	DDX12P	DEAD/H-box helicase 12, pseudogene	Approved	DDX12	CHLR2	12p13.31	U33834	XM_495908	DDX	DEAD-box helicases	499
+2740	DDX17	DEAD-box helicase 17	Approved		P72	22q13.1	U59321	NM_030881	DDX	DEAD-box helicases	499
+2741	DDX18	DEAD-box helicase 18	Approved		MrDb, Has1	2q14.1	X98743	NM_006773	DDX	DEAD-box helicases	499
+25628	DDX19A	DEAD-box helicase 19A	Approved	DDX19L	FLJ11126	16q22.1	AF183422	NM_018332	DDX	DEAD-box helicases	499
+2742	DDX19B	DEAD-box helicase 19B	Approved	DDX19	DBP5	16q22.1	AJ237946	NM_007242	DDX	DEAD-box helicases	499
+2743	DDX20	DEAD-box helicase 20	Approved		DP103, GEMIN3	1p13.2	AF106019	NM_007204	DDX	DEAD-box helicases	499
+2744	DDX21	DExD-box helicase 21	Approved		RH-II/GU, GURDB	10q22.1	U41387	NM_004728	DDX	DEAD-box helicases	499
+17347	DDX23	DEAD-box helicase 23	Approved		prp28, U5-100K, PRPF28, SNRNP100	12q13.12	AF026402	NM_004818	DDX	DEAD-box helicases	499
+13266	DDX24	DEAD-box helicase 24	Approved			14q32.12	AF214731	NM_020414	DDX	DEAD-box helicases	499
+18698	DDX25	DEAD-box helicase 25	Approved		GRTH	11q24.2	AF155140	NM_013264	DDX	DEAD-box helicases	499
+15837	DDX27	DEAD-box helicase 27	Approved		dJ686N3.1, DRS1	20q13.13	AL049766		DDX	DEAD-box helicases	499
+17330	DDX28	DEAD-box helicase 28	Approved		MDDX28, FLJ11282	16q22.1	AF329821	NM_018380	DDX	DEAD-box helicases	499
+3282	EIF4A1	eukaryotic translation initiation factor 4A1	Approved	EIF4A	DDX2A, EIF-4A	17p13.1	D13748	NM_001416	DDX	DEAD-box helicases	499
+3284	EIF4A2	eukaryotic translation initiation factor 4A2	Approved	EIF4F	DDX2B, EIF4A, BM-010	3q27.3	D30655	NM_001967	DDX	DEAD-box helicases	499
+16715	DDX31	DEAD-box helicase 31	Approved		FLJ13633, FLJ23349, FLJ14578, PPP1R25	9q34.13	AF427339	NM_138620	DDX	DEAD-box helicases	499
+17821	DDX39A	DExD-box helicase 39A	Approved	DDX39	DDXL, BAT1L, URH49	19p13.12	U90426	NM_138998	DDX	DEAD-box helicases	499
+13917	DDX39B	DExD-box helicase 39B	Approved	BAT1	D6S81E, UAP56	6p21.33	Z37166	NM_004640	DDX	DEAD-box helicases	499
+2745	DDX3X	DEAD-box helicase 3 X-linked	Approved	DDX3	DBX, HLP2, DDX14	Xp11.4	U50553	NM_024005	DDX	DEAD-box helicases	499
+2699	DDX3Y	DEAD-box helicase 3 Y-linked	Approved	DBY		Yq11.221	AF000984	NM_004660	DDX	DEAD-box helicases	499
+18700	DDX4	DEAD-box helicase 4	Approved		VASA	5q11.2	AF262962	NM_024415	DDX	DEAD-box helicases	499
+18674	DDX41	DEAD-box helicase 41	Approved		ABS, MGC8828	5q35.3	AF195417	NM_016222	DDX	DEAD-box helicases	499
+18676	DDX42	DEAD-box helicase 42	Approved		RNAHP, RHELP, SF3b125, SF3B8	17q23.3	BC015505	NM_007372	DDX	DEAD-box helicases	499
+18677	DDX43	DEAD-box helicase 43	Approved		HAGE, DKFZp434H2114, CT13	6q13		NM_018665	DDX	DEAD-box helicases	499
+18681	DDX46	DEAD-box helicase 46	Approved		KIAA0801, FLJ25329, PRPF5, Prp5	5q31.1		NM_014829	DDX	DEAD-box helicases	499
+18682	DDX47	DEAD-box helicase 47	Approved		DKFZp564O176, FLJ30012, HQ0256, RRP3	12p13.1	AK127712	NM_016355	DDX	DEAD-box helicases	499
+18683	EIF4A3	eukaryotic translation initiation factor 4A3	Approved	DDX48	KIAA0111, EIF4AIII, Fal1	17q25.3	BC004386	NM_014740	DDX	DEAD-box helicases	499
+18684	DDX49	DEAD-box helicase 49	Approved		FLJ10432, Dbp8	19p13.11		NM_019070	DDX	DEAD-box helicases	499
+2746	DDX5	DEAD-box helicase 5	Approved	HLR1, G17P1	p68	17q23.3	AF015812	NM_004396	DDX	DEAD-box helicases	499
+17906	DDX50	DExD-box helicase 50	Approved		GU2, MGC3199, GUB, RH-II/GuB	10q22.1	AF334103	NM_024045	DDX	DEAD-box helicases	499
+20082	DDX51	DEAD-box helicase 51	Approved			12q24.33	BC040185	NM_175066	DDX	DEAD-box helicases	499
+20038	DDX52	DExD-box helicase 52	Approved		ROK1	17q12	AF077033	NM_152300	DDX	DEAD-box helicases	499
+20083	DDX53	DEAD-box helicase 53	Approved		CAGE, CT26	Xp22.11	AY039237	NM_182699	DDX	DEAD-box helicases	499
+20084	DDX54	DEAD-box helicase 54	Approved		MGC2835, APR-5, DP97	12q24.13	AF144056	NM_024072	DDX	DEAD-box helicases	499
+20085	DDX55	DEAD-box helicase 55	Approved		KIAA1595	12q24.31	AB046815		DDX	DEAD-box helicases	499
+18193	DDX56	DEAD-box helicase 56	Approved		NOH61	7p13	AJ131712	NM_019082	DDX	DEAD-box helicases	499
+19102	DDX58	DExD/H-box helicase 58	Approved		RIG-I, FLJ13599, DKFZp434J1111, RIG-1	9p21.1	AF038963	NM_014314	DDX	DEAD-box helicases	499
+25360	DDX59	DEAD-box helicase 59	Approved		DKFZP564B1023, ZNHIT5	1q32.1	BC041801	NM_001031725.4	DDX	DEAD-box helicases	499
+2747	DDX6	DEAD-box helicase 6	Approved	HLR2	RCK	11q23.3	D17532	NM_004397	DDX	DEAD-box helicases	499
+25942	DDX60	DExD/H-box helicase 60	Approved		FLJ20035	4q32.3	AK001649	NM_017631	DDX	DEAD-box helicases	499
+2738	DHX15	DEAH-box helicase 15	Approved	DDX15	HRH2, DBP1, PRP43, PrPp43p, PRPF43	4p15.2	AB001636	NM_001358	DHX	DEAH-box helicases	500
+2739	DHX16	DEAH-box helicase 16	Approved	DDX16	DBP2, Prp2, PRPF2	6p21.33	AB001601	NM_003587	DHX	DEAH-box helicases	500
+15815	DHX29	DExH-box helicase 29	Approved	DDX29		5q11.2	AY036974	NM_019030	DHX	DEAH-box helicases	500
+16716	DHX30	DExH-box helicase 30	Approved	DDX30	KIAA0890, FLJ11214	3p21.31	AB020697	NM_138615	DHX	DEAH-box helicases	500
+16717	DHX32	DEAH-box helicase 32 (putative)	Approved	DDX32	FLJ10889, FLJ10694, DHLP1	10q26.2		NM_018180	DHX	DEAH-box helicases	500
+16718	DHX33	DEAH-box helicase 33	Approved	DDX33	FLJ21972, DKFZp762F2011	17p13.2	AL359945	NM_020162	DHX	DEAH-box helicases	500
+16719	DHX34	DExH-box helicase 34	Approved	DDX34	KIAA0134	19q13.32	D50924	NM_014681	DHX	DEAH-box helicases	500
+15861	DHX35	DEAH-box helicase 35	Approved	C20orf15, DDX35	FLJ22759, KAIA0875	20q11.23-q12	AK026412	NM_021931	DHX	DEAH-box helicases	500
+14410	DHX36	DEAH-box helicase 36	Approved	DDX36	MLEL1, KIAA1488, RHAU	3q25.2	AF217190	NM_020865	DHX	DEAH-box helicases	500
+17210	DHX37	DEAH-box helicase 37	Approved	DDX37	KIAA1517, MGC4322, MGC2695, Dhr1	12q24.31	AB040950	NM_032656	DHX	DEAH-box helicases	500
+17211	DHX38	DEAH-box helicase 38	Approved	DDX38	PRP16, KIAA0224, hPrp16, PRPF16	16q22.2	AF038391	NM_014003	DHX	DEAH-box helicases	500
+18018	DHX40	DEAH-box helicase 40	Approved	DDX40	ARG147, PAD, FLJ22060	17q23.1	AF260270	NM_024612	DHX	DEAH-box helicases	500
+20086	DHX57	DExH-box helicase 57	Approved		DDX57	2p22.1	AF070590	NM_145646	DHX	DEAH-box helicases	500
+29517	DHX58	DExH-box helicase 58	Approved		LGP2, D11LGP2	17q21.2	BC014949	NM_024119	DHX	DEAH-box helicases	500
+2749	DHX8	DEAH-box helicase 8	Approved	DDX8	HRH1, PRP22, PRPF22, Dhr2	17q21.31	D50487		DHX	DEAH-box helicases	500
+2750	DHX9	DExH-box helicase 9	Approved	LKP, DDX9	RHA	1q25.3	L13848	NM_030588	DHX	DEAH-box helicases	500
+18697	ASCC3	activating signal cointegrator 1 complex subunit 3	Approved	HELIC1	RNAH, ASC1p200, dJ121G13.4, dJ467N11.1	6q16.3	AJ223948	NM_006828		DNA helicases	1167
+20473	BRIP1	BRCA1 interacting protein C-terminal helicase 1	Approved		OF, BACH1, FANCJ	17q23.2	AF360549	NM_032043		DNA helicases	1167
+1160	TWNK	twinkle mtDNA helicase	Approved	IOSCA, C10orf2	PEO, PEO1, TWINKLE, FLJ21832, TWINL	10q24.31	AF292004	NM_021830		DNA helicases	1167
+1917	CHD2	chromodomain helicase DNA binding protein 2	Approved		FLJ38614, DKFZp547I1315, DKFZp781D1727, DKFZp686E01200	15q26.1	AF006514	NM_001271		DNA helicases	1167
+20626	CHD7	chromodomain helicase DNA binding protein 7	Approved	CRG	KIAA1416, FLJ20357, FLJ20361	8q12.2	AB037837	XM_098762		DNA helicases	1167
+2736	DDX11	DEAD/H-box helicase 11	Approved		CHLR1, KRG2, CHL1, ChlR1, WABS	12p11.21	U75969	NM_030653		DNA helicases	1167
+3434	ERCC2	ERCC excision repair 2, TFIIH core complex helicase subunit	Approved	XPD	MAG, EM9, MGC102762, MGC126218, MGC126219, TFIIH	19q13.32		NM_000400		DNA helicases	1167
+3435	ERCC3	ERCC excision repair 3, TFIIH core complex helicase subunit	Approved		XPB, BTF2, RAD25, TFIIH, GTF2H	2q14.3	M31899	NM_000122		DNA helicases	1167
+13620	FBH1	F-box DNA helicase 1	Approved	FBXO18	FLJ14590, Fbx18	10p15.1	AK095343	NM_032807		DNA helicases	1167
+4861	HELLS	helicase, lymphoid specific	Approved		PASG, SMARCA6, LSH, Nbla10143	10q23.33	AF155827	NM_018063		DNA helicases	1167
+26956	INO80	INO80 complex subunit	Approved	INOC1	KIAA1259, Ino80, hINO80, INO80A	15q15.1	AB033085	NM_017553		DNA helicases	1167
+7667	NCL	nucleolin	Approved		C23, Nsr1	2q37.1		NM_005381		DNA helicases	1167
+26220	PIF1	PIF1 5'-to-3' DNA helicase	Approved	C15orf20	FLJ22692	15q22.31	AK026345	NM_025049		DNA helicases	1167
+15888	RTEL1	regulator of telomere elongation helicase 1	Approved	C20orf41	bK3184A7.3, NHL, DKFZP434C013, KIAA1088, RTEL	20q13.33	AB029011	NM_032957		DNA helicases	1167
+10474	RUVBL1	RuvB like AAA ATPase 1	Approved		TIP49, NMP238, RVB1, TIP49a, Pontin52, ECP54, TIH1, Rvb1, INO80H	3q21.3	AF070735			DNA helicases	1167
+10475	RUVBL2	RuvB like AAA ATPase 2	Approved		RVB2, TIP48, TIP49b, Reptin52, ECP51, TIH2, INO80J, Rvb2	19q13.33	AF155138			DNA helicases	1167
+4055	XRCC6	X-ray repair cross complementing 6	Approved	G22P1	D22S731, D22S671, KU70, ML8	22q13.2	J04607	NM_001469		DNA helicases	1167
+26368	MCMDC2	minichromosome maintenance domain containing 2	Approved	C8orf45	FLJ25692	8q13.1	BC034576	NM_173518	MCM	MCM family	1085
+6944	MCM2	minichromosome maintenance complex component 2	Approved	CCNL1, CDCL1	D3S3194, KIAA0030, BM28, cdc19, DFNA70	3q21.3	X67334		MCM	MCM family	1085
+6945	MCM3	minichromosome maintenance complex component 3	Approved			6p12.2	X62153		MCM	MCM family	1085
+6947	MCM4	minichromosome maintenance complex component 4	Approved	CDC21	CDC54, hCdc21, P1-Cdc21, MGC33310	8q11.21		NM_005914	MCM	MCM family	1085
+6948	MCM5	minichromosome maintenance complex component 5	Approved	CDC46		22q12.3			MCM	MCM family	1085
+6949	MCM6	minichromosome maintenance complex component 6	Approved		Mis5	2q21.3		NM_005915	MCM	MCM family	1085
+6950	MCM7	minichromosome maintenance complex component 7	Approved	MCM2	CDC47, PPP1R104	7q22.1			MCM	MCM family	1085
+16147	MCM8	minichromosome maintenance 8 homologous recombination repair factor	Approved	C20orf154	MGC4816, MGC12866, MGC119522, MGC119523, dJ967N21.5, REC	20p12.3	AJ439063	NM_032485	MCM	MCM family	1085
+21484	MCM9	minichromosome maintenance 9 homologous recombination repair factor	Approved	MCMDC1, C6orf61	MGC35304, dJ329L24.3, FLJ20170	6q22.31	BC031658	NM_153255	MCM	MCM family	1085
+9948	RECQL	RecQ like helicase	Approved		RecQ1, RecQL1	12p12.1	D37984	NM_002907	RECQL	RecQ like helicases	1049
+12791	WRN	Werner syndrome RecQ like helicase	Approved		RECQL2, RECQ3	8p12			RECQL	RecQ like helicases	1049
+1058	BLM	BLM RecQ like helicase	Approved		BS, RECQL3, RECQ2	15q26.1	U39817		RECQL	RecQ like helicases	1049
+9949	RECQL4	RecQ like helicase 4	Approved		RecQ4	8q24.3	AB006532	NM_004260	RECQL	RecQ like helicases	1049
+9950	RECQL5	RecQ like helicase 5	Approved		RecQ5, FLJ90603	17q25	AB006533	NM_004259	RECQL	RecQ like helicases	1049
+18697	ASCC3	activating signal cointegrator 1 complex subunit 3	Approved	HELIC1	RNAH, ASC1p200, dJ121G13.4, dJ467N11.1	6q16.3	AJ223948	NM_006828		RNA helicases	1168
+886	ATRX	ATRX, chromatin remodeler	Approved	RAD54, JMS, MRX52	XH2, XNP	Xq21.1	U72937	NM_000489		RNA helicases	1168
+17098	DICER1	dicer 1, ribonuclease III	Approved	MNG1	Dicer, KIAA0928, K12H4.8-LIKE, HERNA	14q32.13	AB028449			RNA helicases	1168
+23168	FANCM	FA complementation group M	Approved	KIAA1596	FAAP250	14q21.2	AK001672	XM_048128		RNA helicases	1168
+18536	HELQ	helicase, POLQ like	Approved		Hel308	4q21.23	AF436845	NM_133636		RNA helicases	1168
+20193	HFM1	HFM1, ATP dependent DNA helicase homolog	Approved	SEC63D1	MER3, FLJ39011, FLJ36760	1p22.2	AB204867	NM_001017975		RNA helicases	1168
+18873	IFIH1	interferon induced with helicase C domain 1	Approved		MDA-5, Hlcd, MDA5, IDDM19	2q24.2	AF095844	NM_022168		RNA helicases	1168
+10898	SKIV2L	Ski2 like RNA helicase	Approved	SKIV2	HLP, DDX13, SKI2W, 170A, SKIV2L1	6p21.33		NM_006929		RNA helicases	1168
+18734	MTREX	Mtr4 exosome RNA helicase	Approved	KIAA0052, SKIV2L2	Mtr4, Dob1, fSAP118	5q11.2	D29641	NM_015360		RNA helicases	1168
+30859	SNRNP200	small nuclear ribonucleoprotein U5 subunit 200	Approved	ASCC3L1, RP33	U5-200KD, HELIC2, KIAA0788, BRR2	2q11.2	AL831994	NM_014014		RNA helicases	1168
+11471	SUPV3L1	Suv3 like RNA helicase	Approved		SUV3	10q22.1	AF042169	NM_003171		RNA helicases	1168
+29513	AQR	aquarius intron-binding spliceosomal factor	Approved		KIAA0560, fSAP164, IBP160	15q14	AB011132	NM_014691		UPF1 like RNA helicases	1169
+2939	DNA2	DNA replication helicase/nuclease 2	Approved	DNA2L	KIAA0083	10q21.3	D42046			UPF1 like RNA helicases	1169
+16878	HELZ	helicase with zinc finger	Approved		KIAA0054, HUMORF5, DHRC	17q24.2	D29677	NM_014877		UPF1 like RNA helicases	1169
+30021	HELZ2	helicase with zinc finger 2	Approved		PDIP1, PRIC285, KIAA1769	20q13.33	AB201715	NM_001037335		UPF1 like RNA helicases	1169
+5542	IGHMBP2	immunoglobulin mu DNA binding protein 2	Approved		ZFAND7, SMUBP2, CATF1, SMARD1, HCSA, HMN6, CMT2S	11q13.3	L14754	NM_002180		UPF1 like RNA helicases	1169
+7200	MOV10	Mov10 RISC complex RNA helicase	Approved		gb110, MGC2948, fSAP113	1p13.2	AL833353	NM_020963		UPF1 like RNA helicases	1169
+7201	MOV10L1	Mov10 like RISC complex RNA helicase 1	Approved		DJ402G11.8, DKFZp434B0717, CHAMP	22q13.33	AF285604	NM_018995		UPF1 like RNA helicases	1169
+445	SETX	senataxin	Approved	ALS4, SCAR1	KIAA0625, AOA2, Sen1	9q34.13	AB014525	NM_015046		UPF1 like RNA helicases	1169
+9962	UPF1	UPF1, RNA helicase and ATPase	Approved	RENT1	HUPF1, KIAA0221, NORF1, pNORF1, smg-2	19p13.11	AF074016	NM_002911		UPF1 like RNA helicases	1169
+25654	ZGRF1	zinc finger GRF-type containing 1	Approved	C4orf21	FLJ11331	4q25	BC044799	NM_018392		UPF1 like RNA helicases	1169
+29271	ZNFX1	zinc finger NFX1-type containing 1	Approved		KIAA1404, FLJ11277	20q13.13	AK022641	NM_021035		UPF1 like RNA helicases	1169

@@ -1,0 +1,336 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+26350	ANKAR	ankyrin and armadillo repeat containing	Approved		FLJ25415	2q32.2	AJ549812	NM_144708	ARMC	Armadillo repeat containing	409
+583	APC	APC, WNT signaling pathway regulator	Approved		DP2, DP3, DP2.5, PPP1R46	5q22.2	M74088	NM_000038	ARMC	Armadillo repeat containing	409
+24036	APC2	APC2, WNT signaling pathway regulator	Approved		APCL	19p13.3		NM_005883	ARMC	Armadillo repeat containing	409
+17684	ARMC1	armadillo repeat containing 1	Approved		FLJ10511, Arcp	8q13.1	BC011607	NM_018120	ARMC	Armadillo repeat containing	409
+21706	ARMC10	armadillo repeat containing 10	Approved		MGC3195, SVH	7q22.1	AY150853	NM_031905	ARMC	Armadillo repeat containing	409
+21099	ARMC12	armadillo repeat containing 12	Approved	C6orf81	FLJ25390	6p21.31	AK058119	NM_145028	ARMC	Armadillo repeat containing	409
+19217	THADA	THADA, armadillo repeat containing	Approved		FLJ21877, KIAA1767, GITA, ARMC13	2p21	AY149629	NM_022065	ARMC	Armadillo repeat containing	409
+23045	ARMC2	armadillo repeat containing 2	Approved		DKFZp434P0714, bA787I22.1	6q21	BC030603	NM_032131	ARMC	Armadillo repeat containing	409
+30964	ARMC3	armadillo repeat containing 3	Approved		FLJ32827, CT81	10p12.2	AK057389	NM_173081	ARMC	Armadillo repeat containing	409
+25583	ARMC4	armadillo repeat containing 4	Approved		FLJ10817, FLJ10376, DKFZP434P1735, CILD23	10p12.1	AL136859	NM_018076	ARMC	Armadillo repeat containing	409
+25781	ARMC5	armadillo repeat containing 5	Approved		FLJ13063	16p11.2	AY217348	NM_024742	ARMC	Armadillo repeat containing	409
+25049	ARMC6	armadillo repeat containing 6	Approved		MGC19595	19p13.11	BX648486	NM_033415	ARMC	Armadillo repeat containing	409
+26168	ARMC7	armadillo repeat containing 7	Approved		FLJ22160	17q25.1	AK025813	NM_024585	ARMC	Armadillo repeat containing	409
+24999	ARMC8	armadillo repeat containing 8	Approved		HSPC056, DKFZP434A043, GID5, VID28	3q22.3		NM_015396	ARMC	Armadillo repeat containing	409
+20730	ARMC9	armadillo repeat containing 9	Approved		FLJ12584, KIAA1868, ARM, KU-MEL-1	2q37.1	BC004514	NM_025139	ARMC	Armadillo repeat containing	409
+18073	ARMCX1	armadillo repeat containing X-linked 1	Approved		ALEX1, GASP7	Xq22.1	AB039670	NM_016608	ARMC	Armadillo repeat containing	409
+16869	ARMCX2	armadillo repeat containing X-linked 2	Approved		ALEX2, KIAA0512, GASP9	Xq22.1	AB011084	NM_014782	ARMC	Armadillo repeat containing	409
+24065	ARMCX3	armadillo repeat containing X-linked 3	Approved		ALEX3, GASP6	Xq22.1	AY359079	NM_016607	ARMC	Armadillo repeat containing	409
+28615	ARMCX4	armadillo repeat containing X-linked 4	Approved	CXorf35	MGC40053, GASP4	Xq22.1	AK096955	NM_001256155	ARMC	Armadillo repeat containing	409
+25772	ARMCX5	armadillo repeat containing X-linked 5	Approved		FLJ12969, GASP5	Xq22.1		NM_022838	ARMC	Armadillo repeat containing	409
+26094	ARMCX6	armadillo repeat containing X-linked 6	Approved		FLJ20811, GASP10	Xq22.1	BC007677	NM_019007	ARMC	Armadillo repeat containing	409
+728	ARVCF	ARVCF, delta catenin family member	Approved			22q11.21		NM_001670	ARMC	Armadillo repeat containing	409
+29353	BHLHB9	basic helix-loop-helix family member b9	Approved		p60TRP, KIAA1701, GASP3	Xq22.1	AB051488	NM_030639	ARMC	Armadillo repeat containing	409
+2514	CTNNB1	catenin beta 1	Approved	CTNNB	beta-catenin, armadillo	3p22.1	X87838	NM_001098210	ARMC	Armadillo repeat containing	409
+2515	CTNND1	catenin delta 1	Approved	CTNND	KIAA0384, p120, p120cas, p120ctn	11q12.1	AB002382	NM_001331	ARMC	Armadillo repeat containing	409
+2516	CTNND2	catenin delta 2	Approved		NPRAP, GT24	5p15.2	U52828	NM_001332	ARMC	Armadillo repeat containing	409
+24834	GPRASP1	G protein-coupled receptor associated sorting protein 1	Approved		GASP, GASP1	Xq22.1	AB007903	NM_014710	ARMC	Armadillo repeat containing	409
+25169	GPRASP2	G protein-coupled receptor associated sorting protein 2	Approved		GASP2, FLJ37327	Xq22.1	AK094646	NM_138437	ARMC	Armadillo repeat containing	409
+6207	JUP	junction plakoglobin	Approved	CTNNG	DP3, PDGB, PKGB, DPIII	17q21.2	AF233882	NM_001352773	ARMC	Armadillo repeat containing	409
+6394	KPNA1	karyopherin subunit alpha 1	Approved		SRP1, RCH2, NPI-1, IPOA5	3q21.1	S75295	NM_002264	ARMC	Armadillo repeat containing	409
+6395	KPNA2	karyopherin subunit alpha 2	Approved	RCH1	SRP1alpha, IPOA1, QIP2	17q24.2	U09559	NM_002266	ARMC	Armadillo repeat containing	409
+6396	KPNA3	karyopherin subunit alpha 3	Approved		SRP1gamma, SRP4, hSRP1, IPOA4	13q14.2	D89618	NM_002267	ARMC	Armadillo repeat containing	409
+6397	KPNA4	karyopherin subunit alpha 4	Approved		QIP1, SRP3, IPOA3, MGC12217, MGC26703	3q25.33	AB002533	NM_002268	ARMC	Armadillo repeat containing	409
+6398	KPNA5	karyopherin subunit alpha 5	Approved		SRP6, IPOA6	6q22.1	AF005361	NM_002269	ARMC	Armadillo repeat containing	409
+6399	KPNA6	karyopherin subunit alpha 6	Approved		IPOA7, KPNA7, MGC17918, FLJ11249	1p35.2	AF060543	NM_012316	ARMC	Armadillo repeat containing	409
+21839	KPNA7	karyopherin subunit alpha 7	Approved		IPOA8	7q22.1		NM_001145715	ARMC	Armadillo repeat containing	409
+6400	KPNB1	karyopherin subunit beta 1	Approved		NTF97, IPOB, MGC2155, MGC2156, MGC2157, IMB1, Impnb, IPO1	17q21.32	L39793	NM_002265	ARMC	Armadillo repeat containing	409
+9023	PKP1	plakophilin 1	Approved		B6P	1q32.1	X79293	NM_000299	ARMC	Armadillo repeat containing	409
+9024	PKP2	plakophilin 2	Approved			12p11.21	X97675	NM_004572	ARMC	Armadillo repeat containing	409
+9025	PKP3	plakophilin 3	Approved			11p15.5	Z98265	NM_007183	ARMC	Armadillo repeat containing	409
+9026	PKP4	plakophilin 4	Approved		p0071	2q24.1	X81889		ARMC	Armadillo repeat containing	409
+9859	RAP1GDS1	Rap1 GTPase-GDP dissociation stimulator 1	Approved		SmgGDS	4q23		NM_001100426	ARMC	Armadillo repeat containing	409
+11215	SPAG6	sperm associated antigen 6	Approved		Repro-SA-1, pf16, CT141	10p12.2	AF079363		ARMC	Armadillo repeat containing	409
+17195	ACRBP	acrosin binding protein	Approved		SP32, OY-TES-1, CT23	12p13.31	AB051833	NM_032489	ARMH	Armadillo-like helical domain containing	1492
+26504	AGBL1	ATP/GTP binding protein like 1	Approved		FLJ32310, CCP4	15q25.3	AK056872	NM_152336	ARMH	Armadillo-like helical domain containing	1492
+17258	AGTPBP1	ATP/GTP binding protein 1	Approved		KIAA1035, Nna1, CCP1	9q21.33	AB028958	NM_015239	ARMH	Armadillo-like helical domain containing	1492
+25104	AP5B1	adaptor related protein complex 5 subunit beta 1	Approved		PP1030, AP-5, DKFZp761E198	11q13.1	JQ313135	NM_138368	ARMH	Armadillo-like helical domain containing	1492
+22197	AP5Z1	adaptor related protein complex 5 subunit zeta 1	Approved	KIAA0415	SPG48, zeta	7p22.1	AB007875		ARMH	Armadillo-like helical domain containing	1492
+594	API5	apoptosis inhibitor 5	Approved		AAC-11, API5L1, AAC11	11p12	U83857	NM_006595	ARMH	Armadillo-like helical domain containing	1492
+15772	ARFGEF1	ADP ribosylation factor guanine nucleotide exchange factor 1	Approved		DKFZP434L057, BIG1, ARFGEP1, p200	8q13.2	AF084520	NM_006421	ARMH	Armadillo-like helical domain containing	1492
+15853	ARFGEF2	ADP ribosylation factor guanine nucleotide exchange factor 2	Approved		BIG2	20q13.13	AF084521	NM_006420	ARMH	Armadillo-like helical domain containing	1492
+21213	ARFGEF3	ARFGEF family member 3	Approved	C6orf92, KIAA1244	dJ171N11.1, BIG3, PPP1R33	6q23.3-q24.1	AB033070	NM_020340	ARMH	Armadillo-like helical domain containing	1492
+11110	ARID1A	AT-rich interaction domain 1A	Approved	C1orf4, SMARCF1	B120, P270, C10rf4, BAF250, BAF250a	1p36.11	AB001895	NM_139135	ARMH	Armadillo-like helical domain containing	1492
+18040	ARID1B	AT-rich interaction domain 1B	Approved		KIAA1235, ELD/OSA1, p250R, BAF250b, DAN15, 6A3-5	6q25.3	AF521671	NM_020732	ARMH	Armadillo-like helical domain containing	1492
+18037	ARID2	AT-rich interaction domain 2	Approved		KIAA1557, DKFZp686G052, FLJ30619, BAF200	12q12		NM_152641	ARMH	Armadillo-like helical domain containing	1492
+34345	ARMH1	armadillo-like helical domain containing 1	Approved	NCRNA00082, C1orf228	MGC33556, p40	1p34.1	AL122004, AY254217, BC026115	NM_001145636	ARMH	Armadillo-like helical domain containing	1492
+49394	ARMH2	armadillo-like helical domain containing 2	Approved	C6orf229		6p22.3		NM_001282492	ARMH	Armadillo-like helical domain containing	1492
+25788	ARMH3	armadillo-like helical domain containing 3	Approved	C10orf76	FLJ13114	10q24.32	AK023176	NM_024541	ARMH	Armadillo-like helical domain containing	1492
+19846	ARMH4	armadillo-like helical domain containing 4	Approved	C14orf37	UT2	14q23.1		NM_001001872	ARMH	Armadillo-like helical domain containing	1492
+728	ARVCF	ARVCF, delta catenin family member	Approved			22q11.21		NM_001670	ARMH	Armadillo-like helical domain containing	1492
+795	ATM	ATM serine/threonine kinase	Approved	ATA, ATDC, ATC, ATD	TEL1, TELO1	11q22.3	AB209133	NM_000051	ARMH	Armadillo-like helical domain containing	1492
+18303	ATP6V1H	ATPase H+ transporting V1 subunit H	Approved		CGI-11, SFD, VMA13, SFDalpha, SFDbeta	8q11.23	AF132945	NM_015941	ARMH	Armadillo-like helical domain containing	1492
+882	ATR	ATR serine/threonine kinase	Approved		FRP1, SCKL, SCKL1, MEC1	3q23	U76308	NM_001184	ARMH	Armadillo-like helical domain containing	1492
+33499	ATRIP	ATR interacting protein	Approved		FLJ12343, MGC20625, MGC21482, MGC26740	3p21.31	AF451323	NM_130384	ARMH	Armadillo-like helical domain containing	1492
+10549	ATXN10	ataxin 10	Approved	SCA10	E46L, FLJ37990	22q13.31	AK095309	NM_013236	ARMH	Armadillo-like helical domain containing	1492
+17307	BTAF1	B-TFIID TATA-box binding protein associated factor 1	Approved		TAFII170, TAF172, MOT1, TAF-172, TAF(II)170	10q23.32	AJ001017	NM_003972	ARMH	Armadillo-like helical domain containing	1492
+20292	CAB39	calcium binding protein 39	Approved		CGI-66, MO25	2q37.1	AF113536	NM_016289	ARMH	Armadillo-like helical domain containing	1492
+20290	CAB39L	calcium binding protein 39 like	Approved		bA103J18.3, FLJ12577, MO2L	13q14.2	AK022639	NM_030925	ARMH	Armadillo-like helical domain containing	1492
+30688	CAND1	cullin associated and neddylation dissociated 1	Approved		TIP120A, DKFZp434M1414, KIAA0829, TIP120	12q14.3-q15		NM_018448	ARMH	Armadillo-like helical domain containing	1492
+30689	CAND2	cullin associated and neddylation dissociated 2 (putative)	Approved		TIP120B, KIAA0667, Tp120b	3p25.2		NM_001162499	ARMH	Armadillo-like helical domain containing	1492
+24218	CEBPZ	CCAAT enhancer binding protein zeta	Approved		CBF2, CTF2	2p22.2	M37197	NM_005760	ARMH	Armadillo-like helical domain containing	1492
+26107	CFAP69	cilia and flagella associated protein 69	Approved	C7orf63	FLJ21062, FAP69	7q21.13	AK024715, AY349356	NM_001039706	ARMH	Armadillo-like helical domain containing	1492
+1934	CHIC1	cysteine rich hydrophobic domain 1	Approved		BRX	Xq13.2	Y11897		ARMH	Armadillo-like helical domain containing	1492
+29302	CIP2A	cell proliferation regulating inhibitor of protein phosphatase 2A	Approved	KIAA1524		3q13.13	AB040957	NM_020890	ARMH	Armadillo-like helical domain containing	1492
+7877	CNOT1	CCR4-NOT transcription complex subunit 1	Approved	NOT1	CDC39, NOT1H, KIAA1007, AD-005	16q21	AL833549	NM_016284	ARMH	Armadillo-like helical domain containing	1492
+10445	CNOT9	CCR4-NOT transcription complex subunit 9	Approved	RQCD1	RCD1, RCD1+, CT129, CAF40	2q35	D87957	NM_005444	ARMH	Armadillo-like helical domain containing	1492
+15879	CTNNBL1	catenin beta like 1	Approved	C20orf33	FLJ21108, P14L, P14, NAP, NYD-SP19	20q11.23	AL023804	NM_030877	ARMH	Armadillo-like helical domain containing	1492
+15982	CUL9	cullin 9	Approved		H7AP1, KIAA0708, PARC	6p21.1	AB014608	NM_015089	ARMH	Armadillo-like helical domain containing	1492
+18142	DAAM1	dishevelled associated activator of morphogenesis 1	Approved		KIAA0666	14q23.1	AB014566	NM_014992	ARMH	Armadillo-like helical domain containing	1492
+18143	DAAM2	dishevelled associated activator of morphogenesis 2	Approved		KIAA0381	6p21.2	AB002379		ARMH	Armadillo-like helical domain containing	1492
+30911	DCAF1	DDB1 and CUL4 associated factor 1	Approved	VPRBP	KIAA0800, MGC102804	3p21.2	AB018343	NM_014703	ARMH	Armadillo-like helical domain containing	1492
+2876	DIAPH1	diaphanous related formin 1	Approved	DFNA1	hDIA1, LFHL1	5q31.3	BC007411	NM_005219	ARMH	Armadillo-like helical domain containing	1492
+2877	DIAPH2	diaphanous related formin 2	Approved		POF, DIA, POF2, DIA2	Xq21.33	Y15909	NM_006729, NM_007309	ARMH	Armadillo-like helical domain containing	1492
+15480	DIAPH3	diaphanous related formin 3	Approved	AUNA1	DRF3, FLJ34705, AN, NSDAN	13q21.2	AL137718	NM_001042517	ARMH	Armadillo-like helical domain containing	1492
+30343	DNAJC13	DnaJ heat shock protein family (Hsp40) member C13	Approved		RME8, KIAA0678	3q22.1	AB014578	NM_015268	ARMH	Armadillo-like helical domain containing	1492
+2987	DOCK1	dedicator of cytokinesis 1	Approved		DOCK180, ced5	10q26.2	D50857	NM_001380	ARMH	Armadillo-like helical domain containing	1492
+23479	DOCK10	dedicator of cytokinesis 10	Approved		ZIZ3, KIAA0694	2q36.2	AB014594		ARMH	Armadillo-like helical domain containing	1492
+23483	DOCK11	dedicator of cytokinesis 11	Approved		FLJ32122, FLJ43653, ZIZ2, ACG	Xq24	AK125641	NM_144658	ARMH	Armadillo-like helical domain containing	1492
+2988	DOCK2	dedicator of cytokinesis 2	Approved		KIAA0209	5q35.1	BC016996	NM_004946	ARMH	Armadillo-like helical domain containing	1492
+2989	DOCK3	dedicator of cytokinesis 3	Approved		KIAA0299, MOCA, PBP	3p21.2	AB002297	NM_004947	ARMH	Armadillo-like helical domain containing	1492
+19191	DOCK8	dedicator of cytokinesis 8	Approved		FLJ00026, FLJ00152, ZIR8, FLJ00346	9p24.3	AK090429	XM_036307	ARMH	Armadillo-like helical domain containing	1492
+14132	DOCK9	dedicator of cytokinesis 9	Approved		KIAA1058, ZIZ1	13q32.3	AF527605	NM_015296	ARMH	Armadillo-like helical domain containing	1492
+28662	DOHH	deoxyhypusine hydroxylase	Approved	HLRC1	MGC4293	19p13.3	BC002817	NM_031304	ARMH	Armadillo-like helical domain containing	1492
+21317	DYM	dymeclin	Approved		FLJ20071, DMC, SMC	18q21.1	AK000078	NM_017653	ARMH	Armadillo-like helical domain containing	1492
+28970	EFR3A	EFR3 homolog A	Approved		KIAA0143	8q24.22	D63477	NM_015137	ARMH	Armadillo-like helical domain containing	1492
+29155	EFR3B	EFR3 homolog B	Approved	KIAA0953	FLJ37871	2p23.3	AB023170	NM_014971	ARMH	Armadillo-like helical domain containing	1492
+3271	EIF3A	eukaryotic translation initiation factor 3 subunit A	Approved	EIF3, EIF3S10	eIF3-theta, eIF3-p170, KIAA0139, eIF3a, TIF32	10q26.11	U78311	NM_003750	ARMH	Armadillo-like helical domain containing	1492
+3280	EIF3B	eukaryotic translation initiation factor 3 subunit B	Approved	EIF3S9	PRT1, eIF3b	7p22.3	U62583		ARMH	Armadillo-like helical domain containing	1492
+26347	EIF3CL	eukaryotic translation initiation factor 3 subunit C like	Approved			16p12.1			ARMH	Armadillo-like helical domain containing	1492
+3278	EIF3D	eukaryotic translation initiation factor 3 subunit D	Approved	EIF3S7	eIF3-p66, eIF3-zeta, eIF3d	22q12.3	U54558		ARMH	Armadillo-like helical domain containing	1492
+24460	EIF3M	eukaryotic translation initiation factor 3 subunit M	Approved	PCID1	hfl-B5, FLJ29030, GA17, eIF3m, TANGO7	11p13	AK131064	NM_006360	ARMH	Armadillo-like helical domain containing	1492
+30162	EXOC3L2	exocyst complex component 3 like 2	Approved		FLJ36147, XTP7	19q13.32	AK093466	NM_138568	ARMH	Armadillo-like helical domain containing	1492
+29320	FAM160B1	family with sequence similarity 160 member B1	Approved	KIAA1600	bA106M7.3	10q25.3	AB046820	XM_049351	ARMH	Armadillo-like helical domain containing	1492
+16492	FAM160B2	family with sequence similarity 160 member B2	Approved	RAI16	FLJ21801	8p21.3	AK025454		ARMH	Armadillo-like helical domain containing	1492
+3585	FANCD2	FA complementation group D2	Approved	FACD, FANCD	FAD, FA-D2	3p25.3	AF340183		ARMH	Armadillo-like helical domain containing	1492
+17905	FHOD1	formin homology 2 domain containing 1	Approved		FHOS	16q22.1	AF113615		ARMH	Armadillo-like helical domain containing	1492
+26178	FHOD3	formin homology 2 domain containing 3	Approved		FHOS2, KIAA1695, FLJ22297, FLJ22717	18q12.2	AK091899	XM_371114	ARMH	Armadillo-like helical domain containing	1492
+1212	FMNL1	formin like 1	Approved	C17orf1B, FMNL	C17orf1	17q21.31	AJ008112	NM_005892	ARMH	Armadillo-like helical domain containing	1492
+18267	FMNL2	formin like 2	Approved	FHOD2	KIAA1902	2q23.3	AB067489	NM_052905	ARMH	Armadillo-like helical domain containing	1492
+23698	FMNL3	formin like 3	Approved		DKFZp762B245, MGC45819, WBP3	12q13.12	AK128195	NM_175736	ARMH	Armadillo-like helical domain containing	1492
+23377	FOCAD	focadhesin	Approved	KIAA1797	FLJ20375	9p21.3	AB058700	NM_017794	ARMH	Armadillo-like helical domain containing	1492
+20367	FRY	FRY microtubule binding protein	Approved	C13orf14	bA37E23.1, 13CDNA73, CG003	13q13.1	AL049784	NM_023037	ARMH	Armadillo-like helical domain containing	1492
+29127	FRYL	FRY like transcription coactivator	Approved	KIAA0826	DKFZp686E205, AF4p12, MOR2	4p11	AL833170		ARMH	Armadillo-like helical domain containing	1492
+17136	FTSJ3	FtsJ RNA methyltransferase homolog 3	Approved		SPB1	17q23.3	AF327355		ARMH	Armadillo-like helical domain containing	1492
+9126	GIGYF1	GRB10 interacting GYF protein 1	Approved	PERQ1	GYF1	7q22.1	AF053356	NM_022574	ARMH	Armadillo-like helical domain containing	1492
+25517	HEATR1	HEAT repeat containing 1	Approved		FLJ10359, BAP28, UTP10	1q43	BC065205	XM_375853	ARMH	Armadillo-like helical domain containing	1492
+26087	HEATR3	HEAT repeat containing 3	Approved		FLJ20718	16q12.1	BC018730	NM_182922	ARMH	Armadillo-like helical domain containing	1492
+16761	HEATR4	HEAT repeat containing 4	Approved		MGC48595	14q24.3	BC047590	NM_203309	ARMH	Armadillo-like helical domain containing	1492
+20276	HEATR5A	HEAT repeat containing 5A	Approved	C14orf125	DKFZP434I1735	14q12	AB037737	NM_015473	ARMH	Armadillo-like helical domain containing	1492
+29273	HEATR5B	HEAT repeat containing 5B	Approved		KIAA1414, DKFZp686P15184	2p22.2	AB037835	NM_019024	ARMH	Armadillo-like helical domain containing	1492
+24076	HEATR6	HEAT repeat containing 6	Approved		ABC1, FLJ22087	17q23.1	BX640819	NM_022070	ARMH	Armadillo-like helical domain containing	1492
+26548	HEATR9	HEAT repeat containing 9	Approved	C17orf66	FLJ32830	17q12	AK057392	NM_152781	ARMH	Armadillo-like helical domain containing	1492
+20157	HECTD1	HECT domain E3 ubiquitin protein ligase 1	Approved		KIAA1131	14q12	AB032957		ARMH	Armadillo-like helical domain containing	1492
+24161	HGH1	HGH1 homolog	Approved	C8orf30A, FAM203B, C8orf30B, FAM203A	FLJ40907, LOC51236, Brp16	8q24.3	AF151022	NM_016458	ARMH	Armadillo-like helical domain containing	1492
+5226	HSF2BP	heat shock transcription factor 2 binding protein	Approved			21q22.3	AB007131	NM_007031	ARMH	Armadillo-like helical domain containing	1492
+24989	HSPBP1	HSPA (Hsp70) binding protein 1	Approved		HspBP1, FES1	19q13.42		NM_012267	ARMH	Armadillo-like helical domain containing	1492
+4851	HTT	huntingtin	Approved	HD	IT15	4p16.3	L12392	NM_002111	ARMH	Armadillo-like helical domain containing	1492
+30892	HUWE1	HECT, UBA and WWE domain containing 1, E3 ubiquitin protein ligase	Approved		Ib772, KIAA0312, UREB1	Xp11.22	AB071605	XM_497119	ARMH	Armadillo-like helical domain containing	1492
+5456	IFRD1	interferon related developmental regulator 1	Approved		PC4, TIS7	7q31.1	Y10313	NM_001550	ARMH	Armadillo-like helical domain containing	1492
+5457	IFRD2	interferon related developmental regulator 2	Approved		SKMc15, SM15, IFNRP	3p21.31	U09585	NM_006764	ARMH	Armadillo-like helical domain containing	1492
+23791	INF2	inverted formin, FH2 and WH2 domain containing	Approved	C14orf151, C14orf173	MGC13251	14q32.33	AK025709	NM_022489	ARMH	Armadillo-like helical domain containing	1492
+33116	INSC	INSC, spindle orientation adaptor protein	Approved			11p15.2	AB231744	NM_001031853	ARMH	Armadillo-like helical domain containing	1492
+24555	INTS1	integrator complex subunit 1	Approved		DKFZp586J0619, KIAA1440, INT1, NET28	7p22.3	AB037861		ARMH	Armadillo-like helical domain containing	1492
+25048	INTS4	integrator complex subunit 4	Approved		INT4, MGC16733, MST093	11q14.1	BC015664	NM_033547	ARMH	Armadillo-like helical domain containing	1492
+29352	INTS5	integrator complex subunit 5	Approved	KIAA1698	INT5	11q12.3	AK123587	NM_030628	ARMH	Armadillo-like helical domain containing	1492
+24484	INTS7	integrator complex subunit 7	Approved	C1orf73	DKFZP434B168, INT7	1q32.3	AK022509	NM_015434	ARMH	Armadillo-like helical domain containing	1492
+28949	IQCB1	IQ motif containing B1	Approved		KIAA0036, NPHP5, SLSN5	3q13.33	D25278	NM_014642	ARMH	Armadillo-like helical domain containing	1492
+28532	KIAA0825	KIAA0825	Approved	C5orf36	DKFZp686F0372, MGC34713	5q15	BX648338	NM_173665	ARMH	Armadillo-like helical domain containing	1492
+29289	RELCH	RAB11 binding and LisH domain, coiled-coil and HEAT repeat containing	Approved	KIAA1468	HsT885, HsT3308, FLJ33841	18q21.33	BC011992	NM_020854	ARMH	Armadillo-like helical domain containing	1492
+17060	KIFAP3	kinesin associated protein 3	Approved		SMAP, KAP3, FLA3, KAP-1	1q24.2	U59919	NM_014970	ARMH	Armadillo-like helical domain containing	1492
+1742	LRBA	LPS responsive beige-like anchor protein	Approved	CDC4L	BGL, LAB300, LBA	4q31.3	AF216648		ARMH	Armadillo-like helical domain containing	1492
+18618	LRRK2	leucine rich repeat kinase 2	Approved	PARK8	ROCO2, DKFZp434H2111, FLJ45829, RIPK7	12q12	AK026776	XM_058513	ARMH	Armadillo-like helical domain containing	1492
+13082	LTN1	listerin E3 ubiquitin protein ligase 1	Approved	C21orf98, C21orf10, ZNF294, RNF160	KIAA0714, FLJ11053, LISTERIN	21q21.3	AK001915	NM_015565	ARMH	Armadillo-like helical domain containing	1492
+6880	MAPK7	mitogen-activated protein kinase 7	Approved	PRKM7	BMK1, ERK5	17p11.2	U25278	NM_139033	ARMH	Armadillo-like helical domain containing	1492
+28613	MEI1	meiotic double-stranded break formation protein 1	Approved		MGC40042, SPATA38	22q13.2	AK092934	NM_152513	ARMH	Armadillo-like helical domain containing	1492
+17565	MINK1	misshapen like kinase 1	Approved		B55, MINK, ZC3, MAP4K6, YSK2	17p13.2	AY775058	NM_015716	ARMH	Armadillo-like helical domain containing	1492
+13824	MMS19	MMS19 homolog, cytosolic iron-sulfur assembly component	Approved	MMS19L	MET18, hMMS19, CIAO4	10q24.1	AF007151		ARMH	Armadillo-like helical domain containing	1492
+29177	MON2	MON2 homolog, regulator of endosome-to-Golgi trafficking	Approved		KIAA1040	12q14.1		NM_015026	ARMH	Armadillo-like helical domain containing	1492
+3942	MTOR	mechanistic target of rapamycin kinase	Approved	FRAP, FRAP2, FRAP1	RAFT1, RAPT1, FLJ44809	1p36.22	L34075	NM_004958	ARMH	Armadillo-like helical domain containing	1492
+7546	MYBBP1A	MYB binding protein 1a	Approved		P160, PAP2, FLJ37886, Pol5	17p13.2	AF147709	NM_014520	ARMH	Armadillo-like helical domain containing	1492
+30782	NAA15	N(alpha)-acetyltransferase 15, NatA auxiliary subunit	Approved	NARG1	TBDN100, NATH, FLJ13340	4q31.1	AY039242	NM_057175	ARMH	Armadillo-like helical domain containing	1492
+26164	NAA16	N(alpha)-acetyltransferase 16, NatA auxiliary subunit	Approved	NARG1L	FLJ22054, MGC40612, PRO2435	13q14.11	AL833341	NM_018527	ARMH	Armadillo-like helical domain containing	1492
+7648	NBEA	neurobeachin	Approved		KIAA1544, BCL8B, FLJ10197, LYST2	13q13.3	AF467288	NM_015678	ARMH	Armadillo-like helical domain containing	1492
+20681	NBEAL1	neurobeachin like 1	Approved	ALS2CR17, ALS2CR16	MGC164581	2q33.2	AY172970	NM_001114132	ARMH	Armadillo-like helical domain containing	1492
+31928	NBEAL2	neurobeachin like 2	Approved		KIAA0540	3p21.31	AB011112	NM_015175	ARMH	Armadillo-like helical domain containing	1492
+24305	NCAPD2	non-SMC condensin I complex subunit D2	Approved		CNAP1, hCAP-D2, CAP-D2, KIAA0159	12p13.31	D63880	NM_014865	ARMH	Armadillo-like helical domain containing	1492
+28952	NCAPD3	non-SMC condensin II complex subunit D3	Approved		hCAP-D3, CAP-D3, hHCP-6, KIAA0056, FLJ42888, hcp-6	11q25	AK124878	NM_015261	ARMH	Armadillo-like helical domain containing	1492
+24304	NCAPG	non-SMC condensin I complex subunit G	Approved		FLJ12450, hCAP-G, CAP-G, YCG1	4p15.31	AF331796	NM_022346	ARMH	Armadillo-like helical domain containing	1492
+21904	NCAPG2	non-SMC condensin II complex subunit G2	Approved	LUZP5	FLJ20311, MTB, CAP-G2, hCAP-G2	7q36.3	BC043404	NM_017760	ARMH	Armadillo-like helical domain containing	1492
+17597	NCDN	neurochondrin	Approved		NCDN-1, NCDN-2	1p34.3	AB011179	NM_014284	ARMH	Armadillo-like helical domain containing	1492
+18592	NEK10	NIMA related kinase 10	Approved		FLJ32685	3p24.1	AK123061, AK057247	NM_152534	ARMH	Armadillo-like helical domain containing	1492
+15934	NELFCD	negative elongation factor complex member C/D	Approved	TH1L	HSPC130, TH1, NELF-C, NELF-D	20q13.32	AF161479	NM_198976	ARMH	Armadillo-like helical domain containing	1492
+7765	NF1	neurofibromin 1	Approved			17q11.2		NM_000267	ARMH	Armadillo-like helical domain containing	1492
+28862	NIPBL	NIPBL, cohesin loading factor	Approved		IDN3, DKFZp434L1319, FLJ11203, FLJ12597, FLJ13354, FLJ13648, Scc2	5p13.2	AB019494	NM_015384	ARMH	Armadillo-like helical domain containing	1492
+24517	NOC2L	NOC2 like nucleolar associated transcriptional repressor	Approved		DKFZP564C186, NET7, NET15, NIR, PPP1R112	1p36.33	AL050019	NM_015658	ARMH	Armadillo-like helical domain containing	1492
+24034	NOC3L	NOC3 like DNA replication regulator	Approved	C10orf117	AD24, FLJ12820, FAD24	10q23.33	AL355341	NM_022451	ARMH	Armadillo-like helical domain containing	1492
+28461	NOC4L	nucleolar complex associated 4 homolog	Approved		MGC3162, NET49, UTP19, Noc4	12q24.33		NM_024078	ARMH	Armadillo-like helical domain containing	1492
+19826	NOP9	NOP9 nucleolar protein	Approved	C14orf21		14q12			ARMH	Armadillo-like helical domain containing	1492
+17859	NUP188	nucleoporin 188	Approved	KIAA0169		9q34.11	D79991		ARMH	Armadillo-like helical domain containing	1492
+18658	NUP205	nucleoporin 205	Approved	C7orf14	KIAA0225	7q33	D86978		ARMH	Armadillo-like helical domain containing	1492
+19152	PACRG	parkin coregulated	Approved		PARK2CRG, FLJ32724, Glup, HAK005771	6q26	AK057286	NM_152410	ARMH	Armadillo-like helical domain containing	1492
+28442	PACRGL	parkin coregulated like	Approved	C4orf28	MGC29898	4p15.31	AK098692	NM_145048	ARMH	Armadillo-like helical domain containing	1492
+33630	PATL2	PAT1 homolog 2	Approved		Pat1a	15q21.1	BC036924	NM_001145112	ARMH	Armadillo-like helical domain containing	1492
+29088	PDS5A	PDS5 cohesin associated factor A	Approved		KIAA0648, PIG54, SCC-112	4p14	AF294791	NM_015200	ARMH	Armadillo-like helical domain containing	1492
+20418	PDS5B	PDS5 cohesin associated factor B	Approved	APRIN	AS3, KIAA0979, FLJ23236, CG008	13q13.1	AB023196	NM_015032	ARMH	Armadillo-like helical domain containing	1492
+30134	PELP1	proline, glutamate and leucine rich protein 1	Approved		MNAR	17p13.2		NM_014389	ARMH	Armadillo-like helical domain containing	1492
+8983	PI4KA	phosphatidylinositol 4-kinase alpha	Approved	PIK4CA	PI4K-ALPHA, pi4K230	22q11.21	L36151	NM_058004	ARMH	Armadillo-like helical domain containing	1492
+26270	PIEZO2	piezo type mechanosensitive ion channel component 2	Approved	FAM38B2, C18orf30, C18orf58, FAM38B	FLJ23403, FLJ23144, HsT748, HsT771, FLJ34907	18p11.22-p11.21	AK027056	NM_022068	ARMH	Armadillo-like helical domain containing	1492
+8982	PIK3R4	phosphoinositide-3-kinase regulatory subunit 4	Approved		VPS15, p150	3q22.1	Y08991	NM_014602	ARMH	Armadillo-like helical domain containing	1492
+9043	PLAA	phospholipase A2 activating protein	Approved		PLAP, PLA2P, FLJ11281, FLJ12699, DOA1	9p21.2	AF083395	NM_001031689	ARMH	Armadillo-like helical domain containing	1492
+9302	PPP2R1A	protein phosphatase 2 scaffold subunit Aalpha	Approved		PR65A, PP2A-Aalpha, PP2AA	19q13.41		NM_014225	ARMH	Armadillo-like helical domain containing	1492
+9303	PPP2R1B	protein phosphatase 2 scaffold subunit Abeta	Approved		PR65B, PP2A-Abeta	11q23.1	AF087438	NM_002716	ARMH	Armadillo-like helical domain containing	1492
+9309	PPP2R5A	protein phosphatase 2 regulatory subunit B'alpha	Approved		PR61A, B56A, B56alpha	1q32.3	BC022474	NM_006243	ARMH	Armadillo-like helical domain containing	1492
+9310	PPP2R5B	protein phosphatase 2 regulatory subunit B'beta	Approved		FLJ35411, B56B, PR61B, B56beta	11q13.1	L42374	NM_006244	ARMH	Armadillo-like helical domain containing	1492
+9311	PPP2R5C	protein phosphatase 2 regulatory subunit B'gamma	Approved		B56G, PR61G, B56gamma	14q32.31	L42375	NM_002719	ARMH	Armadillo-like helical domain containing	1492
+9312	PPP2R5D	protein phosphatase 2 regulatory subunit B'delta	Approved		B56D, B56delta	6p21.1	L76702	NM_006245	ARMH	Armadillo-like helical domain containing	1492
+9313	PPP2R5E	protein phosphatase 2 regulatory subunit B'epsilon	Approved		B56E, B56epsilon	14q23.2	L76703	NM_006246	ARMH	Armadillo-like helical domain containing	1492
+9320	PPP4R1	protein phosphatase 4 regulatory subunit 1	Approved		PP4R1	18p11.22	AF111106	NM_005134	ARMH	Armadillo-like helical domain containing	1492
+15755	PPP4R1L	protein phosphatase 4 regulatory subunit 1 like (pseudogene)	Approved	C20orf192	bA196N14.4, bA196N14.5, PPP4R1P1	20q13.32	AF119843	NR_003505	ARMH	Armadillo-like helical domain containing	1492
+20219	PPP4R3A	protein phosphatase 4 regulatory subunit 3A	Approved	KIAA2010, SMEK1	FLJ20707, MSTP033, FLFL1, smk-1, smk1, PP4R3	14q32.12	AK000714	NM_032560	ARMH	Armadillo-like helical domain containing	1492
+29267	PPP4R3B	protein phosphatase 4 regulatory subunit 3B	Approved	SMEK2	PSY2, FLFL2, KIAA1387, FLJ31474	2p16.1	AB037808	NM_020463	ARMH	Armadillo-like helical domain containing	1492
+33146	PPP4R3C	protein phosphatase 4 regulatory subunit 3C	Approved	SMEK3P, PPP4R3CP	FLJ32867, FLFL3P, smk1	Xp21.3		NR_002784	ARMH	Armadillo-like helical domain containing	1492
+23788	PPP4R4	protein phosphatase 4 regulatory subunit 4	Approved	KIAA1622	PP4R4, CFAP14	14q32.2	AB046842, BC068491	NM_058237	ARMH	Armadillo-like helical domain containing	1492
+19253	PPP6R2	protein phosphatase 6 regulatory subunit 2	Approved	KIAA0685, SAPS2	dJ579N16.1, SAP190	22q13.33	AB014585	NM_014678	ARMH	Armadillo-like helical domain containing	1492
+1173	PPP6R3	protein phosphatase 6 regulatory subunit 3	Approved	C11orf23, SAPS3	SAPLa, DKFZp781E2374, DKFZp781O2362, DKFZp781E17107, SAP190, SAPL, PP6R3, FLJ11058, FLJ43065, KIAA1558, MGC125711, MGC125712	11q13	AF264779	NM_018312	ARMH	Armadillo-like helical domain containing	1492
+9413	PRKDC	protein kinase, DNA-activated, catalytic subunit	Approved	HYRC, HYRC1	DNPK1, p350, DNAPK, XRCC7, DNA-PKcs, DNAPKc, DNA-PKC, p460	8q11.21		NM_001081640	ARMH	Armadillo-like helical domain containing	1492
+9554	PSMD1	proteasome 26S subunit, non-ATPase 1	Approved		S1, P112, Rpn2	2q37.1	D44466		ARMH	Armadillo-like helical domain containing	1492
+9559	PSMD2	proteasome 26S subunit, non-ATPase 2	Approved		S2, P97, TRAP2, MGC14274, Rpn1	3q27.1	AK095245	NM_002808	ARMH	Armadillo-like helical domain containing	1492
+9563	PSMD5	proteasome 26S subunit, non-ATPase 5	Approved		S5B, KIAA0072	9q33.2	AK001065	NM_005047	ARMH	Armadillo-like helical domain containing	1492
+20635	PSME4	proteasome activator subunit 4	Approved		PA200, KIAA0077	2p16.2	D38521	XM_040158	ARMH	Armadillo-like helical domain containing	1492
+16207	RALGAPA2	Ral GTPase activating protein catalytic alpha subunit 2	Approved	C20orf74	dJ1049G11.4, AS250, KIAA1272, RapGAPalpha2	20p11.23	AL078634, DQ310704	NM_020343	ARMH	Armadillo-like helical domain containing	1492
+29221	RALGAPB	Ral GTPase activating protein non-catalytic beta subunit	Approved	KIAA1219	DKFZp781M2411, RalGAPbeta	20q11.23	AB033045	NM_020336	ARMH	Armadillo-like helical domain containing	1492
+14428	RANBP17	RAN binding protein 17	Approved			5q35.1	AF222747	NM_022897	ARMH	Armadillo-like helical domain containing	1492
+9851	RANBP6	RAN binding protein 6	Approved			9p24.1	AF039023	NM_012416	ARMH	Armadillo-like helical domain containing	1492
+29550	RIC8A	RIC8 guanine nucleotide exchange factor A	Approved		synembryn, synembryn-A	11p15.5	AK022870	NM_021932	ARMH	Armadillo-like helical domain containing	1492
+25555	RIC8B	RIC8 guanine nucleotide exchange factor B	Approved		FLJ10620, hSyn, RIC8	12q23.3	AK128102	NM_018157	ARMH	Armadillo-like helical domain containing	1492
+28611	RICTOR	RPTOR independent companion of MTOR complex 2	Approved		MGC39830, AVO3, PIA, KIAA1999	5p13.1		NM_152756	ARMH	Armadillo-like helical domain containing	1492
+23207	RIF1	replication timing regulatory factor 1	Approved		FLJ12870, FLJ10599	2q23.3	AK022932		ARMH	Armadillo-like helical domain containing	1492
+25836	RIPOR1	RHO family interacting cell polarization regulator 1	Approved	FAM65A	FLJ13725	16q22.1	AK127792	NM_024519	ARMH	Armadillo-like helical domain containing	1492
+13872	RIPOR2	RHO family interacting cell polarization regulator 2	Approved	C6orf32, FAM65B	KIAA0386, DIFF48, MYONAP	6p22.3	U49187		ARMH	Armadillo-like helical domain containing	1492
+21148	RNF123	ring finger protein 123	Approved		FLJ12565, KPC1	3p21.31	AK022627	NM_022064	ARMH	Armadillo-like helical domain containing	1492
+30287	RPTOR	regulatory associated protein of MTOR complex 1	Approved		KOG1, Mip1, KIAA1303, raptor	17q25.3		NM_020761	ARMH	Armadillo-like helical domain containing	1492
+30346	RRN3	RRN3 homolog, RNA polymerase I transcription factor	Approved		DKFZp566E104, TIF-IA	16p13.11	AF227156	NM_018427	ARMH	Armadillo-like helical domain containing	1492
+29100	RRP12	ribosomal RNA processing 12 homolog	Approved	KIAA0690		10q24.1		NM_015179	ARMH	Armadillo-like helical domain containing	1492
+13437	RSPH14	radial spoke head 14 homolog	Approved	RTDR1		22q11.22-q11.23	AF133587	NM_014433	ARMH	Armadillo-like helical domain containing	1492
+18654	RTTN	rotatin	Approved		DKFZP434G145	18q22.1	AL117635	NM_173630	ARMH	Armadillo-like helical domain containing	1492
+10484	RYR2	ryanodine receptor 2	Approved	ARVD2	ARVC2, VTSIP	1q43	X91869	NM_001035	ARMH	Armadillo-like helical domain containing	1492
+25158	SAAL1	serum amyloid A like 1	Approved		FLJ41463	11p15.1	AK123457	NM_138421	ARMH	Armadillo-like helical domain containing	1492
+23023	SAMD4A	sterile alpha motif domain containing 4A	Approved	SAMD4	KIAA1053, DKFZP434H0350, Smaug, SMG, SMGA, hSmaug1	14q22.2	AB028976	NM_015589	ARMH	Armadillo-like helical domain containing	1492
+25492	SAMD4B	sterile alpha motif domain containing 4B	Approved		FLJ10211, MGC99832, SMGB, hSmaug2	19q13.2		NM_018028	ARMH	Armadillo-like helical domain containing	1492
+17074	SARM1	sterile alpha and TIR motif containing 1	Approved		SARM, SAMD2, KIAA0524	17q11.2	AB011096	NM_015077	ARMH	Armadillo-like helical domain containing	1492
+14372	SCYL1	SCY1 like pseudokinase 1	Approved	NTKL	HT019, P105, GKLP, NKTL, TAPK, TRAP, TEIF, MGC78454	11q13.1	AF225424	NM_020680	ARMH	Armadillo-like helical domain containing	1492
+19286	SCYL2	SCY1 like pseudokinase 2	Approved		KIAA1360, CVAK104	12q23.1	AB037781	NM_017988	ARMH	Armadillo-like helical domain containing	1492
+25537	SDAD1	SDA1 domain containing 1	Approved		FLJ10498	4q21.1	AF132198	NM_018115	ARMH	Armadillo-like helical domain containing	1492
+21061	SERAC1	serine active site containing 1	Approved		FLJ14917	6q25.3	BC001705	NM_032861	ARMH	Armadillo-like helical domain containing	1492
+10768	SF3B1	splicing factor 3b subunit 1	Approved		SAP155, SF3b155, PRPF10, Prp10, Hsh155	2q33.1	AF054284		ARMH	Armadillo-like helical domain containing	1492
+10769	SF3B2	splicing factor 3b subunit 2	Approved		SAP145, SF3b1, Cus1, SF3b145	11q13.1	U41371		ARMH	Armadillo-like helical domain containing	1492
+24624	SIL1	SIL1 nucleotide exchange factor	Approved	MSS	BAP, ULG5	5q31.2	AK075177	NM_022464	ARMH	Armadillo-like helical domain containing	1492
+30045	SMG1	SMG1, nonsense mediated mRNA decay associated PI3K related kinase	Approved		LIP, KIAA0421, ATX	16p12.3	AB061371	NM_015092	ARMH	Armadillo-like helical domain containing	1492
+11354	STAG1	stromal antigen 1	Approved		SA-1, SCC3A, SA1	3q22.3	Z75330	NM_005862	ARMH	Armadillo-like helical domain containing	1492
+11355	STAG2	stromal antigen 2	Approved		SA-2, SCC3B, SA2	Xq25	Z75331	NM_006603	ARMH	Armadillo-like helical domain containing	1492
+11356	STAG3	stromal antigen 3	Approved			7q22.1	AJ007798	NM_012447	ARMH	Armadillo-like helical domain containing	1492
+33852	STAG3L1	stromal antigen 3-like 1 (pseudogene)	Approved		DKFZP434A0131, STAG3L1P	7q11.23		NM_001002840	ARMH	Armadillo-like helical domain containing	1492
+33886	STAG3L2	stromal antigen 3-like 2 (pseudogene)	Approved		MGC131759, STAG3L2P	7q11.23		NM_001025202	ARMH	Armadillo-like helical domain containing	1492
+33845	STAG3L3	stromal antigen 3-like 3 (pseudogene)	Approved		STAG3L3P	7q11.23		NM_001013739	ARMH	Armadillo-like helical domain containing	1492
+17209	STK36	serine/threonine kinase 36	Approved		KIAA1278, FU	2q35	AB033104		ARMH	Armadillo-like helical domain containing	1492
+11465	SUPT16H	SPT16 homolog, facilitates chromatin remodeling subunit	Approved		FACT, FACTP140, SPT16/CDC68, FLJ14010, FLJ10857, CDC68	14q11.2	AF152961	NM_007192	ARMH	Armadillo-like helical domain containing	1492
+22935	SYMPK	symplekin	Approved		SYM, SPK	19q13.32	U49240	NM_004819	ARMH	Armadillo-like helical domain containing	1492
+17303	TAF3	TATA-box binding protein associated factor 3	Approved		TAF140, TAFII140	10p14	AJ292190	NM_031923	ARMH	Armadillo-like helical domain containing	1492
+11540	TAF6	TATA-box binding protein associated factor 6	Approved	TAF2E	TAFII70, TAFII80, MGC:8964, TAFII85	7q22.1		NM_005641	ARMH	Armadillo-like helical domain containing	1492
+25749	TANGO6	transport and golgi organization 6 homolog	Approved	TMCO7	FLJ12688, KIAA1746	16q22.1		XM_928235.2	ARMH	Armadillo-like helical domain containing	1492
+11568	TARBP1	TAR (HIV-1) RNA binding protein 1	Approved		TRP-185, TRM3, TRMT3	1q42.2		NM_005646	ARMH	Armadillo-like helical domain containing	1492
+21485	TBC1D32	TBC1 domain family member 32	Approved	C6orf171, C6orf170	FLJ30899, dJ310J6.1, FLJ34235, bA57L9.1, BROMI	6q22.31	AK055461	NM_152730	ARMH	Armadillo-like helical domain containing	1492
+11581	TBCD	tubulin folding cofactor D	Approved			17q25.3	BC003094	NM_005993	ARMH	Armadillo-like helical domain containing	1492
+29099	TELO2	telomere maintenance 2	Approved		KIAA0683, hCLK2, TEL2	16p13.3	AL080126	NM_016111	ARMH	Armadillo-like helical domain containing	1492
+26675	TERB1	telomere repeat binding bouquet formation protein 1	Approved	CCDC79	FLJ35894	16q22.1	AK093213		ARMH	Armadillo-like helical domain containing	1492
+25988	TEX10	testis expressed 10	Approved		FLJ20287, bA208F1.2, Ipi1	9q31.1	AB060968	NM_017746	ARMH	Armadillo-like helical domain containing	1492
+28814	TMCO6	transmembrane and coiled-coil domains 6	Approved		FLJ39769, PRO1580	5q31.3	BC001910	NM_018502	ARMH	Armadillo-like helical domain containing	1492
+6401	TNPO1	transportin 1	Approved	KPNB2	MIP, TRN, IPO2, MIP1	5q13.2	U70322	NM_002270	ARMH	Armadillo-like helical domain containing	1492
+19998	TNPO2	transportin 2	Approved		IPO3, KPNB2B, FLJ12155, TRN2	19p13.13	AF019039	NM_013433	ARMH	Armadillo-like helical domain containing	1492
+17103	TNPO3	transportin 3	Approved	LGMD1F	TRN-SR, MTR10A, TRN-SR2, IPO12	7q32.1	AF145029	NM_012470	ARMH	Armadillo-like helical domain containing	1492
+29190	TNRC6B	trinucleotide repeat containing 6B	Approved		KIAA1093	22q13.1	AB029016		ARMH	Armadillo-like helical domain containing	1492
+12306	TRIP12	thyroid hormone receptor interactor 12	Approved		KIAA0045	2q36.3	L40383	NM_004238	ARMH	Armadillo-like helical domain containing	1492
+16181	TRPC4AP	transient receptor potential cation channel subfamily C member 4 associated protein	Approved	C20orf188	DKFZP727M231, DKFZp586C1223, dJ756N5.2, TRRP4AP, PPP1R158	20q11.22	AF055022	NM_015638	ARMH	Armadillo-like helical domain containing	1492
+12347	TRRAP	transformation/transcription domain associated protein	Approved		TR-AP, PAF400, Tra1	7q22.1	AF076974	NM_003496	ARMH	Armadillo-like helical domain containing	1492
+12362	TSC1	TSC complex subunit 1	Approved	TSC	KIAA0243, LAM, hamartin	9q34	AF013168		ARMH	Armadillo-like helical domain containing	1492
+12363	TSC2	TSC complex subunit 2	Approved	TSC4	tuberin, LAM, PPP1R160	16p13.3	AB014460	NM_000548	ARMH	Armadillo-like helical domain containing	1492
+19140	TTBK1	tau tubulin kinase 1	Approved		KIAA1855	6p21.1	AB058758		ARMH	Armadillo-like helical domain containing	1492
+23700	TTC12	tetratricopeptide repeat domain 12	Approved		FLJ13859, FLJ20535, TPARM	11q23.2	AK000542	NM_017868	ARMH	Armadillo-like helical domain containing	1492
+29029	TTI1	TELO2 interacting protein 1	Approved	KIAA0406	smg-10	20q11.23	BC013121	NM_014657	ARMH	Armadillo-like helical domain containing	1492
+26262	TTI2	TELO2 interacting protein 2	Approved	C8orf41	FLJ23263	8p12	AK026916	NM_025115	ARMH	Armadillo-like helical domain containing	1492
+12499	UBE4A	ubiquitination factor E4A	Approved		UBOX2, UFD2, KIAA0126, E4	11q23.3	D50916	NM_004788	ARMH	Armadillo-like helical domain containing	1492
+30313	UBR4	ubiquitin protein ligase E3 component n-recognin 4	Approved	ZUBR1	KIAA1307, KIAA0462, RBAF600	1p36.13	AF348492	NM_020765	ARMH	Armadillo-like helical domain containing	1492
+15784	ULK4	unc-51 like kinase 4	Approved		FLJ20574, REC01035, FAM7C1	3p22.1	AK000581	XM_929989	ARMH	Armadillo-like helical domain containing	1492
+30594	UNC45A	unc-45 myosin chaperone A	Approved		SMAP-1, GC-UNC45	15q26.1		NM_018671	ARMH	Armadillo-like helical domain containing	1492
+14304	UNC45B	unc-45 myosin chaperone B	Approved	CMYA4	UNC45	17q12	AW755253	NM_173167	ARMH	Armadillo-like helical domain containing	1492
+19966	UNC79	unc-79 homolog, NALCN channel complex subunit	Approved	KIAA1409		14q32.12	AB037830	XM_028395	ARMH	Armadillo-like helical domain containing	1492
+17344	URB1	URB1 ribosome biogenesis homolog	Approved	C21orf108	KIAA0539, NPA1	21q22.11	AB011111	NM_014825	ARMH	Armadillo-like helical domain containing	1492
+30904	USO1	USO1 vesicle transport factor	Approved		TAP, VDP, p115	4q21.1	AL832010	NM_003715	ARMH	Armadillo-like helical domain containing	1492
+20066	USP34	ubiquitin specific peptidase 34	Approved		KIAA0570, KIAA0729	2p15	AB011142		ARMH	Armadillo-like helical domain containing	1492
+12632	USP9X	ubiquitin specific peptidase 9 X-linked	Approved		DFFRX, FAF, MRX99	Xp11.4	X98296	NM_004652	ARMH	Armadillo-like helical domain containing	1492
+12633	USP9Y	ubiquitin specific peptidase 9 Y-linked	Approved		DFFRY	Yq11.221	Y13618	NM_004654	ARMH	Armadillo-like helical domain containing	1492
+17897	UTP20	UTP20, small subunit processome component	Approved		DRIM, 1A6/DRIM	12q23.2	AJ006778	NM_014503	ARMH	Armadillo-like helical domain containing	1492
+25507	VAC14	Vac14, PIKFYVE complex component	Approved	TAX1BP2	FLJ10305, ArPIKfyve	16q22.1-q22.2	AK056433	NM_018052	ARMH	Armadillo-like helical domain containing	1492
+25735	VEPH1	ventricular zone expressed PH domain containing 1	Approved		FLJ12604, KIAA1692	3q25.31-q25.32	AL713656	NM_024621	ARMH	Armadillo-like helical domain containing	1492
+24500	VIRMA	vir like m6A methyltransferase associated	Approved	KIAA1429	DKFZP434I116, fSAP121	8q22.1	AB037850	NM_015496	ARMH	Armadillo-like helical domain containing	1492
+13487	VPS35	VPS35, retromer complex component	Approved		FLJ10752, MEM3, PARK17	16q11.2	AF175265		ARMH	Armadillo-like helical domain containing	1492
+23293	WAPL	WAPL cohesin release factor	Approved	KIAA0261, WAPAL	FOE	10q23.2	AB065003	NM_015045	ARMH	Armadillo-like helical domain containing	1492
+20751	WDFY3	WD repeat and FYVE domain containing 3	Approved		KIAA0993, ALFY, ZFYVE25	4q21.23	AB023210	NM_014991	ARMH	Armadillo-like helical domain containing	1492
+29323	WDFY4	WDFY family member 4	Approved	C10orf64	KIAA1607, Em:AC060234.3, FLJ45748	10q11.23	AK074085	XM_033379	ARMH	Armadillo-like helical domain containing	1492
+13490	WDR7	WD repeat domain 7	Approved		KIAA0541, TRAG	18q21.31	AB011113		ARMH	Armadillo-like helical domain containing	1492
+26600	WDR81	WD repeat domain 81	Approved		FLJ33817, PPP1R166, CAMRQ2, SORF-2	17p13.3	AK074111	NM_152348	ARMH	Armadillo-like helical domain containing	1492
+29934	WDR87	WD repeat domain 87	Approved		NYD-SP11	19q13.13	AK128826	NM_031951	ARMH	Armadillo-like helical domain containing	1492
+17808	ZC3H4	zinc finger CCCH-type containing 4	Approved	C19orf7	KIAA1064	19q13.33	AB028987		ARMH	Armadillo-like helical domain containing	1492
+30960	ZER1	zyg-11 related cell cycle regulator	Approved	C9orf60, ZYG11BL	ZYG, Hzyg	9q34.11	X99802	NM_006336	ARMH	Armadillo-like helical domain containing	1492
+32058	ZYG11A	zyg-11 family member A, cell cycle regulator	Approved		ZYG11	1p32.3		NM_001004339	ARMH	Armadillo-like helical domain containing	1492
+25820	ZYG11B	zyg-11 family member B, cell cycle regulator	Approved	ZYG11	FLJ13456	1p32.3	AB051517	NM_024646	ARMH	Armadillo-like helical domain containing	1492
+554	AP1B1	adaptor related protein complex 1 subunit beta 1	Approved	ADTB1, CLAPB2	BAM22, AP105A	22q12.2	L13939	NM_001127		Clathrin/coatomer adaptor, adaptin-like, N-terminal domain containing	1493
+555	AP1G1	adaptor related protein complex 1 subunit gamma 1	Approved	CLAPG1, ADTG		16q22.2	Y12226			Clathrin/coatomer adaptor, adaptin-like, N-terminal domain containing	1493
+556	AP1G2	adaptor related protein complex 1 subunit gamma 2	Approved		G2AD	14q11.2	AB015318	NM_003917		Clathrin/coatomer adaptor, adaptin-like, N-terminal domain containing	1493
+561	AP2A1	adaptor related protein complex 2 subunit alpha 1	Approved	CLAPA1, ADTAA		19q13.33	AA993745			Clathrin/coatomer adaptor, adaptin-like, N-terminal domain containing	1493
+562	AP2A2	adaptor related protein complex 2 subunit alpha 2	Approved	CLAPA2, ADTAB	DKFZP564D1864, HYPJ, KIAA0899, HIP9	11p15.5	AB020706	NM_012305		Clathrin/coatomer adaptor, adaptin-like, N-terminal domain containing	1493
+563	AP2B1	adaptor related protein complex 2 subunit beta 1	Approved	ADTB2, CLAPB1		17q12	M34175			Clathrin/coatomer adaptor, adaptin-like, N-terminal domain containing	1493
+566	AP3B1	adaptor related protein complex 3 subunit beta 1	Approved		ADTB3A, HPS2	5q14.1	U81504			Clathrin/coatomer adaptor, adaptin-like, N-terminal domain containing	1493
+567	AP3B2	adaptor related protein complex 3 subunit beta 2	Approved		NAPTB	15q25.2	U37673			Clathrin/coatomer adaptor, adaptin-like, N-terminal domain containing	1493
+568	AP3D1	adaptor related protein complex 3 subunit delta 1	Approved		ADTD	19p13.3	U91930			Clathrin/coatomer adaptor, adaptin-like, N-terminal domain containing	1493
+572	AP4B1	adaptor related protein complex 4 subunit beta 1	Approved	SPG47	BETA-4	1p13.2	AF092094	NM_006594		Clathrin/coatomer adaptor, adaptin-like, N-terminal domain containing	1493
+573	AP4E1	adaptor related protein complex 4 subunit epsilon 1	Approved		AP-4-EPSILON, SPG51	15q21.2	AB030653			Clathrin/coatomer adaptor, adaptin-like, N-terminal domain containing	1493
+2231	COPB1	coatomer protein complex subunit beta 1	Approved	COPB		11p15.2	BC037280	NM_016451		Clathrin/coatomer adaptor, adaptin-like, N-terminal domain containing	1493
+2236	COPG1	coatomer protein complex subunit gamma 1	Approved	COPG		3q21.3	AB047846	NM_016128		Clathrin/coatomer adaptor, adaptin-like, N-terminal domain containing	1493
+2237	COPG2	coatomer protein complex subunit gamma 2	Approved		2-COP	7q32.2	AF157833	NM_012133		Clathrin/coatomer adaptor, adaptin-like, N-terminal domain containing	1493
+16286	ELMO1	engulfment and cell motility 1	Approved		KIAA0281, CED12, ELMO-1, CED-12	7p14.2-p14.1	AF398885	NM_130442	ELMO	Engulfment and cell motility proteins	543
+17233	ELMO2	engulfment and cell motility 2	Approved		CED12, ELMO-2, CED-12, KIAA1834, FLJ11656	20q13.12	AF398886	NM_022086	ELMO	Engulfment and cell motility proteins	543
+17289	ELMO3	engulfment and cell motility 3	Approved		FLJ13824, CED12, ELMO-3, CED-12	16q22.1		NM_024712	ELMO	Engulfment and cell motility proteins	543
+12825	XPO1	exportin 1	Approved		CRM1, emb	2p15	Y08614	NM_003400	XPO	Exportins	547
+2431	CSE1L	chromosome segregation 1 like	Approved		CAS, XPO2, CSE1	20q13.13	U33286	NM_001316	XPO	Exportins	547
+12826	XPOT	exportin for tRNA	Approved		XPO3	12q14.2	AF039022	NM_007235	XPO	Exportins	547
+17796	XPO4	exportin 4	Approved		FLJ13046, KIAA1721	13q12.11	AB051508	NM_022459	XPO	Exportins	547
+17675	XPO5	exportin 5	Approved		KIAA1291	6p21.1	AB033117	NM_020750	XPO	Exportins	547
+19733	XPO6	exportin 6	Approved	RANBP20	KIAA0370, FLJ22519	16p11.2	AY026388	XM_055195	XPO	Exportins	547
+14108	XPO7	exportin 7	Approved	RANBP16	KIAA0745	8p21.3	AF064729	NM_015024	XPO	Exportins	547
+24121	MRO	maestro	Approved	C18orf3	B29, FLJ30140	18q21.2	AK054702	NM_031939	MROH	Maestro heat like repeat containing 	636
+26958	MROH1	maestro heat like repeat family member 1	Approved	HEATR7A	KIAA1833	8q24.3		NM_032450	MROH	Maestro heat like repeat containing 	636
+27936	MROH2A	maestro heat like repeat family member 2A	Approved	HEATR7B1		2q37.1		XM_291007	MROH	Maestro heat like repeat containing 	636
+26857	MROH2B	maestro heat like repeat family member 2B	Approved	HEATR7B2	DKFZp781F0822, FLJ40243	5p13.1		NM_173489	MROH	Maestro heat like repeat containing 	636
+33122	MROH3P	maestro heat like repeat family member 3, pseudogene	Approved	C1orf81		1q32.1	DQ983818	XR_041455	MROH	Maestro heat like repeat containing 	636
+44902	MROH4P	maestro heat like repeat family member 4, pseudogene	Approved			8q24.3		NG_033034	MROH	Maestro heat like repeat containing 	636
+42976	MROH5	maestro heat like repeat family member 5	Approved		FLJ43860	8q24.3		NM_207414	MROH	Maestro heat like repeat containing 	636
+27814	MROH6	maestro heat like repeat family member 6	Approved	C8orf73		8q24.3	AF289596	NM_001100878	MROH	Maestro heat like repeat containing 	636
+24802	MROH7	maestro heat like repeat family member 7	Approved	C1orf175, HEATR8	FLJ46354	1p32.3	AL832492	NM_198547	MROH	Maestro heat like repeat containing 	636
+16125	MROH8	maestro heat like repeat family member 8	Approved	C20orf131, C20orf132	dJ621N11.4, dJ621N11.3	20q11.23	AL136172	NM_152503	MROH	Maestro heat like repeat containing 	636
+26287	MROH9	maestro heat like repeat family member 9	Approved	C1orf129	FLJ23550, ARMC11	1q24.3	AK027203	NM_025063	MROH	Maestro heat like repeat containing 	636
+14957	PUM1	pumilio RNA binding family member 1	Approved		PUMH1, KIAA0099	1p35.2	AF315592		PUM	Pumilio homology domain containing	1494
+14958	PUM2	pumilio RNA binding family member 2	Approved		PUMH2, KIAA0235	2p24.1	AF315591	NM_015317	PUM	Pumilio homology domain containing	1494
+29676	PUM3	pumilio RNA binding family member 3	Approved	KIAA0020	XTP5, PEN, PUF6, hPUF-A, HA-8	9p24.2	AL832239	NM_014878	PUM	Pumilio homology domain containing	1494
+24866	CEP104	centrosomal protein 104	Approved	KIAA0562	GlyBP, RP1-286D6.4, CFAP256, ROC22, JBTS25	1p36.32	AB011134	NM_014704		TOG domain containing	1495
+28959	CKAP5	cytoskeleton associated protein 5	Approved		ch-TOG, KIAA0097, TOG, TOGp	11p11.2		NM_014756		TOG domain containing	1495
+17088	CLASP1	cytoplasmic linker associated protein 1	Approved		KIAA0622, MAST1	2q14.2-q14.3	AB014522	NM_015282		TOG domain containing	1495
+17078	CLASP2	cytoplasmic linker associated protein 2	Approved		KIAA0627	3p22.3	AB014527	NM_001207044		TOG domain containing	1495
+26013	DNAAF5	dynein axonemal assembly factor 5	Approved	HEATR2	FLJ20397, FLJ31671, FLJ39381, FLJ25564, CILD18	7p22.3	AL832914, AK000404, NM_017802, AK056233	NM_017802		TOG domain containing	1495
+4199	GCN1	GCN1, eIF2 alpha kinase activator homolog	Approved	GCN1L1	KIAA0219, GCN1L	12q24.23	U77700			TOG domain containing	1495
+19426	IPO4	importin 4	Approved		Imp4, FLJ23338	14q12	AF411122	NM_024658		TOG domain containing	1495
+6402	IPO5	importin 5	Approved	KPNB3, RANBP5	IMB3, MGC2068, Pse1	13q32.2	U72761	NM_002271		TOG domain containing	1495
+19959	TOGARAM1	TOG array regulator of axonemal microtubules 1	Approved	KIAA0423, FAM179B	Crescerin-1, crescerin	14q21.2	AB007883	XM_113781		TOG domain containing	1495
+33715	TOGARAM2	TOG array regulator of axonemal microtubules 2	Approved	FAM179A	FLJ43249, LOC165186, Crescerin-2	2p23.2	AK125239, AK125744	NM_199280		TOG domain containing	1495

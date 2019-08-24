@@ -1,0 +1,295 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+5286	HTR1A	5-hydroxytryptamine receptor 1A	Approved	"ADRB2RL1, ADRBRL1"	5-HT1A	5q12.3	AF498978	NM_000524		"5-hydroxytryptamine receptors, G protein-coupled"	170
+5287	HTR1B	5-hydroxytryptamine receptor 1B	Approved		"S12, 5-HT1B, HTR1D2, 5-HT1DB"	6q14.1	BC069065	NM_000863		"5-hydroxytryptamine receptors, G protein-coupled"	170
+5289	HTR1D	5-hydroxytryptamine receptor 1D	Approved	HTRL	"RDC4, HT1DA, 5-HT1D"	1p36.12	M89955	NM_000864		"5-hydroxytryptamine receptors, G protein-coupled"	170
+5291	HTR1E	5-hydroxytryptamine receptor 1E	Approved		5-HT1E	6q14.3		NM_000865		"5-hydroxytryptamine receptors, G protein-coupled"	170
+5292	HTR1F	5-hydroxytryptamine receptor 1F	Approved		"HTR1EL, 5-HT1F"	3p12	L05597	NM_000866		"5-hydroxytryptamine receptors, G protein-coupled"	170
+5293	HTR2A	5-hydroxytryptamine receptor 2A	Approved	HTR2	5-HT2A	13q14.2	X57830	NM_000621		"5-hydroxytryptamine receptors, G protein-coupled"	170
+5294	HTR2B	5-hydroxytryptamine receptor 2B	Approved		"5-HT(2B), 5-HT2B"	2q37.1		NM_000867		"5-hydroxytryptamine receptors, G protein-coupled"	170
+5295	HTR2C	5-hydroxytryptamine receptor 2C	Approved	HTR1C	"5-HT2C, 5HTR2C"	Xq23		NM_000868		"5-hydroxytryptamine receptors, G protein-coupled"	170
+5299	HTR4	5-hydroxytryptamine receptor 4	Approved		5-HT4	5q32	Y08756	NM_000870		"5-hydroxytryptamine receptors, G protein-coupled"	170
+5300	HTR5A	5-hydroxytryptamine receptor 5A	Approved		5-HT5A	7q36.2		NM_024012		"5-hydroxytryptamine receptors, G protein-coupled"	170
+16291	HTR5BP	"5-hydroxytryptamine receptor 5B, pseudogene"	Approved	"GPR134, HTR5B"	5-HT5B	2q14.1	AB065453	NG_008325		"5-hydroxytryptamine receptors, G protein-coupled"	170
+5301	HTR6	5-hydroxytryptamine receptor 6	Approved		"5-HT6, 5-HT6R"	1p36.13	L41147	NM_000871		"5-hydroxytryptamine receptors, G protein-coupled"	170
+5302	HTR7	5-hydroxytryptamine receptor 7	Approved		5-HT7	10q23.31	BC047526	NM_000872		"5-hydroxytryptamine receptors, G protein-coupled"	170
+262	ADORA1	adenosine A1 receptor	Approved		RDC7	1q32.1	BC026340	NM_000674	ADORA	Adenosine receptors	211
+263	ADORA2A	adenosine A2a receptor	Approved	ADORA2	RDC8	22q11.23	X68486	NM_000675	ADORA	Adenosine receptors	211
+264	ADORA2B	adenosine A2b receptor	Approved			17p12	M97759		ADORA	Adenosine receptors	211
+268	ADORA3	adenosine A3 receptor	Approved		AD026	1p13.2	BC029831	"NM_000677, NM_020683"	ADORA	Adenosine receptors	211
+277	ADRA1A	adrenoceptor alpha 1A	Approved	ADRA1C	ADRA1L1	8p21.2	L31774	NM_033303	ADR	Adrenoceptors	169
+278	ADRA1B	adrenoceptor alpha 1B	Approved			5q33.3	L31773		ADR	Adrenoceptors	169
+280	ADRA1D	adrenoceptor alpha 1D	Approved		"ADRA1R, ADRA1A, ADRA1"	20p13	U03864	NM_000678	ADR	Adrenoceptors	169
+281	ADRA2A	adrenoceptor alpha 2A	Approved	"ADRA2, ADRA2R"	ADRAR	10q25.2	AF284095	NM_000681	ADR	Adrenoceptors	169
+282	ADRA2B	adrenoceptor alpha 2B	Approved	"ADRA2L1, ADRA2RL1"	ADRARL1	2q11.2	M34041		ADR	Adrenoceptors	169
+283	ADRA2C	adrenoceptor alpha 2C	Approved	"ADRA2L2, ADRA2RL2"	ADRARL2	4p16.3	AY455666	NM_000683	ADR	Adrenoceptors	169
+285	ADRB1	adrenoceptor beta 1	Approved	ADRB1R		10q25.3	J03019		ADR	Adrenoceptors	169
+286	ADRB2	adrenoceptor beta 2	Approved	ADRB2R	"ADRBR, BAR, B2AR"	5q32	AF022953	NM_000024	ADR	Adrenoceptors	169
+288	ADRB3	adrenoceptor beta 3	Approved			8p11.23	AY487247	NM_000025	ADR	Adrenoceptors	169
+336	AGTR1	angiotensin II receptor type 1	Approved	AGTR1B	"AT1, AT2R1, AGTR1A, AT2R1A, HAT1R, AG2S, AT2R1B, AT1B"	3q24	M87290		AGTR	Angiotensin receptors	221
+338	AGTR2	angiotensin II receptor type 2	Approved		"AT2, MRX88"	Xq23	AY324607	NM_000686	AGTR	Angiotensin receptors	221
+895	AVPR1A	arginine vasopressin receptor 1A	Approved	AVPR1		12q14.2	L25615		AVPR	Arginine vasopressin and oxytocin receptors	259
+896	AVPR1B	arginine vasopressin receptor 1B	Approved	AVPR3		1q32.1	D31833	NM_000707	AVPR	Arginine vasopressin and oxytocin receptors	259
+897	AVPR2	arginine vasopressin receptor 2	Approved	"DIR3, DIR"	V2R	Xq28	Z11687		AVPR	Arginine vasopressin and oxytocin receptors	259
+8529	OXTR	oxytocin receptor	Approved			3p25.3			AVPR	Arginine vasopressin and oxytocin receptors	259
+4035	ACKR1	atypical chemokine receptor 1 (Duffy blood group)	Approved	"FY, DARC"	"CCBP1, GPD, Dfy, CD234"	1q23.2	U01839	NM_002036	ACKR	Atypical chemokine receptors	1090
+1565	ACKR2	atypical chemokine receptor 2	Approved	"CMKBR9, CCBP2"	"CCR10, D6, CCR9"	3p22.1	U94888	NM_001296	ACKR	Atypical chemokine receptors	1090
+23692	ACKR3	atypical chemokine receptor 3	Approved	"CMKOR1, CXCR7"	"RDC1, GPR159"	2q37.3	BC008459	NM_020311	ACKR	Atypical chemokine receptors	1090
+1611	ACKR4	atypical chemokine receptor 4	Approved	CCRL1	"CCR11, CCBP2, VSHK1, CCX-CKR, PPR1"	3q22.1	AF110640	NM_016557	ACKR	Atypical chemokine receptors	1090
+1612	CCRL2	C-C motif chemokine receptor like 2	Approved		"HCR, CRAM-B, CKRX, CRAM-A, ACKR5"	3p21.31	AF014958		ACKR	Atypical chemokine receptors	1090
+21043	PITPNM3	PITPNM family member 3	Approved	CORD5	"NIR1, RDGBA3, ACKR6"	17p13.2-p13.1	AF334586	NM_031220	ACKR	Atypical chemokine receptors	1090
+1029	BDKRB1	bradykinin receptor B1	Approved		"BKR1, B1BKR, bradyb1"	14q32.2	L42383		BDKR	Bradykinin receptors	223
+1030	BDKRB2	bradykinin receptor B2	Approved		BK-2	14q32.2	S56772		BDKR	Bradykinin receptors	223
+1602	CCR1	C-C motif chemokine receptor 1	Approved	"SCYAR1, CMKBR1"	"CKR-1, MIP1aR, CD191"	3p21.31		NM_001295	CCR	C-C motif chemokine receptors	1091
+4474	CCR10	C-C motif chemokine receptor 10	Approved	GPR2		17q21.2	AF215981	NM_016602	CCR	C-C motif chemokine receptors	1091
+1603	CCR2	C-C motif chemokine receptor 2	Approved	CMKBR2	"CC-CKR-2, CKR2, MCP-1-R, CD192, FLJ78302"	3p21.31		NM_000647	CCR	C-C motif chemokine receptors	1091
+1604	CCR3	C-C motif chemokine receptor 3	Approved	CMKBR3	"CC-CKR-3, CKR3, CD193"	3p21.31	AF247361		CCR	C-C motif chemokine receptors	1091
+1605	CCR4	C-C motif chemokine receptor 4	Approved		"CC-CKR-4, CMKBR4, CKR4, k5-5, ChemR13, CD194"	3p22.3	X85740		CCR	C-C motif chemokine receptors	1091
+1606	CCR5	C-C motif chemokine receptor 5 (gene/pseudogene)	Approved	CMKBR5	"CKR-5, CC-CKR-5, CKR5, CD195, IDDM22"	3p21.31		NM_000579	CCR	C-C motif chemokine receptors	1091
+1607	CCR6	C-C motif chemokine receptor 6	Approved	STRL22	"CKR-L3, GPR-CY4, CMKBR6, GPR29, DRY-6, DCR2, BN-1, CD196"	6q27	U68030		CCR	C-C motif chemokine receptors	1091
+1608	CCR7	C-C motif chemokine receptor 7	Approved	"CMKBR7, EBI1"	"BLR2, CDw197, CD197"	17q21.2			CCR	C-C motif chemokine receptors	1091
+1609	CCR8	C-C motif chemokine receptor 8	Approved	"CMKBRL2, CMKBR8"	"CY6, TER1, CKR-L1, GPR-CY6, CDw198"	3p22.1	D49919	NM_005201	CCR	C-C motif chemokine receptors	1091
+1610	CCR9	C-C motif chemokine receptor 9	Approved	GPR28	"GPR-9-6, CDw199"	3p21.31	AJ132337		CCR	C-C motif chemokine receptors	1091
+2558	CX3CR1	C-X3-C motif chemokine receptor 1	Approved	"GPR13, CMKBRL1"	"CMKDR1, V28, CCRL1"	3p22.2	BC028078	NM_001337	CX3CR	C-X-3-C motif chemokine receptors	1093
+6026	CXCR1	C-X-C motif chemokine receptor 1	Approved	"CMKAR1, IL8RA"	"CKR-1, CDw128a, CD181"	2q35	U11870	NM_000634	CXCR	C-X-C motif chemokine receptors	1094
+6027	CXCR2	C-X-C motif chemokine receptor 2	Approved	IL8RB	"CMKAR2, CD182"	2q35	U11869	NM_001557	CXCR	C-X-C motif chemokine receptors	1094
+4540	CXCR3	C-X-C motif chemokine receptor 3	Approved	GPR9	"CKR-L2, CMKAR3, IP10-R, MigR, CD183"	Xq13.1	U32674		CXCR	C-X-C motif chemokine receptors	1094
+2561	CXCR4	C-X-C motif chemokine receptor 4	Approved		"LESTR, NPY3R, HM89, NPYY3R, D2S201E, fusin, HSY3RR, NPYR, CD184"	2q22.1	AF005058		CXCR	C-X-C motif chemokine receptors	1094
+1060	CXCR5	C-X-C motif chemokine receptor 5	Approved	BLR1	"MDR15, CD185"	11q23.3	X68829	NM_001716	CXCR	C-X-C motif chemokine receptors	1094
+16647	CXCR6	C-X-C motif chemokine receptor 6	Approved		"TYMSTR, STRL33, BONZO, CD186"	3p21.31	AF007545		CXCR	C-X-C motif chemokine receptors	1094
+2159	CNR1	cannabinoid receptor 1	Approved	CNR	"CB1K5, CB-R, CB1, CANN6, CB1A"	6q15	AF107262		CNR	Cannabinoid receptors	202
+2160	CNR2	cannabinoid receptor 2	Approved		CB2	1p36.11	X74328	NM_001841	CNR	Cannabinoid receptors	202
+2121	CMKLR1	chemerin chemokine-like receptor 1	Approved		RVER1	12q23.3	U79526		CMKLR	Chemerin receptor	218
+1570	CCKAR	cholecystokinin A receptor	Approved			4p15.2	L19315			Cholecystokinin receptors	224
+1571	CCKBR	cholecystokinin B receptor	Approved			11p15.4	D13305	NM_176875		Cholecystokinin receptors	224
+1950	CHRM1	cholinergic receptor muscarinic 1	Approved			11q12.3	Y00508	NM_000738	CHRM	Cholinergic receptors muscarinic	180
+1951	CHRM2	cholinergic receptor muscarinic 2	Approved			7q33			CHRM	Cholinergic receptors muscarinic	180
+1952	CHRM3	cholinergic receptor muscarinic 3	Approved			1q43	U29589	NM_000740	CHRM	Cholinergic receptors muscarinic	180
+1953	CHRM4	cholinergic receptor muscarinic 4	Approved			11p11.2	M16405	NM_000741	CHRM	Cholinergic receptors muscarinic	180
+1954	CHRM5	cholinergic receptor muscarinic 5	Approved			15q14			CHRM	Cholinergic receptors muscarinic	180
+1319	C3AR1	complement C3a receptor 1	Approved		"C3AR, AZ3B"	12p13.31	U28488	NM_004054		Complement component GPCRs	196
+1338	C5AR1	complement C5a receptor 1	Approved	C5R1	"C5A, C5AR, CD88"	19q13.32		NM_001736		Complement component GPCRs	196
+4527	C5AR2	complement component 5a receptor 2	Approved	GPR77	C5L2	19q13.32	AB038237	NM_018485		Complement component GPCRs	196
+3020	DRD1	dopamine receptor D1	Approved			5q35.2	X55760	NM_000794	DRD	Dopamine receptors	181
+3023	DRD2	dopamine receptor D2	Approved			11q23.2	M29066	NM_000795	DRD	Dopamine receptors	181
+3024	DRD3	dopamine receptor D3	Approved			3q13.31		NM_000796.3	DRD	Dopamine receptors	181
+3025	DRD4	dopamine receptor D4	Approved			11p15.5	L12398	NM_000797	DRD	Dopamine receptors	181
+3026	DRD5	dopamine receptor D5	Approved	DRD1L2	DRD1B	4p16.1	X58454		DRD	Dopamine receptors	181
+3179	EDNRA	endothelin receptor type A	Approved		"ET-A, ETA-R, hET-AR"	4q31.22-q31.23	D90348		EDNR	Endothelin receptors	225
+3180	EDNRB	endothelin receptor type B	Approved	"HSCR2, HSCR"	ETB	13q22.3	L06623		EDNR	Endothelin receptors	225
+3537	F2R	coagulation factor II thrombin receptor	Approved		"TR, CF2R, PAR1, PAR-1"	5q13.3	M62424	NM_001992	F2R	F2R receptors	219
+3538	F2RL1	F2R like trypsin receptor 1	Approved	GPR11	PAR2	5q13.3	BC018130	NM_005242	F2R	F2R receptors	219
+3539	F2RL2	coagulation factor II thrombin receptor like 2	Approved		PAR3	5q13.3	U92971	NM_004101	F2R	F2R receptors	219
+3540	F2RL3	F2R like thrombin or trypsin receptor 3	Approved		PAR4	19p13.11	AF055917	NM_003950	F2R	F2R receptors	219
+3826	FPR1	formyl peptide receptor 1	Approved		"FPR, FMLP"	19q13.41	M60627	NM_002029	FPR	Formyl peptide receptors	198
+3827	FPR2	formyl peptide receptor 2	Approved	FPRL1	"LXA4R, HM63, FPRH2, FMLPX, FPR2A, FMLP-R-II, ALXR"	19q13.41	M88107	NM_001005738	FPR	Formyl peptide receptors	198
+3828	FPR3	formyl peptide receptor 3	Approved	FPRL2	"FPRH1, FMLPY, RMLP-R-I"	19q13.41		NM_002030	FPR	Formyl peptide receptors	198
+4498	FFAR1	free fatty acid receptor 1	Approved	GPR40	FFA1R	19q13.12	AF024687	NM_005303	FFAR	Free fatty acid receptors	203
+4501	FFAR2	free fatty acid receptor 2	Approved	GPR43	FFA2R	19q13.12	AF024690	NM_005306	FFAR	Free fatty acid receptors	203
+4499	FFAR3	free fatty acid receptor 3	Approved	GPR41	FFA3R	19q13.12	AF024688	NM_005304	FFAR	Free fatty acid receptors	203
+19061	FFAR4	free fatty acid receptor 4	Approved	"GPR129, GPR120, O3FAR1"	PGR4	10q23.33		NM_181745	FFAR	Free fatty acid receptors	203
+19680	GPBAR1	G protein-coupled bile acid receptor 1	Approved		"BG37, GPCR, TGR5, M-BAR, GPCR19, GPR131, MGC40597"	2q35	AB086170	NM_001077191	GPBAR	G protein-coupled bile acid receptor	933
+4485	GPER1	G protein-coupled estrogen receptor 1	Approved	"CMKRL2, GPR30, GPER"	"FEG-1, GPCR-Br, LERGU, LERGU2, DRY12, LyGPR, CEPR"	7p22.3	U63917	NM_001039966	GPER	G protein-coupled estrogen receptor	934
+4463	GPR1	G protein-coupled receptor 1	Approved			2q33.3		NM_001098199		"G protein-coupled receptors, Class A orphans"	262
+14963	GPR101	G protein-coupled receptor 101	Approved			Xq26.3	AF411115			"G protein-coupled receptors, Class A orphans"	262
+19060	GPR119	G protein-coupled receptor 119	Approved		"hGPCR2, GPCR2"	Xq26.1	AY288416	NM_178471		"G protein-coupled receptors, Class A orphans"	262
+4466	GPR12	G protein-coupled receptor 12	Approved		"GPCR21, PPP1R84"	13q12.13	U18548			"G protein-coupled receptors, Class A orphans"	262
+17482	GPR132	G protein-coupled receptor 132	Approved		G2A	14q32.33	AF083955	NM_013345		"G protein-coupled receptors, Class A orphans"	262
+19991	GPR135	G protein-coupled receptor 135	Approved		"HUMNPIIY20, PAFR"	14q23.1	AY288418	NM_022571		"G protein-coupled receptors, Class A orphans"	262
+19995	GPR139	G protein-coupled receptor 139	Approved		PGR3	16p12.3	AY255545	NM_001002911		"G protein-coupled receptors, Class A orphans"	262
+19997	GPR141	G protein-coupled receptor 141	Approved		PGR13	7p14.1	AY288420	NM_181791		"G protein-coupled receptors, Class A orphans"	262
+20088	GPR142	G protein-coupled receptor 142	Approved		PGR2	17q25.1	AY255622	NM_181790		"G protein-coupled receptors, Class A orphans"	262
+21718	GPR146	G protein-coupled receptor 146	Approved		PGR8	7p22.3	BC014241	NM_138445		"G protein-coupled receptors, Class A orphans"	262
+23623	GPR148	G protein-coupled receptor 148	Approved		PGR6	2q21.1	AY255532	XM_293092		"G protein-coupled receptors, Class A orphans"	262
+23627	GPR149	G protein-coupled receptor 149	Approved		"PGR10, IEDA, R35"	3q25.2	AY255534	XM_293580		"G protein-coupled receptors, Class A orphans"	262
+4469	GPR15	G protein-coupled receptor 15	Approved			3q11.2				"G protein-coupled receptors, Class A orphans"	262
+23628	GPR150	G protein-coupled receptor 150	Approved		PGR11	5q15	BC030197			"G protein-coupled receptors, Class A orphans"	262
+23624	GPR151	G protein-coupled receptor 151	Approved		"PGR7, GALR4"	5q32	AY255557	NM_194251		"G protein-coupled receptors, Class A orphans"	262
+23622	GPR152	G protein-coupled receptor 152	Approved		PGR5	11q13.2	AY255600			"G protein-coupled receptors, Class A orphans"	262
+23618	GPR153	G protein-coupled receptor 153	Approved		PGR1	1p36.31	AY255529			"G protein-coupled receptors, Class A orphans"	262
+23693	GPR160	G protein-coupled receptor 160	Approved		"GPCR150, GPCR1"	3q26.2	AB083583	NM_014373		"G protein-coupled receptors, Class A orphans"	262
+23694	GPR161	G protein-coupled receptor 161	Approved		RE2	1q24.2	AF091890	NM_007369		"G protein-coupled receptors, Class A orphans"	262
+16693	GPR162	G protein-coupled receptor 162	Approved		"A-2, GRCA"	12p13	"U47928, U47929, U47924, U47925"	NM_019858		"G protein-coupled receptors, Class A orphans"	262
+4471	GPR17	G protein-coupled receptor 17	Approved			2q14.3				"G protein-coupled receptors, Class A orphans"	262
+30057	GPR171	G protein-coupled receptor 171	Approved		H963	3q25.1	AF002986	NM_013308		"G protein-coupled receptors, Class A orphans"	262
+18186	GPR173	G protein-coupled receptor 173	Approved		SREB3	Xp11.22	AB040801	NM_018969		"G protein-coupled receptors, Class A orphans"	262
+30245	GPR174	G protein-coupled receptor 174	Approved		FKSG79	Xq21.1	AF345567	NM_032553		"G protein-coupled receptors, Class A orphans"	262
+32370	GPR176	G protein-coupled receptor 176	Approved		Gm1012	15q14-q15.1	BC067106	NM_007223		"G protein-coupled receptors, Class A orphans"	262
+4472	GPR18	G protein-coupled receptor 18	Approved			13q32.3	L42324			"G protein-coupled receptors, Class A orphans"	262
+13708	GPR182	G protein-coupled receptor 182	Approved	ADMR	"hrhAMR, G10D, AM-R"	12q13.3	Y13583	NM_007264		"G protein-coupled receptors, Class A orphans"	262
+3128	GPR183	G protein-coupled receptor 183	Approved	EBI2		13q32.3	L08177	NM_004951		"G protein-coupled receptors, Class A orphans"	262
+4473	GPR19	G protein-coupled receptor 19	Approved			12p13.1		NM_006143		"G protein-coupled receptors, Class A orphans"	262
+4475	GPR20	G protein-coupled receptor 20	Approved			8q24.3	U66579	NM_005293		"G protein-coupled receptors, Class A orphans"	262
+4476	GPR21	G protein-coupled receptor 21	Approved			9q33.2	BC066885	NM_005294		"G protein-coupled receptors, Class A orphans"	262
+4477	GPR22	G protein-coupled receptor 22	Approved			7q22.3	U66581			"G protein-coupled receptors, Class A orphans"	262
+4480	GPR25	G protein-coupled receptor 25	Approved			1q32.1	U91939	NM_005298		"G protein-coupled receptors, Class A orphans"	262
+4481	GPR26	G protein-coupled receptor 26	Approved			10q26.13				"G protein-coupled receptors, Class A orphans"	262
+4482	GPR27	G protein-coupled receptor 27	Approved		SREB1	3p13	AB040799	NM_018971		"G protein-coupled receptors, Class A orphans"	262
+4484	GPR3	G protein-coupled receptor 3	Approved		ACCA	1p36.11	BC032702	NM_005281		"G protein-coupled receptors, Class A orphans"	262
+4486	GPR31	G protein-coupled receptor 31	Approved		"HETER1, 12-HETER"	6q27	U65402	NM_005299		"G protein-coupled receptors, Class A orphans"	262
+4487	GPR32	G protein-coupled receptor 32	Approved		RVDR1	19q13.33	AF045764			"G protein-coupled receptors, Class A orphans"	262
+4489	GPR33	G protein-coupled receptor 33 (gene/pseudogene)	Approved			14q12	AF045767	NM_001197184		"G protein-coupled receptors, Class A orphans"	262
+4490	GPR34	G protein-coupled receptor 34	Approved			Xp11.4	AF039686	NM_005300		"G protein-coupled receptors, Class A orphans"	262
+4492	GPR35	G protein-coupled receptor 35	Approved			2q37.3		NM_001195382		"G protein-coupled receptors, Class A orphans"	262
+4494	GPR37	G protein-coupled receptor 37	Approved		"EDNRBL, hET(B)R-LP, PAELR"	7q31.33		NM_005302		"G protein-coupled receptors, Class A orphans"	262
+14923	GPR37L1	G protein-coupled receptor 37 like 1	Approved		ETBR-LP-2	1q32.1	AJ310210	NM_004767		"G protein-coupled receptors, Class A orphans"	262
+4496	GPR39	G protein-coupled receptor 39	Approved			2q21.2	AF034633			"G protein-coupled receptors, Class A orphans"	262
+4497	GPR4	G protein-coupled receptor 4	Approved			19q13.32	BC067536	NM_005282		"G protein-coupled receptors, Class A orphans"	262
+4500	GPR42	G protein-coupled receptor 42 (gene/pseudogene)	Approved	GPR42P	"GPR41L, FFAR3L"	19q13.12	AF024689	NM_005305		"G protein-coupled receptors, Class A orphans"	262
+4503	GPR45	G protein-coupled receptor 45	Approved		"PSP24, PSP24A"	2q12.1	AF118266	NM_007227		"G protein-coupled receptors, Class A orphans"	262
+4506	GPR50	G protein-coupled receptor 50	Approved		"H9, Mel1c"	Xq28	U52219	NM_004224		"G protein-coupled receptors, Class A orphans"	262
+4508	GPR52	G protein-coupled receptor 52	Approved			1q25.1	AF096784	NM_005684		"G protein-coupled receptors, Class A orphans"	262
+4511	GPR55	G protein-coupled receptor 55	Approved			2q37.1	AF096786	NM_005683		"G protein-coupled receptors, Class A orphans"	262
+4515	GPR6	G protein-coupled receptor 6	Approved			6q21				"G protein-coupled receptors, Class A orphans"	262
+13300	GPR61	G protein-coupled receptor 61	Approved		BALGR	1p13.3	AF317652			"G protein-coupled receptors, Class A orphans"	262
+13301	GPR62	G protein-coupled receptor 62	Approved			3p21.2	AF317653			"G protein-coupled receptors, Class A orphans"	262
+13302	GPR63	G protein-coupled receptor 63	Approved		"PSP24(beta), PSP24B"	6q16.1	AF317654			"G protein-coupled receptors, Class A orphans"	262
+4517	GPR65	G protein-coupled receptor 65	Approved		"hTDAG8, TDAG8"	14q31.3	U95218			"G protein-coupled receptors, Class A orphans"	262
+4519	GPR68	G protein-coupled receptor 68	Approved		OGR1	14q32.11	U48405			"G protein-coupled receptors, Class A orphans"	262
+4526	GPR75	G protein-coupled receptor 75	Approved		WI-31133	2p16.2	AF101472			"G protein-coupled receptors, Class A orphans"	262
+4528	GPR78	G protein-coupled receptor 78	Approved			4p16.1	AF411107			"G protein-coupled receptors, Class A orphans"	262
+4529	GPR79	"G protein-coupled receptor 79, pseudogene"	Approved		GPR79P	3q25.32	AF411108			"G protein-coupled receptors, Class A orphans"	262
+4533	GPR82	G protein-coupled receptor 82	Approved			Xp11.4	AF411111	NM_080817		"G protein-coupled receptors, Class A orphans"	262
+4523	GPR83	G protein-coupled receptor 83	Approved	GPR72		11q21	AF236081	NM_016540		"G protein-coupled receptors, Class A orphans"	262
+4535	GPR84	G protein-coupled receptor 84	Approved		EX33	12q13.13	AF237762			"G protein-coupled receptors, Class A orphans"	262
+4536	GPR85	G protein-coupled receptor 85	Approved		SREB2	7q31.1	AF250237			"G protein-coupled receptors, Class A orphans"	262
+4538	GPR87	G protein-coupled receptor 87	Approved	GPR95		3q25.1	AF237763			"G protein-coupled receptors, Class A orphans"	262
+4539	GPR88	G protein-coupled receptor 88	Approved			1p21.2	AB042411	NM_022049		"G protein-coupled receptors, Class A orphans"	262
+13299	LGR4	leucine rich repeat containing G protein-coupled receptor 4	Approved	GPR48		11p14.1	AF257182	NM_018490		"G protein-coupled receptors, Class A orphans"	262
+4504	LGR5	leucine rich repeat containing G protein-coupled receptor 5	Approved	"GPR67, GPR49"	"HG38, FEX"	12q21.1	AF062006	NM_003667		"G protein-coupled receptors, Class A orphans"	262
+19719	LGR6	leucine rich repeat containing G protein-coupled receptor 6	Approved		FLJ14471	1q32.1	AF190501	NM_021636		"G protein-coupled receptors, Class A orphans"	262
+6899	MAS1	"MAS1 proto-oncogene, G protein-coupled receptor"	Approved			6q25.3	M13150	NM_002377		"G protein-coupled receptors, Class A orphans"	262
+13961	MAS1L	"MAS1 proto-oncogene like, G protein-coupled receptor"	Approved		"MAS-L, MRG, dJ994E9.2"	6p22.1	S78653	NM_052967		"G protein-coupled receptors, Class A orphans"	262
+29626	MRGPRD	MAS related GPR family member D	Approved		mrgD	11q13.3	AB083627	NM_198923		"G protein-coupled receptors, Class A orphans"	262
+30694	MRGPRE	MAS related GPR family member E	Approved	GPR167	mrgE	11p15.4	AY255572	XM_171536		"G protein-coupled receptors, Class A orphans"	262
+24828	MRGPRF	MAS related GPR family member F	Approved	"GPR168, GPR140"	"MGC21621, mrgF"	11q13.3	AK075492	NM_145015		"G protein-coupled receptors, Class A orphans"	262
+24829	MRGPRG	MAS related GPR family member G	Approved	GPR169	mrgG	11p15.4	AY255583			"G protein-coupled receptors, Class A orphans"	262
+17962	MRGPRX1	MAS related GPR family member X1	Approved		MRGX1	11p15.1		NM_147199		"G protein-coupled receptors, Class A orphans"	262
+17983	MRGPRX2	MAS related GPR family member X2	Approved		MRGX2	11p15.1		NM_054030		"G protein-coupled receptors, Class A orphans"	262
+17980	MRGPRX3	MAS related GPR family member X3	Approved		MRGX3	11p15.1		NM_054031		"G protein-coupled receptors, Class A orphans"	262
+17617	MRGPRX4	MAS related GPR family member X4	Approved		MRGX4	11p15.1	AY042216	NM_054032		"G protein-coupled receptors, Class A orphans"	262
+19906	P2RY10	P2Y receptor family member 10	Approved		P2Y10	Xq21.1	AF000545			"G protein-coupled receptors, Class A orphans"	262
+15524	P2RY8	P2Y receptor family member 8	Approved		P2Y8	Xp22.33 and Yp11.3	AA804531	NM_178129		"G protein-coupled receptors, Class A orphans"	262
+4132	GALR1	galanin receptor 1	Approved	"GALNR1, GALNR"		18q23	U90658		GALR	Galanin receptors	226
+4133	GALR2	galanin receptor 2	Approved		GALNR2	17q25.1	AF040630		GALR	Galanin receptors	226
+4134	GALR3	galanin receptor 3	Approved			22q13.1	AF073799		GALR	Galanin receptors	226
+3969	FSHR	follicle stimulating hormone receptor	Approved	ODG1	"FSHRO, LGR1"	2p16.3				Glycoprotein hormone receptors	199
+6585	LHCGR	luteinizing hormone/choriogonadotropin receptor	Approved	HHG	"LHR, LCGR, LGR2, ULG5"	2p16.3		NM_000233.3		Glycoprotein hormone receptors	199
+12373	TSHR	thyroid stimulating hormone receptor	Approved		LGR3	14q24-q31	AY429111	NM_000369		Glycoprotein hormone receptors	199
+4421	GNRHR	gonadotropin releasing hormone receptor	Approved	GRHR	LHRHR	4q13.2			GNRHR	Gonadotropin releasing hormone receptors	227
+16341	GNRHR2	gonadotropin releasing hormone receptor 2 (pseudogene)	Approved			1q21.1	AF403014	NR_002328	GNRHR	Gonadotropin releasing hormone receptors	227
+5182	HRH1	histamine receptor H1	Approved			3p25.3			HRH	Histamine receptors	187
+5183	HRH2	histamine receptor H2	Approved			5q35.2			HRH	Histamine receptors	187
+5184	HRH3	histamine receptor H3	Approved		GPCR97	20q13.33	AF140538	NM_007232	HRH	Histamine receptors	187
+17383	HRH4	histamine receptor H4	Approved		"H4R, HH4R, AXOR35, GPCR105, GPRv53"	18q11.2	AF312230		HRH	Histamine receptors	187
+4532	HCAR1	hydroxycarboxylic acid receptor 1	Approved	"GPR104, GPR81"	"HCA1, FKSG80, TA-GPCR, LACR1"	12q24.31	AF411110		HCAR	Hydroxy-carboxylic acid receptors	200
+24827	HCAR2	hydroxycarboxylic acid receptor 2	Approved	GPR109A	"HCA2, HM74A, PUMAG, Puma-g, NIACR1"	12q24.31	AY148884	NM_177551	HCAR	Hydroxy-carboxylic acid receptors	200
+16824	HCAR3	hydroxycarboxylic acid receptor 3	Approved	GPR109B	"HCA3, HM74"	12q24.31	D10923	NM_006018	HCAR	Hydroxy-carboxylic acid receptors	200
+4848	HCRTR1	hypocretin receptor 1	Approved		OX1R	1p35.2	AF041243	NM_001525	HCRTR	Hypocretin receptors	228
+4849	HCRTR2	hypocretin receptor 2	Approved		OX2R	6p12.1	AF041245		HCRTR	Hypocretin receptors	228
+17451	CYSLTR1	cysteinyl leukotriene receptor 1	Approved		"CysLT1, CysLT(1), CYSLT1R"	Xq21.1	AF119711			Leukotriene receptors	204
+18274	CYSLTR2	cysteinyl leukotriene receptor 2	Approved		"CysLT(2), CYSLT2R"	13q14.2	AB038269			Leukotriene receptors	204
+3827	FPR2	formyl peptide receptor 2	Approved	FPRL1	"LXA4R, HM63, FPRH2, FMLPX, FPR2A, FMLP-R-II, ALXR"	19q13.41	M88107	NM_001005738		Leukotriene receptors	204
+6713	LTB4R	leukotriene B4 receptor	Approved	"P2RY7, GPR16, CMKRL1"	"BLTR, P2Y7, LTB4R1"	14q12	X98356			Leukotriene receptors	204
+19260	LTB4R2	leukotriene B4 receptor 2	Approved		"BLTR2, BLT2, JULF2, NOP9"	14q12	AB008193			Leukotriene receptors	204
+24884	OXER1	oxoeicosanoid receptor 1	Approved		"GPCR, TG1019, GPR170"	2p21	AB083055	NM_148962		Leukotriene receptors	204
+3166	LPAR1	lysophosphatidic acid receptor 1	Approved	EDG2	"edg-2, rec.1.3, vzg-1, Gpcr26, Mrec1.3, LPA1, GPR26"	9q31.3	U80811	NM_057159	LPAR	Lysophosphatidic acid receptors	205
+3168	LPAR2	lysophosphatidic acid receptor 2	Approved	EDG4	"EDG-4, LPA2"	19p12	AF011466	NM_004720	LPAR	Lysophosphatidic acid receptors	205
+14298	LPAR3	lysophosphatidic acid receptor 3	Approved	EDG7	"LP-A3, Edg-7, RP4-678I3, HOFNH30, LPA3"	1p22.3	AF127138	NM_012152	LPAR	Lysophosphatidic acid receptors	205
+4478	LPAR4	lysophosphatidic acid receptor 4	Approved	GPR23	"P2Y9, P2Y5-LIKE, P2RY9, LPA4"	Xq21.1	U90322	NM_005296	LPAR	Lysophosphatidic acid receptors	205
+13307	LPAR5	lysophosphatidic acid receptor 5	Approved	"GPR93, GPR92"	"KPG_010, LPA5"	12p13.31	AJ272207	NM_020400	LPAR	Lysophosphatidic acid receptors	205
+15520	LPAR6	lysophosphatidic acid receptor 6	Approved	P2RY5	P2Y5	13q14.2	AF000546	NM_005767	LPAR	Lysophosphatidic acid receptors	205
+4479	MCHR1	melanin concentrating hormone receptor 1	Approved	GPR24	"SLC1, MCH1R"	22q13.2		NM_005297	MCHR	Melanin concentrating hormone receptors	235
+20867	MCHR2	melanin concentrating hormone receptor 2	Approved	GPR145	"SLT, MCH2, MCH2R"	6q16.2	AF347063	NM_032503	MCHR	Melanin concentrating hormone receptors	235
+6929	MC1R	melanocortin 1 receptor	Approved		MSH-R	16q24.3		NM_002386		Melanocortin receptors	236
+6930	MC2R	melanocortin 2 receptor	Approved		ACTHR	18p11.2				Melanocortin receptors	236
+6931	MC3R	melanocortin 3 receptor	Approved		MC3	20q13.2				Melanocortin receptors	236
+6932	MC4R	melanocortin 4 receptor	Approved			18q21.32	AY236539	NM_005912		Melanocortin receptors	236
+6933	MC5R	melanocortin 5 receptor	Approved			18p11.21	AY268429	NM_005913		Melanocortin receptors	236
+7463	MTNR1A	melatonin receptor 1A	Approved		MEL-1A-R	4q35.2			MTNR	Melatonin receptors	209
+7464	MTNR1B	melatonin receptor 1B	Approved			11q14.3	AB033598		MTNR	Melatonin receptors	209
+4518	NMUR1	neuromedin U receptor 1	Approved	GPR66	"GPC-R, FM-3, NMU1R"	2q37.1	AF044600	NM_006056	NMUR	Neuromedin U receptors	239
+16454	NMUR2	neuromedin U receptor 2	Approved	NMU2R		5q33.1	AF242874	NM_020167	NMUR	Neuromedin U receptors	239
+4522	NPBWR1	neuropeptides B and W receptor 1	Approved	GPR7		8q11.23	BC033145	NM_005285		Neuropeptide receptors	854
+4530	NPBWR2	neuropeptides B and W receptor 2	Approved	GPR8		20q13.33	U22492	NM_005286		Neuropeptide receptors	854
+17425	NPFFR1	neuropeptide FF receptor 1	Approved	GPR147	"OT7T022, NPFF1R1"	10q22.1	AB040104	NM_022146		Neuropeptide receptors	854
+4525	NPFFR2	neuropeptide FF receptor 2	Approved	GPR74	"NPFF2, NPGPR"	4q13.3	AF236083	NM_004885		Neuropeptide receptors	854
+23631	NPSR1	neuropeptide S receptor 1	Approved	GPR154	"PGR14, GPRA"	7p14.3	AY255536	NM_207173		Neuropeptide receptors	854
+7956	NPY1R	neuropeptide Y receptor Y1	Approved	NPYR		4q32.2				Neuropeptide receptors	854
+7957	NPY2R	neuropeptide Y receptor Y2	Approved			4q32.1	U42766	NM_000910		Neuropeptide receptors	854
+9329	NPY4R	neuropeptide Y receptor Y4	Approved	PPYR1	"Y4, PP1"	10q11.22		NM_005972		Neuropeptide receptors	854
+52383	NPY4R2	neuropeptide Y receptor Y4-2	Approved		CH17-360D5.1	10q11.22		NM_001278795		Neuropeptide receptors	854
+7958	NPY5R	neuropeptide Y receptor Y5	Approved		NPYR5	4q32.2	BC042416	NM_006174		Neuropeptide receptors	854
+7959	NPY6R	neuropeptide Y receptor Y6 (pseudogene)	Approved		"PP2, NPY1RL, NPY6RP"	5q31.2	D86519			Neuropeptide receptors	854
+8039	NTSR1	neurotensin receptor 1	Approved		NTR	20q13.33			NTSR	Neurotensin receptors	244
+8040	NTSR2	neurotensin receptor 2	Approved		NTR2	2p25.1	Y10148		NTSR	Neurotensin receptors	244
+8153	OPRD1	opioid receptor delta 1	Approved			1p35.3	U10504	NM_000911	OPR	Opioid receptors	245
+8154	OPRK1	opioid receptor kappa 1	Approved		"KOR, OPRK"	8q11.23			OPR	Opioid receptors	245
+8155	OPRL1	opioid related nociceptin receptor 1	Approved		"NOCIR, ORL1, OOR, KOR-3, NOPr"	20q13.33		NM_182647	OPR	Opioid receptors	245
+8156	OPRM1	opioid receptor mu 1	Approved		MOR1	6q25.2	L29301	NM_000914	OPR	Opioid receptors	245
+9936	OPN1LW	"opsin 1, long wave sensitive"	Approved	"CBBM, RCP, CBP"	COD5	Xq28	Z68193	NM_020061	OPN	Opsin receptors	215
+4206	OPN1MW	"opsin 1, medium wave sensitive"	Approved	"GCP, CBBM, CBD"	"OPN1MW1, COD5"	Xq28	K03494	NM_000513	OPN	Opsin receptors	215
+26952	OPN1MW2	"opsin 1, medium wave sensitive 2"	Approved			Xq28		NM_001048181	OPN	Opsin receptors	215
+51831	OPN1MW3	"opsin 1, medium wave sensitive 3"	Approved			Xq28			OPN	Opsin receptors	215
+1012	OPN1SW	"opsin 1, short wave sensitive"	Approved	BCP	"BOP, CBT"	7q32.1	U53874	NM_001708	OPN	Opsin receptors	215
+10012	RHO	rhodopsin	Approved	RP4	"OPN2, CSNBAD1"	3q22.1	AB065668	NM_000539	OPN	Opsin receptors	215
+14007	OPN3	opsin 3	Approved	ECPN	"ERO, NMO-1, encephalopsin, PPP1R116"	1q43	AF140242	NM_014322	OPN	Opsin receptors	215
+14449	OPN4	opsin 4	Approved		"MOP, melanopsin"	10q23.2	AF147788	NM_033282	OPN	Opsin receptors	215
+19992	OPN5	opsin 5	Approved	TMEM13	"neuropsin, dJ402H5.1"	6p12.3	AY288419	NM_181744	OPN	Opsin receptors	215
+9990	RGR	retinal G protein coupled receptor	Approved		RP44	10q23.1	BC011349	NM_002921	OPN	Opsin receptors	215
+10450	RRH	retinal pigment epithelium-derived rhodopsin homolog	Approved		peropsin	4q25	AF012270	NM_006583	OPN	Opsin receptors	215
+4531	OXGR1	oxoglutarate receptor 1	Approved	"GPR99, GPR80"	"P2RY15, P2Y15, aKGR"	13q32.1	AF411109	NM_080818	OXGR	Oxoglutarate receptor	935
+8539	P2RY1	purinergic receptor P2Y1	Approved		"P2Y1, SARCC"	3q25.2	U42029	NM_002563	P2RY	P2Y receptors	213
+8540	P2RY11	purinergic receptor P2Y11	Approved		P2Y11	19p13.2	AF030335	NM_002566	P2RY	P2Y receptors	213
+18124	P2RY12	purinergic receptor P2Y12	Approved		"P2Y12, SP1999, HORK3"	3q25.1	AJ320495		P2RY	P2Y receptors	213
+4537	P2RY13	purinergic receptor P2Y13	Approved	"GPR94, GPR86"	"FKSG77, P2Y13"	3q25.1	AF295368	NM_023914	P2RY	P2Y receptors	213
+16442	P2RY14	purinergic receptor P2Y14	Approved	GPR105	KIAA0001	3q25.1	D13626	NM_014879	P2RY	P2Y receptors	213
+8541	P2RY2	purinergic receptor P2Y2	Approved		P2U	11q13.4	U07225	NM_176072	P2RY	P2Y receptors	213
+8542	P2RY4	pyrimidinergic receptor P2Y4	Approved		"NRU, P2Y4, UNR, P2P"	Xq13.1	X91852	NM_002565	P2RY	P2Y receptors	213
+8543	P2RY6	pyrimidinergic receptor P2Y6	Approved		P2Y6	11q13.4			P2RY	P2Y receptors	213
+339	APLNR	apelin receptor	Approved	AGTRL1	"FLJ90771, APJ, APJR"	11q12.1	U03642	NM_005161		Peptide receptors	220
+4267	GHSR	growth hormone secretagogue receptor	Approved			3q26.31	AY429112	NM_004122		Peptide receptors	220
+4510	KISS1R	KISS1 receptor	Approved	GPR54	"HOT7T175, AXOR12"	19p13.3	AB051065	NM_032551		Peptide receptors	220
+4495	MLNR	motilin receptor	Approved	GPR38		13q14.2	AF034632	NM_001507		Peptide receptors	220
+4464	PRLHR	prolactin releasing hormone receptor	Approved	GPR10	PrRPR	10q26.11	AB048946	NM_004248		Peptide receptors	220
+15565	QRFPR	pyroglutamylated RFamide peptide receptor	Approved	GPR103		4q27	AF411117	NM_198179		Peptide receptors	220
+12299	TRHR	thyrotropin releasing hormone receptor	Approved			8q23.1				Peptide receptors	220
+9582	PTAFR	platelet activating factor receptor	Approved			1p35.3	BC063000	NM_000952	PTAFR	Platelet activating factor receptor	208
+4524	PROKR1	prokineticin receptor 1	Approved	GPR73	"PKR1, ZAQ, GPR73a"	2p13.3	AF506287		PROKR	Prokineticin receptors	216
+15836	PROKR2	prokineticin receptor 2	Approved	"GPR73L1, KAL3"	"GPR73b, PKR2, GPRg2, dJ680N4.3"	20p12.3	AL121755	NM_144773	PROKR	Prokineticin receptors	216
+9591	PTGDR	prostaglandin D2 receptor	Approved		"DP, DP1, PTGDR1"	14q22.1	U31332	NM_000953		Prostaglandin receptors	207
+4502	PTGDR2	prostaglandin D2 receptor 2	Approved	GPR44	"CRTH2, CD294, DP2"	11q12.2	AF118265	NM_004778		Prostaglandin receptors	207
+9593	PTGER1	prostaglandin E receptor 1	Approved		EP1	19p13.1				Prostaglandin receptors	207
+9594	PTGER2	prostaglandin E receptor 2	Approved		EP2	14q22.1				Prostaglandin receptors	207
+9595	PTGER3	prostaglandin E receptor 3	Approved		EP3	1p31.1	X83863	NM_000957		Prostaglandin receptors	207
+9596	PTGER4	prostaglandin E receptor 4	Approved		EP4	5p13.1	L28175	NM_000958		Prostaglandin receptors	207
+9600	PTGFR	prostaglandin F receptor	Approved		FP	1p31.1	AF004021	NM_000959		Prostaglandin receptors	207
+9602	PTGIR	prostaglandin I2 receptor	Approved		IP	19q13.32				Prostaglandin receptors	207
+11608	TBXA2R	thromboxane A2 receptor	Approved			19p13.3				Prostaglandin receptors	207
+19718	RXFP1	relaxin family peptide receptor 1	Approved	LGR7	RXFPR1	4q32.1	AF190500	NM_021634	RXFP	Relaxin family peptide receptors	217
+17318	RXFP2	relaxin family peptide receptor 2	Approved	LGR8	"GREAT, GPR106, INSL3R, RXFPR2"	13q13.1	AF403384	NM_130806	RXFP	Relaxin family peptide receptors	217
+24883	RXFP3	relaxin family peptide receptor 3	Approved	RLN3R1	"SALPR, GPCR135, RXFPR3"	5p13.2	D88437	NM_016568	RXFP	Relaxin family peptide receptors	217
+14666	RXFP4	relaxin family peptide/INSL5 receptor 4	Approved	"GPR100, RLN3R2"	"GPCR142, RXFPR4"	1q22	AB065617	NM_181885	RXFP	Relaxin family peptide receptors	217
+11330	SSTR1	somatostatin receptor 1	Approved			14q13			SSTR	Somatostatin receptors	257
+11331	SSTR2	somatostatin receptor 2	Approved			17q25.1			SSTR	Somatostatin receptors	257
+11332	SSTR3	somatostatin receptor 3	Approved			22q13.1			SSTR	Somatostatin receptors	257
+11333	SSTR4	somatostatin receptor 4	Approved			20p11.21			SSTR	Somatostatin receptors	257
+11334	SSTR5	somatostatin receptor 5	Approved			16p13.3	D16827		SSTR	Somatostatin receptors	257
+3165	S1PR1	sphingosine-1-phosphate receptor 1	Approved	EDG1	"edg-1, D1S3362, CD363"	1p21.2	M31210	NM_001400	S1PR1	Sphingosine 1-phosphate receptors	206
+3169	S1PR2	sphingosine-1-phosphate receptor 2	Approved	"EDG5, DFNB68"	"Gpcr13, H218, AGR16"	19p13.2	AF034780	NM_004230	S1PR1	Sphingosine 1-phosphate receptors	206
+3167	S1PR3	sphingosine-1-phosphate receptor 3	Approved	EDG3	EDG-3	9q22.1	AF022139	NM_005226	S1PR1	Sphingosine 1-phosphate receptors	206
+3170	S1PR4	sphingosine-1-phosphate receptor 4	Approved	EDG6		19p13.3	AJ000479	NM_003775	S1PR1	Sphingosine 1-phosphate receptors	206
+14299	S1PR5	sphingosine-1-phosphate receptor 5	Approved	EDG8	Edg-8	19p13.2	AK074661	NM_030760	S1PR1	Sphingosine 1-phosphate receptors	206
+4542	SUCNR1	succinate receptor 1	Approved	GPR91		3q25.1	AF348078	NM_033050	SUCNR	Succinate receptor	936
+11526	TACR1	tachykinin receptor 1	Approved	TAC1R	"SPR, NK1R, NKIR"	2p12	M76675	NM_001058	TACR	Tachykinin receptors	258
+11527	TACR2	tachykinin receptor 2	Approved	"TAC2R, NKNAR"	"SKR, NK2R"	10q22.1			TACR	Tachykinin receptors	258
+11528	TACR3	tachykinin receptor 3	Approved		"NK3R, NKR, TAC3R, NK3"	4q24	M89473	NM_001059	TACR	Tachykinin receptors	258
+17734	TAAR1	trace amine associated receptor 1	Approved	TRAR1	"TAR1, TA1"	6q23.2	AY180374	NM_138327	TAAR	Trace amine receptors	188
+4514	TAAR2	trace amine associated receptor 2 (gene/pseudogene)	Approved	GPR58		6q23.2	AF112460	NM_014626	TAAR	Trace amine receptors	188
+4513	TAAR3P	"trace amine associated receptor 3, pseudogene"	Approved	"GPR57, TAAR3"		6q23.2	AF112461		TAAR	Trace amine receptors	188
+31924	TAAR4P	"trace amine associated receptor 4, pseudogene"	Approved			6q23.2	U88828	NG_004855.2	TAAR	Trace amine receptors	188
+30236	TAAR5	trace amine associated receptor 5	Approved		PNR	6q23.2	AF021818	NM_003967	TAAR	Trace amine receptors	188
+20978	TAAR6	trace amine associated receptor 6	Approved	TRAR4	TA4	6q23.2	AF380192	NM_175067	TAAR	Trace amine receptors	188
+31925	TAAR7P	"trace amine associated receptor 7, pseudogene"	Approved			6q23.2	AY803193	NG_004854.1	TAAR	Trace amine receptors	188
+14964	TAAR8	trace amine associated receptor 8	Approved	"GPR102, TRAR5"	"TA5, TAR5"	6q23.2	AF380193	NM_053278	TAAR	Trace amine receptors	188
+20977	TAAR9	trace amine associated receptor 9 (gene/pseudogene)	Approved	TRAR3	"TA3, TAR3"	6q23.2	AF380189	NM_175057	TAAR	Trace amine receptors	188
+1625	XCR1	X-C motif chemokine receptor 1	Approved	"GPR5, CCXCR1"		3p21.31			XCR	X-C motif chemokine receptors	1092

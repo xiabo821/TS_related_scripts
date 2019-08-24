@@ -1,0 +1,214 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+24086	A1CF	APOBEC1 complementation factor	Approved		ACF, ASP, ACF64, ACF65, APOBEC1CF	10q11.23	AF271790	NM_014576	RBM	RNA binding motif containing	725
+25189	ALKBH8	alkB homolog 8, tRNA methyltransferase	Approved		MGC10235, TRM9, TRMT9A	11q22.3	AF086489	NM_138775	RBM	RNA binding motif containing	725
+19071	ALYREF	Aly/REF export factor	Approved	THOC4	ALY, BEF, ALY/REF, REF	17q25.3	AF047002	NM_005782	RBM	RNA binding motif containing	725
+14273	BOLL	boule homolog, RNA binding protein	Approved		BOULE	2q33.1		NM_033030	RBM	RNA binding motif containing	725
+2549	CELF1	CUGBP Elav-like family member 1	Approved	CUGBP1	CUG-BP, hNab50, BRUNOL2, NAB50, CUGBP, NAPOR, EDEN-BP	11p11.2	U63289	NM_006560	RBM	RNA binding motif containing	725
+2550	CELF2	CUGBP Elav-like family member 2	Approved	CUGBP2	Etr-3, NAPOR-2, BRUNOL3	10p14	U69546		RBM	RNA binding motif containing	725
+11967	CELF3	CUGBP Elav-like family member 3	Approved	TNRC4	CAGH4, BRUNOL1, ERDA4, MGC57297	1q21.3	U80759	NM_007185	RBM	RNA binding motif containing	725
+14015	CELF4	CUGBP Elav-like family member 4	Approved	BRUNOL4		18q12.2	AF248651	NM_020180	RBM	RNA binding motif containing	725
+14058	CELF5	CUGBP Elav-like family member 5	Approved	BRUNOL5		19p13.3	AF248649	NM_021938	RBM	RNA binding motif containing	725
+14059	CELF6	CUGBP Elav-like family member 6	Approved	BRUNOL6		15q23	AF425606	NM_052840	RBM	RNA binding motif containing	725
+1982	CIRBP	cold inducible RNA binding protein	Approved		CIRP	19p13.3	D78134	NM_001280	RBM	RNA binding motif containing	725
+7880	CNOT4	CCR4-NOT transcription complex subunit 4	Approved	NOT4	CLONE243, NOT4H	7q33	AF180475	NM_013316	RBM	RNA binding motif containing	725
+21745	CPEB2	cytoplasmic polyadenylation element binding protein 2	Approved			4p15.32	AY247744	XM_059607	RBM	RNA binding motif containing	725
+21746	CPEB3	cytoplasmic polyadenylation element binding protein 3	Approved		KIAA0940	10q23.32	AB023157	NM_014912	RBM	RNA binding motif containing	725
+21747	CPEB4	cytoplasmic polyadenylation element binding protein 4	Approved		KIAA1673	5q35.2	BX538213	NM_030627	RBM	RNA binding motif containing	725
+13871	CPSF6	cleavage and polyadenylation specific factor 6	Approved		CFIM, HPBRII-4, HPBRII-7, CFIM68, CFIM72	12q15	X67336	NM_007007	RBM	RNA binding motif containing	725
+30098	CPSF7	cleavage and polyadenylation specific factor 7	Approved		FLJ12529, CFIM59	11q12.2		NM_024811	RBM	RNA binding motif containing	725
+2484	CSTF2	cleavage stimulation factor subunit 2	Approved		CstF-64	Xq22.1	BC017712	NM_001325	RBM	RNA binding motif containing	725
+17086	CSTF2T	cleavage stimulation factor subunit 2 tau variant	Approved		DKFZp434C1013, KIAA0689, CstF-64T, tauCstF-64	10q21.1	AB014589	NM_015235	RBM	RNA binding motif containing	725
+2682	DAZ1	deleted in azoospermia 1	Approved	DAZ	SPGY	Yq11.223		NM_004081	RBM	RNA binding motif containing	725
+15964	DAZ2	deleted in azoospermia 2	Approved		pDP1678, MGC126442	Yq11.223	AF248480	NM_020363	RBM	RNA binding motif containing	725
+15965	DAZ3	deleted in azoospermia 3	Approved			Yq11.23	AF248481	NM_020364	RBM	RNA binding motif containing	725
+15966	DAZ4	deleted in azoospermia 4	Approved			Yq11.23	AF248482	NM_001005375	RBM	RNA binding motif containing	725
+2683	DAZAP1	DAZ associated protein 1	Approved		MGC19907	19p13.3		NM_170711	RBM	RNA binding motif containing	725
+2685	DAZL	deleted in azoospermia like	Approved	DAZLA	DAZH, SPGYLA, MGC26406, DAZL1	3p24.3	BC027595	NM_001351	RBM	RNA binding motif containing	725
+25556	DNAJC17	DnaJ heat shock protein family (Hsp40) member C17	Approved		FLJ10634	15q15.1	AK001496	NM_018163	RBM	RNA binding motif containing	725
+23799	DND1	DND microRNA-mediated repression inhibitor 1	Approved		MGC34750, RBMS4	5q31.3	AY321065	NM_194249	RBM	RNA binding motif containing	725
+3280	EIF3B	eukaryotic translation initiation factor 3 subunit B	Approved	EIF3S9	PRT1, eIF3b	7p22.3	U62583		RBM	RNA binding motif containing	725
+3274	EIF3G	eukaryotic translation initiation factor 3 subunit G	Approved	EIF3S4	eIF3-delta, eIF3-p44, eIF3g	19p13.2	U96074		RBM	RNA binding motif containing	725
+3285	EIF4B	eukaryotic translation initiation factor 4B	Approved			12q13.13	X55733	NM_001417	RBM	RNA binding motif containing	725
+12741	EIF4H	eukaryotic translation initiation factor 4H	Approved	WBSCR1	WSCR1, KIAA0038	7q11.23		NM_022170	RBM	RNA binding motif containing	725
+3312	ELAVL1	ELAV like RNA binding protein 1	Approved	HUR	HuR, Hua, MelG	19p13.2	U38175	NM_001419	RBM	RNA binding motif containing	725
+3313	ELAVL2	ELAV like RNA binding protein 2	Approved		HuB, HEL-N1	9p21.3	BC030692	NM_004432	RBM	RNA binding motif containing	725
+3314	ELAVL3	ELAV like RNA binding protein 3	Approved		HUC, PLE21, DKFZp547J036, HUCL, MGC20653	19p13.2		NM_001420	RBM	RNA binding motif containing	725
+3315	ELAVL4	ELAV like RNA binding protein 4	Approved	HUD	PNEM	1p33-p32.3	AY033998	NM_021952	RBM	RNA binding motif containing	725
+26158	ELMOD3	ELMO domain containing 3	Approved	RBM29, RBED1, DFNB88	FLJ21977	2p11.2	AF258573	NM_032213	RBM	RNA binding motif containing	725
+25474	ENOX1	ecto-NOX disulfide-thiol exchanger 1	Approved		FLJ10094, PIG38, CNOX, cCNOX	13q14.11	EF432052	NM_017993	RBM	RNA binding motif containing	725
+2259	ENOX2	ecto-NOX disulfide-thiol exchanger 2	Approved	COVA1	APK1, tNOX	Xq26.1	AF207881	NM_182314	RBM	RNA binding motif containing	725
+25966	ESRP1	epithelial splicing regulatory protein 1	Approved	RBM35A	FLJ20171	8q22.1	AK000178	NM_017697	RBM	RNA binding motif containing	725
+26152	ESRP2	epithelial splicing regulatory protein 2	Approved	RBM35B	FLJ21918	16q22.1	AK025571	NM_024939	RBM	RNA binding motif containing	725
+3508	EWSR1	EWS RNA binding protein 1	Approved		EWS	22q12.2		NM_005243	RBM	RNA binding motif containing	725
+4010	FUS	FUS RNA binding protein	Approved	ALS6	TLS, FUS1, hnRNP-P2, HNRNPP2	16p11.2	AF071213	NM_004960	RBM	RNA binding motif containing	725
+30292	G3BP1	G3BP stress granule assembly factor 1	Approved		HDH-VIII, G3BP	5q33.1	BC006997	NM_005754	RBM	RNA binding motif containing	725
+30291	G3BP2	G3BP stress granule assembly factor 2	Approved		KIAA0660	4q21.1	AB014560	NM_012297	RBM	RNA binding motif containing	725
+4610	GRSF1	G-rich RNA sequence binding factor 1	Approved			4q13.3	BC040485	NM_002092	RBM	RNA binding motif containing	725
+5030	HNRNPA0	heterogeneous nuclear ribonucleoprotein A0	Approved	HNRPA0	hnRNPA0	5q31.2	U23803	NM_006805	RBM	RNA binding motif containing	725
+5031	HNRNPA1	heterogeneous nuclear ribonucleoprotein A1	Approved	HNRPA1	hnRNPA1, hnRNP-A1, ALS20	12q13.13	BC009600	NM_031157	RBM	RNA binding motif containing	725
+27067	HNRNPA1L2	heterogeneous nuclear ribonucleoprotein A1-like 2	Approved		LOC144983	13q14.3		NM_001011724	RBM	RNA binding motif containing	725
+5033	HNRNPA2B1	heterogeneous nuclear ribonucleoprotein A2/B1	Approved	HNRPA2B1		7p15.2	D28877	NM_002137	RBM	RNA binding motif containing	725
+24941	HNRNPA3	heterogeneous nuclear ribonucleoprotein A3	Approved	HNRPA3		2q31.2	AF517524	NM_194247	RBM	RNA binding motif containing	725
+5034	HNRNPAB	heterogeneous nuclear ribonucleoprotein A/B	Approved	HNRPAB	ABBP1, FLJ40338	5q35.3	AK097657, BC036708	NM_004499	RBM	RNA binding motif containing	725
+5035	HNRNPC	heterogeneous nuclear ribonucleoprotein C (C1/C2)	Approved	HNRPC	hnRNPC	14q11.2			RBM	RNA binding motif containing	725
+29295	HNRNPCL1	heterogeneous nuclear ribonucleoprotein C-like 1	Approved	HNRPCL1		1p36.21	BC002696	NM_001013631	RBM	RNA binding motif containing	725
+5036	HNRNPD	heterogeneous nuclear ribonucleoprotein D	Approved	AUF1, HNRPD		4q21.22	AF026126	NM_031370	RBM	RNA binding motif containing	725
+5037	HNRNPDL	heterogeneous nuclear ribonucleoprotein D like	Approved	HNRPDL	JKTBP, laAUF1	4q21.22	D89092	NM_005463	RBM	RNA binding motif containing	725
+5039	HNRNPF	heterogeneous nuclear ribonucleoprotein F	Approved	HNRPF		10q11.21			RBM	RNA binding motif containing	725
+5041	HNRNPH1	heterogeneous nuclear ribonucleoprotein H1	Approved	HNRPH1	hnRNPH	5q35.3	BC001348	NM_005520	RBM	RNA binding motif containing	725
+5042	HNRNPH2	heterogeneous nuclear ribonucleoprotein H2	Approved	HNRPH2	hnRNPH', FTP3, HNRPH'	Xq22.1	U01923	NM_019597	RBM	RNA binding motif containing	725
+5043	HNRNPH3	heterogeneous nuclear ribonucleoprotein H3	Approved	HNRPH3	2H9	10q21.3			RBM	RNA binding motif containing	725
+5045	HNRNPL	heterogeneous nuclear ribonucleoprotein L	Approved	HNRPL		19q13.2	X16135		RBM	RNA binding motif containing	725
+25127	HNRNPLL	heterogeneous nuclear ribonucleoprotein L like	Approved	HNRPLL		2p22.1	BC008217	NM_138394	RBM	RNA binding motif containing	725
+5046	HNRNPM	heterogeneous nuclear ribonucleoprotein M	Approved	NAGR1, HNRPM	HTGR1, HNRNPM4, HNRPM4, CEAR	19p13.2	L03532		RBM	RNA binding motif containing	725
+5047	HNRNPR	heterogeneous nuclear ribonucleoprotein R	Approved	HNRPR	hnRNP-R	1p36.12	AF000364	NM_005826	RBM	RNA binding motif containing	725
+5276	HTATSF1	HIV-1 Tat specific factor 1	Approved		TAT-SF1	Xq26.3	U76992	NM_014500	RBM	RNA binding motif containing	725
+28866	IGF2BP1	insulin like growth factor 2 mRNA binding protein 1	Approved		IMP-1	17q21.32	AF198254	NM_006546	RBM	RNA binding motif containing	725
+28867	IGF2BP2	insulin like growth factor 2 mRNA binding protein 2	Approved		IMP-2	3q27.2	BC021290	NM_006548	RBM	RNA binding motif containing	725
+28868	IGF2BP3	insulin like growth factor 2 mRNA binding protein 3	Approved		IMP-3, CT98, IMP3	7p15.3	AF117108	NM_006547	RBM	RNA binding motif containing	725
+24912	LARP7	La ribonucleoprotein domain family member 7	Approved		HDCMA18P, PIP7S, DKFZP564K112	4q25	AF068284	NM_016648	RBM	RNA binding motif containing	725
+13703	MAK16	MAK16 homolog	Approved	RBM13	MAK16L	8p12	AF251062	NM_032509	RBM	RNA binding motif containing	725
+7330	MSI1	musashi RNA binding protein 1	Approved			12q24.31	AB012851	NM_002442	RBM	RNA binding motif containing	725
+18585	MSI2	musashi RNA binding protein 2	Approved			17q22	BC001526		RBM	RNA binding motif containing	725
+25778	MTHFSD	methenyltetrahydrofolate synthetase domain containing	Approved		FLJ12998	16q24.1	AK023060	NM_022764	RBM	RNA binding motif containing	725
+17940	MYEF2	myelin expression factor 2	Approved		MEF-2, FLJ11213, KIAA1341, HsT18564	15q21.1	AB037762	NM_016132	RBM	RNA binding motif containing	725
+7659	NCBP2	nuclear cap binding protein subunit 2	Approved		NIP1, CBP20, Cbc2	3q29	D59253	NM_007362	RBM	RNA binding motif containing	725
+31795	NCBP2L	nuclear cap binding protein subunit 2 like	Approved			Xq22.3		NM_001348372	RBM	RNA binding motif containing	725
+7667	NCL	nucleolin	Approved		C23, Nsr1	2q37.1		NM_005381	RBM	RNA binding motif containing	725
+13974	NELFE	negative elongation factor complex member E	Approved	RDBP	RD, D6S45, NELF-E, RDP	6p21.33	M33230		RBM	RNA binding motif containing	725
+17838	NIFK	nucleolar protein interacting with the FHA domain of MKI67	Approved	MKI67IP	Nopp34, hNIFK	2q14.3	AB044971	NM_032390	RBM	RNA binding motif containing	725
+23387	NOL8	nucleolar protein 8	Approved	C9orf34	FLJ20736, Nop132	9q22.31	AB109030	NM_017948	RBM	RNA binding motif containing	725
+7871	NONO	non-POU domain containing octamer binding	Approved		NRB54, NMT55, P54NRB, P54, PPP1R114	Xq13.1	L14599	NM_007363	RBM	RNA binding motif containing	725
+8554	PABPC1	poly(A) binding protein cytoplasmic 1	Approved	PAB1, PABPC2	PABP1, PABPL1	8q22.3	Y00345	NM_002568	RBM	RNA binding motif containing	725
+15797	PABPC1L	poly(A) binding protein cytoplasmic 1 like	Approved	C20orf119	dJ1069P2.3, PABPC1L1, ePAB	20q13.12	AK026760		RBM	RNA binding motif containing	725
+27989	PABPC1L2A	poly(A) binding protein cytoplasmic 1 like 2A	Approved	RBM32A		Xq13.2	BC041956	NM_001012977	RBM	RNA binding motif containing	725
+31852	PABPC1L2B	poly(A) binding protein cytoplasmic 1 like 2B	Approved	RBM32B		Xq13.2		NM_001042506	RBM	RNA binding motif containing	725
+8556	PABPC3	poly(A) binding protein cytoplasmic 3	Approved	PABPL3	PABP3, tPABP	13q12.13	AF132026	NM_030979	RBM	RNA binding motif containing	725
+8557	PABPC4	poly(A) binding protein cytoplasmic 4	Approved		iPABP, APP-1	1p34.3	U33818	NM_001135653	RBM	RNA binding motif containing	725
+31955	PABPC4L	poly(A) binding protein cytoplasmic 4 like	Approved			4q28.3	AY672099	NM_001114734	RBM	RNA binding motif containing	725
+13629	PABPC5	poly(A) binding protein cytoplasmic 5	Approved		PABP5	Xq21.31	AJ278963	NM_080832	RBM	RNA binding motif containing	725
+8565	PABPN1	poly(A) binding protein nuclear 1	Approved	OPMD, PABP2	PAB2	14q11.2	AF026029	NM_004643	RBM	RNA binding motif containing	725
+37237	PABPN1L	poly(A) binding protein nuclear 1 like, cytoplasmic	Approved		ePABP2	16q24.3		NM_001080487	RBM	RNA binding motif containing	725
+23782	POLDIP3	DNA polymerase delta interacting protein 3	Approved		PDIP46, KIAA1649, SKAR, PDIP3	22q13.2		NM_032311	RBM	RNA binding motif containing	725
+9237	PPARGC1A	PPARG coactivator 1 alpha	Approved	PPARGC1	PGC1, PGC1A, PGC-1alpha	4p15.2	AF106698	NM_013261	RBM	RNA binding motif containing	725
+30022	PPARGC1B	PPARG coactivator 1 beta	Approved		PERC, PGC1B	5q32	AF468496	NM_133263	RBM	RNA binding motif containing	725
+9258	PPIE	peptidylprolyl isomerase E	Approved		CyP-33, MGC3736, MGC111222	1p34.2	AF042385	NM_006112	RBM	RNA binding motif containing	725
+15702	PPIL4	peptidylprolyl isomerase like 4	Approved			6q25.1			RBM	RNA binding motif containing	725
+30025	PPRC1	peroxisome proliferator-activated receptor gamma, coactivator-related 1	Approved		PRC, KIAA0595, MGC74642	10q24.32	AF325193	NM_015062	RBM	RNA binding motif containing	725
+20320	PSPC1	paraspeckle component 1	Approved		PSP1, FLJ10955	13q12.11	AK001817		RBM	RNA binding motif containing	725
+9583	PTBP1	polypyrimidine tract binding protein 1	Approved	PTB	HNRPI, HNRNP-I, PTB2, PTB3, PTB-1, PTB4, pPTB	19p13.3	X60648	NM_002819	RBM	RNA binding motif containing	725
+17662	PTBP2	polypyrimidine tract binding protein 2	Approved		brPTB, nPTB, PTB, PTBLP	1p21.3	AB051232		RBM	RNA binding motif containing	725
+10253	PTBP3	polypyrimidine tract binding protein 3	Approved	ROD1	DKFZp781I1117	9q32	AB023967		RBM	RNA binding motif containing	725
+17042	PUF60	poly(U) binding splicing factor 60	Approved		FIR, SIAHBP1, RoBPI	8q24.3	AF114818	NM_014281	RBM	RNA binding motif containing	725
+15921	RALY	RALY heterogeneous nuclear ribonucleoprotein	Approved		P542, HNRPCL2	20q11.22	AF148457		RBM	RNA binding motif containing	725
+27036	RALYL	RALY RNA binding protein like	Approved		HNRPCL3	8q21.2			RBM	RNA binding motif containing	725
+30296	RAVER1	ribonucleoprotein, PTB binding 1	Approved		KIAA1978	19p13.2		NM_133452	RBM	RNA binding motif containing	725
+25577	RAVER2	ribonucleoprotein, PTB binding 2	Approved		KIAA1579, FLJ10770	1p31.3	AB046799	NM_018211	RBM	RNA binding motif containing	725
+18222	RBFOX1	RNA binding fox-1 homolog 1	Approved		A2BP1, FOX-1, HRNBP1	16p13.3	AF107203	NM_145891	RBM	RNA binding motif containing	725
+9906	RBFOX2	RNA binding fox-1 homolog 2	Approved	RBM9	HNRBP2, FOX-2, HRNBP2	22q12.3	AL009266		RBM	RNA binding motif containing	725
+27097	RBFOX3	RNA binding fox-1 homolog 3	Approved		FOX-3, NeuN, HRNBP3	17q25.3		NM_001082575	RBM	RNA binding motif containing	725
+9896	RBM10	RNA binding motif protein 10	Approved		DXS8237E, KIAA0122, GPATC9, ZRANB5, GPATCH9, S1-1	Xp11.3	U35373	NM_005676	RBM	RNA binding motif containing	725
+9897	RBM11	RNA binding motif protein 11	Approved			21q11.2	AF130358	NM_144770	RBM	RNA binding motif containing	725
+9898	RBM12	RNA binding motif protein 12	Approved		HRIHFB2091, KIAA0765, SWAN	20q11.22	AJ289772	NM_006047	RBM	RNA binding motif containing	725
+32310	RBM12B	RNA binding motif protein 12B	Approved			8q22.1		NM_203390	RBM	RNA binding motif containing	725
+14219	RBM14	RNA binding motif protein 14	Approved		SIP, SYTIP1, COAA, DKFZp779J0927	11q13.2	AF080561	NM_006328	RBM	RNA binding motif containing	725
+14959	RBM15	RNA binding motif protein 15	Approved		OTT, OTT1	1p13.3	AF368063	NM_022768	RBM	RNA binding motif containing	725
+24303	RBM15B	RNA binding motif protein 15B	Approved		HUMAGCGB, OTT3	3p21.2	AL831838	NM_013286	RBM	RNA binding motif containing	725
+16944	RBM17	RNA binding motif protein 17	Approved		SPF45, MGC14439	10p15.1	AF083384	NM_032905	RBM	RNA binding motif containing	725
+28413	RBM18	RNA binding motif protein 18	Approved		MGC2734	9q33.2	AK057676	NM_033117	RBM	RNA binding motif containing	725
+29098	RBM19	RNA binding motif protein 19	Approved		DKFZp586F1023, KIAA0682, Mrd1	12q24.13-q24.21	AL117547	NM_016196	RBM	RNA binding motif containing	725
+27424	RBM20	RNA binding motif protein 20	Approved			10q25.2	BX648563	NM_001134363	RBM	RNA binding motif containing	725
+25503	RBM22	RNA binding motif protein 22	Approved		FLJ10290, ZC3H16, fSAP47, Cwc2	5q33.1	AL136933	NM_018047	RBM	RNA binding motif containing	725
+20155	RBM23	RNA binding motif protein 23	Approved	RNPC4	FLJ10482, CAPERbeta	14q11.2	AF275678		RBM	RNA binding motif containing	725
+21539	RBM24	RNA binding motif protein 24	Approved	RNPC6	FLJ30829, dJ259A10.1	6p22.3	BC040928	NM_153020	RBM	RNA binding motif containing	725
+23244	RBM25	RNA binding motif protein 25	Approved	RNPC7	S164, fSAP94, NET52, Snu71	14q24.2	BX647116	XM_027330	RBM	RNA binding motif containing	725
+20327	RBM26	RNA binding motif protein 26	Approved	C13orf10	PRO1777, SE70-2, FLJ20957, ZC3H17, ARRS2, PPP1R132	13q31.1	AF116667	NM_022118	RBM	RNA binding motif containing	725
+29243	RBM27	RNA binding motif protein 27	Approved		KIAA1311, ARRS1, Psc1, ZC3H20	5q32	AL833706	XM_291128	RBM	RNA binding motif containing	725
+21863	RBM28	RNA binding motif protein 28	Approved		FLJ10377	7q32.1	AK001239	NM_018077	RBM	RNA binding motif containing	725
+9900	RBM3	RNA binding motif protein 3	Approved		IS1-RNPL	Xp11.23	BC006825	NM_006743	RBM	RNA binding motif containing	725
+27223	RBM33	RNA binding motif protein 33	Approved	PRR8	DKFZp686F102, MGC20460, DKFZp434D1319	7q36.3	AL832196	NM_001008408	RBM	RNA binding motif containing	725
+28965	RBM34	RNA binding motif protein 34	Approved		KIAA0117	1q42.3		NM_015014	RBM	RNA binding motif containing	725
+15818	RBM38	RNA binding motif protein 38	Approved	RNPC1	HSRNASEB, SEB4D, seb4B, dJ800J21.2	20q13.31	X75314	NM_183425	RBM	RNA binding motif containing	725
+15923	RBM39	RNA binding motif protein 39	Approved	RNPC2	CC1.3, HCC1, CAPER, fSAP59, CAPERalpha	20q11.22	L10910	NM_184237	RBM	RNA binding motif containing	725
+9901	RBM4	RNA binding motif protein 4	Approved		LARK, RBM4A, ZCRB3A, ZCCHC21	11q13.2	U89505	NM_002896	RBM	RNA binding motif containing	725
+25617	RBM41	RNA binding motif protein 41	Approved		FLJ11016	Xq22.3	BC006986	NM_018301	RBM	RNA binding motif containing	725
+28117	RBM42	RNA binding motif protein 42	Approved		MGC10433	19q13.12	BC004204	NM_024321	RBM	RNA binding motif containing	725
+24790	RBM43	RNA binding motif protein 43	Approved	C2orf38	FLJ45645	2q23.3	AK127552	NM_198557	RBM	RNA binding motif containing	725
+24756	RBM44	RNA binding motif protein 44	Approved		FLJ40411	2q37.3	AK097730	NM_001080504	RBM	RNA binding motif containing	725
+24468	RBM45	RNA binding motif protein 45	Approved		DRB1, FLJ44612	2q31.2	AF526533	NM_152945	RBM	RNA binding motif containing	725
+28401	RBM46	RNA binding motif protein 46	Approved		MGC27016, CT68	4q32.1	BC028588	NM_144979	RBM	RNA binding motif containing	725
+30358	RBM47	RNA binding motif protein 47	Approved		FLJ20273, NET18	4p14	AK000280	NM_019027	RBM	RNA binding motif containing	725
+21785	RBM48	RNA binding motif protein 48	Approved	C7orf64	DKFZp564O0523, HSPC304	7q21.2	AL136619	NM_032120	RBM	RNA binding motif containing	725
+28842	RBM4B	RNA binding motif protein 4B	Approved	RBM30	MGC10871, ZCCHC15, RBM4L, ZCRB3B, ZCCHC21B	11q13	AK095158	NM_031492	RBM	RNA binding motif containing	725
+9902	RBM5	RNA binding motif protein 5	Approved		LUCA15, LUCA-15, H37	3p21.31	U23946	NM_005778	RBM	RNA binding motif containing	725
+9903	RBM6	RNA binding motif protein 6	Approved		DEF-3, 3G2, NY-LU-12, g16, DEF3	3p21.31	AF069517	NM_005777	RBM	RNA binding motif containing	725
+9904	RBM7	RNA binding motif protein 7	Approved			11q23.1-q23.2	AF156098	NM_016090	RBM	RNA binding motif containing	725
+9905	RBM8A	RNA binding motif protein 8A	Approved	RBM8	ZNRP, BOV-1A, BOV-1B, BOV-1C, RBM8B, Y14	1q21.1	AF127761	NM_005105	RBM	RNA binding motif containing	725
+9907	RBMS1	RNA binding motif single stranded interacting protein 1	Approved	C2orf12	SCR2, MSSP-1, MSSP-2, MSSP-3, YC1, HCC-4, DKFZp564H0764	2q24.2	D28482	NM_016836	RBM	RNA binding motif containing	725
+9909	RBMS2	RNA binding motif single stranded interacting protein 2	Approved		SCR3	12q13.3	D28483	NM_002898	RBM	RNA binding motif containing	725
+13427	RBMS3	RNA binding motif single stranded interacting protein 3	Approved			3p24.1	AF023259	NM_001003792	RBM	RNA binding motif containing	725
+9910	RBMX	RNA binding motif protein X-linked	Approved		RNMX, hnRNP-G, HNRNPG	Xq26.3		NM_002139	RBM	RNA binding motif containing	725
+24282	RBMX2	RNA binding motif protein X-linked 2	Approved		CGI-79, Snu17	Xq26.1	AF078865	NM_016024	RBM	RNA binding motif containing	725
+25073	RBMXL1	RBMX like 1	Approved		KAT3	1p22.2	BC012942	NM_019610	RBM	RNA binding motif containing	725
+17886	RBMXL2	RBMX like 2	Approved		HNRNPG-T, HNRPGT	11p15	AF069682	NM_014469	RBM	RNA binding motif containing	725
+26859	RBMXL3	RBMX like 3	Approved	CXorf55	FLJ40249	Xq23	AK097568	NM_001145346	RBM	RNA binding motif containing	725
+9912	RBMY1A1	RNA binding motif protein, Y-linked, family 1, member A1	Approved	RBM1, RBM2	YRRM1, YRRM2	Yq11.223		NM_005058	RBM	RNA binding motif containing	725
+23914	RBMY1B	RNA binding motif protein, Y-linked, family 1, member B	Approved			Yq11.223		NM_001006121	RBM	RNA binding motif containing	725
+9914	RBMY1C	RNA binding motif protein, Y-linked, family 1, member C	Approved			Yq11.23			RBM	RNA binding motif containing	725
+23915	RBMY1D	RNA binding motif protein, Y-linked, family 1, member D	Approved			Yq11.223		NM_001006120	RBM	RNA binding motif containing	725
+23916	RBMY1E	RNA binding motif protein, Y-linked, family 1, member E	Approved			Yq11.223		NM_001006118	RBM	RNA binding motif containing	725
+23974	RBMY1F	RNA binding motif protein, Y-linked, family 1, member F	Approved		MGC33094	Yq11.223	BC030018	NM_152585	RBM	RNA binding motif containing	725
+23917	RBMY1J	RNA binding motif protein, Y-linked, family 1, member J	Approved			Yq11.223		NM_001006117	RBM	RNA binding motif containing	725
+19097	RBPMS	RNA binding protein, mRNA processing factor	Approved		HERMES	8p12	D84110		RBM	RNA binding motif containing	725
+19098	RBPMS2	RNA binding protein, mRNA processing factor 2	Approved			15q22.31	AY369207		RBM	RNA binding motif containing	725
+19950	RDM1	RAD52 motif containing 1	Approved	RAD52B	MGC33977	17q12	AB080728	NM_145654	RBM	RNA binding motif containing	725
+18666	RNPC3	RNA binding region (RNP1, RRM) containing 3	Approved		KIAA1839, FLJ20008, RBM40, SNRNP65	1p21.1	AB058742, AY099329	NM_017619	RBM	RNA binding motif containing	725
+10080	RNPS1	RNA binding protein with serine rich domain 1	Approved			16p13.3	AF015608	NM_080594	RBM	RNA binding motif containing	725
+10520	SAFB	scaffold attachment factor B	Approved		HET, SAFB1	19p13.3	L43631		RBM	RNA binding motif containing	725
+21605	SAFB2	scaffold attachment factor B2	Approved		KIAA0138	19p13.3	D50928	NM_014649	RBM	RNA binding motif containing	725
+16860	SART3	spliceosome associated factor 3, U4/U6 recycling protein	Approved		KIAA0156, RP11-13G14, TIP110, p110	12q23.3	AB020880		RBM	RNA binding motif containing	725
+19304	SCAF4	SR-related CTD associated factor 4	Approved	SFRS15	KIAA1172, DKFZp434E098, SRA4	21q22.11	AB032998	XM_047889	RBM	RNA binding motif containing	725
+20959	SCAF8	SR-related CTD associated factor 8	Approved	RBM16	KIAA1116	6q25.2	AB029039	NM_014892	RBM	RNA binding motif containing	725
+29010	SETD1A	SET domain containing 1A	Approved		KIAA0339, Set1, KMT2F	16p11.2	AB002337	NM_014712	RBM	RNA binding motif containing	725
+29187	SETD1B	SET domain containing 1B	Approved		KIAA1076, Set1B, KMT2G	12q24.31	AB028999	XM_037523	RBM	RNA binding motif containing	725
+10771	SF3B4	splicing factor 3b subunit 4	Approved		SAP49, SF3b49, Hsh49	1q21.2	L35013	NM_005850	RBM	RNA binding motif containing	725
+10774	SFPQ	splicing factor proline and glutamine rich	Approved		PSF, PPP1R140	1p34.3	X70944	NM_005066	RBM	RNA binding motif containing	725
+20495	SLIRP	SRA stem-loop interacting RNA binding protein	Approved	C14orf156	DC50	14q24.3	AF253980	NM_031210	RBM	RNA binding motif containing	725
+20709	SLTM	SAFB like transcription modulator	Approved		Met, FLJ13213	15q22.1	BC046119	NM_024755	RBM	RNA binding motif containing	725
+30852	SNRNP35	small nuclear ribonucleoprotein U11/U12 subunit 35	Approved		U1SNRNPBP	12q24.31	BC054034	NM_007020	RBM	RNA binding motif containing	725
+11150	SNRNP70	small nuclear ribonucleoprotein U1 subunit 70	Approved	RNPU1Z, RPU1, SNRP70	U1-70K, Snp1	19q13.33		NM_003089	RBM	RNA binding motif containing	725
+11151	SNRPA	small nuclear ribonucleoprotein polypeptide A	Approved		U1A, U1-A, Mud1	19q13.1	X06347	NM_004596	RBM	RNA binding motif containing	725
+11155	SNRPB2	small nuclear ribonucleoprotein polypeptide B2	Approved		Msl1, U2B''	20p12.1		NM_003092	RBM	RNA binding motif containing	725
+17575	SPEN	spen family transcriptional repressor	Approved		KIAA0929, MINT, SHARP, RBM15C	1p36.21-p36.13		NM_015001	RBM	RNA binding motif containing	725
+17882	SREK1	splicing regulatory glutamic acid and lysine rich protein 1	Approved	SFRS12	DKFZp564B176, SRrp86, SRrp508	5q12.3	AF459094	NM_001077199	RBM	RNA binding motif containing	725
+10780	SRSF1	serine and arginine rich splicing factor 1	Approved	SFRS1	ASF, SF2, SRp30a, SF2p33, MGC5228	17q22		NM_006924	RBM	RNA binding motif containing	725
+16713	SRSF10	serine and arginine rich splicing factor 10	Approved	FUSIP2, FUSIP1, SFRS13A	TASR1, TASR2, SRp38, SRrp40, SFRS13, PPP1R149	1p36.11	AF047448	NM_006625	RBM	RNA binding motif containing	725
+10782	SRSF11	serine and arginine rich splicing factor 11	Approved	SFRS11	p54, NET2	1p31.1	M74002	NM_004768	RBM	RNA binding motif containing	725
+21220	SRSF12	serine and arginine rich splicing factor 12	Approved	SFRS13B	SRrp35, SFRS19	6q15	AF449428	NM_080743	RBM	RNA binding motif containing	725
+10783	SRSF2	serine and arginine rich splicing factor 2	Approved	SFRS2	SC-35, SC35, PR264, SFRS2A	17q25.2	M90104	NM_003016	RBM	RNA binding motif containing	725
+10785	SRSF3	serine and arginine rich splicing factor 3	Approved	SFRS3	SRp20	6p21.31-p21.2	L10838	NM_003017	RBM	RNA binding motif containing	725
+10786	SRSF4	serine and arginine rich splicing factor 4	Approved	SFRS4	SRP75	1p35.3	BC002781	NM_005626	RBM	RNA binding motif containing	725
+10787	SRSF5	serine and arginine rich splicing factor 5	Approved	SFRS5	SRP40, HRS	14q24	AF020307	NM_001039465	RBM	RNA binding motif containing	725
+10788	SRSF6	serine and arginine rich splicing factor 6	Approved	SFRS6	SRP55, B52	20q13.11	U30883	NM_006275	RBM	RNA binding motif containing	725
+10789	SRSF7	serine and arginine rich splicing factor 7	Approved	SFRS7	9G8, ZCRB2, HSSG1, AAG3, RBM37, ZCCHC20	2p22.1	L41887	NM_001031684	RBM	RNA binding motif containing	725
+10791	SRSF9	serine and arginine rich splicing factor 9	Approved	SFRS9	SRp30c	12q24.31	U30825	NM_003769	RBM	RNA binding motif containing	725
+11316	SSB	Sjogren syndrome antigen B	Approved		LARP3, La, La/SSB	2q31.1		NM_003142	RBM	RNA binding motif containing	725
+16918	SYNCRIP	synaptotagmin binding cytoplasmic RNA interacting protein	Approved		NSAP1, GRY-RBP, dJ3J17.2, HNRPQ1, hnRNP-Q, HNRNPQ	6q14.3	AF037448	NM_006372	RBM	RNA binding motif containing	725
+11547	TAF15	TATA-box binding protein associated factor 15	Approved	TAF2N	hTAFII68, RBP56, Npl3	17q12	U51334	NM_139215	RBM	RNA binding motif containing	725
+11571	TARDBP	TAR DNA binding protein	Approved		TDP-43, ALS10	1p36.22	U23731	NM_007375	RBM	RNA binding motif containing	725
+25316	TDRD10	tudor domain containing 10	Approved		DKFZp434M202	1q21.3	AL713777	NM_182499	RBM	RNA binding motif containing	725
+11802	TIA1	TIA1 cytotoxic granule associated RNA binding protein	Approved			2p13.3		NM_022037	RBM	RNA binding motif containing	725
+11804	TIAL1	TIA1 cytotoxic granule associated RNA binding protein like 1	Approved		TIAR	10q26.11	AL833106	NM_022333, NM_003252	RBM	RNA binding motif containing	725
+16645	TRA2A	transformer 2 alpha homolog	Approved		htra-2-alpha, tra2a, AWMS1	7p15.3	U53209	NM_013293	RBM	RNA binding motif containing	725
+10781	TRA2B	transformer 2 beta homolog	Approved	SFRS10	Htra2-beta, PPP1R156	3q27.2	AF057159	NM_004593	RBM	RNA binding motif containing	725
+30813	TRNAU1AP	tRNA selenocysteine 1 associated protein 1	Approved	TRSPAP1	SECP43, FLJ20503	1p35.3		NM_017846	RBM	RNA binding motif containing	725
+26184	TUT1	terminal uridylyl transferase 1, U6 snRNA-specific	Approved	RBM21	FLJ22347, FLJ22267, FLJ21850, PAPD2, TUTase, TENT1	11q12.3	BC005013	NM_022830	RBM	RNA binding motif containing	725
+12453	U2AF1	U2 small nuclear RNA auxiliary factor 1	Approved	U2AFBP	U2AF35, RNU2AF1, RN	21q22.3	BC001177	NM_006758	RBM	RNA binding motif containing	725
+23020	U2AF1L4	U2 small nuclear RNA auxiliary factor 1 like 4	Approved	U2AF1L3	MGC33901, U2af26	19q13.13	BC021186, AY569437	NM_144987	RBM	RNA binding motif containing	725
+23156	U2AF2	U2 small nuclear RNA auxiliary factor 2	Approved		U2AF65	19q13.43	BC008740	NM_007279	RBM	RNA binding motif containing	725
+30855	U2SURP	U2 snRNP associated SURP domain containing	Approved		fSAPa, SR140	3q23	BK000564	NM_001080415	RBM	RNA binding motif containing	725
+19683	UHMK1	U2AF homology motif kinase 1	Approved		KIS, Kist	1q23.3	BC026046	NM_175866	RBM	RNA binding motif containing	725
+29620	ZCRB1	zinc finger CCHC-type and RNA binding motif containing 1	Approved		MADP-1, MADP1, RBM36, ZCCHC19, SNRNP31	12q12	BC022543	NM_033114	RBM	RNA binding motif containing	725
+17894	ZNF638	zinc finger protein 638	Approved	ZFML	NP220, MGC26130, Zfp638	2p13.3-p13.2	D83032	NM_014497	RBM	RNA binding motif containing	725
+12456	ZRSR2P1	ZRSR2 pseudogene 1	Approved	U2AFBPL, U2AF1P, U2AF1L1, ZRSR1	U2AF1-RS1, U2AF1RS1, ZC3H21	5q22.2	D49676	NG_005419	RBM	RNA binding motif containing	725
+23019	ZRSR2	zinc finger CCCH-type, RNA binding motif and serine/arginine rich 2	Approved	U2AF1L2	U2AF1-RS2, URP, ZC3H22	Xp22.2	BC050451	NM_005089	RBM	RNA binding motif containing	725

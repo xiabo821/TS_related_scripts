@@ -1,0 +1,248 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+12027	TRA	T cell receptor alpha locus	Approved	TCRA, TRA@		14q11.2		NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12146	TRAV8-1	T cell receptor alpha variable 8-1	Approved			14q11.2	AE000659	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12076	TRAJ45	T cell receptor alpha joining 45	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12077	TRAJ46	T cell receptor alpha joining 46	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12078	TRAJ47	T cell receptor alpha joining 47	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12079	TRAJ48	T cell receptor alpha joining 48	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12080	TRAJ49	T cell receptor alpha joining 49	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12082	TRAJ50	T cell receptor alpha joining 50	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12083	TRAJ51	T cell receptor alpha joining 51 (pseudogene)	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12084	TRAJ52	T cell receptor alpha joining 52	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12085	TRAJ53	T cell receptor alpha joining 53	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12086	TRAJ54	T cell receptor alpha joining 54	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12147	TRAV8-2	T cell receptor alpha variable 8-2	Approved			14q11.2	AE000659	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12087	TRAJ55	T cell receptor alpha joining 55 (pseudogene)	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12088	TRAJ56	T cell receptor alpha joining 56	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12089	TRAJ57	T cell receptor alpha joining 57	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12090	TRAJ58	T cell receptor alpha joining 58 (non-functional)	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12091	TRAJ59	T cell receptor alpha joining 59 (non-functional)	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12093	TRAJ60	T cell receptor alpha joining 60 (pseudogene)	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12094	TRAJ61	T cell receptor alpha joining 61 (non-functional)	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12029	TRAC	T cell receptor alpha constant	Approved			14q11.2	X02592	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12148	TRAV8-3	T cell receptor alpha variable 8-3	Approved			14q11.2	AE000659	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12149	TRAV8-4	T cell receptor alpha variable 8-4	Approved			14q11.2	AE000659	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12150	TRAV8-5	T cell receptor alpha variable 8-5 (pseudogene)	Approved		TRAV85, TCRAV8S5	14q11.2	AE000659	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12151	TRAV8-6	T cell receptor alpha variable 8-6	Approved			14q11.2	X02850	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12152	TRAV8-7	T cell receptor alpha variable 8-7 (non-functional)	Approved			14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12153	TRAV9-1	T cell receptor alpha variable 9-1	Approved			14q11.2	AE000659	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12154	TRAV9-2	T cell receptor alpha variable 9-2	Approved			14q11.2	AE000659	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12103	TRAV10	T cell receptor alpha variable 10	Approved		TCRAV10S1, TCRAV24S1	14q11.2	AE000659	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12101	TRAV1-1	T cell receptor alpha variable 1-1	Approved		TRAV11, TCRAV1S1, TCRAV7S1	14q11.2	AE000658	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12104	TRAV11	T cell receptor alpha variable 11 (pseudogene)	Approved			14q11.2	AE000659	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12105	TRAV12-1	T cell receptor alpha variable 12-1	Approved			14q11.2	AE000659	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12106	TRAV12-2	T cell receptor alpha variable 12-2	Approved			14q11.2	AE000659	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12107	TRAV12-3	T cell receptor alpha variable 12-3	Approved		TRAV123, TCRAV2S2, TCRAV12S3	14q11.2	X06193	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12108	TRAV13-1	T cell receptor alpha variable 13-1	Approved			14q11.2	AE000659	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12109	TRAV13-2	T cell receptor alpha variable 13-2	Approved			14q11.2	AE000659	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12110	TRAV14DV4	T cell receptor alpha variable 14/delta variable 4	Approved		TRAV14/DV4, TCRAV6S1-hDV104S1, hADV14S1	14q11.2	M21626	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12111	TRAV15	T cell receptor alpha variable 15 (pseudogene)	Approved		TCRAV15S1	14q11.2	AE000659	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12112	TRAV16	T cell receptor alpha variable 16	Approved		TCRAV16S1, TCRAV9S1	14q11.2	AE000659	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12113	TRAV17	T cell receptor alpha variable 17	Approved		TCRAV17S1, TCRAV3S1	14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12102	TRAV1-2	T cell receptor alpha variable 1-2	Approved			14q11.2	AE000658	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12114	TRAV18	T cell receptor alpha variable 18	Approved		TCRAV18S1	14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12115	TRAV19	T cell receptor alpha variable 19	Approved		TCRAV12S1, TCRAV19S1	14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12117	TRAV20	T cell receptor alpha variable 20	Approved			14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12118	TRAV21	T cell receptor alpha variable 21	Approved			14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12119	TRAV22	T cell receptor alpha variable 22	Approved		TCRAV13S1, TCRAV22S1	14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12120	TRAV23DV6	T cell receptor alpha variable 23/delta variable 6	Approved		TRAV23/DV6, TCRAV17S1	14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12121	TRAV24	T cell receptor alpha variable 24	Approved			14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12122	TRAV25	T cell receptor alpha variable 25	Approved		TCRAV25S1, TCRAV32S1	14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12123	TRAV26-1	T cell receptor alpha variable 26-1	Approved			14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12124	TRAV26-2	T cell receptor alpha variable 26-2	Approved		TRAV262, TCRAV4S1, TCRAV26S2	14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12116	TRAV2	T cell receptor alpha variable 2	Approved			14q11.2	AE000658	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12125	TRAV27	T cell receptor alpha variable 27	Approved			14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12126	TRAV28	T cell receptor alpha variable 28 (pseudogene)	Approved			14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12127	TRAV29DV5	T cell receptor alpha variable 29/delta variable 5 (gene/pseudogene)	Approved		TRAV29/DV5	14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12129	TRAV30	T cell receptor alpha variable 30	Approved			14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12130	TRAV31	T cell receptor alpha variable 31 (pseudogene)	Approved		TCRAV31S1	14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12131	TRAV32	T cell receptor alpha variable 32 (pseudogene)	Approved			14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12132	TRAV33	T cell receptor alpha variable 33 (pseudogene)	Approved		C14orf12	14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12133	TRAV34	T cell receptor alpha variable 34	Approved		TCRAV26S1, TCRAV34S1	14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12134	TRAV35	T cell receptor alpha variable 35	Approved		TCRAV25S1, TCRAV35S1	14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12135	TRAV36DV7	T cell receptor alpha variable 36/delta variable 7	Approved		TRAV36/DV7	14q11.2	AE000660	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12128	TRAV3	T cell receptor alpha variable 3 (gene/pseudogene)	Approved			14q11.2	AE000658	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12136	TRAV37	T cell receptor alpha variable 37 (pseudogene)	Approved			14q11.2	AE000661	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12137	TRAV38-1	T cell receptor alpha variable 38-1	Approved		TRAV381, TCRAV14S2, TCRAV38S1	14q11.2	AE000661	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12138	TRAV38-2DV8	T cell receptor alpha variable 38-2/delta variable 8	Approved		TRAV38-2/DV8, TRAV382DV8, TCRAV14S1, hADV38S2	14q11.2	AE000661	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12139	TRAV39	T cell receptor alpha variable 39	Approved		TCRAV27S1, TCRAV39S1	14q11.2	AE000661	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12141	TRAV40	T cell receptor alpha variable 40	Approved		TCRAV31S1, TCRAV40S1	14q11.2	X73521	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12142	TRAV41	T cell receptor alpha variable 41	Approved		TCRAV19S1, TCRAV41S1	14q11.2	AE000661	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12037	TRAJ1	T cell receptor alpha joining 1 (non-functional)	Approved			14q11.2	X02884	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12048	TRAJ2	T cell receptor alpha joining 2 (non-functional)	Approved			14q11.2	X02884	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12059	TRAJ3	T cell receptor alpha joining 3	Approved			14q11.2	X02884	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12070	TRAJ4	T cell receptor alpha joining 4	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12140	TRAV4	T cell receptor alpha variable 4	Approved		TCRAV20S1, TCRAV4S1	14q11.2	AE000658	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12081	TRAJ5	T cell receptor alpha joining 5	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12092	TRAJ6	T cell receptor alpha joining 6	Approved			14q11.2	M16747	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12095	TRAJ7	T cell receptor alpha joining 7	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12096	TRAJ8	T cell receptor alpha joining 8	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12097	TRAJ9	T cell receptor alpha joining 9	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12038	TRAJ10	T cell receptor alpha joining 10	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12039	TRAJ11	T cell receptor alpha joining 11	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12040	TRAJ12	T cell receptor alpha joining 12	Approved			14q11.2	X02885	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12041	TRAJ13	T cell receptor alpha joining 13	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12042	TRAJ14	T cell receptor alpha joining 14	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12143	TRAV5	T cell receptor alpha variable 5	Approved			14q11.2	AE000659	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12043	TRAJ15	T cell receptor alpha joining 15	Approved			14q11.2	X05775	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12044	TRAJ16	T cell receptor alpha joining 16	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12045	TRAJ17	T cell receptor alpha joining 17	Approved			14q11.2	X05773	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12046	TRAJ18	T cell receptor alpha joining 18	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12047	TRAJ19	T cell receptor alpha joining 19 (non-functional)	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12049	TRAJ20	T cell receptor alpha joining 20	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12050	TRAJ21	T cell receptor alpha joining 21	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12051	TRAJ22	T cell receptor alpha joining 22	Approved			14q11.2	X02886	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12052	TRAJ23	T cell receptor alpha joining 23	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12053	TRAJ24	T cell receptor alpha joining 24	Approved			14q11.2	X02887	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12144	TRAV6	T cell receptor alpha variable 6	Approved	TCRAV5S1		14q11.2	Z49060	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12054	TRAJ25	T cell receptor alpha joining 25 (non-functional)	Approved			14q11.2	X02888	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12055	TRAJ26	T cell receptor alpha joining 26	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12056	TRAJ27	T cell receptor alpha joining 27	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12057	TRAJ28	T cell receptor alpha joining 28	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12058	TRAJ29	T cell receptor alpha joining 29	Approved			14q11.2	X02889	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12060	TRAJ30	T cell receptor alpha joining 30	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12061	TRAJ31	T cell receptor alpha joining 31	Approved			14q11.2	M14905	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12062	TRAJ32	T cell receptor alpha joining 32	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12063	TRAJ33	T cell receptor alpha joining 33	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12064	TRAJ34	T cell receptor alpha joining 34	Approved			14q11.2	M35622	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12145	TRAV7	T cell receptor alpha variable 7	Approved			14q11.2	AE000659	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12065	TRAJ35	T cell receptor alpha joining 35 (non-functional)	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12066	TRAJ36	T cell receptor alpha joining 36	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12067	TRAJ37	T cell receptor alpha joining 37	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12068	TRAJ38	T cell receptor alpha joining 38	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12069	TRAJ39	T cell receptor alpha joining 39	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12071	TRAJ40	T cell receptor alpha joining 40	Approved			14q11.2	M35620	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12072	TRAJ41	T cell receptor alpha joining 41	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12073	TRAJ42	T cell receptor alpha joining 42	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12074	TRAJ43	T cell receptor alpha joining 43	Approved			14q11.2	M94081	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12075	TRAJ44	T cell receptor alpha joining 44	Approved			14q11.2	M35619	NG_001332	TRA	T cell receptor alpha locus at 14q11.2	371
+12197	TRBV20OR9-2	T cell receptor beta variable 20/OR9-2 (non-functional)	Approved	TCRBV2O	TRBV20/OR9-2, TCRBV20S2, TCRBV2S2O	9p13.3	L05149	NG_001337		T cell receptor beta (TRB) orphons	373
+12199	TRBV21OR9-2	T cell receptor beta variable 21/OR9-2 (pseudogene)	Approved	TCRBV10O	TRBV21/OR9-2, TCRBV10S2O, TCRBV21S2	9p13.3	L05151	NG_001337		T cell receptor beta (TRB) orphons	373
+18740	TRBV22OR9-2	T cell receptor beta variable 22/OR9-2 (pseudogene)	Approved		TCRBV29S2O, TCRBV22S2, TRBV22/OR9-2	9p13.3	AF029308	NG_001337		T cell receptor beta (TRB) orphons	373
+12202	TRBV23OR9-2	T cell receptor beta variable 23/OR9-2 (pseudogene)	Approved		TRBV23/OR9-2, TRBV23OR92, TCRBV19S2O, TCRBV23S2	9p13.3	L27615	NG_001337		T cell receptor beta (TRB) orphons	373
+12204	TRBV24OR9-2	T cell receptor beta variable 24/OR9-2 (pseudogene)	Approved	TCRBV15O	TRBV24/OR9-2, TCRBV15S2O, TCRBV24S2	9p13.3	L05153	NG_001337		T cell receptor beta (TRB) orphons	373
+12206	TRBV25OR9-2	T cell receptor beta variable 25/OR9-2 (pseudogene)	Approved	TCRBV11O	TRBV25/OR9-2, TCRBV11S2O, TCRBV25S2	9p13.3	L05152	NG_001337		T cell receptor beta (TRB) orphons	373
+15485	TRBV26OR9-2	T cell receptor beta variable 26/OR9-2 (pseudogene)	Approved		TRBV26/OR9-2, TCRBV28S2O, TCRBV28S2, TCRBV26S2	9p13.3	AF029308	NG_001337		T cell receptor beta (TRB) orphons	373
+12211	TRBV29OR9-2	T cell receptor beta variable 29/OR9-2 (non-functional)	Approved	TCRBV4O	TRBV29/OR9-2, TCRBV29S2, TCRBV4S2O	9p13.3	L05150	NG_001337		T cell receptor beta (TRB) orphons	373
+18741	TRBVAOR9-2	T cell receptor beta variable A/OR9-2 (pseudogene)	Approved		TRBVA/OR9-2, TCRBV33S2	9p21	AF029308			T cell receptor beta (TRB) orphons	373
+12155	TRB	T cell receptor beta locus	Approved	TCRB, TRB@		7q34	U66059	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12219	TRBV5-2	T cell receptor beta variable 5-2 (pseudogene)	Approved		TRBV52, TCRBV31S1, TCRBV5S2P	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12220	TRBV5-3	T cell receptor beta variable 5-3 (non-functional)	Approved		TRBV53, TCRBV5S3, TCRBV5S5P	7q34	X61439	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12221	TRBV5-4	T cell receptor beta variable 5-4	Approved		TRBV54, TCRBV5S4, TCRBV5S6A3N2T	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12222	TRBV5-5	T cell receptor beta variable 5-5	Approved		TRBV55, TCRBV5S3A2T, TCRBV5S5	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12223	TRBV5-6	T cell receptor beta variable 5-6	Approved		TRBV56, TCRBV5S2, TCRBV5S6	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12224	TRBV5-7	T cell receptor beta variable 5-7 (non-functional)	Approved		TRBV57, TCRBV5S7, TCRBV5S7P	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12225	TRBV5-8	T cell receptor beta variable 5-8	Approved		TRBV58, TCRBV5S4A2T, TCRBV5S8	7q34 alternate reference locus	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12226	TRBV6-1	T cell receptor beta variable 6-1	Approved		TRBV61, TCRBV13S3, TCRBV6S1	7q34	X61446	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12227	TRBV6-2	T cell receptor beta variable 6-2 (gene/pseudogene)	Approved		TRBV62, TCRBV13S2A1T, TCRBV6S2	7q34	X61445	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12228	TRBV6-3	T cell receptor beta variable 6-3	Approved		TRBV63, TCRBV13S9/13S2A1T, TCRBV6S3	7q34 alternate reference locus	U07978, KI270803	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12176	TRBV1	T cell receptor beta variable 1 (pseudogene)	Approved		TCRBV27S1P, TCRBV1S1P	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12229	TRBV6-4	T cell receptor beta variable 6-4	Approved		TRBV64, TCRBV13S5, TCRBV6S4	7q34	X61653	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12230	TRBV6-5	T cell receptor beta variable 6-5	Approved		TRBV65, TCRBV13S1, TCRBV6S5	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12231	TRBV6-6	T cell receptor beta variable 6-6	Approved		TRBV66, TCRBV13S6A2T, TCRBV6S6	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12232	TRBV6-7	T cell receptor beta variable 6-7 (non-functional)	Approved		TRBV67, TCRBV13S8P, TCRBV6S7	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12233	TRBV6-8	T cell receptor beta variable 6-8	Approved		TRBV68, TCRBV13S7P, TCRBV6S8	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12234	TRBV6-9	T cell receptor beta variable 6-9	Approved		TRBV69, TCRBV13S4, TCRBV6S9	7q34 alternate reference locus	X61447, KI270803	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12235	TRBV7-1	T cell receptor beta variable 7-1 (non-functional)	Approved		TRBV71, TCRBV6S7P, TCRBV7S1	7q34	X61444	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12236	TRBV7-2	T cell receptor beta variable 7-2	Approved		TRBV72, TCRBV6S5A1N1, TCRBV7S2	7q34	X61442	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12237	TRBV7-3	T cell receptor beta variable 7-3	Approved		TRBV73, TCRBV6S1A1N1, TCRBV7S3	7q34	X61440	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12238	TRBV7-4	T cell receptor beta variable 7-4 (gene/pseudogene)	Approved		TRBV74, TCRBV6S8A2T, TCRBV7S4	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12195	TRBV2	T cell receptor beta variable 2	Approved		TCRBV22S1A2N1T, TCRBV2S1	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12239	TRBV7-5	T cell receptor beta variable 7-5 (pseudogene)	Approved		TRBV75, TCRBV6S9P, TCRBV7S5	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12240	TRBV7-6	T cell receptor beta variable 7-6	Approved		TRBV76, TCRBV6S3A1N1T, TCRBV7S6	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12241	TRBV7-7	T cell receptor beta variable 7-7	Approved		TRBV77, TCRBV6S6A2T, TCRBV7S7	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12242	TRBV7-8	T cell receptor beta variable 7-8	Approved		TRBV78, TCRBV6S2A1N1T, TCRBV7S8	7q34 alternate reference locus	M11953, KI270803	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12243	TRBV7-9	T cell receptor beta variable 7-9	Approved		TRBV79, TCRBV6S4A1, TCRBV7S9	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12244	TRBV8-1	T cell receptor beta variable 8-1 (pseudogene)	Approved		TRBV81, TCRBV30S1P, TCRBV8S1P	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12245	TRBV8-2	T cell receptor beta variable 8-2 (pseudogene)	Approved		TRBV82, TCRBV32S1P	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12246	TRBV9	T cell receptor beta variable 9	Approved		TCRBV1S1A1N1, TCRBV9S1	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12177	TRBV10-1	T cell receptor beta variable 10-1(gene/pseudogene)	Approved		TRBV101, TCRBV10S1, TCRBV12S2A1T, TCRBV12S2	7q34	U17050	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12178	TRBV10-2	T cell receptor beta variable 10-2	Approved		TRBV102, TCRBV10S2, TCRBV12S3	7q34	U17049	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12212	TRBV3-1	T cell receptor beta variable 3-1	Approved		TRBV31, TCRBV3S1, TCRBV9S1A1T	7q34	U07977	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12179	TRBV10-3	T cell receptor beta variable 10-3	Approved		TRBV103, TCRBV10S3, TCRBV12S1A1N2	7q34	U03115	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12180	TRBV11-1	T cell receptor beta variable 11-1	Approved		TRBV111, TCRBV11S1, TCRBV21S1	7q34	M33233	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12181	TRBV11-2	T cell receptor beta variable 11-2	Approved		TRBV112, TCRBV11S2, TCRBV21S3A2N2T	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12182	TRBV11-3	T cell receptor beta variable 11-3	Approved		TRBV113, TCRBV11S3, TCRBV21S2A2	7q34	M33234	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12183	TRBV12-1	T cell receptor beta variable 12-1 (pseudogene)	Approved		TRBV121, TCRBV12S1, TCRBV8S4P	7q34	X07224	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12184	TRBV12-2	T cell receptor beta variable 12-2 (pseudogene)	Approved		TRBV122, TCRBV12S2, TCRBV8S5P	7q34	X06936	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12185	TRBV12-3	T cell receptor beta variable 12-3	Approved		TRBV123, TCRBV12S3, TCRBV8S1	7q34	X07192	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12186	TRBV12-4	T cell receptor beta variable 12-4	Approved		TRBV124, TCRBV12S4, TCRBV8S2A1T	7q34	K02546	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12187	TRBV12-5	T cell receptor beta variable 12-5	Approved		TRBV125, TCRBV12S5, TCRBV8S3	7q34	X07223	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12188	TRBV13	T cell receptor beta variable 13	Approved		TCRBV13S1, TCRBV23S1A2T	7q34	U03115	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12213	TRBV3-2	T cell receptor beta variable 3-2 (pseudogene)	Approved		TRBV32, TCRBV3S2, TCRBV9S2A2PT	7q34 alternate reference locus	L36092, KI270803	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12189	TRBV14	T cell receptor beta variable 14	Approved		TCRBV14S1, TCRBV16S1A1N1	7q34	X06154	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12190	TRBV15	T cell receptor beta variable 15	Approved		TCRBV15S1, TCRBV24S1A3T	7q34	U03115	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12191	TRBV16	T cell receptor beta variable 16 (gene/pseudogene)	Approved		TCRBV16S1, TCRBV25S1A2PT	7q34	L26231	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12192	TRBV17	T cell receptor beta variable 17 (non-functional)	Approved		TCRBV17S1, TCRBV26S1P	7q34	U03115	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12193	TRBV18	T cell receptor beta variable 18	Approved		TCRBV18S1	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12194	TRBV19	T cell receptor beta variable 19	Approved		TCRBV17S1A1T, TCRBV19S1	7q34	U48260	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12196	TRBV20-1	T cell receptor beta variable 20-1	Approved		TRBV201, TCRBV20S1, TCRBV2S1	7q34	M11955	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12198	TRBV21-1	T cell receptor beta variable 21-1 (pseudogene)	Approved		TRBV211, TCRBV10S1P, TCRBV21S1	7q34	L27608	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12200	TRBV22-1	T cell receptor beta variable 22-1 (pseudogene)	Approved	TRBV22	TCRBV22S1, TCRBV29S1P	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12201	TRBV23-1	T cell receptor beta variable 23-1 (non-functional)	Approved		TRBV231, TCRBV19S1P, TCRBV23S1	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12215	TRBV4-1	T cell receptor beta variable 4-1	Approved		TRBV41, TCRBV4S1, TCRBV7S1A1N2T, BV07S1J2.7	7q34	U07977	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12203	TRBV24-1	T cell receptor beta variable 24-1	Approved		TRBV241, TCRBV15S1, TCRBV24S1	7q34	M11951	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12205	TRBV25-1	T cell receptor beta variable 25-1	Approved		TRBV251, TCRBV11S1A1T, TCRBV25S1	7q34	L27610	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12207	TRBV26	T cell receptor beta variable 26 (pseudogene)	Approved		TCRBV26S1, TCRBV28S1P	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12208	TRBV27	T cell receptor beta variable 27	Approved		TCRBV14S1, TCRBV27S1	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12209	TRBV28	T cell receptor beta variable 28	Approved		TCRBV28S1, TCRBV3S1	7q34	U08314	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12210	TRBV29-1	T cell receptor beta variable 29-1	Approved		TRBV291, TCRBV29S1, TCRBV4S1A1T	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12214	TRBV30	T cell receptor beta variable 30 (gene/pseudogene)	Approved		TCRBV20S1A1N2, TCRBV30S1	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12247	TRBVA	T cell receptor beta variable A (pseudogene)	Approved		TCRBV33S1	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12248	TRBVB	T cell receptor beta variable B (pseudogene)	Approved		TCRBV34S1	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12158	TRBD1	T cell receptor beta diversity 1	Approved		TCRBD1	7q34	X00936	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+50321	TRBVC	T cell receptor beta variable C	Approved			7q34	L36092		TRB	T cell receptor beta locus at 7q34	372
+12216	TRBV4-2	T cell receptor beta variable 4-2	Approved		TRBV42, TCRBV4S2, TCRBV7S3A2T	7q34	U07975	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12159	TRBD2	T cell receptor beta diversity 2	Approved		TCRBD2	7q34	X02987	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12162	TRBJ1-1	T cell receptor beta joining 1-1	Approved		TRBJ11, TCRBJ1S1	7q34	X00936	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12163	TRBJ1-2	T cell receptor beta joining 1-2	Approved		TRBJ12, TCRBJ1S2	7q34	X00936	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12164	TRBJ1-3	T cell receptor beta joining 1-3	Approved		TRBJ13, TCRBJ1S3	7q34	M14158	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12165	TRBJ1-4	T cell receptor beta joining 1-4	Approved		TRBJ14, TCRBJ1S4	7q34	M14158	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12166	TRBJ1-5	T cell receptor beta joining 1-5	Approved		TRBJ15, TCRBJ1S5	7q34	M14158	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12167	TRBJ1-6	T cell receptor beta joining 1-6	Approved		TRBJ16, TCRBJ1S6	7q34	M14158	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12168	TRBJ2-1	T cell receptor beta joining 2-1	Approved		TRBJ21, TCRBJ2S1	7q34	X02987	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12169	TRBJ2-2	T cell receptor beta joining 2-2	Approved		TRBJ22, TCRBJ2S2	7q34	X02987	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12170	TRBJ2-2P	T cell receptor beta joining 2-2P (non-functional)	Approved		TRBJ22P	7q34	X02987	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12217	TRBV4-3	T cell receptor beta variable 4-3	Approved		TRBV43, TCRBV4S3, TCRBV7S2A1N4T	7q34 alternate reference locus	U07978, KI270803	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12171	TRBJ2-3	T cell receptor beta joining 2-3	Approved		TRBJ23, TCRBJ2S3	7q34	X02987	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12172	TRBJ2-4	T cell receptor beta joining 2-4	Approved		TRBJ24, TCRBJ2S4	7q34	X02987	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12173	TRBJ2-5	T cell receptor beta joining 2-5	Approved		TRBJ25, TCRBJ2S5	7q34	X02987	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12174	TRBJ2-6	T cell receptor beta joining 2-6	Approved		TRBJ26, TCRBJ2S6	7q34	X02987	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12175	TRBJ2-7	T cell receptor beta joining 2-7	Approved		TRBJ27, TCRBJ2S7	7q34	M14159	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12156	TRBC1	T cell receptor beta constant 1	Approved		TCRBC1, BV05S1J2.2	7q34	M12887	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12157	TRBC2	T cell receptor beta constant 2	Approved		TCRBC2	7q34	M12888	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12218	TRBV5-1	T cell receptor beta variable 5-1	Approved		TRBV51, TCRBV5S1, TCRBV5S1A1T	7q34	L36092	NG_001333	TRB	T cell receptor beta locus at 7q34	372
+12252	TRD	T cell receptor delta locus	Approved	TCRD, TRD@	TCRDV1	14q11.2	M21624	NG_001332	TRD	T cell receptor delta locus at 14q11.2	374
+12259	TRDJ3	T cell receptor delta joining 3	Approved			14q11.2	M21508	NG_001332	TRD	T cell receptor delta locus at 14q11.2	374
+12260	TRDJ4	T cell receptor delta joining 4	Approved			14q11.2		NG_001332	TRD	T cell receptor delta locus at 14q11.2	374
+12253	TRDC	T cell receptor delta constant	Approved			14q11.2	M22148	NG_001332	TRD	T cell receptor delta locus at 14q11.2	374
+12262	TRDV1	T cell receptor delta variable 1	Approved		hDV101S1	14q11.2	M22198	NG_001332	TRD	T cell receptor delta locus at 14q11.2	374
+12263	TRDV2	T cell receptor delta variable 2	Approved		hDV102S1, MGC117421	14q11.2	X15207	NG_001332	TRD	T cell receptor delta locus at 14q11.2	374
+12264	TRDV3	T cell receptor delta variable 3	Approved		hDV103S1	14q11.2	M23326	NG_001332	TRD	T cell receptor delta locus at 14q11.2	374
+12254	TRDD1	T cell receptor delta diversity 1	Approved			14q11.2	M23325	NG_001332	TRD	T cell receptor delta locus at 14q11.2	374
+12255	TRDD2	T cell receptor delta diversity 2	Approved			14q11.2	M22153	NG_001332	TRD	T cell receptor delta locus at 14q11.2	374
+12256	TRDD3	T cell receptor delta diversity 3	Approved			14q11.2	M22152	NG_001332	TRD	T cell receptor delta locus at 14q11.2	374
+12257	TRDJ1	T cell receptor delta joining 1	Approved			14q11.2	M20289	NG_001332	TRD	T cell receptor delta locus at 14q11.2	374
+12258	TRDJ2	T cell receptor delta joining 2	Approved			14q11.2	L36386	NG_001332	TRD	T cell receptor delta locus at 14q11.2	374
+12271	TRG	T cell receptor gamma locus	Approved	TCRG, TRG@		7p14		NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12294	TRGV8	T cell receptor gamma variable 8	Approved	TCRGV8	V1S8	7p14.1	M13434	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12295	TRGV9	T cell receptor gamma variable 9	Approved	TCRGV9	V2	7p14.1	X07205	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12285	TRGV10	T cell receptor gamma variable 10 (non-functional)	Approved	TCRGV10	V3P	7p14.1	X07206	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12286	TRGV11	T cell receptor gamma variable 11 (non-functional)	Approved	TCRGV11	V4P	7p14.1	Y11227	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12296	TRGVA	T cell receptor gamma variable A (pseudogene)	Approved	TCRGVA	V5P	7p14.1	X07208	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12297	TRGVB	T cell receptor gamma variable B (pseudogene)	Approved	TCRGVB	V6P	7p14.1	X07209	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12277	TRGJ1	T cell receptor gamma joining 1	Approved	TCRGJ1	J1	7p14.1	M12960	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12278	TRGJ2	T cell receptor gamma joining 2	Approved	TCRGJ2	J2	7p14.1	M12961	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12279	TRGJP	T cell receptor gamma joining P	Approved	TCRGJP	JP	7p14.1	M12950	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12280	TRGJP1	T cell receptor gamma joining P1	Approved	TCRGJP1	JP1	7p14.1	X08084	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12284	TRGV1	T cell receptor gamma variable 1 (non-functional)	Approved	TCRGV1	V1S1P	7p14.1	M12949	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12281	TRGJP2	T cell receptor gamma joining P2	Approved	TCRGJP2	JP2	7p14.1	M16016	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12275	TRGC1	T cell receptor gamma constant 1	Approved	TCRGC1	C1	7p14.1	M14996	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12276	TRGC2	T cell receptor gamma constant 2	Approved	TCRGC2	TRGC2(2X), TRGC2(3X)	7p14.1	M15002	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12287	TRGV2	T cell receptor gamma variable 2	Approved	TCRGV2	VIS2	7p14.1	M13429	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12288	TRGV3	T cell receptor gamma variable 3	Approved	TCRGV3	V1S3	7p14.1	M13430	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12289	TRGV4	T cell receptor gamma variable 4	Approved	TCRGV4	V1S4	7p14.1	X15272	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12290	TRGV5	T cell receptor gamma variable 5	Approved	TCRGV5	V1S5	7p14.1	M36286	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12291	TRGV5P	T cell receptor gamma variable 5P (pseudogene)	Approved	TCRGV5P	V1S5P	7p14.1	M13431	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12292	TRGV6	T cell receptor gamma variable 6 (pseudogene)	Approved	TCRGV6	V1S5P, TCRGV5P	7p14.1	M13432	NG_001336	TRG	T cell receptor gamma locus at 7p14	375
+12293	TRGV7	T cell receptor gamma variable 7 (pseudogene)	Approved	TCRGV7	V1S7P	7p14.1	M13433	NG_001336	TRG	T cell receptor gamma locus at 7p14	375

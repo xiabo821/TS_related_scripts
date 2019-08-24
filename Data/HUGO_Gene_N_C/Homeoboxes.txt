@@ -1,0 +1,345 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+14253	CERS1	ceramide synthase 1	Approved	LASS1	LAG1, UOG1	19p13.11	AF105005		CERS	CERS class homeoboxes	530
+14076	CERS2	ceramide synthase 2	Approved	LASS2	SP260, FLJ10243	1q21.3	AF189062	NM_022075	CERS	CERS class homeoboxes	530
+23752	CERS3	ceramide synthase 3	Approved	LASS3	MGC27091	15q26.3		NM_178842	CERS	CERS class homeoboxes	530
+23747	CERS4	ceramide synthase 4	Approved	LASS4	FLJ12089, Trh1	19p13.2		NM_024552	CERS	CERS class homeoboxes	530
+23749	CERS5	ceramide synthase 5	Approved	LASS5	Trh4, MGC45411, FLJ25304	12q13.12		NM_147190	CERS	CERS class homeoboxes	530
+23826	CERS6	ceramide synthase 6	Approved	LASS6		2q24.3	BX393696	NM_203463	CERS	CERS class homeoboxes	530
+2557	CUX1	cut like homeobox 1	Approved	CUTL1	CDP, CDP1, CUX, CUT, Clox, CDP/Cut, CDP/Cux, Cux/CDP, CASP, GOLIM6	7q22.1	M74099	NM_001913		CUT class homeoboxes and pseudogenes	527
+19347	CUX2	cut like homeobox 2	Approved	CUTL2	KIAA0293, CDP2	12q24.11-q24.12	AB006631	NM_015267		CUT class homeoboxes and pseudogenes	527
+33694	CUX2P1	cut like homeobox 2 pseudogene 1	Approved			10p14				CUT class homeoboxes and pseudogenes	527
+33695	CUX2P2	cut like homeobox 2 pseudogene 2	Approved			4q32.1				CUT class homeoboxes and pseudogenes	527
+8138	ONECUT1	one cut homeobox 1	Approved	HNF6, HNF6A	HNF-6	15q21.3	U77975			CUT class homeoboxes and pseudogenes	527
+8139	ONECUT2	one cut homeobox 2	Approved		OC-2	18q21.31	Y18198			CUT class homeoboxes and pseudogenes	527
+13399	ONECUT3	one cut homeobox 3	Approved			19p13.3	AC004755			CUT class homeoboxes and pseudogenes	527
+10541	SATB1	SATB homeobox 1	Approved			3p24.3		NM_001131010		CUT class homeoboxes and pseudogenes	527
+21637	SATB2	SATB homeobox 2	Approved		KIAA1034, FLJ21474	2q33.1	AB028957	NM_015265		CUT class homeoboxes and pseudogenes	527
+26137	HMBOX1	homeobox containing 1	Approved		HNF1LA, PBHNF, FLJ21616, HOT1	8p21.1-p12	AY522342	NM_024567		HNF class homeoboxes	524
+11621	HNF1A	HNF1 homeobox A	Approved	MODY3, TCF1	HNF1, LFB1	12q24.31	M57732	NM_000545		HNF class homeoboxes	524
+11630	HNF1B	HNF1 homeobox B	Approved	TCF2	LFB3, VHNF1, HNF1beta, MODY5	17q12	BC017714	NM_000458		HNF class homeoboxes	524
+1805	CDX1	caudal type homeobox 1	Approved			5q32	U51095	NM_001804		HOXL subclass homeoboxes	518
+1806	CDX2	caudal type homeobox 2	Approved	CDX3		13q12.2	Y13709			HOXL subclass homeoboxes	518
+1808	CDX4	caudal type homeobox 4	Approved			Xq13.2	AF029879	NM_005193		HOXL subclass homeoboxes	518
+3506	EVX1	even-skipped homeobox 1	Approved			7p15.2				HOXL subclass homeoboxes	518
+3507	EVX2	even-skipped homeobox 2	Approved			2q31.1				HOXL subclass homeoboxes	518
+4185	GBX1	gastrulation brain homeobox 1	Approved			7q36.1	L11239			HOXL subclass homeoboxes	518
+4186	GBX2	gastrulation brain homeobox 2	Approved			2q37.2	AF118452	NM_001485		HOXL subclass homeoboxes	518
+20374	GSX1	GS homeobox 1	Approved	GSH1	Gsh-1	13q12.2	AB044157	NM_145657		HOXL subclass homeoboxes	518
+24959	GSX2	GS homeobox 2	Approved		Gsh2	4q12		NM_133267		HOXL subclass homeoboxes	518
+5099	HOXA1	homeobox A1	Approved	HOX1F, HOX1		7p15.2				HOXL subclass homeoboxes	518
+5100	HOXA10	homeobox A10	Approved	HOX1H, HOX1		7p15.2				HOXL subclass homeoboxes	518
+5101	HOXA11	homeobox A11	Approved	HOX1I, HOX1		7p15.2				HOXL subclass homeoboxes	518
+5102	HOXA13	homeobox A13	Approved	HOX1J, HOX1		7p15.2				HOXL subclass homeoboxes	518
+5103	HOXA2	homeobox A2	Approved	HOX1K		7p15.2				HOXL subclass homeoboxes	518
+5104	HOXA3	homeobox A3	Approved	HOX1E, HOX1		7p15.2				HOXL subclass homeoboxes	518
+5105	HOXA4	homeobox A4	Approved	HOX1D, HOX1		7p15.2				HOXL subclass homeoboxes	518
+5106	HOXA5	homeobox A5	Approved	HOX1C, HOX1		7p15.2				HOXL subclass homeoboxes	518
+5107	HOXA6	homeobox A6	Approved	HOX1B, HOX1		7p15.2				HOXL subclass homeoboxes	518
+5108	HOXA7	homeobox A7	Approved	HOX1A, HOX1		7p15.2				HOXL subclass homeoboxes	518
+5109	HOXA9	homeobox A9	Approved	HOX1G, HOX1		7p15.2				HOXL subclass homeoboxes	518
+5111	HOXB1	homeobox B1	Approved	HOX2, HOX2I		17q21.32				HOXL subclass homeoboxes	518
+5112	HOXB13	homeobox B13	Approved			17q21.32	U57052	NM_006361		HOXL subclass homeoboxes	518
+5113	HOXB2	homeobox B2	Approved	HOX2, HOX2H		17q21.32				HOXL subclass homeoboxes	518
+5114	HOXB3	homeobox B3	Approved	HOX2, HOX2G		17q21.32				HOXL subclass homeoboxes	518
+5115	HOXB4	homeobox B4	Approved	HOX2, HOX2F		17q21.32				HOXL subclass homeoboxes	518
+5116	HOXB5	homeobox B5	Approved	HOX2, HOX2A		17q21.32				HOXL subclass homeoboxes	518
+5117	HOXB6	homeobox B6	Approved	HOX2, HOX2B		17q21.32				HOXL subclass homeoboxes	518
+5118	HOXB7	homeobox B7	Approved	HOX2, HOX2C		17q21.32				HOXL subclass homeoboxes	518
+5119	HOXB8	homeobox B8	Approved	HOX2, HOX2D		17q21.32				HOXL subclass homeoboxes	518
+5120	HOXB9	homeobox B9	Approved	HOX2E, HOX2		17q21.32				HOXL subclass homeoboxes	518
+5122	HOXC10	homeobox C10	Approved	HOX3I		12q13.13				HOXL subclass homeoboxes	518
+5123	HOXC11	homeobox C11	Approved	HOX3H		12q13.13				HOXL subclass homeoboxes	518
+5124	HOXC12	homeobox C12	Approved	HOX3, HOX3F, HOC3F		12q13.13	AF328962	NM_173860		HOXL subclass homeoboxes	518
+5125	HOXC13	homeobox C13	Approved	HOX3, HOX3G		12q13.13				HOXL subclass homeoboxes	518
+5126	HOXC4	homeobox C4	Approved	HOX3, HOX3E		12q13.13				HOXL subclass homeoboxes	518
+5127	HOXC5	homeobox C5	Approved	HOX3D, HOX3		12q13.13				HOXL subclass homeoboxes	518
+5128	HOXC6	homeobox C6	Approved	HOX3C, HOX3		12q13.13				HOXL subclass homeoboxes	518
+5129	HOXC8	homeobox C8	Approved	HOX3, HOX3A		12q13.13	X99680			HOXL subclass homeoboxes	518
+5130	HOXC9	homeobox C9	Approved	HOX3, HOX3B		12q13.13				HOXL subclass homeoboxes	518
+5132	HOXD1	homeobox D1	Approved	HOX4, HOX4G		2q31.1				HOXL subclass homeoboxes	518
+5133	HOXD10	homeobox D10	Approved	HOX4, HOX4D		2q31.1				HOXL subclass homeoboxes	518
+5134	HOXD11	homeobox D11	Approved	HOX4, HOX4F		2q31.1				HOXL subclass homeoboxes	518
+5135	HOXD12	homeobox D12	Approved	HOX4H		2q31.1		NM_021193		HOXL subclass homeoboxes	518
+5136	HOXD13	homeobox D13	Approved	HOX4I, SPD		2q31.1	AF005219			HOXL subclass homeoboxes	518
+5137	HOXD3	homeobox D3	Approved	HOX4A, HOX4, HOX1D		2q31.1				HOXL subclass homeoboxes	518
+5138	HOXD4	homeobox D4	Approved	HOX4B, HOX4		2q31.1				HOXL subclass homeoboxes	518
+5139	HOXD8	homeobox D8	Approved	HOX4, HOX4E		2q31.1				HOXL subclass homeoboxes	518
+5140	HOXD9	homeobox D9	Approved	HOX4C, HOX4		2q31.1				HOXL subclass homeoboxes	518
+7013	MEOX1	mesenchyme homeobox 1	Approved		MOX1	17q21.31				HOXL subclass homeoboxes	518
+7014	MEOX2	mesenchyme homeobox 2	Approved	GAX	MOX2	7p21.2		NM_005924		HOXL subclass homeoboxes	518
+4979	MNX1	motor neuron and pancreas homeobox 1	Approved	HLXB9	HB9, HOXHB9, SCRA1	7q36.3	AF107457			HOXL subclass homeoboxes	518
+6107	PDX1	pancreatic and duodenal homeobox 1	Approved	IPF1	IDX-1, STF-1, PDX-1, MODY4	13q12.2	AF035260	NM_000209		HOXL subclass homeoboxes	518
+6132	ISL1	ISL LIM homeobox 1	Approved		Isl-1, ISLET1	5q11.1	BC031213	NM_002202		LIM class homeoboxes	522
+18524	ISL2	ISL LIM homeobox 2	Approved		FLJ10160	15q24.3	AK001022			LIM class homeoboxes	522
+6593	LHX1	LIM homeobox 1	Approved		LIM-1, LIM1	17q12	U14755	NM_005568		LIM class homeoboxes	522
+6594	LHX2	LIM homeobox 2	Approved		LH-2, hLhx2	9q33.3	U11701			LIM class homeoboxes	522
+6595	LHX3	LIM homeobox 3	Approved			9q34.3	AF096169			LIM class homeoboxes	522
+21734	LHX4	LIM homeobox 4	Approved		Gsh4	1q25.2	AB037683	NM_033343		LIM class homeoboxes	522
+14216	LHX5	LIM homeobox 5	Approved			12q24.13	AF291181	NM_022363		LIM class homeoboxes	522
+21735	LHX6	LIM homeobox 6	Approved		LHX6.1	9q33.2	AB031041	NM_014368		LIM class homeoboxes	522
+28838	LHX8	LIM homeobox 8	Approved		Lhx7	1p31.1	AB050476	NM_001001933		LIM class homeoboxes	522
+14222	LHX9	LIM homeobox 9	Approved			1q31.3	AJ277915	NM_020204		LIM class homeoboxes	522
+6653	LMX1A	LIM homeobox transcription factor 1 alpha	Approved	LMX1	LMX1.1	1q23.3	AY078391	NM_177398		LIM class homeoboxes	522
+6654	LMX1B	LIM homeobox transcription factor 1 beta	Approved	NPS1		9q33.3	U77457			LIM class homeoboxes	522
+953	BARHL1	BarH like homeobox 1	Approved			9q34.13	AJ237816			NKL subclass homeoboxes and pseudogenes	519
+954	BARHL2	BarH like homeobox 2	Approved			1p22.2	AJ251753			NKL subclass homeoboxes and pseudogenes	519
+955	BARX1	BARX homeobox 1	Approved			9q22.32				NKL subclass homeoboxes and pseudogenes	519
+956	BARX2	BARX homeobox 2	Approved			11q24.3	AF031924	NM_003658		NKL subclass homeoboxes and pseudogenes	519
+20450	BSX	brain specific homeobox	Approved		BSX1	11q24.1		NM_001098169		NKL subclass homeoboxes and pseudogenes	519
+33185	DBX1	developing brain homeobox 1	Approved			11p15.1		NM_001029865		NKL subclass homeoboxes and pseudogenes	519
+33186	DBX2	developing brain homeobox 2	Approved		FLJ16139	12q12		NM_001004329		NKL subclass homeoboxes and pseudogenes	519
+2914	DLX1	distal-less homeobox 1	Approved			2q31.1	BC013010	NM_178120		NKL subclass homeoboxes and pseudogenes	519
+2915	DLX2	distal-less homeobox 2	Approved		TES-1	2q31.1	U51003			NKL subclass homeoboxes and pseudogenes	519
+2916	DLX3	distal-less homeobox 3	Approved			17q21.33				NKL subclass homeoboxes and pseudogenes	519
+2917	DLX4	distal-less homeobox 4	Approved	DLX7, DLX9	DLX8, BP1	17q21.33				NKL subclass homeoboxes and pseudogenes	519
+2918	DLX5	distal-less homeobox 5	Approved			7q21.3				NKL subclass homeoboxes and pseudogenes	519
+2919	DLX6	distal-less homeobox 6	Approved			7q21.3		NM_005222		NKL subclass homeoboxes and pseudogenes	519
+3340	EMX1	empty spiracles homeobox 1	Approved			2p13.2	X68879			NKL subclass homeoboxes and pseudogenes	519
+3341	EMX2	empty spiracles homeobox 2	Approved			10q26.11	AF301598	NM_004098		NKL subclass homeoboxes and pseudogenes	519
+3342	EN1	engrailed homeobox 1	Approved			2q14.2	L12699			NKL subclass homeoboxes and pseudogenes	519
+3343	EN2	engrailed homeobox 2	Approved			7q36.3		NM_001427		NKL subclass homeoboxes and pseudogenes	519
+4901	HHEX	hematopoietically expressed homeobox	Approved	PRHX	HEX, HOX11L-PEN	10q23.33	Z21533			NKL subclass homeoboxes and pseudogenes	519
+4978	HLX	H2.0 like homeobox	Approved	HLX1	HB24	1q41	BC033808	NM_021958		NKL subclass homeoboxes and pseudogenes	519
+5017	HMX1	H6 family homeobox 1	Approved		H6, NKX5-3	4p16.1	M99587	NM_018942		NKL subclass homeoboxes and pseudogenes	519
+5018	HMX2	H6 family homeobox 2	Approved		NKX5-2	10q26.13		XM_370580		NKL subclass homeoboxes and pseudogenes	519
+5019	HMX3	H6 family homeobox 3	Approved		NKX5-1	10q26.13		XM_291716		NKL subclass homeoboxes and pseudogenes	519
+16960	LBX1	ladybird homeobox 1	Approved		LBX1H, HPX6	10q24.32	X90828	NM_006562		NKL subclass homeoboxes and pseudogenes	519
+15525	LBX2	ladybird homeobox 2	Approved			2p13.1	AC005041	NM_001009812		NKL subclass homeoboxes and pseudogenes	519
+7391	MSX1	msh homeobox 1	Approved	HOX7	HYD1, OFC5	4p16.2	M97676			NKL subclass homeoboxes and pseudogenes	519
+7392	MSX2	msh homeobox 2	Approved	PFM1	CRS2, FPP, HOX8, MSH, PFM	5q35.2	D26145			NKL subclass homeoboxes and pseudogenes	519
+24976	MSX2P1	msh homeobox 2 pseudogene 1	Approved	MSX2P	HSHPX5, HPX5	17q22		NR_002307		NKL subclass homeoboxes and pseudogenes	519
+20857	NANOG	Nanog homeobox	Approved		FLJ12581, FLJ40451	12p13.31	AB093576	NM_024865		NKL subclass homeoboxes and pseudogenes	519
+23099	NANOGP1	Nanog homeobox pseudogene 1	Approved		NANOG2	12p13.31	AY455283			NKL subclass homeoboxes and pseudogenes	519
+23108	NANOGP10	Nanog homeobox pseudogene 10	Approved			Xp11.3		NG_004096		NKL subclass homeoboxes and pseudogenes	519
+32941	NANOGP11	Nanog homeobox pseudogene 11	Approved			6q25.2		NG_004103		NKL subclass homeoboxes and pseudogenes	519
+23100	NANOGP2	Nanog homeobox pseudogene 2	Approved		NANOGP4	2q36.1		NG_004099		NKL subclass homeoboxes and pseudogenes	519
+23101	NANOGP3	Nanog homeobox pseudogene 3	Approved			6p12.1		NG_004095		NKL subclass homeoboxes and pseudogenes	519
+23102	NANOGP4	Nanog homeobox pseudogene 4	Approved		NANOGP2	7p14.3	AY455277	NG_004100		NKL subclass homeoboxes and pseudogenes	519
+23103	NANOGP5	Nanog homeobox pseudogene 5	Approved			9q31.1		NG_004101		NKL subclass homeoboxes and pseudogenes	519
+23104	NANOGP6	Nanog homeobox pseudogene 6	Approved			10q24.2		NG_004102		NKL subclass homeoboxes and pseudogenes	519
+23105	NANOGP7	Nanog homeobox pseudogene 7	Approved		NANOGP3	14q32.12	AY455278	NG_004098		NKL subclass homeoboxes and pseudogenes	519
+23106	NANOGP8	Nanog homeobox retrogene P8	Approved			15q14		NG_004093		NKL subclass homeoboxes and pseudogenes	519
+23107	NANOGP9	Nanog homeobox pseudogene 9	Approved			Xq12		NG_004097		NKL subclass homeoboxes and pseudogenes	519
+24975	NKX1-1	NK1 homeobox 1	Approved		HSPX153, SAX2	4p16.3	X76978	XM_926341		NKL subclass homeoboxes and pseudogenes	519
+31652	NKX1-2	NK1 homeobox 2	Approved	C10orf121	bB238F13.2	10q26.13	CN285329	XM_372331		NKL subclass homeoboxes and pseudogenes	519
+11825	NKX2-1	NK2 homeobox 1	Approved	NKX2A, BCH, TITF1	TTF-1, TTF1	14q13.3		NM_003317		NKL subclass homeoboxes and pseudogenes	519
+7835	NKX2-2	NK2 homeobox 2	Approved	NKX2B	NKX2.2	20p11.22	AF019415			NKL subclass homeoboxes and pseudogenes	519
+7836	NKX2-3	NK2 homeobox 3	Approved	NKX2C	NKX2.3, CSX3, NKX4-3	10q24.2				NKL subclass homeoboxes and pseudogenes	519
+7837	NKX2-4	NK2 homeobox 4	Approved	NKX2D	NKX2.4	20p11.22				NKL subclass homeoboxes and pseudogenes	519
+2488	NKX2-5	NK2 homeobox 5	Approved	CSX, NKX2E	CSX1, NKX2.5, NKX4-1	5q34	AB021133			NKL subclass homeoboxes and pseudogenes	519
+32940	NKX2-6	NK2 homeobox 6	Approved		CSX2, NKX4-2	8p21.2	CN272646	NM_001136271		NKL subclass homeoboxes and pseudogenes	519
+16364	NKX2-8	NK2 homeobox 8	Approved	NKX2H	NKX2.8, Nkx2-9	14q13.3				NKL subclass homeoboxes and pseudogenes	519
+7838	NKX3-1	NK3 homeobox 1	Approved	NKX3A	NKX3.1, BAPX2	8p21.2				NKL subclass homeoboxes and pseudogenes	519
+951	NKX3-2	NK3 homeobox 2	Approved	BAPX1	NKX3B, NKX3.2	4p15.33	AF009801			NKL subclass homeoboxes and pseudogenes	519
+7839	NKX6-1	NK6 homeobox 1	Approved	NKX6A	Nkx6.1	4q21.23	AH007313	NM_006168		NKL subclass homeoboxes and pseudogenes	519
+19321	NKX6-2	NK6 homeobox 2	Approved		NKX6B, GTX, NKX6.1	10q26.3	AF184215			NKL subclass homeoboxes and pseudogenes	519
+26328	NKX6-3	NK6 homeobox 3	Approved		FLJ25169	8p11.21	AK057898	NM_152568		NKL subclass homeoboxes and pseudogenes	519
+31839	NOTO	notochord homeobox	Approved			2p13.2		XM_292889		NKL subclass homeoboxes and pseudogenes	519
+5056	TLX1	T cell leukemia homeobox 1	Approved	TCL3, HOX11		10q24.31	M62626	NM_005521		NKL subclass homeoboxes and pseudogenes	519
+5057	TLX2	T cell leukemia homeobox 2	Approved	HOX11L1	Enx, Tlx2, NCX	2p13.1	AJ002607			NKL subclass homeoboxes and pseudogenes	519
+13532	TLX3	T cell leukemia homeobox 3	Approved	HOX11L2	RNX	5q35.1	AJ223798			NKL subclass homeoboxes and pseudogenes	519
+12660	VAX1	ventral anterior homeobox 1	Approved			10q25.3	AK127095	XM_301242		NKL subclass homeoboxes and pseudogenes	519
+12661	VAX2	ventral anterior homeobox 2	Approved		DRES93	2p13.3	Y17791			NKL subclass homeoboxes and pseudogenes	519
+13639	VENTX	VENT homeobox	Approved	VENTX2	HPX42B	10q26.3	AF068006	NM_014468		NKL subclass homeoboxes and pseudogenes	519
+30900	VENTXP1	VENT homeobox pseudogene 1	Approved		NA88A, CT18	Xp21.3	AF164963	NR_001559		NKL subclass homeoboxes and pseudogenes	519
+30901	VENTXP2	VENT homeobox pseudogene 2	Approved			13q31.1		NG_002909		NKL subclass homeoboxes and pseudogenes	519
+30902	VENTXP3	VENT homeobox pseudogene 3	Approved			12q21.1		NG_002911		NKL subclass homeoboxes and pseudogenes	519
+30903	VENTXP4	VENT homeobox pseudogene 4	Approved			3p24.1		NG_002906		NKL subclass homeoboxes and pseudogenes	519
+32214	VENTXP5	VENT homeobox pseudogene 5	Approved			8p12		NG_005091		NKL subclass homeoboxes and pseudogenes	519
+32216	VENTXP6	VENT homeobox pseudogene 6	Approved			8q21.11		NG_005090		NKL subclass homeoboxes and pseudogenes	519
+13638	VENTXP7	VENT homeobox pseudogene 7	Approved	VENTX1	HPX42	3p24.3	X74864	NR_002311		NKL subclass homeoboxes and pseudogenes	519
+26411	HDX	highly divergent homeobox	Approved	CXorf43	FLJ30678	Xq21.1	BX538112	NM_144657	POU	POU class homeoboxes and pseudogenes	523
+9210	POU1F1	POU class 1 homeobox 1	Approved	PIT1	GHF-1, POU1F1a, PIT-1	3p11.2	D10216	NM_000306	POU	POU class homeoboxes and pseudogenes	523
+9212	POU2F1	POU class 2 homeobox 1	Approved	OTF1	OCT1	1q24.2	BC001664	NM_002697	POU	POU class homeoboxes and pseudogenes	523
+9213	POU2F2	POU class 2 homeobox 2	Approved	OTF2	OCT2	19q13.2			POU	POU class homeoboxes and pseudogenes	523
+19864	POU2F3	POU class 2 homeobox 3	Approved		OCT11, PLA-1, Skn-1a, Epoc-1	11q23.3	AF133895		POU	POU class homeoboxes and pseudogenes	523
+9214	POU3F1	POU class 3 homeobox 1	Approved	OTF6	OCT6, SCIP	1p34.3	L26494	NM_002699	POU	POU class homeoboxes and pseudogenes	523
+9215	POU3F2	POU class 3 homeobox 2	Approved	OTF7	POUF3, BRN2, OCT7	6q16.1	Z11933		POU	POU class homeoboxes and pseudogenes	523
+9216	POU3F3	POU class 3 homeobox 3	Approved		BRN1, OTF8	2q12.1			POU	POU class homeoboxes and pseudogenes	523
+9217	POU3F4	POU class 3 homeobox 4	Approved	DFN3	BRN4, OTF9, DFNX2	Xq21.1	X82324	NM_000307	POU	POU class homeoboxes and pseudogenes	523
+9218	POU4F1	POU class 4 homeobox 1	Approved	BRN3A	RDC-1	13q31.1	X64624		POU	POU class homeoboxes and pseudogenes	523
+9219	POU4F2	POU class 4 homeobox 2	Approved	BRN3B	Brn-3b	4q31.22	U06233	NM_004575	POU	POU class homeoboxes and pseudogenes	523
+9220	POU4F3	POU class 4 homeobox 3	Approved	DFNA15, DFNA52, DFNA42	BRN3C	5q32	U10060	NM_002700	POU	POU class homeoboxes and pseudogenes	523
+9221	POU5F1	POU class 5 homeobox 1	Approved	OTF3	OCT3, Oct4, MGC22487	6p21.33	Z11898	NM_002701	POU	POU class homeoboxes and pseudogenes	523
+9223	POU5F1B	POU class 5 homeobox 1B	Approved	OTF3P1, POU5F1P1	OTF3C	8q24.21	AF268615	NM_001159542	POU	POU class homeoboxes and pseudogenes	523
+33309	POU5F1P2	POU class 5 homeobox 1 pseudogene 2	Approved			8q22.3		NG_006103	POU	POU class homeoboxes and pseudogenes	523
+9222	POU5F1P3	POU class 5 homeobox 1 pseudogene 3	Approved	OTF3L, POU5F1L	POU5FLC12	12p13.31	AF268617		POU	POU class homeoboxes and pseudogenes	523
+33310	POU5F1P4	POU class 5 homeobox 1 pseudogene 4	Approved		POU5FLC1, Oct4-pg4	1q22			POU	POU class homeoboxes and pseudogenes	523
+33311	POU5F1P5	POU class 5 homeobox 1 pseudogene 5	Approved		Oct4-pg5	10q21.3			POU	POU class homeoboxes and pseudogenes	523
+33312	POU5F1P6	POU class 5 homeobox 1 pseudogene 6	Approved			3q21.3			POU	POU class homeoboxes and pseudogenes	523
+33313	POU5F1P7	POU class 5 homeobox 1 pseudogene 7	Approved			3q11.2			POU	POU class homeoboxes and pseudogenes	523
+26367	POU5F2	POU domain class 5, transcription factor 2	Approved		SPRM-1, FLJ25680	5q15		NM_153216	POU	POU class homeoboxes and pseudogenes	523
+9224	POU6F1	POU class 6 homeobox 1	Approved		BRN5, MPOU, TCFB1	12q13.13	AL832881	NM_002702	POU	POU class homeoboxes and pseudogenes	523
+21694	POU6F2	POU class 6 homeobox 2	Approved		RPF-1	7p14.1	U91934	NM_007252	POU	POU class homeoboxes and pseudogenes	523
+1494	ALX1	ALX homeobox 1	Approved	CART1		12q21.31	U31986	NM_006982		PRD class homeoboxes and pseudogenes	521
+449	ALX3	ALX homeobox 3	Approved	FND		1p13.3	AF008203	NM_006492		PRD class homeoboxes and pseudogenes	521
+450	ALX4	ALX homeobox 4	Approved	PFM2	FPP, PFM, KIAA1788	11p11.2	AF294629			PRD class homeoboxes and pseudogenes	521
+30146	ARGFX	arginine-fifty homeobox	Approved			3q13.33		NM_001012659		PRD class homeoboxes and pseudogenes	521
+17252	ARGFXP1	arginine-fifty homeobox pseudogene 1	Approved			5q23.2		NG_004853		PRD class homeoboxes and pseudogenes	521
+23977	ARGFXP2	arginine-fifty homeobox pseudogene 2	Approved			17q11.2		NR_002222		PRD class homeoboxes and pseudogenes	521
+18060	ARX	aristaless related homeobox	Approved	MRXS1, PRTS, MRX76, MRX54, MRX43, MRX36, MRX29, MRX32, MRX33, MRX38, MRX87	ISSX, CT121, EIEE1	Xp21.3	AY038071			PRD class homeoboxes and pseudogenes	521
+2383	CRX	cone-rod homeobox	Approved	CORD2	CRD, LCA7, OTX3	19q13.33	AF024711	NM_000554		PRD class homeoboxes and pseudogenes	521
+19026	DMBX1	diencephalon/mesencephalon homeobox 1	Approved	OTX3	PAXB	1p33	AB037699			PRD class homeoboxes and pseudogenes	521
+32166	DPRX	divergent-paired related homeobox	Approved			19q13.42		NM_001012728		PRD class homeoboxes and pseudogenes	521
+32167	DPRXP1	divergent-paired related homeobox pseudogene 1	Approved			2q32.1		NG_004847		PRD class homeoboxes and pseudogenes	521
+32168	DPRXP2	divergent-paired related homeobox pseudogene 2	Approved			6p21.31		NG_004848		PRD class homeoboxes and pseudogenes	521
+32169	DPRXP3	divergent-paired related homeobox pseudogene 3	Approved			14q13.2		NG_004849		PRD class homeoboxes and pseudogenes	521
+32170	DPRXP4	divergent-paired related homeobox pseudogene 4	Approved			17q11.2		NR_002221		PRD class homeoboxes and pseudogenes	521
+32171	DPRXP5	divergent-paired related homeobox pseudogene 5	Approved			21q22.13		NG_004850		PRD class homeoboxes and pseudogenes	521
+32172	DPRXP6	divergent-paired related homeobox pseudogene 6	Approved			Xp11.4		NG_004851		PRD class homeoboxes and pseudogenes	521
+32173	DPRXP7	divergent-paired related homeobox pseudogene 7	Approved			Xq23		NG_004852		PRD class homeoboxes and pseudogenes	521
+21536	DRGX	dorsal root ganglia homeobox	Approved	PRRXL1	DRG11	10q11.23		XM_060970		PRD class homeoboxes and pseudogenes	521
+3082	DUX4L1	double homeobox 4 like 1 (pseudogene)	Approved	DUX4		4q35.2	D38024	NM_033178		PRD class homeoboxes and pseudogenes	521
+31354	DUX4L10	double homeobox 4 like 10 (pseudogene)	Approved		DUX10	10q26.3	AY044051			PRD class homeoboxes and pseudogenes	521
+38687	DUX4L11	double homeobox 4 like 11 (pseudogene)	Approved			10q26.3				PRD class homeoboxes and pseudogenes	521
+38671	DUX4L12	double homeobox 4 like 12 (pseudogene)	Approved			10q26.3		NG_012776		PRD class homeoboxes and pseudogenes	521
+38672	DUX4L13	double homeobox 4 like 13 (pseudogene)	Approved			10q26.3		NG_012773		PRD class homeoboxes and pseudogenes	521
+38673	DUX4L14	double homeobox 4 like 14 (pseudogene)	Approved			10q26.3				PRD class homeoboxes and pseudogenes	521
+38674	DUX4L15	double homeobox 4 like 15 (pseudogene)	Approved			10q26.3		NG_012777		PRD class homeoboxes and pseudogenes	521
+37719	DUX4L16	double homeobox 4 like 16 (pseudogene)	Approved		DUXY1	Yq11.21				PRD class homeoboxes and pseudogenes	521
+37717	DUX4L17	double homeobox 4 like 17 (pseudogene)	Approved		DUXY3	Yq11.21				PRD class homeoboxes and pseudogenes	521
+37716	DUX4L18	double homeobox 4 like 18 (pseudogene)	Approved		DUXY2	Yq11.21				PRD class homeoboxes and pseudogenes	521
+37718	DUX4L19	double homeobox 4 like 19 (pseudogene)	Approved		DUXY4	Yq11.21				PRD class homeoboxes and pseudogenes	521
+37267	DUX4L2	double homeobox 4 like 2 (pseudogene)	Approved			4q35.2		NM_001127386		PRD class homeoboxes and pseudogenes	521
+50801	DUX4L20	double homeobox 4 like 20 (pseudogene)	Approved			10q26.3				PRD class homeoboxes and pseudogenes	521
+50802	DUX4L21	double homeobox 4 like 21 (pseudogene)	Approved			10q26.3				PRD class homeoboxes and pseudogenes	521
+50803	DUX4L22	double homeobox 4 like 22 (pseudogene)	Approved			10q26.3				PRD class homeoboxes and pseudogenes	521
+50804	DUX4L23	double homeobox 4 like 23 (pseudogene)	Approved			10q26.3				PRD class homeoboxes and pseudogenes	521
+50805	DUX4L24	double homeobox 4 like 24 (pseudogene)	Approved			10q26.3				PRD class homeoboxes and pseudogenes	521
+50806	DUX4L25	double homeobox 4 like 25 (pseudogene)	Approved			10q26.3				PRD class homeoboxes and pseudogenes	521
+50807	DUX4L26	double homeobox 4 like 26 (pseudogene)	Approved			3p12.3				PRD class homeoboxes and pseudogenes	521
+50808	DUX4L27	double homeobox 4 like 27 (pseudogene)	Approved			12p11.1				PRD class homeoboxes and pseudogenes	521
+51605	DUX4L28	double homeobox 4 like 28 (pseudogene)	Approved			10q26.3				PRD class homeoboxes and pseudogenes	521
+51606	DUX4L29	double homeobox 4 like 29 (pseudogene)	Approved			10q26.3				PRD class homeoboxes and pseudogenes	521
+38688	DUX4L3	double homeobox 4 like 3 (pseudogene)	Approved			4q35.2				PRD class homeoboxes and pseudogenes	521
+51770	DUX4L31	double homeobox 4 like 31 (pseudogene)	Approved			Yp11.2				PRD class homeoboxes and pseudogenes	521
+51771	DUX4L32	double homeobox 4 like 32 (pseudogene)	Approved			20q11.1				PRD class homeoboxes and pseudogenes	521
+51789	DUX4L33	double homeobox 4 like 33 (pseudogene)	Approved			20q11.1				PRD class homeoboxes and pseudogenes	521
+51772	DUX4L34	double homeobox 4 like 34 (pseudogene)	Approved			20q11.1				PRD class homeoboxes and pseudogenes	521
+51773	DUX4L35	double homeobox 4 like 35 (pseudogene)	Approved			20q11.1				PRD class homeoboxes and pseudogenes	521
+51774	DUX4L36	double homeobox 4 like 36 (pseudogene)	Approved			20q11.1				PRD class homeoboxes and pseudogenes	521
+51775	DUX4L37	double homeobox 4 like 37 (pseudogene)	Approved			20q11.1				PRD class homeoboxes and pseudogenes	521
+38686	DUX4L4	double homeobox 4 like 4 (pseudogene)	Approved			4q35.2		NM_001177376		PRD class homeoboxes and pseudogenes	521
+51778	DUX4L40	double homeobox 4 like 40 (pseudogene)	Approved			22p11.2				PRD class homeoboxes and pseudogenes	521
+51779	DUX4L41	double homeobox 4 like 41 (pseudogene)	Approved			22p11.2				PRD class homeoboxes and pseudogenes	521
+51780	DUX4L42	double homeobox 4 like 42 (pseudogene)	Approved			22p11.2				PRD class homeoboxes and pseudogenes	521
+51781	DUX4L43	double homeobox 4 like 43 (pseudogene)	Approved			22p11.2				PRD class homeoboxes and pseudogenes	521
+51782	DUX4L44	double homeobox 4 like 44 (pseudogene)	Approved			22p11.2				PRD class homeoboxes and pseudogenes	521
+51783	DUX4L45	double homeobox 4 like 45 (pseudogene)	Approved			16p11.2				PRD class homeoboxes and pseudogenes	521
+51784	DUX4L46	double homeobox 4 like 46 (pseudogene)	Approved			16p11.2				PRD class homeoboxes and pseudogenes	521
+51785	DUX4L47	double homeobox 4 like 47 (pseudogene)	Approved			16p11.2				PRD class homeoboxes and pseudogenes	521
+51786	DUX4L48	double homeobox 4 like 48 (pseudogene)	Approved			14p11.2				PRD class homeoboxes and pseudogenes	521
+51787	DUX4L49	double homeobox 4 like 49 (pseudogene)	Approved			14p11.2				PRD class homeoboxes and pseudogenes	521
+38689	DUX4L5	double homeobox 4 like 5 (pseudogene)	Approved			4q35.2		NM_001127389		PRD class homeoboxes and pseudogenes	521
+51788	DUX4L50	double homeobox 4 like 50 (pseudogene)	Approved			9q13				PRD class homeoboxes and pseudogenes	521
+51810	DUX4L51	double homeobox 4 like 51 (pseudogene)	Approved			5p13.3				PRD class homeoboxes and pseudogenes	521
+51811	DUX4L52	double homeobox 4 like 52 (pseudogene)	Approved			12q14.1				PRD class homeoboxes and pseudogenes	521
+37265	DUX4L6	double homeobox 4 like 6 (pseudogene)	Approved			4q35.2		NM_001127388		PRD class homeoboxes and pseudogenes	521
+37266	DUX4L7	double homeobox 4 like 7 (pseudogene)	Approved			4q35.2		NM_001127387		PRD class homeoboxes and pseudogenes	521
+38670	DUX4L8	double homeobox 4 like 8 (pseudogene)	Approved	DUX2		4q35.2				PRD class homeoboxes and pseudogenes	521
+33855	DUX4L9	double homeobox 4 like 9 (pseudogene)	Approved			4q35.2				PRD class homeoboxes and pseudogenes	521
+32179	DUXA	double homeobox A	Approved			19q13.43		NM_001012729		PRD class homeoboxes and pseudogenes	521
+32180	DUXAP1	double homeobox A pseudogene 1	Approved			2p11.2		NG_004841		PRD class homeoboxes and pseudogenes	521
+32189	DUXAP10	double homeobox A pseudogene 10	Approved			14q11.2		NG_004838		PRD class homeoboxes and pseudogenes	521
+32181	DUXAP2	double homeobox A pseudogene 2	Approved			8q22.3		NG_004842		PRD class homeoboxes and pseudogenes	521
+32182	DUXAP3	double homeobox A pseudogene 3	Approved			10q11.21		NR_002220		PRD class homeoboxes and pseudogenes	521
+32183	DUXAP4	double homeobox A pseudogene 4	Approved			10q11.21		NG_004843		PRD class homeoboxes and pseudogenes	521
+32184	DUXAP5	double homeobox A pseudogene 5	Approved			11q23.3		NG_004844		PRD class homeoboxes and pseudogenes	521
+32185	DUXAP6	double homeobox A pseudogene 6	Approved			15q26.1		NG_004845		PRD class homeoboxes and pseudogenes	521
+32186	DUXAP7	double homeobox A pseudogene 7	Approved			20p11.23		NG_004846		PRD class homeoboxes and pseudogenes	521
+32187	DUXAP8	double homeobox A pseudogene 8	Approved			22q11.1		NR_122113		PRD class homeoboxes and pseudogenes	521
+32188	DUXAP9	double homeobox A pseudogene 9	Approved	LINC01296	FLJ39632, lncRNA-CTD903	14q11.2		NG_004839		PRD class homeoboxes and pseudogenes	521
+33345	DUXB	double homeobox B	Approved			16q23.1				PRD class homeoboxes and pseudogenes	521
+14865	ESX1	ESX homeobox 1	Approved	ESX1L	ESXR1	Xq22.2	AL049631	NM_153448		PRD class homeoboxes and pseudogenes	521
+4612	GSC	goosecoid homeobox	Approved			14q32.13				PRD class homeoboxes and pseudogenes	521
+4613	GSC2	goosecoid homeobox 2	Approved	GSCL		22q11.21		NM_005315		PRD class homeoboxes and pseudogenes	521
+4877	HESX1	HESX homeobox 1	Approved		RPX, ANF	3p14.3	AF059734			PRD class homeoboxes and pseudogenes	521
+24961	HOPX	HOP homeobox	Approved		LAGY, HOP, OB1, NECC1, SMAP31	4q12				PRD class homeoboxes and pseudogenes	521
+28084	ISX	intestine specific homeobox	Approved		RAXLX	22q12.3	AK025181	NM_001008494		PRD class homeoboxes and pseudogenes	521
+31953	LEUTX	leucine twenty homeobox	Approved			19q13.2		XM_001129035		PRD class homeoboxes and pseudogenes	521
+13363	MIXL1	Mix paired-like homeobox	Approved		MILD1, MIXL	1q42.12	AF211891			PRD class homeoboxes and pseudogenes	521
+22448	NOBOX	NOBOX oogenesis homeobox	Approved		OG2, Og2x	7q35		XM_001134420		PRD class homeoboxes and pseudogenes	521
+8518	OTP	orthopedia homeobox	Approved			5q14.1				PRD class homeoboxes and pseudogenes	521
+8521	OTX1	orthodenticle homeobox 1	Approved			2p15				PRD class homeoboxes and pseudogenes	521
+8522	OTX2	orthodenticle homeobox 2	Approved			14q22.3	AF298117	NM_021728.		PRD class homeoboxes and pseudogenes	521
+33281	OTX2P1	orthodenticle homeobox 2 pseudogene 1	Approved	OTX2P		9q21.13				PRD class homeoboxes and pseudogenes	521
+8616	PAX2	paired box 2	Approved			10q24.31				PRD class homeoboxes and pseudogenes	521
+8617	PAX3	paired box 3	Approved	WS1	HUP2	2q36.1				PRD class homeoboxes and pseudogenes	521
+8618	PAX4	paired box 4	Approved		MODY9	7q32.1				PRD class homeoboxes and pseudogenes	521
+8619	PAX5	paired box 5	Approved		BSAP	9p13.2				PRD class homeoboxes and pseudogenes	521
+8620	PAX6	paired box 6	Approved	AN2	D11S812E, AN, WAGR	11p13	AY707088	NM_001604		PRD class homeoboxes and pseudogenes	521
+8621	PAX7	paired box 7	Approved		Hup1	1p36.13	X96743	NM_002584		PRD class homeoboxes and pseudogenes	521
+8622	PAX8	paired box 8	Approved			2q14.1	X69699			PRD class homeoboxes and pseudogenes	521
+691	PHOX2A	paired like homeobox 2A	Approved	ARIX, FEOM2	PMX2A, CFEOM2	11q13.4	AF022722	NM_005169		PRD class homeoboxes and pseudogenes	521
+9143	PHOX2B	paired like homeobox 2B	Approved	PMX2B	Phox2b, NBPhox	4p13	D82344			PRD class homeoboxes and pseudogenes	521
+9004	PITX1	paired like homeodomain 1	Approved	BFT	PTX1, POTX	5q31.1	AF009648			PRD class homeoboxes and pseudogenes	521
+9005	PITX2	paired like homeodomain 2	Approved	IRID2, IHG2, RIEG, RIEG1, RGS	IGDS, RS, Brx1, Otlx2, ARP1	4q25	U69961			PRD class homeoboxes and pseudogenes	521
+9006	PITX3	paired like homeodomain 3	Approved	ASMD		10q24.32				PRD class homeoboxes and pseudogenes	521
+9455	PROP1	PROP paired-like homeobox 1	Approved			5q35.3	AF076215	NM_006261		PRD class homeoboxes and pseudogenes	521
+9142	PRRX1	paired related homeobox 1	Approved	PMX1	PHOX1	1q24.2	M95929	NM_006902		PRD class homeoboxes and pseudogenes	521
+21338	PRRX2	paired related homeobox 2	Approved		PRX2, PMX2	9q34.11	AF061970	NM_016307		PRD class homeoboxes and pseudogenes	521
+18662	RAX	retina and anterior neural fold homeobox	Approved		RX	18q21.32	AF115392			PRD class homeoboxes and pseudogenes	521
+18286	RAX2	retina and anterior neural fold homeobox 2	Approved	RAXL1	MGC15631, ARMD6, CORD11	19p13.3	AY211277	NM_032753		PRD class homeoboxes and pseudogenes	521
+29993	RHOXF1	Rhox homeobox family member 1	Approved		OTEX, PEPP1	Xq24		NM_139282		PRD class homeoboxes and pseudogenes	521
+30011	RHOXF2	Rhox homeobox family member 2	Approved		THG1, PEPP-2, PEPP2, CT107	Xq24		NM_032498		PRD class homeoboxes and pseudogenes	521
+33519	RHOXF2B	Rhox homeobox family member 2B	Approved			Xq24		NM_001099685		PRD class homeoboxes and pseudogenes	521
+32942	SEBOX	SEBOX homeobox	Approved		OG9, OG9X	17q11.2		NM_001080837		PRD class homeoboxes and pseudogenes	521
+10853	SHOX	short stature homeobox	Approved		PHOG, GCFX, SS, SHOXY	Xp22.33 and Yp11.32	U82668	NM_000451		PRD class homeoboxes and pseudogenes	521
+10854	SHOX2	short stature homeobox 2	Approved		SHOT, OG12X, OG12	3q25.32	AJ002368			PRD class homeoboxes and pseudogenes	521
+32174	TPRX1	tetrapeptide repeat homeobox 1	Approved		FLJ40321	19q13.33		NM_198479		PRD class homeoboxes and pseudogenes	521
+32176	TPRX1P1	tetrapeptide repeat homeobox 1 pseudogene 1	Approved			10q22.3		NG_004836		PRD class homeoboxes and pseudogenes	521
+32175	TPRX2P	tetrapeptide repeat homeobox 2, pseudogene	Approved		TPRX2P1	19q13.33		NG_004835		PRD class homeoboxes and pseudogenes	521
+32178	TPRXL	tetrapeptide repeat homeobox like	Approved		FLJ35107, TPRX3P	3p25.1	AK092426	NR_002223		PRD class homeoboxes and pseudogenes	521
+33194	UNCX	UNC homeobox	Approved		Uncx4.1	7p22.3		NM_001080461		PRD class homeoboxes and pseudogenes	521
+12723	VSX1	visual system homeobox 1	Approved	PPCD	PPD, PPCD1	20p11.21	AF176797			PRD class homeoboxes and pseudogenes	521
+1975	VSX2	visual system homeobox 2	Approved	HOX10, CHX10	RET1	14q24.3	AC005519	NM_182894		PRD class homeoboxes and pseudogenes	521
+9459	PROX1	prospero homeobox 1	Approved			1q32.3	U44060	NM_002763	PROX	PROS class homeoboxes	528
+26715	PROX2	prospero homeobox 2	Approved		FLJ36749	14q24.3			PROX	PROS class homeoboxes	528
+10887	SIX1	SIX homeobox 1	Approved	DFNA23		14q23.1	X91868		SIX	SINE class homeoboxes	525
+10888	SIX2	SIX homeobox 2	Approved			2p21	AF136939		SIX	SINE class homeoboxes	525
+10889	SIX3	SIX homeobox 3	Approved	HPE2		2p21	AF092047	NM_005413	SIX	SINE class homeoboxes	525
+10890	SIX4	SIX homeobox 4	Approved		AREC3	14q23.1	AB024687		SIX	SINE class homeoboxes	525
+10891	SIX5	SIX homeobox 5	Approved	DMAHP		19q13.32	L08835	NM_175875	SIX	SINE class homeoboxes	525
+10892	SIX6	SIX homeobox 6	Approved	OPTX2	Six9	14q23.1	AF141651		SIX	SINE class homeoboxes	525
+14358	IRX1	iroquois homeobox 1	Approved		IRX-5	5p15.33	U90307	NM_024337		TALE class homeoboxes and pseudogenes	526
+33315	IRX1P1	iroquois homeobox 1 pseudogene 1	Approved			13q12.12		NG_009487		TALE class homeoboxes and pseudogenes	526
+14359	IRX2	iroquois homeobox 2	Approved			5p15.33	AF319967			TALE class homeoboxes and pseudogenes	526
+14360	IRX3	iroquois homeobox 3	Approved		IRX-1	16q12.2	U90308			TALE class homeoboxes and pseudogenes	526
+6129	IRX4	iroquois homeobox 4	Approved			5p15.33	AF124733	NM_016358		TALE class homeoboxes and pseudogenes	526
+33316	IRX4P1	iroquois homeobox 4 pseudogene 1	Approved			18p11.22				TALE class homeoboxes and pseudogenes	526
+14361	IRX5	iroquois homeobox 5	Approved		IRX-2a	16q12.2	U90309			TALE class homeoboxes and pseudogenes	526
+14675	IRX6	iroquois homeobox 6	Approved	IRX7	IRX-3	16q12.2	AF319966	NM_024335		TALE class homeoboxes and pseudogenes	526
+7000	MEIS1	Meis homeobox 1	Approved			2p14		NM_002398		TALE class homeoboxes and pseudogenes	526
+7001	MEIS2	Meis homeobox 2	Approved		MRG1, HsT18361	15q14	AF017418	NM_170677		TALE class homeoboxes and pseudogenes	526
+29537	MEIS3	Meis homeobox 3	Approved		MRG2, DKFZp547H236	19q13.32	BC025404	XM_085929		TALE class homeoboxes and pseudogenes	526
+7002	MEIS3P1	Meis homeobox 3 pseudogene 1	Approved	MEIS3, MEIS4	MRG2	17p12	U68385			TALE class homeoboxes and pseudogenes	526
+17638	MEIS3P2	Meis homeobox 3 pseudogene 2	Approved			17p11.2		NG_002418		TALE class homeoboxes and pseudogenes	526
+23729	MKX	mohawk homeobox	Approved	C10orf48, IRXL1	MGC39616	10p12.1	BC036207	NM_173576		TALE class homeoboxes and pseudogenes	526
+8632	PBX1	PBX homeobox 1	Approved			1q23.3	M86546	NM_002585		TALE class homeoboxes and pseudogenes	526
+8633	PBX2	PBX homeobox 2	Approved		G17, HOX12, PBX2MHC	6p21.32				TALE class homeoboxes and pseudogenes	526
+8635	PBX2P1	PBX homeobox 2 pseudogene 1	Approved	PBX2, PBXP1		3q24		NG_002434		TALE class homeoboxes and pseudogenes	526
+8634	PBX3	PBX homeobox 3	Approved			9q33.3				TALE class homeoboxes and pseudogenes	526
+13403	PBX4	PBX homeobox 4	Approved			19p13.11	AJ300182			TALE class homeoboxes and pseudogenes	526
+9022	PKNOX1	PBX/knotted 1 homeobox 1	Approved		PREP1	21q22.3				TALE class homeoboxes and pseudogenes	526
+16714	PKNOX2	PBX/knotted 1 homeobox 2	Approved			11q24.2	AK023136			TALE class homeoboxes and pseudogenes	526
+11776	TGIF1	TGFB induced factor homeobox 1	Approved	HPE4, TGIF		18p11.31	X89750	NM_170695		TALE class homeoboxes and pseudogenes	526
+30730	TGIF1P1	TGFB induced factor homeobox 1 pseudogene 1	Approved			19q13.32		NG_002440		TALE class homeoboxes and pseudogenes	526
+15764	TGIF2	TGFB induced factor homeobox 2	Approved			20q11.23	AB042646	NM_021809		TALE class homeoboxes and pseudogenes	526
+18570	TGIF2LX	TGFB induced factor homeobox 2 like X-linked	Approved			Xq21.31	AF497480	NM_138960		TALE class homeoboxes and pseudogenes	526
+18569	TGIF2LY	TGFB induced factor homeobox 2 like Y-linked	Approved			Yp11.2	AF332223	NM_139214		TALE class homeoboxes and pseudogenes	526
+33317	TGIF2P1	TGFB induced factor homeobox 2 pseudogene 1	Approved			1q44				TALE class homeoboxes and pseudogenes	526
+15766	ADNP	activity dependent neuroprotector homeobox	Approved		KIAA0784, ADNP1	20q13.13	AF250860	NM_181442		ZF class homeoboxes and pseudogenes	529
+23803	ADNP2	ADNP homeobox 2	Approved	ZNF508	KIAA0863	18q23	AB020670	NM_014913		ZF class homeoboxes and pseudogenes	529
+20164	HOMEZ	homeobox and leucine zipper encoding	Approved	KIAA1443		14q11.2	AB037864	NM_020834		ZF class homeoboxes and pseudogenes	529
+10669	TSHZ1	teashirt zinc finger homeobox 1	Approved	SDCCAG33	NY-CO-33, TSH1	18q22.3	AF039698	NM_005786		ZF class homeoboxes and pseudogenes	529
+13010	TSHZ2	teashirt zinc finger homeobox 2	Approved	C20orf17, ZNF218	ZABC2, OVC10-2, TSH2	20q13.2	AF230201	NM_173485		ZF class homeoboxes and pseudogenes	529
+30700	TSHZ3	teashirt zinc finger homeobox 3	Approved	ZNF537	KIAA1474, TSH3	19q12	AL136805	NM_020856		ZF class homeoboxes and pseudogenes	529
+11642	ZEB1	zinc finger E-box binding homeobox 1	Approved	TCF8, PPCD3	BZP, ZEB, AREB6, NIL-2-A, Zfhep, Zfhx1a, FECD6	10p11.22	AK091478	NM_030751		ZF class homeoboxes and pseudogenes	529
+14881	ZEB2	zinc finger E-box binding homeobox 2	Approved	ZFHX1B	KIAA0569, SIP-1, SIP1	2q22.3	AB011141	NM_014795		ZF class homeoboxes and pseudogenes	529
+33346	ZEB2P1	zinc finger E-box binding homeobox 2 pseudogene 1	Approved	ZEB1P1		4p15.32				ZF class homeoboxes and pseudogenes	529
+20152	ZFHX2	zinc finger homeobox 2	Approved	ZNF409	KIAA1762, KIAA1056, ZFH-5	14q11.2	AB051549	NM_014894		ZF class homeoboxes and pseudogenes	529
+777	ZFHX3	zinc finger homeobox 3	Approved	ATBF1	ZNF927	16q22.2-q22.3	D10250	NM_006885		ZF class homeoboxes and pseudogenes	529
+30939	ZFHX4	zinc finger homeobox 4	Approved		ZFH4, FLJ20980	8q21.13		NM_024721		ZF class homeoboxes and pseudogenes	529
+12871	ZHX1	zinc fingers and homeoboxes 1	Approved			8q24.13	AF106862			ZF class homeoboxes and pseudogenes	529
+18513	ZHX2	zinc fingers and homeoboxes 2	Approved		KIAA0854	8q24.13	AB020661	NM_014943		ZF class homeoboxes and pseudogenes	529
+15935	ZHX3	zinc fingers and homeoboxes 3	Approved	TIX1	KIAA0395	20q12	AB007855	NM_015035		ZF class homeoboxes and pseudogenes	529

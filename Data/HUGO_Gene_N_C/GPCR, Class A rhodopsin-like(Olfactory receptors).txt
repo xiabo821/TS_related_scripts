@@ -1,0 +1,354 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+8179	OR1A1	olfactory receptor family 1 subfamily A member 1	Approved		OR17-7	17p13.3	AF087918	NM_014565	OR1	"Olfactory receptors, family 1"	147
+8180	OR1A2	olfactory receptor family 1 subfamily A member 2	Approved		OR17-6	17p13.3	AF155225	NM_012352	OR1	"Olfactory receptors, family 1"	147
+8182	OR1C1	olfactory receptor family 1 subfamily C member 1	Approved		"TPCR27, HSTPCR27"	1q44	X89674		OR1	"Olfactory receptors, family 1"	147
+8183	OR1D2	olfactory receptor family 1 subfamily D member 2	Approved	OLFR1	OR17-4	17p13.3	U04678	NM_002548	OR1	"Olfactory receptors, family 1"	147
+8186	OR1D5	olfactory receptor family 1 subfamily D member 5	Approved		OR17-31	17p13.3	AF087923	NM_014566	OR1	"Olfactory receptors, family 1"	147
+8189	OR1E1	olfactory receptor family 1 subfamily E member 1	Approved	"OR1E9P, OR1E5, OR1E6"	"OR17-2, HGM071, OR17-32, OR13-66"	17p13.3	U04642	NM_003553	OR1	"Olfactory receptors, family 1"	147
+8190	OR1E2	olfactory receptor family 1 subfamily E member 2	Approved	OR1E4	"OR17-93, OR17-135"	17p13.2	U04686		OR1	"Olfactory receptors, family 1"	147
+8194	OR1F1	olfactory receptor family 1 subfamily F member 1	Approved	"OR1F4, OR1F6, OR1F7, OR1F8, OR1F9, OR1F5, OR1F10, OR1F13P"	"Olfmf, OR16-36, OR16-37, OR16-88, OR16-89, OR16-90, OLFMF, OR3-145"	16p13.3	Y14442		OR1	"Olfactory receptors, family 1"	147
+13964	OR1F12	olfactory receptor family 1 subfamily F member 12	Approved	OR1F12P	"hs6M1-35P, OR1F12Q"	6p22.1			OR1	"Olfactory receptors, family 1"	147
+8204	OR1G1	olfactory receptor family 1 subfamily G member 1	Approved	OR1G2	OR17-209	17p13.3	U04689		OR1	"Olfactory receptors, family 1"	147
+8207	OR1I1	olfactory receptor family 1 subfamily I member 1	Approved		"OR1I1P, OR19-20, OR1I1Q"	19p13.1	AC004794		OR1	"Olfactory receptors, family 1"	147
+8208	OR1J1	olfactory receptor family 1 subfamily J member 1	Approved		hg32	9q33.2	AL353767		OR1	"Olfactory receptors, family 1"	147
+8209	OR1J2	olfactory receptor family 1 subfamily J member 2	Approved	"OR1J3, OR1J5"	OST044	9q33.2			OR1	"Olfactory receptors, family 1"	147
+8211	OR1J4	olfactory receptor family 1 subfamily J member 4	Approved		"HTPCRX01, HSHTPCRX01"	9q33.2	X64979		OR1	"Olfactory receptors, family 1"	147
+8212	OR1K1	olfactory receptor family 1 subfamily K member 1	Approved		"hg99, MNAB"	9q33	AL359512		OR1	"Olfactory receptors, family 1"	147
+8213	OR1L1	olfactory receptor family 1 subfamily L member 1	Approved	OR1L2	OR9-C	9q33.2			OR1	"Olfactory receptors, family 1"	147
+8215	OR1L3	olfactory receptor family 1 subfamily L member 3	Approved		OR9-D	9q33.2			OR1	"Olfactory receptors, family 1"	147
+8216	OR1L4	olfactory receptor family 1 subfamily L member 4	Approved	OR1L5	OR9-E	9q33.2			OR1	"Olfactory receptors, family 1"	147
+8218	OR1L6	olfactory receptor family 1 subfamily L member 6	Approved	OR1L7		9q33.2			OR1	"Olfactory receptors, family 1"	147
+15110	OR1L8	olfactory receptor family 1 subfamily L member 8	Approved			9q33.2			OR1	"Olfactory receptors, family 1"	147
+8220	OR1M1	olfactory receptor family 1 subfamily M member 1	Approved		OR19-6	19p13.2			OR1	"Olfactory receptors, family 1"	147
+8221	OR1N1	olfactory receptor family 1 subfamily N member 1	Approved	OR1N3	OR1-26	9q33.2	U86216		OR1	"Olfactory receptors, family 1"	147
+15111	OR1N2	olfactory receptor family 1 subfamily N member 2	Approved			9q33.2			OR1	"Olfactory receptors, family 1"	147
+8223	OR1Q1	olfactory receptor family 1 subfamily Q member 1	Approved	"OR1Q2, OR1Q3"	"OST226, OR9-A, HSTPCR106, OST226OR9-A, TPCR106"	9q33.2			OR1	"Olfactory receptors, family 1"	147
+15141	OR1S2	olfactory receptor family 1 subfamily S member 2	Approved			11q12.1	BK004297	NM_001004459	OR1	"Olfactory receptors, family 1"	147
+8161	OR10A2	olfactory receptor family 10 subfamily A member 2	Approved	OR10A2P	OST363	11p15.4	BK004293	NM_001004460	OR10	"Olfactory receptors, family 10"	157
+8162	OR10A3	olfactory receptor family 10 subfamily A member 3	Approved		"HTPCRX12, HSHTPCRX12"	11p15.4	BK004404	NM_001003745	OR10	"Olfactory receptors, family 10"	157
+15130	OR10A4	olfactory receptor family 10 subfamily A member 4	Approved	OR10A4P		11p15.4	AF209506	NM_207186	OR10	"Olfactory receptors, family 10"	157
+15131	OR10A5	olfactory receptor family 10 subfamily A member 5	Approved	OR10A1	"OR11-403, JCG6"	11p15.4	AF324499	NM_178168	OR10	"Olfactory receptors, family 10"	157
+15329	OR10A7	olfactory receptor family 10 subfamily A member 7	Approved			12q13.2	BK004327		OR10	"Olfactory receptors, family 10"	157
+14819	OR10AD1	olfactory receptor family 10 subfamily AD member 1	Approved	OR10AD1P		12q13.11			OR10	"Olfactory receptors, family 10"	157
+19607	OR10AG1	olfactory receptor family 10 subfamily AG member 1	Approved			11q12.1	AB065594	NM_001005491	OR10	"Olfactory receptors, family 10"	157
+8168	OR10D3	olfactory receptor family 10 subfamily D member 3 (putative)	Approved	OR10D3P	HTPCRX09	11q24.2	X64983		OR10	"Olfactory receptors, family 10"	157
+8170	OR10G2	olfactory receptor family 10 subfamily G member 2	Approved			14q11.2			OR10	"Olfactory receptors, family 10"	157
+8171	OR10G3	olfactory receptor family 10 subfamily G member 3	Approved			14q11.2			OR10	"Olfactory receptors, family 10"	157
+14809	OR10G4	olfactory receptor family 10 subfamily G member 4	Approved			11q24.2	AB065757	NM_001004462	OR10	"Olfactory receptors, family 10"	157
+14836	OR10G6	olfactory receptor family 10 subfamily G member 6	Approved	OR10G6P	OR10G6Q	11q24.1	AB065508	NG_002255	OR10	"Olfactory receptors, family 10"	157
+14842	OR10G7	olfactory receptor family 10 subfamily G member 7	Approved			11q24.2	AB065754	NM_001004463	OR10	"Olfactory receptors, family 10"	157
+14845	OR10G8	olfactory receptor family 10 subfamily G member 8	Approved			11q24.2	AB065755	NM_001004464	OR10	"Olfactory receptors, family 10"	157
+15129	OR10G9	olfactory receptor family 10 subfamily G member 9	Approved	OR10G10P		11q24.2	AB065756	NM_001001953	OR10	"Olfactory receptors, family 10"	157
+8172	OR10H1	olfactory receptor family 10 subfamily H member 1	Approved			19p13.1	AC004510		OR10	"Olfactory receptors, family 10"	157
+8173	OR10H2	olfactory receptor family 10 subfamily H member 2	Approved			19p13.1	AC004597		OR10	"Olfactory receptors, family 10"	157
+8174	OR10H3	olfactory receptor family 10 subfamily H member 3	Approved			19p13.1			OR10	"Olfactory receptors, family 10"	157
+15388	OR10H4	olfactory receptor family 10 subfamily H member 4	Approved			19p13.12	AC011517		OR10	"Olfactory receptors, family 10"	157
+15389	OR10H5	olfactory receptor family 10 subfamily H member 5	Approved			19p13.12	AC011537		OR10	"Olfactory receptors, family 10"	157
+8175	OR10J1	olfactory receptor family 10 subfamily J member 1	Approved		"HGMP07J, HSHGMP07J"	1q23.2	X64995	NM_012351	OR10	"Olfactory receptors, family 10"	157
+14992	OR10J3	olfactory receptor family 10 subfamily J member 3	Approved	OR10J3P		1q23.2			OR10	"Olfactory receptors, family 10"	157
+14993	OR10J5	olfactory receptor family 10 subfamily J member 5	Approved			1q23.2		NM_001004469	OR10	"Olfactory receptors, family 10"	157
+14693	OR10K1	olfactory receptor family 10 subfamily K member 1	Approved			1q23.1	AP002532		OR10	"Olfactory receptors, family 10"	157
+14826	OR10K2	olfactory receptor family 10 subfamily K member 2	Approved			1q23.1	AB065642	NM_001004476	OR10	"Olfactory receptors, family 10"	157
+15378	OR10P1	olfactory receptor family 10 subfamily P member 1	Approved	"OR10P1P, OR10P2P, OR10P3P"	OST701	12q13.2	BK004259		OR10	"Olfactory receptors, family 10"	157
+15134	OR10Q1	olfactory receptor family 10 subfamily Q member 1	Approved			11q12.1	AB065735	NM_001004471	OR10	"Olfactory receptors, family 10"	157
+14820	OR10R2	olfactory receptor family 10 subfamily R member 2	Approved		OR10R2Q	1q23.1	AB065640	NM_001004472	OR10	"Olfactory receptors, family 10"	157
+14807	OR10S1	olfactory receptor family 10 subfamily S member 1	Approved			11q24.1	BK004509	NM_001004474	OR10	"Olfactory receptors, family 10"	157
+14816	OR10T2	olfactory receptor family 10 subfamily T member 2	Approved			1q23.1	AB065643	NM_001004475	OR10	"Olfactory receptors, family 10"	157
+15136	OR10V1	olfactory receptor family 10 subfamily V member 1	Approved			11q12.1	AB065807	NM_001005324	OR10	"Olfactory receptors, family 10"	157
+15139	OR10W1	olfactory receptor family 10 subfamily W member 1	Approved	OR10W1P		11q12.1	AB065850	NM_207374	OR10	"Olfactory receptors, family 10"	157
+14996	OR10Z1	olfactory receptor family 10 subfamily Z member 1	Approved			1q23.1	AB065635	NM_001004478	OR10	"Olfactory receptors, family 10"	157
+8176	OR11A1	olfactory receptor family 11 subfamily A member 1	Approved	OR11A2	hs6M1-18	6p22.2-p21.31			OR11	"Olfactory receptors, family 11"	159
+15346	OR11G2	olfactory receptor family 11 subfamily G member 2	Approved			14q11.2			OR11	"Olfactory receptors, family 11"	159
+15404	OR11H1	olfactory receptor family 11 subfamily H member 1	Approved		OR22-1	22q11.1	"AP000535, AF399611"	NM_001005239	OR11	"Olfactory receptors, family 11"	159
+30738	OR11H12	olfactory receptor family 11 subfamily H member 12	Approved			14q11.2		NM_001013354	OR11	"Olfactory receptors, family 11"	159
+14716	OR11H2	olfactory receptor family 11 subfamily H member 2	Approved	"OR11H2P, OR11H8P, C14orf15"		14q11.2	"AB065607, BK004489"	NM_001197287	OR11	"Olfactory receptors, family 11"	159
+15347	OR11H4	olfactory receptor family 11 subfamily H member 4	Approved			14q11.2			OR11	"Olfactory receptors, family 11"	159
+15349	OR11H6	olfactory receptor family 11 subfamily H member 6	Approved			14q11.2			OR11	"Olfactory receptors, family 11"	159
+14998	OR11L1	olfactory receptor family 11 subfamily L member 1	Approved			1q44	AB065646	NM_001001959	OR11	"Olfactory receptors, family 11"	159
+13963	OR12D3	olfactory receptor family 12 subfamily D member 3	Approved		hs6M1-27	6p22.1			OR12	"Olfactory receptors, family 12"	160
+14772	OR13A1	olfactory receptor family 13 subfamily A member 1	Approved			10q11.21	AB065728	NM_001004297	OR13	"Olfactory receptors, family 13"	162
+14701	OR13C2	olfactory receptor family 13 subfamily C member 2	Approved			9q31.1		NM_001004481	OR13	"Olfactory receptors, family 13"	162
+14704	OR13C3	olfactory receptor family 13 subfamily C member 3	Approved			9q31.1			OR13	"Olfactory receptors, family 13"	162
+14722	OR13C4	olfactory receptor family 13 subfamily C member 4	Approved			9q31.1			OR13	"Olfactory receptors, family 13"	162
+15100	OR13C5	olfactory receptor family 13 subfamily C member 5	Approved			9q31.1		NM_001004482	OR13	"Olfactory receptors, family 13"	162
+15103	OR13C8	olfactory receptor family 13 subfamily C member 8	Approved			9q31.1			OR13	"Olfactory receptors, family 13"	162
+15104	OR13C9	olfactory receptor family 13 subfamily C member 9	Approved			9q31.1			OR13	"Olfactory receptors, family 13"	162
+14695	OR13D1	olfactory receptor family 13 subfamily D member 1	Approved			9q31.1			OR13	"Olfactory receptors, family 13"	162
+14723	OR13F1	olfactory receptor family 13 subfamily F member 1	Approved			9q31.1			OR13	"Olfactory receptors, family 13"	162
+14999	OR13G1	olfactory receptor family 13 subfamily G member 1	Approved			1q44	AB065623	NM_001005487	OR13	"Olfactory receptors, family 13"	162
+14755	OR13H1	olfactory receptor family 13 subfamily H member 1	Approved			Xq26.2			OR13	"Olfactory receptors, family 13"	162
+15108	OR13J1	olfactory receptor family 13 subfamily J member 1	Approved			9p13.3			OR13	"Olfactory receptors, family 13"	162
+15022	OR14A16	olfactory receptor family 14 subfamily A member 16	Approved	OR5AT1		1q44	BK004366	NM_001001966	OR14	"Olfactory receptors, family 14"	163
+15024	OR14A2	olfactory receptor family 14 subfamily A member 2	Approved	"OR5AX1P, OR5AX1"		1q44	AB065620	NM_001355292	OR14	"Olfactory receptors, family 14"	163
+15026	OR14C36	olfactory receptor family 14 subfamily C member 36	Approved	OR5BF1		1q44	BK004466	NM_001001918	OR14	"Olfactory receptors, family 14"	163
+19575	OR14I1	olfactory receptor family 14 subfamily I member 1	Approved	"OR5BU1P, OR5BU1"		1q44		NM_001004734	OR14	"Olfactory receptors, family 14"	163
+13971	OR14J1	olfactory receptor family 14 subfamily J member 1	Approved	OR5U1	hs6M1-28	6p22.1			OR14	"Olfactory receptors, family 14"	163
+15025	OR14K1	olfactory receptor family 14 subfamily K member 1	Approved	OR5AY1		1q44	BK004377	NM_001004732	OR14	"Olfactory receptors, family 14"	163
+8229	OR2A1	olfactory receptor family 2 subfamily A member 1	Approved			7q35			OR2	"Olfactory receptors, family 2"	149
+15082	OR2A12	olfactory receptor family 2 subfamily A member 12	Approved	OR2A12P		7q35			OR2	"Olfactory receptors, family 2"	149
+15084	OR2A14	olfactory receptor family 2 subfamily A member 14	Approved	"OR2A14P, OR2A6"	OST182	7q35			OR2	"Olfactory receptors, family 2"	149
+8230	OR2A2	olfactory receptor family 2 subfamily A member 2	Approved	"OR2A2P, OR2A17P"	OST008	7q35			OR2	"Olfactory receptors, family 2"	149
+19562	OR2A25	olfactory receptor family 2 subfamily A member 25	Approved	"OR2A25P, OR2A27"		7q35			OR2	"Olfactory receptors, family 2"	149
+14729	OR2A4	olfactory receptor family 2 subfamily A member 4	Approved	OR2A10		6q23.2	AC005587	NM_030908	OR2	"Olfactory receptors, family 2"	149
+31230	OR2A42	olfactory receptor family 2 subfamily A member 42	Approved			7q35			OR2	"Olfactory receptors, family 2"	149
+8232	OR2A5	olfactory receptor family 2 subfamily A member 5	Approved	"OR2A8, OR2A26"	"OR7-138, OR7-141"	7q35	U86278		OR2	"Olfactory receptors, family 2"	149
+8234	OR2A7	olfactory receptor family 2 subfamily A member 7	Approved		HSDJ0798C17	7q35			OR2	"Olfactory receptors, family 2"	149
+15087	OR2AE1	olfactory receptor family 2 subfamily AE member 1	Approved	OR2AE2		7q22.1	AC011904		OR2	"Olfactory receptors, family 2"	149
+15143	OR2AG2	olfactory receptor family 2 subfamily AG member 2	Approved	OR2AG2P		11p15.4	AB065539	NM_001004490	OR2	"Olfactory receptors, family 2"	149
+15001	OR2AJ1	olfactory receptor family 2 subfamily AJ member 1	Approved	OR2AJ1P	OR2AJ1Q	1q44		NM_001355235	OR2	"Olfactory receptors, family 2"	149
+19569	OR2AK2	olfactory receptor family 2 subfamily AK member 2	Approved	OR2AK1P		1q44	BK004457	NM_001004491	OR2	"Olfactory receptors, family 2"	149
+15335	OR2AP1	olfactory receptor family 2 subfamily AP member 1	Approved	OR2AP1P		12q13.2	BK004260		OR2	"Olfactory receptors, family 2"	149
+19620	OR2AT4	olfactory receptor family 2 subfamily AT member 4	Approved			11q13.4	BK004820	NM_001005285	OR2	"Olfactory receptors, family 2"	149
+31249	OR2B11	olfactory receptor family 2 subfamily B member 11	Approved			1q44		NM_001004492	OR2	"Olfactory receptors, family 2"	149
+13966	OR2B2	olfactory receptor family 2 subfamily B member 2	Approved	OR2B9	"hs6M1-10, OR6-1, OR2B2Q"	6p22.1	Z98744		OR2	"Olfactory receptors, family 2"	149
+8238	OR2B3	olfactory receptor family 2 subfamily B member 3	Approved	OR2B3P	OR6-4	6p22.1			OR2	"Olfactory receptors, family 2"	149
+8241	OR2B6	olfactory receptor family 2 subfamily B member 6	Approved	"OR2B6P, OR2B1, OR2B1P, OR2B5"	"OR6-31, dJ408B20.2, OR5-40, OR5-41"	6p22.1	U86275		OR2	"Olfactory receptors, family 2"	149
+8242	OR2C1	olfactory receptor family 2 subfamily C member 1	Approved	OR2C2P	OLFmf3	16p13.3	AF098664		OR2	"Olfactory receptors, family 2"	149
+15005	OR2C3	olfactory receptor family 2 subfamily C member 3	Approved	"OR2C4, OR2C5P"	OST742	1q44	BC030717	NM_198074	OR2	"Olfactory receptors, family 2"	149
+8244	OR2D2	olfactory receptor family 2 subfamily D member 2	Approved	OR2D1	"OR11-610, hg27"	11p15.4	AB065824	NM_003700	OR2	"Olfactory receptors, family 2"	149
+15146	OR2D3	olfactory receptor family 2 subfamily D member 3	Approved			11p15.4	BK004294	NM_001004684	OR2	"Olfactory receptors, family 2"	149
+8247	OR2F2	olfactory receptor family 2 subfamily F member 2	Approved		OR7-1	7q35			OR2	"Olfactory receptors, family 2"	149
+15007	OR2G2	olfactory receptor family 2 subfamily G member 2	Approved			1q44	BK004472		OR2	"Olfactory receptors, family 2"	149
+15008	OR2G3	olfactory receptor family 2 subfamily G member 3	Approved			1q44	BK004417		OR2	"Olfactory receptors, family 2"	149
+27019	OR2G6	olfactory receptor family 2 subfamily G member 6	Approved			1q44		XM_372842	OR2	"Olfactory receptors, family 2"	149
+8252	OR2H1	olfactory receptor family 2 subfamily H member 1	Approved	"OR2H6, OR2H8"	OR6-2	6p22.1	AF044491		OR2	"Olfactory receptors, family 2"	149
+8253	OR2H2	olfactory receptor family 2 subfamily H member 2	Approved		hs6M1-12	6p22.1			OR2	"Olfactory receptors, family 2"	149
+8260	OR2J2	olfactory receptor family 2 subfamily J member 2	Approved		"OR6-8, hs6M1-6, dJ80I19.4"	6p22.1			OR2	"Olfactory receptors, family 2"	149
+8261	OR2J3	olfactory receptor family 2 subfamily J member 3	Approved		OR6-6	6p22.1			OR2	"Olfactory receptors, family 2"	149
+8264	OR2K2	olfactory receptor family 2 subfamily K member 2	Approved	OR2AR1P	"HTPCRH06, HSHTPCRH06"	9q31.3	X64977	NM_205859	OR2	"Olfactory receptors, family 2"	149
+19578	OR2L13	olfactory receptor family 2 subfamily L member 13	Approved	OR2L14		1q44	BC028158	NM_175911	OR2	"Olfactory receptors, family 2"	149
+8266	OR2L2	olfactory receptor family 2 subfamily L member 2	Approved	"OR2L4P, OR2L12"	"HTPCRH07, HSHTPCRH07"	1q44	X64978	NM_001004686	OR2	"Olfactory receptors, family 2"	149
+15009	OR2L3	olfactory receptor family 2 subfamily L member 3	Approved			1q44	AB065950	NM_001004687	OR2	"Olfactory receptors, family 2"	149
+15011	OR2L5	olfactory receptor family 2 subfamily L member 5	Approved	"OR2L11, OR2L5P"		1q44			OR2	"Olfactory receptors, family 2"	149
+8268	OR2M2	olfactory receptor family 2 subfamily M member 2	Approved		"OST423, OR2M2Q"	1q44	AF399616	NM_001004688	OR2	"Olfactory receptors, family 2"	149
+8269	OR2M3	olfactory receptor family 2 subfamily M member 3	Approved	"OR2M6, OR2M3P"	OST003	1q44		NM_001004689	OR2	"Olfactory receptors, family 2"	149
+8270	OR2M4	olfactory receptor family 2 subfamily M member 4	Approved		"HTPCRX18, TPCR100, HSHTPCRX18, OST710"	1q44	X64992	NM_017504	OR2	"Olfactory receptors, family 2"	149
+19576	OR2M5	olfactory receptor family 2 subfamily M member 5	Approved	OR2M5P		1q44		NM_001004690	OR2	"Olfactory receptors, family 2"	149
+19594	OR2M7	olfactory receptor family 2 subfamily M member 7	Approved			1q44	BK004486	NM_001004691	OR2	"Olfactory receptors, family 2"	149
+8277	OR2T1	olfactory receptor family 2 subfamily T member 1	Approved		OR1-25	1q44	U86215		OR2	"Olfactory receptors, family 2"	149
+19573	OR2T10	olfactory receptor family 2 subfamily T member 10	Approved			1q44		NM_001004693	OR2	"Olfactory receptors, family 2"	149
+19592	OR2T12	olfactory receptor family 2 subfamily T member 12	Approved			1q44	BK004485	NM_001004692	OR2	"Olfactory receptors, family 2"	149
+14725	OR2T2	olfactory receptor family 2 subfamily T member 2	Approved	OR2T2P		1q44	BK004462	NM_001004136	OR2	"Olfactory receptors, family 2"	149
+31252	OR2T27	olfactory receptor family 2 subfamily T member 27	Approved			1q44		NM_001001824	OR2	"Olfactory receptors, family 2"	149
+31253	OR2T29	olfactory receptor family 2 subfamily T member 29	Approved			1q44		NM_001004694	OR2	"Olfactory receptors, family 2"	149
+14727	OR2T3	olfactory receptor family 2 subfamily T member 3	Approved			1q44		NM_001005495	OR2	"Olfactory receptors, family 2"	149
+31255	OR2T33	olfactory receptor family 2 subfamily T member 33	Approved			1q44		NM_001004695	OR2	"Olfactory receptors, family 2"	149
+31256	OR2T34	olfactory receptor family 2 subfamily T member 34	Approved			1q44	BK004477	NM_001001821	OR2	"Olfactory receptors, family 2"	149
+31257	OR2T35	olfactory receptor family 2 subfamily T member 35	Approved			1q44	BK004475	NM_001001827	OR2	"Olfactory receptors, family 2"	149
+15016	OR2T4	olfactory receptor family 2 subfamily T member 4	Approved		OR2T4Q	1q44	BK004464	NM_001004696	OR2	"Olfactory receptors, family 2"	149
+15017	OR2T5	olfactory receptor family 2 subfamily T member 5	Approved			1q44	BK004465	NM_001004697	OR2	"Olfactory receptors, family 2"	149
+15018	OR2T6	olfactory receptor family 2 subfamily T member 6	Approved	"OR2T6P, OR2T9"	OST703	1q44	AF399481	NM_001005471	OR2	"Olfactory receptors, family 2"	149
+15019	OR2T7	olfactory receptor family 2 subfamily T member 7	Approved	OR2T7P	OST723	1q44			OR2	"Olfactory receptors, family 2"	149
+15020	OR2T8	olfactory receptor family 2 subfamily T member 8	Approved	OR2T8P		1q44		NM_001005522	OR2	"Olfactory receptors, family 2"	149
+8280	OR2V1	olfactory receptor family 2 subfamily V member 1	Approved	OR2V1P	OST265	5q35.3	AB065465		OR2	"Olfactory receptors, family 2"	149
+15341	OR2V2	olfactory receptor family 2 subfamily V member 2	Approved	OR2V3	OST713	5q35.3	AL161615		OR2	"Olfactory receptors, family 2"	149
+8281	OR2W1	olfactory receptor family 2 subfamily W member 1	Approved		hs6M1-15	6p22.1	AL035402		OR2	"Olfactory receptors, family 2"	149
+15021	OR2W3	olfactory receptor family 2 subfamily W member 3	Approved	"OR2W8P, OR2W3P"	OST718	1q44	N75737	NM_001001957	OR2	"Olfactory receptors, family 2"	149
+14837	OR2Y1	olfactory receptor family 2 subfamily Y member 1	Approved			5q35.3	AB065676	XM_068682	OR2	"Olfactory receptors, family 2"	149
+15391	OR2Z1	olfactory receptor family 2 subfamily Z member 1	Approved	OR2Z2		19p13.2	AC008753		OR2	"Olfactory receptors, family 2"	149
+8282	OR3A1	olfactory receptor family 3 subfamily A member 1	Approved		"OLFRA03, OR40, OR17-40"	17p13.3	X80391		OR3	"Olfactory receptors, family 3"	150
+8283	OR3A2	olfactory receptor family 3 subfamily A member 2	Approved		"OLFRA04, OR228, OR17-228"	17p13.3	U04713		OR3	"Olfactory receptors, family 3"	150
+8284	OR3A3	olfactory receptor family 3 subfamily A member 3	Approved	"OR3A6, OR3A7, OR3A8P"	"OR17-201, OR17-137, OR17-16"	17p13.2	U04688		OR3	"Olfactory receptors, family 3"	150
+15152	OR4A15	olfactory receptor family 4 subfamily A member 15	Approved			11q11	AB065776	NM_001005275	OR4	"Olfactory receptors, family 4"	151
+15153	OR4A16	olfactory receptor family 4 subfamily A member 16	Approved		OR4A16Q	11q11	AB065519	NM_001005274	OR4	"Olfactory receptors, family 4"	151
+31266	OR4A47	olfactory receptor family 4 subfamily A member 47	Approved			11p11.2	BK004380	NM_001005512	OR4	"Olfactory receptors, family 4"	151
+15162	OR4A5	olfactory receptor family 4 subfamily A member 5	Approved			11q11	AB065506	NM_001005272	OR4	"Olfactory receptors, family 4"	151
+8290	OR4B1	olfactory receptor family 4 subfamily B member 1	Approved		OST208	11p11.2	AB065848	NM_001005470	OR4	"Olfactory receptors, family 4"	151
+15167	OR4C11	olfactory receptor family 4 subfamily C member 11	Approved	OR4C11P		11q11	AB065774	NM_001004700	OR4	"Olfactory receptors, family 4"	151
+15168	OR4C12	olfactory receptor family 4 subfamily C member 12	Approved			11p11.12	BK004413	NM_001005270	OR4	"Olfactory receptors, family 4"	151
+15169	OR4C13	olfactory receptor family 4 subfamily C member 13	Approved			11p11.12	AB065750	NM_001001955	OR4	"Olfactory receptors, family 4"	151
+15171	OR4C15	olfactory receptor family 4 subfamily C member 15	Approved			11q11	BK004319	NM_001001920	OR4	"Olfactory receptors, family 4"	151
+14697	OR4C3	olfactory receptor family 4 subfamily C member 3	Approved			11p11.2	AB065567	NM_001004702	OR4	"Olfactory receptors, family 4"	151
+31271	OR4C46	olfactory receptor family 4 subfamily C member 46	Approved			11q11		NM_001004703	OR4	"Olfactory receptors, family 4"	151
+14743	OR4C6	olfactory receptor family 4 subfamily C member 6	Approved			11q11	CR593785	NM_001004704	OR4	"Olfactory receptors, family 4"	151
+8293	OR4D1	olfactory receptor family 4 subfamily D member 1	Approved	OR4D3	TPCR16	17q22	X89670		OR4	"Olfactory receptors, family 4"	151
+15173	OR4D10	olfactory receptor family 4 subfamily D member 10	Approved	OR4D10P	OST711	11q12.1	AB065808	NM_001004705	OR4	"Olfactory receptors, family 4"	151
+15174	OR4D11	olfactory receptor family 4 subfamily D member 11	Approved	OR4D11P		11q12.1	AB065810	NM_001004706	OR4	"Olfactory receptors, family 4"	151
+8294	OR4D2	olfactory receptor family 4 subfamily D member 2	Approved			17q22			OR4	"Olfactory receptors, family 4"	151
+14852	OR4D5	olfactory receptor family 4 subfamily D member 5	Approved			11q24.1	BK004316	NM_001001965	OR4	"Olfactory receptors, family 4"	151
+15175	OR4D6	olfactory receptor family 4 subfamily D member 6	Approved			11q12.1	AB065803	NM_001004708	OR4	"Olfactory receptors, family 4"	151
+15178	OR4D9	olfactory receptor family 4 subfamily D member 9	Approved			11q12.1	AB065861	NM_001004711	OR4	"Olfactory receptors, family 4"	151
+8297	OR4E2	olfactory receptor family 4 subfamily E member 2	Approved			14q11.2			OR4	"Olfactory receptors, family 4"	151
+15078	OR4F15	olfactory receptor family 4 subfamily F member 15	Approved			15q26.3	BK004405	NM_001001674	OR4	"Olfactory receptors, family 4"	151
+15079	OR4F16	olfactory receptor family 4 subfamily F member 16	Approved			1p36.33		NM_001005277	OR4	"Olfactory receptors, family 4"	151
+15381	OR4F17	olfactory receptor family 4 subfamily F member 17	Approved	"OR4F19, OR4F11P, OR4F18"		19p13.3	AC005605		OR4	"Olfactory receptors, family 4"	151
+19583	OR4F21	olfactory receptor family 4 subfamily F member 21	Approved	OR4F21P		8p23.3			OR4	"Olfactory receptors, family 4"	151
+31275	OR4F29	olfactory receptor family 4 subfamily F member 29	Approved			1p36.33		NM_001005221	OR4	"Olfactory receptors, family 4"	151
+8300	OR4F3	olfactory receptor family 4 subfamily F member 3	Approved			5q35.3	AC004908		OR4	"Olfactory receptors, family 4"	151
+8301	OR4F4	olfactory receptor family 4 subfamily F member 4	Approved		OR4F18	15q26.3		NM_001004195	OR4	"Olfactory receptors, family 4"	151
+14825	OR4F5	olfactory receptor family 4 subfamily F member 5	Approved			1p36.33	AB065592	NM_001005484	OR4	"Olfactory receptors, family 4"	151
+15372	OR4F6	olfactory receptor family 4 subfamily F member 6	Approved	OR4F12		15q26.3	AC025234		OR4	"Olfactory receptors, family 4"	151
+14726	OR4K1	olfactory receptor family 4 subfamily K member 1	Approved			14q11.2			OR4	"Olfactory receptors, family 4"	151
+15351	OR4K13	olfactory receptor family 4 subfamily K member 13	Approved			14q11.2			OR4	"Olfactory receptors, family 4"	151
+15352	OR4K14	olfactory receptor family 4 subfamily K member 14	Approved			14q11.2			OR4	"Olfactory receptors, family 4"	151
+15353	OR4K15	olfactory receptor family 4 subfamily K member 15	Approved		OR4K15Q	14q11.2			OR4	"Olfactory receptors, family 4"	151
+15355	OR4K17	olfactory receptor family 4 subfamily K member 17	Approved			14q11.2			OR4	"Olfactory receptors, family 4"	151
+14728	OR4K2	olfactory receptor family 4 subfamily K member 2	Approved			14q11.2			OR4	"Olfactory receptors, family 4"	151
+14745	OR4K5	olfactory receptor family 4 subfamily K member 5	Approved			14q11.22	BK004355	NM_001005483	OR4	"Olfactory receptors, family 4"	151
+15356	OR4L1	olfactory receptor family 4 subfamily L member 1	Approved	OR4L2P		14q11.2			OR4	"Olfactory receptors, family 4"	151
+14735	OR4M1	olfactory receptor family 4 subfamily M member 1	Approved			14q11.2			OR4	"Olfactory receptors, family 4"	151
+15373	OR4M2	olfactory receptor family 4 subfamily M member 2	Approved			15q11.2	AC060768		OR4	"Olfactory receptors, family 4"	151
+14742	OR4N2	olfactory receptor family 4 subfamily N member 2	Approved			14q11.2			OR4	"Olfactory receptors, family 4"	151
+15375	OR4N4	olfactory receptor family 4 subfamily N member 4	Approved			15q11.2	AI018459		OR4	"Olfactory receptors, family 4"	151
+15358	OR4N5	olfactory receptor family 4 subfamily N member 5	Approved			14q11.2			OR4	"Olfactory receptors, family 4"	151
+15180	OR4P4	olfactory receptor family 4 subfamily P member 4	Approved	OR4P3P		11q11	AB065775	NM_001004124	OR4	"Olfactory receptors, family 4"	151
+15426	OR4Q3	olfactory receptor family 4 subfamily Q member 3	Approved	OR4Q4	C14orf13	14p13	AF179768		OR4	"Olfactory receptors, family 4"	151
+14705	OR4S1	olfactory receptor family 4 subfamily S member 1	Approved			11p11.2	AB065908	NM_001004725	OR4	"Olfactory receptors, family 4"	151
+15183	OR4S2	olfactory receptor family 4 subfamily S member 2	Approved	OR4S2P	OST725	11q11	BK004390	NM_001004059	OR4	"Olfactory receptors, family 4"	151
+8319	OR5A1	olfactory receptor family 5 subfamily A member 1	Approved	OR5A1P	OST181	11q12.1	AB065804	NM_001004728	OR5	"Olfactory receptors, family 5"	152
+15249	OR5A2	olfactory receptor family 5 subfamily A member 2	Approved			11q12.1	AB065805	NM_001001954	OR5	"Olfactory receptors, family 5"	152
+15431	OR5AC2	olfactory receptor family 5 subfamily AC member 2	Approved		HSA1	3q11.2	AF179759		OR5	"Olfactory receptors, family 5"	152
+15251	OR5AK2	olfactory receptor family 5 subfamily AK member 2	Approved			11q12.1	AB065496	NM_001005323	OR5	"Olfactory receptors, family 5"	152
+15255	OR5AN1	olfactory receptor family 5 subfamily AN member 1	Approved			11q12.1	AB065806	NM_001004729	OR5	"Olfactory receptors, family 5"	152
+15258	OR5AP2	olfactory receptor family 5 subfamily AP member 2	Approved			11q12.1	AB065854	NM_001002925	OR5	"Olfactory receptors, family 5"	152
+15261	OR5AS1	olfactory receptor family 5 subfamily AS member 1	Approved			11q12.1	AB065543	NM_001001921	OR5	"Olfactory receptors, family 5"	152
+15362	OR5AU1	olfactory receptor family 5 subfamily AU member 1	Approved			14q11.2	AL157687		OR5	"Olfactory receptors, family 5"	152
+15432	OR5B12	olfactory receptor family 5 subfamily B member 12	Approved	"OR5B12P, OR5B16"	OST743	11q12.1	AB065851	NM_001004733	OR5	"Olfactory receptors, family 5"	152
+15267	OR5B17	olfactory receptor family 5 subfamily B member 17	Approved	OR5B20P		11q12.1	AB065849	NM_001005489	OR5	"Olfactory receptors, family 5"	152
+8323	OR5B2	olfactory receptor family 5 subfamily B member 2	Approved		OST073	11q12.1	AB065852	NM_001005566	OR5	"Olfactory receptors, family 5"	152
+19616	OR5B21	olfactory receptor family 5 subfamily B member 21	Approved			11q12.1		NM_001005218	OR5	"Olfactory receptors, family 5"	152
+8324	OR5B3	olfactory receptor family 5 subfamily B member 3	Approved	OR5B13	OST129	11q12.1	AB065545	NM_001005469	OR5	"Olfactory receptors, family 5"	152
+8331	OR5C1	olfactory receptor family 5 subfamily C member 1	Approved	OR5C2P	"OR9-F, hRPK-465_F_21"	9q33.2	AF399514		OR5	"Olfactory receptors, family 5"	152
+15281	OR5D14	olfactory receptor family 5 subfamily D member 14	Approved			11q11	AB065779	NM_001004735	OR5	"Olfactory receptors, family 5"	152
+15283	OR5D16	olfactory receptor family 5 subfamily D member 16	Approved			11q12.1	AB065783	NM_001005496	OR5	"Olfactory receptors, family 5"	152
+15285	OR5D18	olfactory receptor family 5 subfamily D member 18	Approved			11q12.1	AB065781	NM_001001952	OR5	"Olfactory receptors, family 5"	152
+8343	OR5F1	olfactory receptor family 5 subfamily F member 1	Approved		OR11-10	11q12.1	AF065863	NM_003697	OR5	"Olfactory receptors, family 5"	152
+8346	OR5H1	olfactory receptor family 5 subfamily H member 1	Approved		"HTPCRX14, HSHTPCRX14"	3q11.2	X64988	NM_001005338	OR5	"Olfactory receptors, family 5"	152
+31286	OR5H14	olfactory receptor family 5 subfamily H member 14	Approved			3q11.2			OR5	"Olfactory receptors, family 5"	152
+31287	OR5H15	olfactory receptor family 5 subfamily H member 15	Approved			3q11.2			OR5	"Olfactory receptors, family 5"	152
+14752	OR5H2	olfactory receptor family 5 subfamily H member 2	Approved			3q11.2			OR5	"Olfactory receptors, family 5"	152
+8347	OR5I1	olfactory receptor family 5 subfamily I member 1	Approved		"HSOlf1, OLF1"	11q12.1	BC069093	NM_006637	OR5	"Olfactory receptors, family 5"	152
+19612	OR5J2	olfactory receptor family 5 subfamily J member 2	Approved			11q12.1	AB065595	NM_001005492	OR5	"Olfactory receptors, family 5"	152
+8349	OR5K1	olfactory receptor family 5 subfamily K member 1	Approved		"HTPCRX10, HSHTPCRX10"	3q11.2	X64984		OR5	"Olfactory receptors, family 5"	152
+14774	OR5K2	olfactory receptor family 5 subfamily K member 2	Approved			3q11.2	AC021660		OR5	"Olfactory receptors, family 5"	152
+31290	OR5K3	olfactory receptor family 5 subfamily K member 3	Approved			3q11.2			OR5	"Olfactory receptors, family 5"	152
+31291	OR5K4	olfactory receptor family 5 subfamily K member 4	Approved			3q11.2			OR5	"Olfactory receptors, family 5"	152
+8351	OR5L2	olfactory receptor family 5 subfamily L member 2	Approved		"HTPCRX16, HSHTPCRX16"	11q12.1	AB065782	NM_001004739	OR5	"Olfactory receptors, family 5"	152
+8352	OR5M1	olfactory receptor family 5 subfamily M member 1	Approved		OST050	11q11	AB065742	NM_001004740	OR5	"Olfactory receptors, family 5"	152
+15290	OR5M10	olfactory receptor family 5 subfamily M member 10	Approved			11q11	BK004515	NM_001004741	OR5	"Olfactory receptors, family 5"	152
+15291	OR5M11	olfactory receptor family 5 subfamily M member 11	Approved		OR11-199	11q11	AP002517	NM_001005245	OR5	"Olfactory receptors, family 5"	152
+14806	OR5M3	olfactory receptor family 5 subfamily M member 3	Approved			11q12.1	AB065746	NM_001004742	OR5	"Olfactory receptors, family 5"	152
+14846	OR5M8	olfactory receptor family 5 subfamily M member 8	Approved			11q12.1	AB065744	NM_001005282	OR5	"Olfactory receptors, family 5"	152
+15294	OR5M9	olfactory receptor family 5 subfamily M member 9	Approved			11q12.1	AB065747	NM_001004743	OR5	"Olfactory receptors, family 5"	152
+14783	OR5P2	olfactory receptor family 5 subfamily P member 2	Approved		JCG3	11p15.4	AF173006	NM_153444	OR5	"Olfactory receptors, family 5"	152
+14784	OR5P3	olfactory receptor family 5 subfamily P member 3	Approved		JCG1	11p15.4	AF158377	NM_153445	OR5	"Olfactory receptors, family 5"	152
+14821	OR5T1	olfactory receptor family 5 subfamily T member 1	Approved	OR5T1P		11q12.1	AB065962	NM_001004745	OR5	"Olfactory receptors, family 5"	152
+15296	OR5T2	olfactory receptor family 5 subfamily T member 2	Approved			11q12.1	AB065838	NM_001004746	OR5	"Olfactory receptors, family 5"	152
+15297	OR5T3	olfactory receptor family 5 subfamily T member 3	Approved		OR5T3Q	11q12.1	AB065837	NM_001004747	OR5	"Olfactory receptors, family 5"	152
+13972	OR5V1	olfactory receptor family 5 subfamily V member 1	Approved		hs6M1-21	6p22.1			OR5	"Olfactory receptors, family 5"	152
+15299	OR5W2	olfactory receptor family 5 subfamily W member 2	Approved	"OR5W2P, OR5W3P"		11q12.1	BK004398	NM_001001960	OR5	"Olfactory receptors, family 5"	152
+14764	OR51A2	olfactory receptor family 51 subfamily A member 2	Approved			11p15.4	AB065797	NM_001004748	OR51	"Olfactory receptors, family 51"	164
+14795	OR51A4	olfactory receptor family 51 subfamily A member 4	Approved			11p15.4	AB065798	NM_001005329	OR51	"Olfactory receptors, family 51"	164
+15188	OR51A7	olfactory receptor family 51 subfamily A member 7	Approved			11p15.4	AB065525	NM_001004749	OR51	"Olfactory receptors, family 51"	164
+14708	OR51B4	olfactory receptor family 51 subfamily B member 4	Approved			11p15.4	BC069094	NM_033179	OR51	"Olfactory receptors, family 51"	164
+19599	OR51B5	olfactory receptor family 51 subfamily B member 5	Approved			11p15.4	BK004430	NM_001005567	OR51	"Olfactory receptors, family 51"	164
+19600	OR51B6	olfactory receptor family 51 subfamily B member 6	Approved			11p15.4		NM_001004750	OR51	"Olfactory receptors, family 51"	164
+15193	OR51D1	olfactory receptor family 51 subfamily D member 1	Approved		OR51D1Q	11p15.4	AB065855	NM_001004751	OR51	"Olfactory receptors, family 51"	164
+15194	OR51E1	olfactory receptor family 51 subfamily E member 1	Approved	"OR51E1P, OR52A3P, GPR164"	GPR136	11p15.4	AY775731	NM_152430	OR51	"Olfactory receptors, family 51"	164
+15195	OR51E2	olfactory receptor family 51 subfamily E member 2	Approved		PSGR	11p15.4	AY033942	NM_030774	OR51	"Olfactory receptors, family 51"	164
+15197	OR51F2	olfactory receptor family 51 subfamily F member 2	Approved			11p15.4	BK004281	NM_001004753	OR51	"Olfactory receptors, family 51"	164
+15198	OR51G2	olfactory receptor family 51 subfamily G member 2	Approved			11p15.4	AB065794	NM_001005238	OR51	"Olfactory receptors, family 51"	164
+14833	OR51H1	olfactory receptor family 51 subfamily H member 1	Approved	OR51H1P		11p15.4			OR51	"Olfactory receptors, family 51"	164
+15200	OR51I1	olfactory receptor family 51 subfamily I member 1	Approved			11p15.4	BK004429	NM_001005288	OR51	"Olfactory receptors, family 51"	164
+15201	OR51I2	olfactory receptor family 51 subfamily I member 2	Approved			11p15.4	BK004381	NM_001004754	OR51	"Olfactory receptors, family 51"	164
+14759	OR51L1	olfactory receptor family 51 subfamily L member 1	Approved			11p15.4	AB065799	NM_001004755	OR51	"Olfactory receptors, family 51"	164
+14847	OR51M1	olfactory receptor family 51 subfamily M member 1	Approved			11p15.4	BK004382	NM_001004756	OR51	"Olfactory receptors, family 51"	164
+15204	OR51S1	olfactory receptor family 51 subfamily S member 1	Approved			11p15.4	AB065796	NM_001004758	OR51	"Olfactory receptors, family 51"	164
+15205	OR51T1	olfactory receptor family 51 subfamily T member 1	Approved			11p15.4	BK004283	NM_001004759	OR51	"Olfactory receptors, family 51"	164
+19597	OR51V1	olfactory receptor family 51 subfamily V member 1	Approved	OR51A12		11p15.4	BK004432	NM_001004760	OR51	"Olfactory receptors, family 51"	164
+8318	OR52A1	olfactory receptor family 52 subfamily A member 1	Approved		HPFH1OR	11p15.4	AF154673	NM_012375	OR52	"Olfactory receptors, family 52"	165
+19580	OR52A5	olfactory receptor family 52 subfamily A member 5	Approved			11p15.4	BK004433	NM_001005160	OR52	"Olfactory receptors, family 52"	165
+15207	OR52B2	olfactory receptor family 52 subfamily B member 2	Approved			11p15.4	AB065763	NM_001004052	OR52	"Olfactory receptors, family 52"	165
+15211	OR52B6	olfactory receptor family 52 subfamily B member 6	Approved			11p15.4	AB065858	NM_001005162	OR52	"Olfactory receptors, family 52"	165
+15212	OR52D1	olfactory receptor family 52 subfamily D member 1	Approved			11p15.4	BK004276	NM_001005163	OR52	"Olfactory receptors, family 52"	165
+14769	OR52E2	olfactory receptor family 52 subfamily E member 2	Approved			11p15.4	AB065800	NM_001005164	OR52	"Olfactory receptors, family 52"	165
+15213	OR52E4	olfactory receptor family 52 subfamily E member 4	Approved			11p15.4	AB065817	NM_001005165	OR52	"Olfactory receptors, family 52"	165
+15214	OR52E5	olfactory receptor family 52 subfamily E member 5	Approved			11p15.4	AB065536	NM_001005166	OR52	"Olfactory receptors, family 52"	165
+15215	OR52E6	olfactory receptor family 52 subfamily E member 6	Approved			11p15.4	AB065815	NM_001005167	OR52	"Olfactory receptors, family 52"	165
+15217	OR52E8	olfactory receptor family 52 subfamily E member 8	Approved			11p15.4	BK004301	NM_001005168	OR52	"Olfactory receptors, family 52"	165
+15218	OR52H1	olfactory receptor family 52 subfamily H member 1	Approved			11p15.4	AB065802	NM_001005289	OR52	"Olfactory receptors, family 52"	165
+15220	OR52I1	olfactory receptor family 52 subfamily I member 1	Approved			11p15.4	BK004371	NM_001005169	OR52	"Olfactory receptors, family 52"	165
+15221	OR52I2	olfactory receptor family 52 subfamily I member 2	Approved			11p15.4	BK004264	NM_001005170	OR52	"Olfactory receptors, family 52"	165
+14799	OR52J3	olfactory receptor family 52 subfamily J member 3	Approved			11p15.4	AB065530	NM_001001916	OR52	"Olfactory receptors, family 52"	165
+15222	OR52K1	olfactory receptor family 52 subfamily K member 1	Approved			11p15.4	AB065790	NM_001005171	OR52	"Olfactory receptors, family 52"	165
+15223	OR52K2	olfactory receptor family 52 subfamily K member 2	Approved			11p15.4	AB065791	NM_001005172	OR52	"Olfactory receptors, family 52"	165
+14785	OR52L1	olfactory receptor family 52 subfamily L member 1	Approved			11p15.4	AB065819	NM_001005173	OR52	"Olfactory receptors, family 52"	165
+15225	OR52M1	olfactory receptor family 52 subfamily M member 1	Approved	OR52M1P		11p15.4	AB065789	NM_001004137	OR52	"Olfactory receptors, family 52"	165
+14853	OR52N1	olfactory receptor family 52 subfamily N member 1	Approved			11p15.4	AB065538	NM_001001913	OR52	"Olfactory receptors, family 52"	165
+15228	OR52N2	olfactory receptor family 52 subfamily N member 2	Approved			11p15.4	AB065816	NM_001005174	OR52	"Olfactory receptors, family 52"	165
+15231	OR52N5	olfactory receptor family 52 subfamily N member 5	Approved		OR52N5Q	11p15.4	AB065535	NM_001001922	OR52	"Olfactory receptors, family 52"	165
+15239	OR52W1	olfactory receptor family 52 subfamily W member 1	Approved	OR52W1P		11p15.4	AB065511	NM_001005178	OR52	"Olfactory receptors, family 52"	165
+14781	OR56A1	olfactory receptor family 56 subfamily A member 1	Approved			11p15.4	AB065821	NM_001001917	OR56	"Olfactory receptors, family 56"	167
+14786	OR56A3	olfactory receptor family 56 subfamily A member 3	Approved	"OR56A6, OR56A3P"		11p15.4		NM_001003443	OR56	"Olfactory receptors, family 56"	167
+14791	OR56A4	olfactory receptor family 56 subfamily A member 4	Approved			11p15.4	BK004255	NM_001005179	OR56	"Olfactory receptors, family 56"	167
+14792	OR56A5	olfactory receptor family 56 subfamily A member 5	Approved	OR56A5P		11p15.4		XM_001715165	OR56	"Olfactory receptors, family 56"	167
+15245	OR56B1	olfactory receptor family 56 subfamily B member 1	Approved	OR56B1P		11p15.4	BK004386	NM_001005180	OR56	"Olfactory receptors, family 56"	167
+15248	OR56B4	olfactory receptor family 56 subfamily B member 4	Approved			11p15.4	AB065513	NM_001005181	OR56	"Olfactory receptors, family 56"	167
+15301	OR6A2	olfactory receptor family 6 subfamily A member 2	Approved	"OR6A2P, OR6A1"	OR11-55	11p15.4	AB065822	NM_003696	OR6	"Olfactory receptors, family 6"	153
+8354	OR6B1	olfactory receptor family 6 subfamily B member 1	Approved		OR7-3	7q35			OR6	"Olfactory receptors, family 6"	153
+15041	OR6B2	olfactory receptor family 6 subfamily B member 2	Approved	OR6B2P		2q37.3		NM_001005853	OR6	"Olfactory receptors, family 6"	153
+15042	OR6B3	olfactory receptor family 6 subfamily B member 3	Approved	OR6B3P	OR6B3Q	2q37.3			OR6	"Olfactory receptors, family 6"	153
+8355	OR6C1	olfactory receptor family 6 subfamily C member 1	Approved		OST267	12q13.2	AF399506	NM_001005182	OR6	"Olfactory receptors, family 6"	153
+15436	OR6C2	olfactory receptor family 6 subfamily C member 2	Approved		OR6C67	12q13.2	AF179766	NM_054105	OR6	"Olfactory receptors, family 6"	153
+15437	OR6C3	olfactory receptor family 6 subfamily C member 3	Approved		OST709	12q13.2	AF179770		OR6	"Olfactory receptors, family 6"	153
+19632	OR6C4	olfactory receptor family 6 subfamily C member 4	Approved			12q13.2	BK004261		OR6	"Olfactory receptors, family 6"	153
+31293	OR6C6	olfactory receptor family 6 subfamily C member 6	Approved			12q13.2			OR6	"Olfactory receptors, family 6"	153
+31295	OR6C65	olfactory receptor family 6 subfamily C member 65	Approved			12q13.2			OR6	"Olfactory receptors, family 6"	153
+31297	OR6C68	olfactory receptor family 6 subfamily C member 68	Approved			12q13.2			OR6	"Olfactory receptors, family 6"	153
+31299	OR6C70	olfactory receptor family 6 subfamily C member 70	Approved			12q13.2			OR6	"Olfactory receptors, family 6"	153
+31303	OR6C74	olfactory receptor family 6 subfamily C member 74	Approved			12q13.2			OR6	"Olfactory receptors, family 6"	153
+31304	OR6C75	olfactory receptor family 6 subfamily C member 75	Approved			12q13.2			OR6	"Olfactory receptors, family 6"	153
+31305	OR6C76	olfactory receptor family 6 subfamily C member 76	Approved			12q13.2		NM_001005183	OR6	"Olfactory receptors, family 6"	153
+15027	OR6F1	olfactory receptor family 6 subfamily F member 1	Approved		OST731	1q44	BK004460	NM_001005286	OR6	"Olfactory receptors, family 6"	153
+15029	OR6K2	olfactory receptor family 6 subfamily K member 2	Approved			1q23.1	BK004196	NM_001005279	OR6	"Olfactory receptors, family 6"	153
+15030	OR6K3	olfactory receptor family 6 subfamily K member 3	Approved			1q23.1	AB065633		OR6	"Olfactory receptors, family 6"	153
+15033	OR6K6	olfactory receptor family 6 subfamily K member 6	Approved			1q23.1	BK004198	NM_001005184	OR6	"Olfactory receptors, family 6"	153
+14711	OR6M1	olfactory receptor family 6 subfamily M member 1	Approved			11q24.1	AB065762	NM_001005325	OR6	"Olfactory receptors, family 6"	153
+15034	OR6N1	olfactory receptor family 6 subfamily N member 1	Approved			1q23.1	BK004199	NM_001005185	OR6	"Olfactory receptors, family 6"	153
+15035	OR6N2	olfactory receptor family 6 subfamily N member 2	Approved			1q23.1	BK004200		OR6	"Olfactory receptors, family 6"	153
+15036	OR6P1	olfactory receptor family 6 subfamily P member 1	Approved			1q23.1	BK004193		OR6	"Olfactory receptors, family 6"	153
+15363	OR6S1	olfactory receptor family 6 subfamily S member 1	Approved		OR6S1Q	14q11.2	AL163636		OR6	"Olfactory receptors, family 6"	153
+14848	OR6T1	olfactory receptor family 6 subfamily T member 1	Approved			11q24.1	AB065759	NM_001005187	OR6	"Olfactory receptors, family 6"	153
+15090	OR6V1	olfactory receptor family 6 subfamily V member 1	Approved		GPR138	7q34			OR6	"Olfactory receptors, family 6"	153
+14737	OR6X1	olfactory receptor family 6 subfamily X member 1	Approved			11q24.1	AB065510	NM_001005188	OR6	"Olfactory receptors, family 6"	153
+14823	OR6Y1	olfactory receptor family 6 subfamily Y member 1	Approved	OR6Y2		1q23.1	BK004192	NM_001005189	OR6	"Olfactory receptors, family 6"	153
+8356	OR7A10	olfactory receptor family 7 subfamily A member 10	Approved			19p13.1		NM_001005190	OR7	"Olfactory receptors, family 7"	154
+8363	OR7A17	olfactory receptor family 7 subfamily A member 17	Approved		HTPCRX19	19p13.12	X64993	NM_030901	OR7	"Olfactory receptors, family 7"	154
+8368	OR7A5	olfactory receptor family 7 subfamily A member 5	Approved		HTPCR2	19p13.1	X64976	NM_017506	OR7	"Olfactory receptors, family 7"	154
+8373	OR7C1	olfactory receptor family 7 subfamily C member 1	Approved	OR7C4	OR19-5	19p13.1	X89676		OR7	"Olfactory receptors, family 7"	154
+8374	OR7C2	olfactory receptor family 7 subfamily C member 2	Approved	OR7C3	OR19-18	19p13.1	U86255		OR7	"Olfactory receptors, family 7"	154
+8378	OR7D2	olfactory receptor family 7 subfamily D member 2	Approved		"OR19-4, HTPCRH03, FLJ38149"	19p13.2	AK095468		OR7	"Olfactory receptors, family 7"	154
+8380	OR7D4	olfactory receptor family 7 subfamily D member 4	Approved	OR7D4P	"hg105, OR19-B"	19p13.2			OR7	"Olfactory receptors, family 7"	154
+8396	OR7E24	olfactory receptor family 7 subfamily E member 24	Approved	OR7E24P	"OR19-8, HSHT2, OR7E24Q"	19p13.2	Y10529		OR7	"Olfactory receptors, family 7"	154
+8465	OR7G1	olfactory receptor family 7 subfamily G member 1	Approved	OR7G1P	OR19-15	19p13.2			OR7	"Olfactory receptors, family 7"	154
+8466	OR7G2	olfactory receptor family 7 subfamily G member 2	Approved		OST260	19p13.2			OR7	"Olfactory receptors, family 7"	154
+8467	OR7G3	olfactory receptor family 7 subfamily G member 3	Approved		OST085	19p13.2			OR7	"Olfactory receptors, family 7"	154
+8469	OR8A1	olfactory receptor family 8 subfamily A member 1	Approved		OST025	11q24.2	BK004495	NM_001005194	OR8	"Olfactory receptors, family 8"	155
+15307	OR8B12	olfactory receptor family 8 subfamily B member 12	Approved			11q24.2			OR8	"Olfactory receptors, family 8"	155
+8471	OR8B2	olfactory receptor family 8 subfamily B member 2	Approved			11q24.2	AB065826	NM_001005468	OR8	"Olfactory receptors, family 8"	155
+8472	OR8B3	olfactory receptor family 8 subfamily B member 3	Approved			11q24.2	AB065827	NM_001005467	OR8	"Olfactory receptors, family 8"	155
+8477	OR8B8	olfactory receptor family 8 subfamily B member 8	Approved		TPCR85	11q24.2	AF238488	NM_012378	OR8	"Olfactory receptors, family 8"	155
+8481	OR8D1	olfactory receptor family 8 subfamily D member 1	Approved	OR8D3	OST004	11q24.2	AF238489	NM_001002917	OR8	"Olfactory receptors, family 8"	155
+14840	OR8D4	olfactory receptor family 8 subfamily D member 4	Approved			11q24.1	AB065761	NM_001005197	OR8	"Olfactory receptors, family 8"	155
+19622	OR8G5	olfactory receptor family 8 subfamily G member 5	Approved	"OR8G5P, OR8G6"		11q24.2	BK004516	NM_001005198	OR8	"Olfactory receptors, family 8"	155
+14824	OR8H1	olfactory receptor family 8 subfamily H member 1	Approved			11q12.1	AB065836	NM_001005199	OR8	"Olfactory receptors, family 8"	155
+15308	OR8H2	olfactory receptor family 8 subfamily H member 2	Approved			11q12.1	AB065657	NM_001005200	OR8	"Olfactory receptors, family 8"	155
+15309	OR8H3	olfactory receptor family 8 subfamily H member 3	Approved			11q12.1	AB065840	NM_001005201	OR8	"Olfactory receptors, family 8"	155
+15310	OR8I2	olfactory receptor family 8 subfamily I member 2	Approved			11q12.1	AB065656	NM_001003750	OR8	"Olfactory receptors, family 8"	155
+14855	OR8J1	olfactory receptor family 8 subfamily J member 1	Approved			11q12.1	AB065748	NM_001005205	OR8	"Olfactory receptors, family 8"	155
+15312	OR8J3	olfactory receptor family 8 subfamily J member 3	Approved			11q12.1		NM_001004064	OR8	"Olfactory receptors, family 8"	155
+14831	OR8K1	olfactory receptor family 8 subfamily K member 1	Approved			11q12.1	AB065835	NM_001002907	OR8	"Olfactory receptors, family 8"	155
+15315	OR8K5	olfactory receptor family 8 subfamily K member 5	Approved			11q12.1	BK004347	NM_001004058	OR8	"Olfactory receptors, family 8"	155
+19628	OR8S1	olfactory receptor family 8 subfamily S member 1	Approved			12q13.2			OR8	"Olfactory receptors, family 8"	155
+19611	OR8U1	olfactory receptor family 8 subfamily U member 1	Approved			11q12.1	AB065603	NM_001005204	OR8	"Olfactory receptors, family 8"	155
+27538	OR8U8	olfactory receptor family 8 subfamily U member 8	Approved			11q1 alternate reference locus	JH159136	NM_001013356	OR8	"Olfactory receptors, family 8"	155
+29166	OR8U9	olfactory receptor family 8 subfamily U member 9	Approved			11q1 alternate reference locus	JH159136	NM_001013357	OR8	"Olfactory receptors, family 8"	155
+15093	OR9A2	olfactory receptor family 9 subfamily A member 2	Approved			7q34			OR9	"Olfactory receptors, family 9"	156
+15095	OR9A4	olfactory receptor family 9 subfamily A member 4	Approved			7q34		NM_001001656	OR9	"Olfactory receptors, family 9"	156
+15319	OR9G1	olfactory receptor family 9 subfamily G member 1	Approved	OR9G5		11q12.1	AB065500	NM_001005213	OR9	"Olfactory receptors, family 9"	156
+15322	OR9G4	olfactory receptor family 9 subfamily G member 4	Approved			11q12.1	BK004400	NM_001005284	OR9	"Olfactory receptors, family 9"	156
+31940	OR9G9	olfactory receptor family 9 subfamily G member 9	Approved			11q11 alternate reference locus	JH159137	NM_001013358	OR9	"Olfactory receptors, family 9"	156
+14718	OR9I1	olfactory receptor family 9 subfamily I member 1	Approved			11q12.1	AB065733	NM_001005211	OR9	"Olfactory receptors, family 9"	156
+15339	OR9K2	olfactory receptor family 9 subfamily K member 2	Approved			12q13.2	BK004326		OR9	"Olfactory receptors, family 9"	156
+14724	OR9Q1	olfactory receptor family 9 subfamily Q member 1	Approved			11q12.1	AB065734	NM_001005212	OR9	"Olfactory receptors, family 9"	156
+15328	OR9Q2	olfactory receptor family 9 subfamily Q member 2	Approved	OR9Q2P		11q12.1	AB065859	NM_001005283	OR9	"Olfactory receptors, family 9"	156

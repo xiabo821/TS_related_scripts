@@ -1,0 +1,232 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+163	ACTN1	actinin alpha 1	Approved			14q24.1	M95178	NM_001102	ACTN	Actinins	1112
+164	ACTN2	actinin alpha 2	Approved			1q43	BC047901	NM_001103	ACTN	Actinins	1112
+165	ACTN3	actinin alpha 3 (gene/pseudogene)	Approved			11q13.2	M86407	NM_001104	ACTN	Actinins	1112
+166	ACTN4	actinin alpha 4	Approved	FSGS1		19q13.2	D89980		ACTN	Actinins	1112
+352	AIF1	allograft inflammatory factor 1	Approved		IRT-1, AIF-1, Em:AF129756.17, IBA1	6p21.33	U19713			EF-hand domain containing	863
+28904	AIF1L	allograft inflammatory factor 1 like	Approved	C9orf58	IBA2, FLJ12783	9q34.12-q34.13	AL136566	NM_031426		EF-hand domain containing	863
+15803	ANKEF1	ankyrin repeat and EF-hand domain containing 1	Approved	ANKRD5	FLJ21669, dJ839B4.6	20p12.2	AK025322	NM_022096		EF-hand domain containing	863
+1384	CABP1	calcium binding protein 1	Approved			12q24.31	AF169148	NM_001033677		EF-hand domain containing	863
+1385	CABP2	calcium binding protein 2	Approved	DFNB93		11q13.2	AF169154			EF-hand domain containing	863
+1386	CABP4	calcium binding protein 4	Approved		CSNB2B	11q13.2	AC005849			EF-hand domain containing	863
+13714	CABP5	calcium binding protein 5	Approved	CABP3	CaBP3	19q13.33	AF169159	NM_019855		EF-hand domain containing	863
+20834	CABP7	calcium binding protein 7	Approved		MGC57793	22q12.2	BC051805	NM_182527		EF-hand domain containing	863
+1389	CACNA1B	calcium voltage-gated channel subunit alpha1 B	Approved	CACNL1A5	Cav2.2, CACNN	9q34.3	AB209467	NM_000718		EF-hand domain containing	863
+1392	CACNA1E	calcium voltage-gated channel subunit alpha1 E	Approved	CACNL1A6	Cav2.3, BII, CACH6	1q25.3	AK096563	NM_000721		EF-hand domain containing	863
+1434	CALB1	calbindin 1	Approved	CALB		8q21.3		NM_004929		EF-hand domain containing	863
+1435	CALB2	calbindin 2	Approved		CAL2	16q22.2	X56667	NM_001740		EF-hand domain containing	863
+1442	CALM1	calmodulin 1	Approved	CALML2	CAMI, PHKD, DD132	14q32.11				EF-hand domain containing	863
+1445	CALM2	calmodulin 2	Approved		PHKD, CAMII	2p21		NM_001743		EF-hand domain containing	863
+1449	CALM3	calmodulin 3	Approved		PHKD	19q13.32				EF-hand domain containing	863
+1452	CALML3	calmodulin like 3	Approved		CLP	10p15.1	X13461	NM_005185		EF-hand domain containing	863
+18445	CALML4	calmodulin like 4	Approved		MGC4809, NY-BR-20	15q23	AF308287	NM_033429		EF-hand domain containing	863
+18180	CALML5	calmodulin like 5	Approved		CLSP	10p15.1	AF172852	NM_017422		EF-hand domain containing	863
+24193	CALML6	calmodulin like 6	Approved		CAGLP	1p36.33	AF490905	NM_138705		EF-hand domain containing	863
+13248	CALN1	calneuron 1	Approved		CABP8	7q11.22	AF282250	NM_031468		EF-hand domain containing	863
+1458	CALU	calumenin	Approved			7q32.1	AF013759	NM_001219		EF-hand domain containing	863
+1476	CAPN1	calpain 1	Approved		muCANP, muCL, CANP, CANPL1	11q13.1	X04366			EF-hand domain containing	863
+1478	CAPN11	calpain 11	Approved			6p21.1	AJ242832			EF-hand domain containing	863
+13249	CAPN12	calpain 12	Approved			19q13.2	BC014027			EF-hand domain containing	863
+16664	CAPN14	calpain 14	Approved			2p23.1	AC015980	NM_001145122		EF-hand domain containing	863
+1479	CAPN2	calpain 2	Approved		mCANP, CANPml, CANPL2	1q41	J04700	NM_001748		EF-hand domain containing	863
+1480	CAPN3	calpain 3	Approved	LGMD2, LGMD2A	CANP3, p94, nCL-1	15q15.1	X85030			EF-hand domain containing	863
+1485	CAPN8	calpain 8	Approved		nCL-2	1q41		NM_001143962		EF-hand domain containing	863
+1486	CAPN9	calpain 9	Approved		nCL-4, GC36	1q42.2	AF022799	NM_006615		EF-hand domain containing	863
+1481	CAPNS1	calpain small subunit 1	Approved	CAPN4	CANP, CANPS, 30K, CDPS	19q13.12	X04106			EF-hand domain containing	863
+16371	CAPNS2	calpain small subunit 2	Approved		MGC12536, MGC14804	16q12.2	AY052551	NM_032330		EF-hand domain containing	863
+1487	CAPS	calcyphosine	Approved		CAPS1, MGC126562	19p13.3	X97966	NM_004058		EF-hand domain containing	863
+16471	CAPS2	calcyphosine 2	Approved			12q21.1-q21.2	AF251056			EF-hand domain containing	863
+28375	CAPSL	calcyphosine like	Approved		MGC26610	5p13.2	BC017586	NM_144647		EF-hand domain containing	863
+1866	CETN1	centrin 1	Approved	CETN	CEN1	18p11.32	U03270	NM_004066		EF-hand domain containing	863
+1867	CETN2	centrin 2	Approved	CALT	CEN2	Xq28	X72964	NM_004344		EF-hand domain containing	863
+1868	CETN3	centrin 3	Approved		CEN3	5q14.3	Y12473	NM_004365		EF-hand domain containing	863
+16962	CGREF1	cell growth regulator with EF-hand domain 1	Approved		CGR11	2p23.3	BC034764	NM_006569		EF-hand domain containing	863
+17433	CHP1	calcineurin like EF-hand protein 1	Approved		Sid470p, CHP, SLC9A1BP, p22, p24	15q15.1		NM_007236		EF-hand domain containing	863
+24927	CHP2	calcineurin like EF-hand protein 2	Approved			16p12.2		NM_022097		EF-hand domain containing	863
+16920	CIB1	calcium and integrin binding 1	Approved		SIP2-28, CIB, KIP	15q26.1	U82226			EF-hand domain containing	863
+24579	CIB2	calcium and integrin binding family member 2	Approved	DFNB48, USH1J	KIP2	15q25.1	BC047381	NM_006383		EF-hand domain containing	863
+24580	CIB3	calcium and integrin binding family member 3	Approved		KIP3	19p13.11	AB050868	NM_054113		EF-hand domain containing	863
+33703	CIB4	calcium and integrin binding family member 4	Approved			2p23.3				EF-hand domain containing	863
+28657	CRACR2A	calcium release activated channel regulator 2A	Approved	EFCAB4B	MGC4266	12p13.32	BC004524	NM_032680		EF-hand domain containing	863
+28703	CRACR2B	calcium release activated channel regulator 2B	Approved	EFCAB4A	MGC45840	11p15.5	BC073821	NM_173584		EF-hand domain containing	863
+1230	CRNN	cornulin	Approved	C1orf10	SEP53	1q21.3	AF077831	NM_016190		EF-hand domain containing	863
+2849	DGKA	diacylglycerol kinase alpha	Approved	DAGK, DAGK1	DGK-alpha	12q13.2	AF064767			EF-hand domain containing	863
+2850	DGKB	diacylglycerol kinase beta	Approved	DAGK2	KIAA0718, DGK, DGK-BETA	7p21.2	AB018261	NM_004080		EF-hand domain containing	863
+2853	DGKG	diacylglycerol kinase gamma	Approved	DAGK3		3q27.2-q27.3	AF020945			EF-hand domain containing	863
+18661	DNAH7	dynein axonemal heavy chain 7	Approved		KIAA0944	2q32.3	AF327442	NM_018897		EF-hand domain containing	863
+1090	DST	dystonin	Approved	BPAG1	BP240, KIAA0728, FLJ21489, FLJ13425, FLJ32235, FLJ30627, CATX-15, BPA, MACF2	6p12.1	M22942, M69225	NM_001723		EF-hand domain containing	863
+3062	DUOX1	dual oxidase 1	Approved		NOXEF1, THOX1, LNOX1	15q21.1	AF213465	NM_017434		EF-hand domain containing	863
+13273	DUOX2	dual oxidase 2	Approved		P138-TOX, P138(TOX), THOX2, LNOX2	15q21.1	AF181972	NM_014080		EF-hand domain containing	863
+25678	EFCAB1	EF-hand calcium binding domain 1	Approved		FLJ11767	8q11.21		NM_024593		EF-hand domain containing	863
+34531	EFCAB10	EF-hand calcium binding domain 10	Approved			7q22.3	BC105284	NM_001355531		EF-hand domain containing	863
+20357	EFCAB11	EF-hand calcium binding domain 11	Approved	C14orf143		14q32.11	AK094740	NM_145231		EF-hand domain containing	863
+28061	EFCAB12	EF-hand calcium binding domain 12	Approved	C3orf25		3q21.3	AK096099	NM_207307		EF-hand domain containing	863
+26864	EFCAB13	EF-hand calcium binding domain 13	Approved	C17orf57	FLJ40342	17q21.32	BC036407	NM_152347		EF-hand domain containing	863
+29051	EFCAB14	EF-hand calcium binding domain 14	Approved	KIAA0494		1p33	AB007963	NM_014774		EF-hand domain containing	863
+28166	EFCAB2	EF-hand calcium binding domain 2	Approved		MGC12458, DRC8, CFAP200	1q44	AB209286			EF-hand domain containing	863
+26379	EFCAB3	EF-hand calcium binding domain 3	Approved		FLJ25818	17q23.2	AK098684	NM_173503		EF-hand domain containing	863
+24801	EFCAB5	EF-hand calcium binding domain 5	Approved		FLJ46247	17q11.2	AL833911	NM_198529		EF-hand domain containing	863
+24204	EFCAB6	EF-hand calcium binding domain 6	Approved		FLJ23588, DJBP, HSCBCIP1, KIAA1672, dJ185D5.1	22q13.2-q13.31	Z82201	NM_022785		EF-hand domain containing	863
+29379	EFCAB7	EF-hand calcium binding domain 7	Approved		KIAA1799, RP4-534K7.1	1p31.3	BC015814	NM_032437		EF-hand domain containing	863
+34532	EFCAB8	EF-hand calcium binding domain 8	Approved			20q11.21		XM_371397		EF-hand domain containing	863
+34530	EFCAB9	EF-hand calcium binding domain 9	Approved			5q35.1		NM_001171183		EF-hand domain containing	863
+25692	EFCC1	EF-hand and coiled-coil domain containing 1	Approved	C3orf73, CCDC48	FLJ12057	3q21.3	AK022119	NM_024768		EF-hand domain containing	863
+26330	EFHB	EF-hand domain family member B	Approved		FLJ25200, CFAP21	3p24.3	AK122616	NM_144715		EF-hand domain containing	863
+16406	EFHC1	EF-hand domain containing 1	Approved	EJM1, EJM	FLJ10466	6p12.2	AK001328	NM_018100		EF-hand domain containing	863
+26233	EFHC2	EF-hand domain containing 2	Approved	MRX74	FLJ22843	Xp11.3	AK026254	NM_025184		EF-hand domain containing	863
+29556	EFHD1	EF-hand domain family member D1	Approved		FLJ13612	2q37.1		NM_025202		EF-hand domain containing	863
+28670	EFHD2	EF-hand domain family member D2	Approved		MGC4342	1p36.21	BC014923	NM_024329		EF-hand domain containing	863
+3242	EHD1	EH domain containing 1	Approved	PAST1	H-PAST, HPAST1, FLJ42622, FLJ44618	11q13.1	AF099011	NM_006795		EF-hand domain containing	863
+3243	EHD2	EH domain containing 2	Approved	PAST2		19q13.33	AF181263			EF-hand domain containing	863
+3244	EHD3	EH domain containing 3	Approved	PAST3		2p23.1	AF181264	NM_014600		EF-hand domain containing	863
+3245	EHD4	EH domain containing 4	Approved	PAST4		15q15.1	AF181265	NM_139265		EF-hand domain containing	863
+3419	EPS15	epidermal growth factor receptor pathway substrate 15	Approved		AF-1P, MLLT5	1p32.3	BC054006	NM_001981		EF-hand domain containing	863
+24634	EPS15L1	epidermal growth factor receptor pathway substrate 15 like 1	Approved		eps15R	19p13.11	AF110265	NM_021235		EF-hand domain containing	863
+18169	FKBP10	FKBP prolyl isomerase 10	Approved		hFKBP65, FLJ22041, FKBP6, FLJ20683, FLJ23833	17q21.2	AB045981	NM_021939		EF-hand domain containing	863
+18625	FKBP14	FKBP prolyl isomerase 14	Approved		FLJ20731, FKBP22	7p14.3	AK000738	NM_017946		EF-hand domain containing	863
+3723	FKBP7	FKBP prolyl isomerase 7	Approved		FKBP23	2q31.2	AF092137	NM_181342		EF-hand domain containing	863
+3725	FKBP9	FKBP prolyl isomerase 9	Approved		FKBP60, FKBP63	7p14.3	AF089745	NM_007270		EF-hand domain containing	863
+3748	FLG	filaggrin	Approved			1q21.3	XM_048104	NM_002016		EF-hand domain containing	863
+33276	FLG2	filaggrin family member 2	Approved		IFPS	1q21.3	AY827490	NM_001014342		EF-hand domain containing	863
+21389	FSTL4	follistatin like 4	Approved		KIAA1061	5q31.1	AB028984	XM_048786		EF-hand domain containing	863
+21386	FSTL5	follistatin like 5	Approved		DKFZp566D234, KIAA1263	4q32.2	BC036502	NM_020116		EF-hand domain containing	863
+15990	GCA	grancalcin	Approved		GCL	2q24.2	M81637	NM_012198		EF-hand domain containing	863
+29670	GNPTAB	N-acetylglucosamine-1-phosphate transferase subunits alpha and beta	Approved	GNPTA	KIAA1208, MGC4170	12q23.2	AY687932			EF-hand domain containing	863
+4456	GPD2	glycerol-3-phosphate dehydrogenase 2	Approved			2q24.1				EF-hand domain containing	863
+4678	GUCA1A	guanylate cyclase activator 1A	Approved	GUCA, GUCA1, C6orf131	GCAP, GCAP1, COD3, dJ139D8.6, CORD14	6p21.1				EF-hand domain containing	863
+4679	GUCA1B	guanylate cyclase activator 1B	Approved		GCAP2, RP48	6p21.1	AF173227	NM_002098		EF-hand domain containing	863
+4680	GUCA1C	guanylate cyclase activator 1C	Approved		GCAP3	3q13.13	AF110002	NM_005459		EF-hand domain containing	863
+5144	HPCA	hippocalcin	Approved			1p35.1	BC001777	NM_002143		EF-hand domain containing	863
+5145	HPCAL1	hippocalcin like 1	Approved		BDR1, HLP2, VILIP-3	2p25.1		NM_002149		EF-hand domain containing	863
+18212	HPCAL4	hippocalcin like 4	Approved		HLP4, DKFZp761G122	1p34.2	AB001105	NM_016257		EF-hand domain containing	863
+20846	HRNR	hornerin	Approved		S100a18, S100A16, FLG3	1q21.3	AB104446	XM_373868		EF-hand domain containing	863
+6183	ITSN1	intersectin 1	Approved	SH3D1A, ITSN	SH3P17, MGC134948, MGC134949	21q22.11	AF064244	NM_003024		EF-hand domain containing	863
+6184	ITSN2	intersectin 2	Approved	SH3D1B	KIAA1256, SWAP, SH3P18, SWA, PRO2015	2p23.3	AB033082	NM_006277		EF-hand domain containing	863
+15521	KCNIP1	potassium voltage-gated channel interacting protein 1	Approved		KCHIP1	5q35.1	AF199597	NM_001278339		EF-hand domain containing	863
+15522	KCNIP2	potassium voltage-gated channel interacting protein 2	Approved		KCHIP2	10q24.32				EF-hand domain containing	863
+15523	KCNIP3	potassium voltage-gated channel interacting protein 3	Approved	CSEN	DREAM, KCHIP3	2q11.1	AF199599	NM_013434		EF-hand domain containing	863
+30083	KCNIP4	potassium voltage-gated channel interacting protein 4	Approved		CALP, KCHIP4, MGC44947	4p15.31-p15.2	AF453244	NM_025221		EF-hand domain containing	863
+6528	LCP1	lymphocyte cytosolic protein 1	Approved		PLS2, CP64, L-PLASTIN, LC64P	13q14.13	M22300	NM_002298		EF-hand domain containing	863
+6556	LETM1	leucine zipper and EF-hand containing transmembrane protein 1	Approved		SLC55A1	4p16.3	AF061025			EF-hand domain containing	863
+14648	LETM2	leucine zipper and EF-hand containing transmembrane protein 2	Approved		FLJ25409, SLC55A2	8p11.23	AK058138	NM_144652		EF-hand domain containing	863
+25718	LPCAT1	lysophosphatidylcholine acyltransferase 1	Approved	AYTL2	FLJ12443, AGPAT9, AGPAT10	5p15.33	BC020166	NM_024830		EF-hand domain containing	863
+26032	LPCAT2	lysophosphatidylcholine acyltransferase 2	Approved	AYTL1	FLJ20481, AGPAT11, LysoPAFAT	16q12.2	AK000488	NM_017839		EF-hand domain containing	863
+13664	MACF1	microtubule-actin crosslinking factor 1	Approved		KIAA0465, ACF7, ABP620, KIAA1251, MACF, FLJ45612, FLJ46776	1p34.3	AB007934	NM_033044		EF-hand domain containing	863
+6935	MCC	MCC, WNT signaling pathway regulator	Approved			5q22.2		NM_001085377		EF-hand domain containing	863
+18451	MCFD2	multiple coagulation factor deficiency 2	Approved		F5F8D, LMAN1IP, SDNSF	2p21	AF475284	NM_139279		EF-hand domain containing	863
+1530	MICU1	mitochondrial calcium uptake 1	Approved	CBARA1	CALC, EFHA3, FLJ12684	10q22.1	Y17711	NM_006077		EF-hand domain containing	863
+31830	MICU2	mitochondrial calcium uptake 2	Approved	EFHA1		13q12.11	AK091907	NM_152726		EF-hand domain containing	863
+27820	MICU3	mitochondrial calcium uptake family member 3	Approved	EFHA2	DKFZp313A0139	8p22	BC032868	NM_181723		EF-hand domain containing	863
+7582	MYL1	myosin light chain 1	Approved			2q34		NM_079420		EF-hand domain containing	863
+29825	MYL10	myosin light chain 10	Approved		MGC3479, MYLC2PL, PLRLC	7q22.1	BC002778	NM_138403		EF-hand domain containing	863
+16701	MYL12A	myosin light chain 12A	Approved		MLCB, MYL2B, MRLC3, MRCL3	18p11.31	X54304	NM_006471		EF-hand domain containing	863
+29827	MYL12B	myosin light chain 12B	Approved		MRLC2	18p11.31	AY320408	NM_033546		EF-hand domain containing	863
+7583	MYL2	myosin light chain 2	Approved		CMH10	12q24.11		NM_000432		EF-hand domain containing	863
+7584	MYL3	myosin light chain 3	Approved		CMH8, VLC1, MLC1V, MLC1SB	3p21.31		NM_000258		EF-hand domain containing	863
+7585	MYL4	myosin light chain 4	Approved		ALC1, AMLC, GT1, PRO1957	17q21.32		NM_001002841		EF-hand domain containing	863
+7586	MYL5	myosin light chain 5	Approved			4p16.3		NM_002477		EF-hand domain containing	863
+7587	MYL6	myosin light chain 6	Approved		ESMLC, MLC3NM, MLC1SM	12q13.2	AB046613			EF-hand domain containing	863
+29823	MYL6B	myosin light chain 6B	Approved		MLC1SA	12q13.2	M31211	NM_002475		EF-hand domain containing	863
+21719	MYL7	myosin light chain 7	Approved		MYLC2A, MYL2A	7p13	M94547	NM_021223		EF-hand domain containing	863
+15754	MYL9	myosin light chain 9	Approved		MYRL2, MLC2, LC20, MRLC1	20q11.23	J02854	NM_006097		EF-hand domain containing	863
+29824	MYLPF	myosin light chain, phosphorylatable, fast skeletal muscle	Approved		MRLC2, HUMMLC2B, MYL11	16p11.2	AF363061	NM_013292		EF-hand domain containing	863
+7655	NCALD	neurocalcin delta	Approved			8q22.3	AF052142			EF-hand domain containing	863
+3953	NCS1	neuronal calcium sensor 1	Approved	FREQ	NCS-1	9q34.11	AF186409	NM_014286		EF-hand domain containing	863
+20983	NECAB1	N-terminal EF-hand calcium binding protein 1	Approved	EFCBP1		8q21.3	AF414126	NM_022351		EF-hand domain containing	863
+23746	NECAB2	N-terminal EF-hand calcium binding protein 2	Approved	EFCBP2		16q23.3	AY299331	NM_019065		EF-hand domain containing	863
+15851	NECAB3	N-terminal EF-hand calcium binding protein 3	Approved	SYTIP2, APBA2BP	XB51, dJ63M2.4, NIP1, dJ63M2.5, EFCBP3	20q11.22	AB039947			EF-hand domain containing	863
+14906	NIN	ninein	Approved			14q22.1	AF212162	NM_182946		EF-hand domain containing	863
+29163	NINL	ninein like	Approved		KIAA0980, NLP	20p11.21		NM_025176		EF-hand domain containing	863
+17045	NKD1	naked cuticle homolog 1	Approved			16q12.1	AF358135			EF-hand domain containing	863
+17046	NKD2	naked cuticle homolog 2	Approved		Naked2	5p15.33	AF358137	NM_033120		EF-hand domain containing	863
+14874	NOX5	NADPH oxidase 5	Approved		NOX5A, NOX5B	15q23	AF317889	NM_024505		EF-hand domain containing	863
+8043	NUCB1	nucleobindin 1	Approved		NUC, Calnuc	19q13.33	BC002356	NM_006184		EF-hand domain containing	863
+8044	NUCB2	nucleobindin 2	Approved		NEFA	11p15.1	AF052642	NM_005013		EF-hand domain containing	863
+8105	OCM	oncomodulin	Approved		OCM1	7p22.1	BC069468	NM_001097622		EF-hand domain containing	863
+34396	OCM2	oncomodulin 2	Approved			7q21.3	BC156841	NM_006188		EF-hand domain containing	863
+8765	PDCD6	programmed cell death 6	Approved		ALG-2, PEF1B	5p15.33	AF035606	NM_013232		EF-hand domain containing	863
+30009	PEF1	penta-EF-hand domain containing 1	Approved		PEF1A	1p35.2		NM_012392		EF-hand domain containing	863
+9009	PKD2	polycystin 2, transient receptor potential cation channel	Approved		PKD4, PC2, Pc-2, TRPP2	4q22.1	U50928	NM_000297		EF-hand domain containing	863
+9060	PLCD1	phospholipase C delta 1	Approved			3p22.2				EF-hand domain containing	863
+9062	PLCD4	phospholipase C delta 4	Approved			2q35	AI366170			EF-hand domain containing	863
+9065	PLCG1	phospholipase C gamma 1	Approved	PLC1	PLC148, PLC-II, PLCgamma1, NCKAP3	20q12	M34667	NM_182811		EF-hand domain containing	863
+29185	PLCH1	phospholipase C eta 1	Approved	PLCL3	KIAA1069, MGC117152, DKFZp434C1372, PLCeta1	3q25.31	AB028992	NM_014996		EF-hand domain containing	863
+29037	PLCH2	phospholipase C eta 2	Approved	PLCL4	KIAA0450, PLCeta2, RP3-395M20.1, PLC-eta2	1p36.32	AB007919	NM_014638		EF-hand domain containing	863
+19218	PLCZ1	phospholipase C zeta 1	Approved		NYD-SP27, PLCzeta	12p12.3	AY035866	NM_033123		EF-hand domain containing	863
+9090	PLS1	plastin 1	Approved		I-plastin, Plastin-1	3q23	L20826	NM_002670		EF-hand domain containing	863
+9091	PLS3	plastin 3	Approved		T-plastin	Xq23	L05491			EF-hand domain containing	863
+9243	PPEF1	protein phosphatase with EF-hand domain 1	Approved	PPEF	PPP7CA	Xp22.13	BC036026	NM_006240		EF-hand domain containing	863
+9244	PPEF2	protein phosphatase with EF-hand domain 2	Approved		PPP7CB	4q21.1	AF023456	NM_006239		EF-hand domain containing	863
+9307	PPP2R3A	protein phosphatase 2 regulatory subunit B''alpha	Approved	PPP2R3	PR130, PR72	3q22.2-q22.3	L12146	NM_002718		EF-hand domain containing	863
+13417	PPP2R3B	protein phosphatase 2 regulatory subunit B''beta	Approved	PPP2R3L	PPP2R3LY, PR48, PR70	Xp22.3 and Yp11.3	AF215840	NM_013239		EF-hand domain containing	863
+9317	PPP3R1	protein phosphatase 3 regulatory subunit B, alpha	Approved		CALNB1, CNB, CNB1	2p14	M30773	NM_000945		EF-hand domain containing	863
+9318	PPP3R2	protein phosphatase 3 regulatory subunit B, beta	Approved		PPP3RL	9q31.1	AF145026	NM_147180		EF-hand domain containing	863
+9411	PRKCSH	protein kinase C substrate 80K-H	Approved	G19P1, PCLD, PLD1	VASAP-60, GIIB	19p13.2				EF-hand domain containing	863
+9704	PVALB	parvalbumin	Approved		D22S749	22q12.3		NM_002854		EF-hand domain containing	863
+17224	RAB11FIP3	RAB11 family interacting protein 3	Approved		KIAA0665, Rab11-FIP3, eferin	16p13.3	AB014565	NM_014700		EF-hand domain containing	863
+30267	RAB11FIP4	RAB11 family interacting protein 4	Approved		RAB11-FIP4, KIAA1821, MGC11316, FLJ00131	17q11.2	AB058724	NM_032932		EF-hand domain containing	863
+26464	RASEF	RAS and EF-hand domain containing	Approved	RAB45	FLJ31614	9q21.32	AK056176	NM_152573		EF-hand domain containing	863
+9878	RASGRP1	RAS guanyl releasing protein 1	Approved		CalDAG-GEFII, RASGRP	15q14	AF106071	NM_005739		EF-hand domain containing	863
+9879	RASGRP2	RAS guanyl releasing protein 2	Approved		CALDAG-GEFI	11q13.1	U78170	NM_153819		EF-hand domain containing	863
+14545	RASGRP3	RAS guanyl releasing protein 3	Approved		KIAA0846, GRP3, CalDAG-GEFIII	2p22.3	AB020653	NM_015376		EF-hand domain containing	863
+18958	RASGRP4	RAS guanyl releasing protein 4	Approved			19q13.1	AY048119	NM_170604		EF-hand domain containing	863
+9934	RCN1	reticulocalbin 1	Approved	RCN	Rcal, PIG20, FLJ37041	11p13	D42073	NM_002901		EF-hand domain containing	863
+9935	RCN2	reticulocalbin 2	Approved		ERC-55, E6BP, ERC55, TCBP49	15q24.3	X78669	NM_002902		EF-hand domain containing	863
+21145	RCN3	reticulocalbin 3	Approved		RLP49	19q13.33	AY195859	NM_020650		EF-hand domain containing	863
+9937	RCVRN	recoverin	Approved	RCV1		17p13.1	BC001720	NM_002903		EF-hand domain containing	863
+15578	REPS1	RALBP1 associated Eps domain containing 1	Approved			6q24.1				EF-hand domain containing	863
+9963	REPS2	RALBP1 associated Eps domain containing 2	Approved		POB1	Xp22.2	AF010233	NM_004726		EF-hand domain containing	863
+16502	RHBDL3	rhomboid like 3	Approved	RHBDL4	VRHO	17q11.2	AJ313480	NM_138328		EF-hand domain containing	863
+21168	RHOT1	ras homolog family member T1	Approved	ARHT1	MIRO-1, FLJ11040	17q11.2	AJ517412	NM_018307		EF-hand domain containing	863
+21169	RHOT2	ras homolog family member T2	Approved	C16orf39, ARHT2	MIRO-2	16p13.3	BC014942	NM_138769		EF-hand domain containing	863
+26809	RPTN	repetin	Approved		FLJ39117	1q21.3	AK096436	XM_371312		EF-hand domain containing	863
+10484	RYR2	ryanodine receptor 2	Approved	ARVD2	ARVC2, VTSIP	1q43	X91869	NM_001035		EF-hand domain containing	863
+10485	RYR3	ryanodine receptor 3	Approved			15q13.3-q14				EF-hand domain containing	863
+10486	S100A1	S100 calcium binding protein A1	Approved	S100A	S100-alpha	1q21.3	BC014392	NM_006271		EF-hand domain containing	863
+10488	S100A11	S100 calcium binding protein A11	Approved		S100C	1q21.3	D38583	NM_005620		EF-hand domain containing	863
+10489	S100A12	S100 calcium binding protein A12	Approved		p6, MRP6, CGRP, CAAF1, CAGC, ENRAGE	1q21.3	BC070294	NM_005621		EF-hand domain containing	863
+20441	S100A16	S100 calcium binding protein A16	Approved		S100F, DT1P1A7, MGC17528	1q21.3	BC010541	NM_080388		EF-hand domain containing	863
+10492	S100A2	S100 calcium binding protein A2	Approved	S100L	CAN19	1q21.3	BC002829	NM_005978		EF-hand domain containing	863
+10494	S100A4	S100 calcium binding protein A4	Approved	MTS1, CAPL	P9KA, 18A2, PEL98, 42A, FSP1	1q21.3	BC016300	NM_002961		EF-hand domain containing	863
+10495	S100A5	S100 calcium binding protein A5	Approved	S100D		1q21.3	Z18954	NM_002962		EF-hand domain containing	863
+10496	S100A6	S100 calcium binding protein A6	Approved	CACY	2A9, PRA, CABP	1q21.3	BC001431	NM_014624		EF-hand domain containing	863
+10497	S100A7	S100 calcium binding protein A7	Approved	PSOR1	S100A7c	1q21.3	BC034687	NM_002963		EF-hand domain containing	863
+21657	S100A7A	S100 calcium binding protein A7A	Approved	S100A15, S100A7L1	S100A7f	1q21.3	AY189118	NM_176823		EF-hand domain containing	863
+21655	S100A7L2	S100 calcium binding protein A7 like 2	Approved		s100a7b	1q21.3		NM_001045479		EF-hand domain containing	863
+10498	S100A8	S100 calcium binding protein A8	Approved	CAGA, CFAG	P8, MRP8, 60B8AG, CGLA	1q21.3	BC005928	NM_002964		EF-hand domain containing	863
+10499	S100A9	S100 calcium binding protein A9	Approved	CAGB, CFAG	P14, MIF, NIF, LIAG, MRP14, MAC387, 60B8AG, CGLB	1q21.3	BC047681	NM_002965		EF-hand domain containing	863
+10500	S100B	S100 calcium binding protein B	Approved		S100beta	21q22.3	M59488	NM_006272		EF-hand domain containing	863
+1436	S100G	S100 calcium binding protein G	Approved	CALB3	CABP9K, CABP1	Xp22.2		NM_004057		EF-hand domain containing	863
+10504	S100P	S100 calcium binding protein P	Approved			4p16.1	X65614	NM_005980		EF-hand domain containing	863
+30367	S100Z	S100 calcium binding protein Z	Approved		Gm625, S100-zeta	5q13.3	AF437876	NM_130772		EF-hand domain containing	863
+16941	SCGN	secretagogin, EF-hand calcium binding protein	Approved		SECRET, DJ501N12.8, SEGN, CALBL	6p22.2	BC000336			EF-hand domain containing	863
+24188	SDF4	stromal cell derived factor 4	Approved		Cab45	1p36.33		NM_016176		EF-hand domain containing	863
+15999	SELENON	selenoprotein N	Approved	RSMD1, MDRS1, SEPN1	SELN, RSS	1p36.11	AF166125	NM_020451		EF-hand domain containing	863
+10982	SLC25A12	solute carrier family 25 member 12	Approved		Aralar	2q31.1	Y14494	NM_003705		EF-hand domain containing	863
+10983	SLC25A13	solute carrier family 25 member 13	Approved	CTLN2	CITRIN, ARALAR2	7q21.3	AF118838	NM_014251		EF-hand domain containing	863
+19375	SLC25A23	solute carrier family 25 member 23	Approved		FLJ30339, MGC2615, APC2	19p13.3	AJ619962	NM_024103		EF-hand domain containing	863
+20662	SLC25A24	solute carrier family 25 member 24	Approved		DKFZp586G0123, APC1	1p13.3	AJ619961	NM_013386		EF-hand domain containing	863
+20663	SLC25A25	solute carrier family 25 member 25	Approved		KIAA1896, PCSCL, MCSC	9q34.11	AJ619963	NM_052901		EF-hand domain containing	863
+28026	SPATA21	spermatogenesis associated 21	Approved		spergen-2, spergen2	1p36.13		NM_198546		EF-hand domain containing	863
+11272	SPTA1	spectrin alpha, erythrocytic 1	Approved		EL2	1q23.1	M61877	NM_003126		EF-hand domain containing	863
+11273	SPTAN1	spectrin alpha, non-erythrocytic 1	Approved			9q34.11	M19725	NM_003127		EF-hand domain containing	863
+11292	SRI	sorcin	Approved			7q21.12	M32886	NM_003130		EF-hand domain containing	863
+17070	SWAP70	switching B cell complex subunit SWAP70	Approved		KIAA0640, SWAP-70	11p15.4	AB014540	NM_015055		EF-hand domain containing	863
+24715	TBC1D8B	TBC1 domain family member 8B	Approved		FLJ20298, RP11-321G1.1, GRAMD8B	Xq22.3	AK123957	NM_017752		EF-hand domain containing	863
+21710	TBC1D9	TBC1 domain family member 9	Approved		KIAA0882, MDR1, GRAMD9	4q31.21	AB020689	NM_015130		EF-hand domain containing	863
+29097	TBC1D9B	TBC1 domain family member 9B	Approved		KIAA0676, GRAMD9B	5q35.3	AB014576	NM_015043		EF-hand domain containing	863
+11791	TCHH	trichohyalin	Approved	THH		1q21.3	L09190	NM_007113		EF-hand domain containing	863
+26065	TESC	tescalcin	Approved		TSC, FLJ20607, CHP3	12q24.22	AF443207	NM_017899		EF-hand domain containing	863
+11943	TNNC1	troponin C1, slow skeletal and cardiac type	Approved	TNNC		3p21.1				EF-hand domain containing	863
+11944	TNNC2	troponin C2, fast skeletal type	Approved			20q13.12		NM_003279		EF-hand domain containing	863
+19143	USP32	ubiquitin specific peptidase 32	Approved		NY-REN-60, USP10	17q23.3	AF533230	NM_032582		EF-hand domain containing	863
+12722	VSNL1	visinin like 1	Approved		VILIP, HPCAL3, HUVISL1, HLP3, VILIP-1	2p24.2		NM_003385		EF-hand domain containing	863
+29027	ZZEF1	zinc finger ZZ-type and EF-hand domain containing 1	Approved		KIAA0399, ZZZ4, FLJ10821	17p13.2	BC035319	NM_015113		EF-hand domain containing	863
+3972	FSTL1	follistatin like 1	Approved		FRP, FSL1, OCC1, OCC-1, tsc36	3q13.33	U06863	NM_007085		SPARC family	1278
+20318	SMOC1	SPARC related modular calcium binding 1	Approved			14q24.1	AJ249900			SPARC family	1278
+20323	SMOC2	SPARC related modular calcium binding 2	Approved		SMAP2	6q27	AB014730			SPARC family	1278
+11219	SPARC	secreted protein acidic and cysteine rich	Approved	ON		5q33.1		NM_003118		SPARC family	1278
+11220	SPARCL1	SPARC like 1	Approved		MAST9	4q22.1	X86693			SPARC family	1278
+11251	SPOCK1	SPARC (osteonectin), cwcv and kazal like domains proteoglycan 1	Approved	TIC1, SPOCK	testican-1	5q31.2	AF231124	NM_004598		SPARC family	1278
+13564	SPOCK2	SPARC (osteonectin), cwcv and kazal like domains proteoglycan 2	Approved		KIAA0275, testican-2	10q22.1	AJ001453			SPARC family	1278
+13565	SPOCK3	SPARC (osteonectin), cwcv and kazal like domains proteoglycan 3	Approved		testican-3	4q32.3	AJ001454			SPARC family	1278

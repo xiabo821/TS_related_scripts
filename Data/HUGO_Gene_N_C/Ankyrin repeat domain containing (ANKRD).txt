@@ -1,0 +1,243 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+18275	ABTB1	ankyrin repeat and BTB domain containing 1	Approved		BPOZ, EF1ABP, Btb3, BTBD21	3q21.3	AB053324	NM_172027	ANKRD	Ankyrin repeat domain containing	403
+23842	ABTB2	ankyrin repeat and BTB domain containing 2	Approved		DKFZP586C1619, BTBD22, ABTB2A	11p13	AK056863	NM_145804	ANKRD	Ankyrin repeat domain containing	403
+16467	ACAP1	ArfGAP with coiled-coil, ankyrin repeat and PH domains 1	Approved	CENTB1	KIAA0050	17p13.1	D30758	NM_014716	ANKRD	Ankyrin repeat domain containing	403
+16469	ACAP2	ArfGAP with coiled-coil, ankyrin repeat and PH domains 2	Approved	CENTB2	KIAA0041, CNT-B2	3q29		NM_012287	ANKRD	Ankyrin repeat domain containing	403
+16754	ACAP3	ArfGAP with coiled-coil, ankyrin repeat and PH domains 3	Approved	CENTB5	KIAA1716	1p36.33	AF411981	NM_030649	ANKRD	Ankyrin repeat domain containing	403
+23339	ACBD6	acyl-CoA binding domain containing 6	Approved		MGC2404	1q25.2-q25.3	BC006505	NM_032360	ANKRD	Ankyrin repeat domain containing	403
+16922	AGAP1	ArfGAP with GTPase domain, ankyrin repeat and PH domain 1	Approved	CENTG2	KIAA1099, GGAP1	2q37.2	AF413078	NM_014914	ANKRD	Ankyrin repeat domain containing	403
+29421	AGAP11	ArfGAP with GTPase domain, ankyrin repeat and PH domain 11	Approved		KIAA1975	10q23.2		NM_133447	ANKRD	Ankyrin repeat domain containing	403
+16921	AGAP2	ArfGAP with GTPase domain, ankyrin repeat and PH domain 2	Approved	CENTG1		12q14.1	AF413077	NM_014770	ANKRD	Ankyrin repeat domain containing	403
+16923	AGAP3	ArfGAP with GTPase domain, ankyrin repeat and PH domain 3	Approved	CENTG3		7q36.1	AF413079	NM_031946	ANKRD	Ankyrin repeat domain containing	403
+23459	AGAP4	ArfGAP with GTPase domain, ankyrin repeat and PH domain 4	Approved	CTGLF1, AGAP8, CTGLF5	Em:AC012044.1, MRIP2	10q11.22	AF411132	NM_133446	ANKRD	Ankyrin repeat domain containing	403
+23467	AGAP5	ArfGAP with GTPase domain, ankyrin repeat and PH domain 5	Approved	CTGLF2	Em:AC073389.1	10q22.2		NM_001144000	ANKRD	Ankyrin repeat domain containing	403
+23466	AGAP6	ArfGAP with GTPase domain, ankyrin repeat and PH domain 6	Approved	CTGLF3	bA324H6.1	10q11.23		NM_001077665	ANKRD	Ankyrin repeat domain containing	403
+23465	AGAP7P	ArfGAP with GTPase domain, ankyrin repeat and PH domain 7, pseudogene	Approved	CTGLF4, AGAP7	bA109G10.1	10q11.22		NM_001077685	ANKRD	Ankyrin repeat domain containing	403
+23463	AGAP9	ArfGAP with GTPase domain, ankyrin repeat and PH domain 9	Approved	CTGLF6	bA301J7.2, FLJ00312	10q11.22		NM_001190810	ANKRD	Ankyrin repeat domain containing	403
+492	ANK1	ankyrin 1	Approved	ANK	SPH1	8p11.21	M28880	NM_020475	ANKRD	Ankyrin repeat domain containing	403
+493	ANK2	ankyrin 2	Approved	LQT4		4q25-q26	M37123	NM_001148	ANKRD	Ankyrin repeat domain containing	403
+494	ANK3	ankyrin 3	Approved			10q21.2	U13616	NM_020987	ANKRD	Ankyrin repeat domain containing	403
+26350	ANKAR	ankyrin and armadillo repeat containing	Approved		FLJ25415	2q32.2	AJ549812	NM_144708	ANKRD	Ankyrin repeat domain containing	403
+28002	ANKDD1A	ankyrin repeat and death domain containing 1A	Approved		FLJ25870	15q22.31		NM_182703	ANKRD	Ankyrin repeat domain containing	403
+32525	ANKDD1B	ankyrin repeat and death domain containing 1B	Approved			5q13.3		NM_001276713	ANKRD	Ankyrin repeat domain containing	403
+15803	ANKEF1	ankyrin repeat and EF-hand domain containing 1	Approved	ANKRD5	FLJ21669, dJ839B4.6	20p12.2	AK025322	NM_022096	ANKRD	Ankyrin repeat domain containing	403
+26766	ANKFN1	ankyrin repeat and fibronectin type III domain containing 1	Approved		FLJ38335	17q22	AK095654	NM_153228	ANKRD	Ankyrin repeat domain containing	403
+20763	ANKFY1	ankyrin repeat and FYVE domain containing 1	Approved		ANKHZN, KIAA1255, ZFYVE14, BTBD23, RANK-5	17p13.2	AB033081	NM_016376	ANKRD	Ankyrin repeat domain containing	403
+24714	ANKHD1	ankyrin repeat and KH domain containing 1	Approved		MASK, FLJ20288, FLJ11979, FLJ10042, FLJ14127, KIAA1085, MASK1	5q31.3	AF521882	NM_017747	ANKRD	Ankyrin repeat domain containing	403
+22215	ANKIB1	ankyrin repeat and IBR domain containing 1	Approved		DKFZP434A0225, KIAA1386	7q21.2	AB037807		ANKRD	Ankyrin repeat domain containing	403
+21027	ANKK1	ankyrin repeat and kinase domain containing 1	Approved		X-kinase	11q23.2	AJ541797	NM_178510	ANKRD	Ankyrin repeat domain containing	403
+26812	ANKLE1	ankyrin repeat and LEM domain containing 1	Approved	ANKRD41	FLJ39369, LEMD6	19p13.11	AK096688	NM_152363	ANKRD	Ankyrin repeat domain containing	403
+29101	ANKLE2	ankyrin repeat and LEM domain containing 2	Approved	KIAA0692	LEMD7, Lem4	12q24.33	AB014592		ANKRD	Ankyrin repeat domain containing	403
+20987	ANKMY1	ankyrin repeat and MYND domain containing 1	Approved		FLJ20499, ZMYND13	2q37.3	AB034636	NM_017844	ANKRD	Ankyrin repeat domain containing	403
+25370	ANKMY2	ankyrin repeat and MYND domain containing 2	Approved		DKFZP564O043, ZMYND20	7p21.1	AK001740	NM_020319	ANKRD	Ankyrin repeat domain containing	403
+13208	ANKRA2	ankyrin repeat family A member 2	Approved			5q13.2	AA442702	NM_023039	ANKRD	Ankyrin repeat domain containing	403
+15819	ANKRD1	ankyrin repeat domain 1	Approved		C-193, ALRP, CARP, CVARP, MCARP	10q23.31	X83703	NM_014391	ANKRD	Ankyrin repeat domain containing	403
+20265	ANKRD10	ankyrin repeat domain 10	Approved		FLJ20093	13q34	AK000100		ANKRD	Ankyrin repeat domain containing	403
+21316	ANKRD11	ankyrin repeat domain 11	Approved		LZ16, T13	16q24.3	AY373756	NM_013275	ANKRD	Ankyrin repeat domain containing	403
+29135	ANKRD12	ankyrin repeat domain 12	Approved		KIAA0874, FLJ20053, GAC-1	18p11.22	AY373757	NM_015208	ANKRD	Ankyrin repeat domain containing	403
+21268	ANKRD13A	ankyrin repeat domain 13A	Approved	ANKRD13	NY-REN-25	12q24.11	AF064604	NM_033121	ANKRD	Ankyrin repeat domain containing	403
+26363	ANKRD13B	ankyrin repeat domain 13B	Approved		FLJ25555	17q11.2	AK092673	NM_152345	ANKRD	Ankyrin repeat domain containing	403
+25374	ANKRD13C	ankyrin repeat domain 13C	Approved		DKFZP566D1346, dJ677H15.3	1p31.1		NM_030816	ANKRD	Ankyrin repeat domain containing	403
+27880	ANKRD13D	ankyrin repeat domain 13D	Approved			11q13.2	AK027313	NM_207354	ANKRD	Ankyrin repeat domain containing	403
+23471	ANKRD16	ankyrin repeat domain 16	Approved		DKFZP434N1511	10p15.1	AL137614	NM_019046	ANKRD	Ankyrin repeat domain containing	403
+23575	ANKRD17	ankyrin repeat domain 17	Approved		GTAR, KIAA0697, FLJ22206, NY-BR-16, MASK2	4q13.3	AB014597	NM_032217	ANKRD	Ankyrin repeat domain containing	403
+23643	ANKRD18A	ankyrin repeat domain 18A	Approved		KIAA2015, FLJ35740	9p13.1	AB095935		ANKRD	Ankyrin repeat domain containing	403
+23644	ANKRD18B	ankyrin repeat domain 18B	Approved		bA255A11.3	9p13.3		NM_001244752	ANKRD	Ankyrin repeat domain containing	403
+495	ANKRD2	ankyrin repeat domain 2	Approved		ARPP	10q24.2	AJ304805		ANKRD	Ankyrin repeat domain containing	403
+23665	ANKRD20A1	ankyrin repeat domain 20 family member A1	Approved	ANKRD20A	DKFZp434A171	9q21.11	AL136793		ANKRD	Ankyrin repeat domain containing	403
+31979	ANKRD20A2	ankyrin repeat domain 20 family member A2	Approved			9p11.2		NM_001012421	ANKRD	Ankyrin repeat domain containing	403
+31981	ANKRD20A3	ankyrin repeat domain 20 family member A3	Approved			9q21.11			ANKRD	Ankyrin repeat domain containing	403
+31982	ANKRD20A4	ankyrin repeat domain 20 family member A4	Approved		OTTHUMG00000066855	9q13		NM_001098805	ANKRD	Ankyrin repeat domain containing	403
+28321	ANKRD22	ankyrin repeat domain 22	Approved		MGC22805	10q23.31	BC021671	NM_144590	ANKRD	Ankyrin repeat domain containing	403
+24470	ANKRD23	ankyrin repeat domain 23	Approved		DARP, FLJ32449, MARP3	2q11.2		NM_144994	ANKRD	Ankyrin repeat domain containing	403
+29424	ANKRD24	ankyrin repeat domain 24	Approved		KIAA1981	19p13.3	AB075861	NM_133475	ANKRD	Ankyrin repeat domain containing	403
+29186	ANKRD26	ankyrin repeat domain 26	Approved	THC2	KIAA1074	10p12.1	AB028997		ANKRD	Ankyrin repeat domain containing	403
+25310	ANKRD27	ankyrin repeat domain 27	Approved		FLJ00040, DKFZp434L0718, VARP	19q13.11	AK054561	NM_032139	ANKRD	Ankyrin repeat domain containing	403
+29024	ANKRD28	ankyrin repeat domain 28	Approved		KIAA0379, PITK, PP6-ARS-A, PPP1R65	3p25.1	AY367056	NM_015199	ANKRD	Ankyrin repeat domain containing	403
+27110	ANKRD29	ankyrin repeat domain 29	Approved		FLJ25053	18q11.2	AK057782	NM_173505	ANKRD	Ankyrin repeat domain containing	403
+17234	ANKRD30A	ankyrin repeat domain 30A	Approved		NY-BR-1	10p11.21	AF269087	NM_052997	ANKRD	Ankyrin repeat domain containing	403
+24165	ANKRD30B	ankyrin repeat domain 30B	Approved		NY-BR-1.1	18p11.21	BC028407	NM_001145029	ANKRD	Ankyrin repeat domain containing	403
+35167	ANKRD30BL	ankyrin repeat domain 30B like	Approved	NCRNA00164, ANKRD30BP3		2q21.2		NM_001358416	ANKRD	Ankyrin repeat domain containing	403
+26853	ANKRD31	ankyrin repeat domain 31	Approved		FLJ40191	5q13.3	AK097510	NM_001164443	ANKRD	Ankyrin repeat domain containing	403
+25408	SLF1	SMC5-SMC6 complex localization factor 1	Approved	BRCTD1, ANKRD32	DKFZp761C121, DKFZp564C0469, BRCTx	5q15	AL136560	NM_032290	ANKRD	Ankyrin repeat domain containing	403
+13788	ANKRD33	ankyrin repeat domain 33	Approved	C12orf7	DKFZp686O1689, PANKY	12q13.13		NM_182608	ANKRD	Ankyrin repeat domain containing	403
+35240	ANKRD33B	ankyrin repeat domain 33B	Approved			5p15.2		NM_001164440	ANKRD	Ankyrin repeat domain containing	403
+27639	ANKRD34A	ankyrin repeat domain 34A	Approved	ANKRD34		1q21.1	AK128050		ANKRD	Ankyrin repeat domain containing	403
+33736	ANKRD34B	ankyrin repeat domain 34B	Approved		DP58	5q14.1		NM_001004441	ANKRD	Ankyrin repeat domain containing	403
+33888	ANKRD34C	ankyrin repeat domain 34C	Approved			15q25.1		NM_001146341	ANKRD	Ankyrin repeat domain containing	403
+26323	ANKRD35	ankyrin repeat domain 35	Approved		FLJ25124	1q21.1	AK091120	NM_144698	ANKRD	Ankyrin repeat domain containing	403
+24079	ANKRD36	ankyrin repeat domain 36	Approved		UNQ2430	2q11.2	BC046186		ANKRD	Ankyrin repeat domain containing	403
+29333	ANKRD36B	ankyrin repeat domain 36B	Approved	KIAA1641	FLJ21281	2q11.2	AK024934	NM_025190	ANKRD	Ankyrin repeat domain containing	403
+32946	ANKRD36C	ankyrin repeat domain 36C	Approved		DKFZp667P0924	2q11.1	AL832836	NM_001010914	ANKRD	Ankyrin repeat domain containing	403
+29593	ANKRD37	ankyrin repeat domain 37	Approved		Lrp2bp	4q35.1	AY296056	NM_181726	ANKRD	Ankyrin repeat domain containing	403
+28640	ANKRD39	ankyrin repeat domain 39	Approved		MGC41816	2q11.2	BC031303	NM_016466	ANKRD	Ankyrin repeat domain containing	403
+28233	ANKRD40	ankyrin repeat domain 40	Approved		MGC15396	17q21.33	BC012978	NM_052855	ANKRD	Ankyrin repeat domain containing	403
+26752	ANKRD42	ankyrin repeat domain 42	Approved		FLJ37874, SARP, PPP1R79	11q14.1	AK095193	NM_182603	ANKRD	Ankyrin repeat domain containing	403
+25259	ANKRD44	ankyrin repeat domain 44	Approved		PP6-ARS-B	2q33.1	AK097086	NM_153697	ANKRD	Ankyrin repeat domain containing	403
+24786	ANKRD45	ankyrin repeat domain 45	Approved		FLJ45235, CT117	1q25.1		NM_198493	ANKRD	Ankyrin repeat domain containing	403
+27229	ANKRD46	ankyrin repeat domain 46	Approved			8q22.3	AB077205	NM_198401	ANKRD	Ankyrin repeat domain containing	403
+25970	ANKRD49	ankyrin repeat domain 49	Approved		FLJ20189, FGIF, GBIF	11q21	AF025354	NM_017704	ANKRD	Ankyrin repeat domain containing	403
+29223	ANKRD50	ankyrin repeat domain 50	Approved		KIAA1223	4q28.1	AB033049	NM_020337	ANKRD	Ankyrin repeat domain containing	403
+26614	ANKRD52	ankyrin repeat domain 52	Approved		FLJ34236, PP6-ARS-C	12q13.3	AK091555	NM_173595	ANKRD	Ankyrin repeat domain containing	403
+25691	ANKRD53	ankyrin repeat domain 53	Approved		FLJ12056, FLJ36160	2p13.3	BC035234	NM_024933	ANKRD	Ankyrin repeat domain containing	403
+25185	ANKRD54	ankyrin repeat domain 54	Approved		LIAR	22q13.1	BC014641	NM_138797	ANKRD	Ankyrin repeat domain containing	403
+25681	ANKRD55	ankyrin repeat domain 55	Approved		FLJ11795	5q11.2	AK021857	NM_024669	ANKRD	Ankyrin repeat domain containing	403
+17280	ANKRD6	ankyrin repeat domain 6	Approved		KIAA0957	6q15	AB023174		ANKRD	Ankyrin repeat domain containing	403
+16217	ANKRD60	ankyrin repeat domain 60	Approved	C20orf86	bA196N14.3	20q13.32	AL354776	NM_001304369	ANKRD	Ankyrin repeat domain containing	403
+22467	ANKRD61	ankyrin repeat domain 61	Approved			7p22.1			ANKRD	Ankyrin repeat domain containing	403
+35241	ANKRD62	ankyrin repeat domain 62	Approved		DKFZp779B1634	18p11.21	BX648696	NM_001277333	ANKRD	Ankyrin repeat domain containing	403
+40027	ANKRD63	ankyrin repeat domain 63	Approved			15q15.1			ANKRD	Ankyrin repeat domain containing	403
+42950	ANKRD65	ankyrin repeat domain 65	Approved			1p36.33			ANKRD	Ankyrin repeat domain containing	403
+44669	ANKRD66	ankyrin repeat domain 66	Approved			6p12.3	AK304342	NM_001162435	ANKRD	Ankyrin repeat domain containing	403
+18588	ANKRD7	ankyrin repeat domain 7	Approved		TSA806	7q31.31	D78334	NM_001077708	ANKRD	Ankyrin repeat domain containing	403
+20096	ANKRD9	ankyrin repeat domain 9	Approved			14q32.31	BC015422		ANKRD	Ankyrin repeat domain containing	403
+20961	ANKS1A	ankyrin repeat and sterile alpha motif domain containing 1A	Approved	ANKS1	KIAA0229	6p21.31	D86982	NM_015245	ANKRD	Ankyrin repeat domain containing	403
+24600	ANKS1B	ankyrin repeat and sterile alpha motif domain containing 1B	Approved		EB-1, AIDA-1, cajalin-2, ANKS2	12q23.1	AF145204	NM_020140	ANKRD	Ankyrin repeat domain containing	403
+29422	ANKS3	ankyrin repeat and sterile alpha motif domain containing 3	Approved		KIAA1977, FLJ32345, FLJ32767	16p13.3	AK057329	NM_133450	ANKRD	Ankyrin repeat domain containing	403
+26795	ANKS4B	ankyrin repeat and sterile alpha motif domain containing 4B	Approved		FLJ38819, HARP	16p12.2	AK096138	NM_145865	ANKRD	Ankyrin repeat domain containing	403
+26724	ANKS6	ankyrin repeat and sterile alpha motif domain containing 6	Approved	SAMD6, ANKRD14	FLJ36928, NPHP16	9q22.33	AK094247	NM_173551	ANKRD	Ankyrin repeat domain containing	403
+29642	ANKUB1	ankyrin repeat and ubiquitin domain containing 1	Approved	C3orf16		3q25.1	AK027233	NM_001144960	ANKRD	Ankyrin repeat domain containing	403
+25527	ANKZF1	ankyrin repeat and zinc finger domain containing 1	Approved		FLJ10415, ZNF744	2q35	AF364318	NM_018089	ANKRD	Ankyrin repeat domain containing	403
+16925	ARAP1	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1	Approved	CENTD2		11q13.4	AF411983	NM_001040118	ANKRD	Ankyrin repeat domain containing	403
+16924	ARAP2	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 2	Approved	CENTD1	PARX	4p14	AF411982	NM_015230	ANKRD	Ankyrin repeat domain containing	403
+24097	ARAP3	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 3	Approved	CENTD3	FLJ21065, DRAG1	5q31.3	AJ310567	NM_022481	ANKRD	Ankyrin repeat domain containing	403
+2720	ASAP1	ArfGAP with SH3 domain, ankyrin repeat and PH domain 1	Approved	DDEF1	PAP, KIAA1249, ZG14P, CENTB4	8q24.21-q24.22	AB033075	NM_018482	ANKRD	Ankyrin repeat domain containing	403
+2721	ASAP2	ArfGAP with SH3 domain, ankyrin repeat and PH domain 2	Approved	DDEF2	KIAA0400, PAP, SHAG1, CENTB3	2p25.1	AB007860	NM_003887	ANKRD	Ankyrin repeat domain containing	403
+14987	ASAP3	ArfGAP with SH3 domain, ankyrin repeat and PH domain 3	Approved	DDEFL1	FLJ20199, UPLC1, CENTB6	1p36.12	AK000206	NM_017707	ANKRD	Ankyrin repeat domain containing	403
+16011	ASB1	ankyrin repeat and SOCS box containing 1	Approved		ASB-1	2q37.3	AF156777	NM_001040445	ANKRD	Ankyrin repeat domain containing	403
+17185	ASB10	ankyrin repeat and SOCS box containing 10	Approved	GLC1F		7q36.1	AK055536	NM_080871	ANKRD	Ankyrin repeat domain containing	403
+17186	ASB11	ankyrin repeat and SOCS box containing 11	Approved		DKFZp779E2460	Xp22.2	AF425642		ANKRD	Ankyrin repeat domain containing	403
+19763	ASB12	ankyrin repeat and SOCS box containing 12	Approved		FLJ39577	Xq11.2	AF403030		ANKRD	Ankyrin repeat domain containing	403
+19765	ASB13	ankyrin repeat and SOCS box containing 13	Approved		FLJ13134, MGC19879	10p15.1	AK091935		ANKRD	Ankyrin repeat domain containing	403
+19766	ASB14	ankyrin repeat and SOCS box containing 14	Approved		DKFZp313L0121	3p14.3	AF403032		ANKRD	Ankyrin repeat domain containing	403
+19767	ASB15	ankyrin repeat and SOCS box containing 15	Approved		FLJ43370	7q31.32	AF403033		ANKRD	Ankyrin repeat domain containing	403
+19768	ASB16	ankyrin repeat and SOCS box containing 16	Approved		FLJ30165	17q21.31	AK054727		ANKRD	Ankyrin repeat domain containing	403
+19769	ASB17	ankyrin repeat and SOCS box containing 17	Approved			1p31.1	AF403035	NM_080868	ANKRD	Ankyrin repeat domain containing	403
+19770	ASB18	ankyrin repeat and SOCS box containing 18	Approved			2q37.2	AK123854	NM_212556	ANKRD	Ankyrin repeat domain containing	403
+16012	ASB2	ankyrin repeat and SOCS box containing 2	Approved		ASB-2	14q32.12	AF159164		ANKRD	Ankyrin repeat domain containing	403
+16013	ASB3	ankyrin repeat and SOCS box containing 3	Approved		ASB-3	2p16.2	AK000985	NM_016115	ANKRD	Ankyrin repeat domain containing	403
+16009	ASB4	ankyrin repeat and SOCS box containing 4	Approved		ASB-4	7q21.3	AF156779	NM_016116	ANKRD	Ankyrin repeat domain containing	403
+17180	ASB5	ankyrin repeat and SOCS box containing 5	Approved			4q34.2	AY057053		ANKRD	Ankyrin repeat domain containing	403
+17181	ASB6	ankyrin repeat and SOCS box containing 6	Approved			9q34.11		NM_017873	ANKRD	Ankyrin repeat domain containing	403
+17182	ASB7	ankyrin repeat and SOCS box containing 7	Approved			15q26.3		NM_024708	ANKRD	Ankyrin repeat domain containing	403
+17183	ASB8	ankyrin repeat and SOCS box containing 8	Approved		MGC5540, FLJ21255	12q13.11	AK024908		ANKRD	Ankyrin repeat domain containing	403
+17184	ASB9	ankyrin repeat and SOCS box containing 9	Approved		DKFZP564L0862, MGC4954, FLJ20636	Xp22.2	AK000643		ANKRD	Ankyrin repeat domain containing	403
+20123	ASPG	asparaginase	Approved	C14orf76		14q32.33		NM_001080464	ANKRD	Ankyrin repeat domain containing	403
+1350	ASZ1	ankyrin repeat, SAM and basic leucine zipper domain containing 1	Approved	C7orf7, ANKL1	Orf3, GASZ, ALP1, CT1.19	7q31.2	AF461259	NM_130768	ANKRD	Ankyrin repeat domain containing	403
+18233	BANK1	B cell scaffold protein with ankyrin repeats 1	Approved		BANK, FLJ20706	4q24	AB063170	NM_017935	ANKRD	Ankyrin repeat domain containing	403
+952	BARD1	BRCA1 associated RING domain 1	Approved			2q35		NM_000465	ANKRD	Ankyrin repeat domain containing	403
+998	BCL3	BCL3, transcription coactivator	Approved	D19S37, BCL4		19q13.32	M31732	NM_005178	ANKRD	Ankyrin repeat domain containing	403
+20893	BCOR	BCL6 corepressor	Approved		FLJ20285, KIAA1575	Xp11.4	AF317391	NM_017745	ANKRD	Ankyrin repeat domain containing	403
+25657	BCORL1	BCL6 corepressor like 1	Approved	CXorf10	FLJ11362	Xq26.1	AL136450	NM_021946	ANKRD	Ankyrin repeat domain containing	403
+23844	BTBD11	BTB domain containing 11	Approved		FLJ33957, ABTB2B	12q23.3	AK091276	NM_152322	ANKRD	Ankyrin repeat domain containing	403
+20879	CASKIN1	CASK interacting protein 1	Approved		KIAA1306, ANKS5A	16p13.3	AF451977	NM_020764	ANKRD	Ankyrin repeat domain containing	403
+18200	CASKIN2	CASK interacting protein 2	Approved		KIAA1139, FLJ21609, ANKS5B	17q25.1	AB032965	NM_020753	ANKRD	Ankyrin repeat domain containing	403
+1789	CDKN2C	cyclin dependent kinase inhibitor 2C	Approved		INK4C, p18	1p32.3	BC000598	NM_001262	ANKRD	Ankyrin repeat domain containing	403
+1790	CDKN2D	cyclin dependent kinase inhibitor 2D	Approved		INK4D, p19	19p13.2		NM_079421	ANKRD	Ankyrin repeat domain containing	403
+24314	CLIP3	CAP-Gly domain containing linker protein 3	Approved		CLIPR-59, RSNL1	19q13.12	AJ427922	NM_015526	ANKRD	Ankyrin repeat domain containing	403
+26108	CLIP4	CAP-Gly domain containing linker protein family member 4	Approved	RSNL2	FLJ21069	2p23.2	AK024722	NM_024692	ANKRD	Ankyrin repeat domain containing	403
+30664	CLPB	ClpB homolog, mitochondrial AAA ATPase chaperonin	Approved		HSP78, SKD3, FLJ13152, ANKCLB	11q13.4	BC006404	NM_030813	ANKRD	Ankyrin repeat domain containing	403
+15679	CTTNBP2	cortactin binding protein 2	Approved	CORTBP2, C7orf8	KIAA1758, Orf4	7q31.31		NM_033427	ANKRD	Ankyrin repeat domain containing	403
+2674	DAPK1	death associated protein kinase 1	Approved		DAPK, ROCO3	9q21.33	X76104	NM_004938	ANKRD	Ankyrin repeat domain containing	403
+2855	DGKI	diacylglycerol kinase iota	Approved		DGK-IOTA	7q33	AF061936	NM_004717	ANKRD	Ankyrin repeat domain containing	403
+15858	DZANK1	double zinc ribbon and ankyrin repeat domains 1	Approved	C20orf84, C20orf12	FLJ10600, dJ568F9.2, FLJ30892, bA189K21.8, ANKRD64	20p11.23	AK001462	NM_001099407	ANKRD	Ankyrin repeat domain containing	403
+24650	EHMT1	euchromatic histone lysine methyltransferase 1	Approved	EHMT1-IT1	Eu-HMTase1, FLJ12879, KIAA1876, bA188C12.1, KMT1D, FLJ40292	9q34.3	AY083210	NM_024757	ANKRD	Ankyrin repeat domain containing	403
+14129	EHMT2	euchromatic histone lysine methyltransferase 2	Approved	C6orf30, BAT8	G9A, Em:AF134726.3, NG36/G9a, KMT1C	6p21.33	AF134726	NM_006709	ANKRD	Ankyrin repeat domain containing	403
+13281	ESPN	espin	Approved	DFNB36		1p36.31	AF134401	NM_031475	ANKRD	Ankyrin repeat domain containing	403
+27937	ESPNL	espin like	Approved		FLJ42568	2q37.3	AK124559	NM_194312	ANKRD	Ankyrin repeat domain containing	403
+23527	FANK1	fibronectin type III and ankyrin repeat domains 1	Approved			10q26.2	BC024189	NM_145235	ANKRD	Ankyrin repeat domain containing	403
+16934	FEM1A	fem-1 homolog A	Approved			19p13.3	BC004988		ANKRD	Ankyrin repeat domain containing	403
+3649	FEM1B	fem-1 homolog B	Approved			15q23			ANKRD	Ankyrin repeat domain containing	403
+16933	FEM1C	fem-1 homolog C	Approved		KIAA1785, EUROIMAGE686608, EUROIMAGE783647, FEM1A	5q22.3		NM_020177	ANKRD	Ankyrin repeat domain containing	403
+42952	FPGT-TNNI3K	FPGT-TNNI3K readthrough	Approved			1p31.1			ANKRD	Ankyrin repeat domain containing	403
+4074	GABPB1	GA binding protein transcription factor subunit beta 1	Approved	GABPB2	E4TF1-47, GABPB	15q21.2	D13316		ANKRD	Ankyrin repeat domain containing	403
+28441	GABPB2	GA binding protein transcription factor subunit beta 2	Approved		MGC29891	1q21.3		NM_144618	ANKRD	Ankyrin repeat domain containing	403
+4272	GIT1	GIT ArfGAP 1	Approved			17q11.2	AF124490	NM_014030	ANKRD	Ankyrin repeat domain containing	403
+4273	GIT2	GIT ArfGAP 2	Approved		KIAA0148, PKL	12q24.11	AF124491	NM_057169	ANKRD	Ankyrin repeat domain containing	403
+4331	GLS	glutaminase	Approved		KIAA0838, GLS1	2q32.2	AB020645		ANKRD	Ankyrin repeat domain containing	403
+29570	GLS2	glutaminase 2	Approved		GA, GLS, LGA, hLGA	12q13.3		NM_013267	ANKRD	Ankyrin repeat domain containing	403
+13920	GPANK1	G-patch domain and ankyrin repeats 1	Approved	BAT4	G5, D6S54E, GPATCH10, ANKRD59	6p21.33		NM_033177	ANKRD	Ankyrin repeat domain containing	403
+21033	HACE1	HECT domain and ankyrin repeat containing E3 ubiquitin protein ligase 1	Approved		KIAA1320	6q16.3	BC034982	XM_045095	ANKRD	Ankyrin repeat domain containing	403
+20157	HECTD1	HECT domain E3 ubiquitin protein ligase 1	Approved		KIAA1131	14q12	AB032957		ANKRD	Ankyrin repeat domain containing	403
+17853	IBTK	inhibitor of Bruton tyrosine kinase	Approved	BTKI	DKFZP564B116, BTBD26	6q14.1	AF235049	NM_015525	ANKRD	Ankyrin repeat domain containing	403
+6040	ILK	integrin linked kinase	Approved			11p15.4	U40282	NM_004517	ANKRD	Ankyrin repeat domain containing	403
+17870	INVS	inversin	Approved	NPHP2		9q31.1	AF039217	NM_014425	ANKRD	Ankyrin repeat domain containing	403
+19309	KANK1	KN motif and ankyrin repeat domains 1	Approved	ANKRD15	KIAA0172, KANK	9p24.3	AL833161	NM_015158	ANKRD	Ankyrin repeat domain containing	403
+29300	KANK2	KN motif and ankyrin repeat domains 2	Approved	MXRA3, ANKRD25	KIAA1518	19p13.2	AK000011	NM_015493	ANKRD	Ankyrin repeat domain containing	403
+24796	KANK3	KN motif and ankyrin repeat domains 3	Approved	ANKRD47	FLJ46061	19p13.2	AK128815	NM_198471	ANKRD	Ankyrin repeat domain containing	403
+27263	KANK4	KN motif and ankyrin repeat domains 4	Approved	ANKRD38	KIAA0172	1p31.3	AK096259	NM_181712	ANKRD	Ankyrin repeat domain containing	403
+29508	KIDINS220	kinase D interacting substrate 220	Approved		ARMS	2p25.1	AK025528	NM_020738	ANKRD	Ankyrin repeat domain containing	403
+1573	KRIT1	KRIT1, ankyrin repeat containing	Approved	CCM1	CAM	7q21.2	AJ294850		ANKRD	Ankyrin repeat domain containing	403
+21086	MIB1	mindbomb E3 ubiquitin protein ligase 1	Approved		DIP-1, MIB, KIAA1323, ZZANK2, ZZZ6	18q11.2	AB037744	NM_020774	ANKRD	Ankyrin repeat domain containing	403
+30577	MIB2	mindbomb E3 ubiquitin protein ligase 2	Approved	ZZANK1	skeletrophin, ZZZ5, FLJ39787	1p36.33	AK097106	NM_080875	ANKRD	Ankyrin repeat domain containing	403
+29810	MPHOSPH8	M-phase phosphoprotein 8	Approved		mpp8, HSMPP8	13q12.11	AK056785, AJ293409	NM_017520	ANKRD	Ankyrin repeat domain containing	403
+15667	MTPN	myotrophin	Approved		MYOTROPHIN, GCDP, V-1	7q33	AC015987	NM_145808	ANKRD	Ankyrin repeat domain containing	403
+29822	MYO16	myosin XVI	Approved		MYR8, KIAA0865, Myo16b, NYAP3, PPP1R107	13q33.3		NM_015011	ANKRD	Ankyrin repeat domain containing	403
+7794	NFKB1	nuclear factor kappa B subunit 1	Approved		KBF1, p105, NFKB-p50, p50, NF-kappaB, NFkappaB, NF-kB1	4q24	M58603	NM_003998	ANKRD	Ankyrin repeat domain containing	403
+7795	NFKB2	nuclear factor kappa B subunit 2	Approved		LYT-10, p52, p105, NF-kB2, p49/p100	10q24.32	X61498		ANKRD	Ankyrin repeat domain containing	403
+7797	NFKBIA	NFKB inhibitor alpha	Approved	NFKBI	IKBA, MAD-3, IkappaBalpha	14q13.2		NM_020529	ANKRD	Ankyrin repeat domain containing	403
+7798	NFKBIB	NFKB inhibitor beta	Approved		IKBB, TRIP9	19q13.1	L40407	NM_002503	ANKRD	Ankyrin repeat domain containing	403
+15671	NFKBID	NFKB inhibitor delta	Approved		TA-NFKBH, IkappaBNS	19q13.12	AF385434	NM_032721	ANKRD	Ankyrin repeat domain containing	403
+7799	NFKBIE	NFKB inhibitor epsilon	Approved		IKBE	6p21.1	U91616		ANKRD	Ankyrin repeat domain containing	403
+29805	NFKBIZ	NFKB inhibitor zeta	Approved		MAIL, FLJ34463, INAP	3q12.3	AF548362	NM_031419	ANKRD	Ankyrin repeat domain containing	403
+7881	NOTCH1	notch 1	Approved	TAN1		9q34.3	AF308602	NM_017617	ANKRD	Ankyrin repeat domain containing	403
+7882	NOTCH2	notch 2	Approved			1p12	AF315356	NM_024408	ANKRD	Ankyrin repeat domain containing	403
+7883	NOTCH3	notch 3	Approved	CADASIL	CASIL	19p13.12	U97669	NM_000435	ANKRD	Ankyrin repeat domain containing	403
+7884	NOTCH4	notch 4	Approved	INT3		6p21.32			ANKRD	Ankyrin repeat domain containing	403
+33843	NRARP	NOTCH regulated ankyrin repeat protein	Approved		MGC61598	9q34.3		NM_001004354	ANKRD	Ankyrin repeat domain containing	403
+18826	NUDT12	nudix hydrolase 12	Approved		DKFZP761I172	5q21.2	AL136592	NM_031438	ANKRD	Ankyrin repeat domain containing	403
+16398	OSBPL1A	oxysterol binding protein like 1A	Approved	OSBPL1B	ORP-1, ORP1	18q11.2	AF392449, AF274714	NM_080597	ANKRD	Ankyrin repeat domain containing	403
+8510	OSTF1	osteoclast stimulating factor 1	Approved		SH3P2, OSF, bA235O14.1	9q21.13	U63717	NM_012383	ANKRD	Ankyrin repeat domain containing	403
+9039	PLA2G6	phospholipase A2 group VI	Approved		iPLA2, PNPLA9, PARK14, iPLA2beta, NBIA2	22q13.1	AF064594	NM_001004426	ANKRD	Ankyrin repeat domain containing	403
+33893	POTEA	POTE ankyrin domain family member A	Approved	A26A1	POTE8, POTE-8, CT104.3	8p11.1	AY462869	NM_001002920	ANKRD	Ankyrin repeat domain containing	403
+33734	POTEB	POTE ankyrin domain family member B	Approved	A26B1	POTE15, POTE-15, CT104.5	15q11.2	AY465170	NM_207355	ANKRD	Ankyrin repeat domain containing	403
+48327	POTEB2	POTE ankyrin domain family member B2	Approved			15q11.2			ANKRD	Ankyrin repeat domain containing	403
+33894	POTEC	POTE ankyrin domain family member C	Approved	A26B2	POTE18, POTE-18, DKFZp686J0529, CT104.6	18p11.21	BX649118	XM_496269	ANKRD	Ankyrin repeat domain containing	403
+23822	POTED	POTE ankyrin domain family member D	Approved	ANKRD21, A26B3	POTE, POTE-21, POTE21, CT104.1	21q11.2	AY172978	NM_174981	ANKRD	Ankyrin repeat domain containing	403
+33895	POTEE	POTE ankyrin domain family member E	Approved	A26C1A	POTE2, POTE-2, A26C1, POTE2gamma, CT104.2	2q21.1	AY462868	NM_001083538	ANKRD	Ankyrin repeat domain containing	403
+33905	POTEF	POTE ankyrin domain family member F	Approved	A26C1B	POTEACTIN, POTE2alpha	2q21.1	EF523384	NM_001099771	ANKRD	Ankyrin repeat domain containing	403
+33896	POTEG	POTE ankyrin domain family member G	Approved	A26C2	POTE14, POTE-14, POTE14alpha, CT104.4	14q11.2		NM_001005356	ANKRD	Ankyrin repeat domain containing	403
+133	POTEH	POTE ankyrin domain family member H	Approved	ACTBL1, A26C3	POTE22, CT104.7	22q11.1	AY462874	NM_001136213	ANKRD	Ankyrin repeat domain containing	403
+37093	POTEI	POTE ankyrin domain family member I	Approved		POTE2beta	2q21.1		XM_928585	ANKRD	Ankyrin repeat domain containing	403
+37094	POTEJ	POTE ankyrin domain family member J	Approved		POTE2beta	2q21.1		XM_929706	ANKRD	Ankyrin repeat domain containing	403
+37096	POTEM	POTE ankyrin domain family member M	Approved		POTE14beta, P704P, ACT	14q11.2		NM_001145442	ANKRD	Ankyrin repeat domain containing	403
+7618	PPP1R12A	protein phosphatase 1 regulatory subunit 12A	Approved	MYPT1	MBS, M130	12q21.2-q21.31	D87930	NM_002480	ANKRD	Ankyrin repeat domain containing	403
+7619	PPP1R12B	protein phosphatase 1 regulatory subunit 12B	Approved	MYPT2	MGC87886, MGC131980, PP1bp55	1q32.1	AB003062	NM_032105	ANKRD	Ankyrin repeat domain containing	403
+14947	PPP1R12C	protein phosphatase 1 regulatory subunit 12C	Approved	LENG3	DKFZP434D0412, p84, MBS85, p85, AAVS1	19q13.42	AF312028	NM_017607	ANKRD	Ankyrin repeat domain containing	403
+14950	PPP1R13B	protein phosphatase 1 regulatory subunit 13B	Approved		p53BP2-like, KIAA0771, p85, ASPP1	14q32.33	AB018314	NM_015316	ANKRD	Ankyrin repeat domain containing	403
+18838	PPP1R13L	protein phosphatase 1 regulatory subunit 13 like	Approved		RAI, IASPP	19q13.32	AF078036	NM_006663	ANKRD	Ankyrin repeat domain containing	403
+14941	PPP1R16A	protein phosphatase 1 regulatory subunit 16A	Approved		MGC14333, MYPT3	8q24.3		NM_032902	ANKRD	Ankyrin repeat domain containing	403
+15850	PPP1R16B	protein phosphatase 1 regulatory subunit 16B	Approved		KIAA0823, TIMAP, ANKRD4	20q11.23	AB020630	NM_015568	ANKRD	Ankyrin repeat domain containing	403
+16813	PPP1R27	protein phosphatase 1 regulatory subunit 27	Approved	DYSFIP1	toonin	17q25.3	AF434846	NM_001007533	ANKRD	Ankyrin repeat domain containing	403
+9555	PSMD10	proteasome 26S subunit, non-ATPase 10	Approved		p28	Xq22.3	AB009619	NM_170750	ANKRD	Ankyrin repeat domain containing	403
+14873	RAI14	retinoic acid induced 14	Approved		NORPEG, KIAA1334, RAI13, DKFZp564G013	5p13.2	AB037755	NM_015577	ANKRD	Ankyrin repeat domain containing	403
+9987	RFXANK	regulatory factor X associated ankyrin containing protein	Approved		BLS, RFX-B, ANKRA1, F14150_1, MGC138628	19p13.11	AF094760	NM_003721	ANKRD	Ankyrin repeat domain containing	403
+496	RIPK4	receptor interacting serine/threonine kinase 4	Approved	ANKRD3	DIK, ANKK2, RIP4, PKK	21q22.3	AJ278016	NM_020639	ANKRD	Ankyrin repeat domain containing	403
+10050	RNASEL	ribonuclease L	Approved	RNS4, PRCA1		1q25.3	L10381	NM_021133	ANKRD	Ankyrin repeat domain containing	403
+15474	SHANK1	SH3 and multiple ankyrin repeat domains 1	Approved		SSTRIP, SPANK-1, synamon	19q13.33	AF163302	NM_016148	ANKRD	Ankyrin repeat domain containing	403
+14295	SHANK2	SH3 and multiple ankyrin repeat domains 2	Approved	CORTBP1	CTTNBP1, ProSAP1, SHANK, SPANK-3	11q13.3-q13.4	AF141901	NM_012309	ANKRD	Ankyrin repeat domain containing	403
+14294	SHANK3	SH3 and multiple ankyrin repeat domains 3	Approved		SPANK-2, prosap2, KIAA1650, PSAP2	22q13.33	AB051437	NM_001080420	ANKRD	Ankyrin repeat domain containing	403
+11139	SNCAIP	synuclein alpha interacting protein	Approved		SYPH1	5q23.2	AF167306		ANKRD	Ankyrin repeat domain containing	403
+27033	SOWAHA	sosondowah ankyrin repeat domain family member A	Approved	ANKRD43		5q31.1	AK090823	NM_175873	ANKRD	Ankyrin repeat domain containing	403
+32958	SOWAHB	sosondowah ankyrin repeat domain family member B	Approved	ANKRD56		4q21.1		NM_001029870	ANKRD	Ankyrin repeat domain containing	403
+26149	SOWAHC	sosondowah ankyrin repeat domain family member C	Approved	C2orf26, ANKRD57	FLJ21870	2q13	AK023346	NM_023016	ANKRD	Ankyrin repeat domain containing	403
+32960	SOWAHD	sosondowah ankyrin repeat domain family member D	Approved	ANKRD58		Xq24		NM_001105576	ANKRD	Ankyrin repeat domain containing	403
+29364	TANC1	tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1	Approved		KIAA1728, ROLSB	2q24.2	AB051515		ANKRD	Ankyrin repeat domain containing	403
+30212	TANC2	tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 2	Approved		DKFZP564D166, FLJ10215, FLJ11824, KIAA1148, KIAA1636, rols, ROLSA	17q23.2-q23.3	AB032974		ANKRD	Ankyrin repeat domain containing	403
+11941	TNKS	tankyrase	Approved		TIN1, TINF1, TNKS1, PARP-5a, PARP5A, pART5	8p23.1	AF082556	NM_003747	ANKRD	Ankyrin repeat domain containing	403
+15677	TNKS2	tankyrase 2	Approved		TNKL, TANK2, PARP-5b, PARP-5c, PARP5B, PARP5C, pART6	10q23.32	AF342982	NM_025235	ANKRD	Ankyrin repeat domain containing	403
+7801	TONSL	tonsoku like, DNA repair protein	Approved	NFKBIL2	IKBR	8q24.3		NM_013432	ANKRD	Ankyrin repeat domain containing	403
+12000	TP53BP2	tumor protein p53 binding protein 2	Approved		PPP1R13A, ASPP2, 53BP2	1q41	U09582	NM_001031685, NM_005426	ANKRD	Ankyrin repeat domain containing	403
+29011	TRANK1	tetratricopeptide repeat and ankyrin repeat containing 1	Approved		LBA1, KIAA0342	3p22.2	AK096678	NM_014831	ANKRD	Ankyrin repeat domain containing	403
+497	TRPA1	transient receptor potential cation channel subfamily A member 1	Approved	ANKTM1		8q21.11	Y10601	NM_007332	ANKRD	Ankyrin repeat domain containing	403
+12336	TRPC4	transient receptor potential cation channel subfamily C member 4	Approved		HTRP4, TRP4	13q13.3	U40983	NM_003306	ANKRD	Ankyrin repeat domain containing	403
+12716	TRPV1	transient receptor potential cation channel subfamily V member 1	Approved	VR1		17p13.2	AJ272063	NM_018727	ANKRD	Ankyrin repeat domain containing	403
+18082	TRPV2	transient receptor potential cation channel subfamily V member 2	Approved		VRL, VRL-1, VRL1	17p11.2	AF129112	NM_016113	ANKRD	Ankyrin repeat domain containing	403
+18084	TRPV3	transient receptor potential cation channel subfamily V member 3	Approved		VRL3	17p13.2	AF514998	NM_145068	ANKRD	Ankyrin repeat domain containing	403
+18083	TRPV4	transient receptor potential cation channel subfamily V member 4	Approved		OTRPC4, TRP12, VROAC, VRL-2, VR-OAC, CMT2C	12q24.11	AF263523	NM_021625	ANKRD	Ankyrin repeat domain containing	403
+3145	TRPV5	transient receptor potential cation channel subfamily V member 5	Approved	ECAC1	CaT2	7q34	AJ271207	NM_019841	ANKRD	Ankyrin repeat domain containing	403
+14006	TRPV6	transient receptor potential cation channel subfamily V member 6	Approved	ECAC2	CaT1	7q34	AJ277909	NM_014274	ANKRD	Ankyrin repeat domain containing	403
+15947	UACA	uveal autoantigen with coiled-coil domains and ankyrin repeats	Approved		FLJ10128, KIAA1561	15q23	AF322916		ANKRD	Ankyrin repeat domain containing	403
+16356	USH1G	USH1 protein network component sans	Approved		Sans, FLJ33924, ANKS4A	17q25.1	AK091243	NM_173477	ANKRD	Ankyrin repeat domain containing	403
+18413	ZDHHC13	zinc finger DHHC-type containing 13	Approved		FLJ10852, FLJ10941, HIP14L	11p15.1	AB024495	NM_019028	ANKRD	Ankyrin repeat domain containing	403
+18412	ZDHHC17	zinc finger DHHC-type containing 17	Approved		HIP14, HYPH, KIAA0946	12q21.2	AB023163	NM_015336	ANKRD	Ankyrin repeat domain containing	403

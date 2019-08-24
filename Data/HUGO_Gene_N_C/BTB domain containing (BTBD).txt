@@ -1,0 +1,135 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+18275	ABTB1	ankyrin repeat and BTB domain containing 1	Approved		BPOZ, EF1ABP, Btb3, BTBD21	3q21.3	AB053324	NM_172027	BTBD	BTB domain containing	861
+23842	ABTB2	ankyrin repeat and BTB domain containing 2	Approved		DKFZP586C1619, BTBD22, ABTB2A	11p13	AK056863	NM_145804	BTBD	BTB domain containing	861
+20763	ANKFY1	ankyrin repeat and FYVE domain containing 1	Approved		ANKHZN, KIAA1255, ZFYVE14, BTBD23, RANK-5	17p13.2	AB033081	NM_016376	BTBD	BTB domain containing	861
+935	BACH1	BTB domain and CNC homolog 1	Approved		BACH-1, BTBD24	21q21.3	AF026200	NM_206866	BTBD	BTB domain containing	861
+14078	BACH2	BTB domain and CNC homolog 2	Approved		BTBD25	6q15	AL121787	NM_021813	BTBD	BTB domain containing	861
+1001	BCL6	BCL6, transcription repressor	Approved	ZNF51	ZBTB27, LAZ3, BCL5, BCL6A	3q27.3		NM_001706	BTBD	BTB domain containing	861
+1002	BCL6B	BCL6B, transcription repressor	Approved	ZNF62	ZBTB28, BAZF	17p13.1	AI672318	NM_181844	BTBD	BTB domain containing	861
+1120	BTBD1	BTB domain containing 1	Approved			15q25.2	AF355402		BTBD	BTB domain containing	861
+21445	BTBD10	BTB domain containing 10	Approved		GMRP1, GMRP-1, MGC13007	11p15.3	AY221959	NM_032320	BTBD	BTB domain containing	861
+23844	BTBD11	BTB domain containing 11	Approved		FLJ33957, ABTB2B	12q23.3	AK091276	NM_152322	BTBD	BTB domain containing	861
+26340	BTBD16	BTB domain containing 16	Approved	C10orf87	FLJ25359, Em:AC061711.1	10q26.13	AK058088	NM_144587	BTBD	BTB domain containing	861
+33758	BTBD17	BTB domain containing 17	Approved		LGALS3BPL, BTBD17A, TANGO10A	17q25.1		NM_001080466	BTBD	BTB domain containing	861
+37214	BTBD18	BTB domain containing 18	Approved			11q12.1		NM_001145101	BTBD	BTB domain containing	861
+27145	BTBD19	BTB domain containing 19	Approved			1p34.1		NM_001136537	BTBD	BTB domain containing	861
+15504	BTBD2	BTB domain containing 2	Approved			19p13.3	AF355797		BTBD	BTB domain containing	861
+15854	BTBD3	BTB domain containing 3	Approved		KIAA0952, dJ742J24.1	20p12.2	AB023169		BTBD	BTB domain containing	861
+19897	BTBD6	BTB domain containing 6	Approved		BDPL	14q32.33	AF353674		BTBD	BTB domain containing	861
+18269	BTBD7	BTB domain containing 7	Approved		FLJ10648, FUP1	14q32.12	AB040958	NM_001002860	BTBD	BTB domain containing	861
+21019	BTBD8	BTB domain containing 8	Approved			1p22.1	AY346333	NM_183242	BTBD	BTB domain containing	861
+21228	BTBD9	BTB domain containing 9	Approved		KIAA1880, dJ322I12.1	6p21.2		NM_152733	BTBD	BTB domain containing	861
+1568	CCIN	calicin	Approved		KBTBD14, BTBD20	9p13.3	Z46967	NM_005893	BTBD	BTB domain containing	861
+3345	ENC1	ectodermal-neural cortex 1	Approved	NRPB	PIG10, ENC-1, TP53I10, KLHL37	5q13.3	AF059611	NM_003633	BTBD	BTB domain containing	861
+4137	GAN	gigaxonin	Approved		GAN1, KLHL16	16q23.2	AF291673		BTBD	BTB domain containing	861
+23843	GMCL1	germ cell-less, spermatogenesis associated 1	Approved		FLJ13057, BTBD13, GCL1, SPATA29	2p13.3	AK023119	NM_178439	BTBD	BTB domain containing	861
+15808	GZF1	GDNF inducible zinc finger protein 1	Approved	ZNF336	dJ322G13.2, ZBTB23	20p11.21	AK025447	NM_022482	BTBD	BTB domain containing	861
+4909	HIC1	HIC ZBTB transcriptional repressor 1	Approved		ZBTB29, ZNF901	17p13.3		NM_006497	BTBD	BTB domain containing	861
+18595	HIC2	HIC ZBTB transcriptional repressor 2	Approved		KIAA1020, HRG22, ZBTB30, ZNF907	22q11.21	AB028943		BTBD	BTB domain containing	861
+17853	IBTK	inhibitor of Bruton tyrosine kinase	Approved	BTKI	DKFZP564B116, BTBD26	6q14.1	AF235049	NM_015525	BTBD	BTB domain containing	861
+6108	IPP	intracisternal A particle-promoted polypeptide	Approved		KLHL27	1p34.1	BC032544	NM_005897	BTBD	BTB domain containing	861
+16951	IVNS1ABP	influenza virus NS1A binding protein	Approved		NS1-BP, HSPC068, NS-1, KIAA0850, ND1, KLHL39, ARA3	1q25.3	AB020657	NM_006469	BTBD	BTB domain containing	861
+29104	KBTBD11	kelch repeat and BTB domain containing 11	Approved		KIAA0711, KLHDC7C	8p23.3	AB018254	NM_014867	BTBD	BTB domain containing	861
+25731	KBTBD12	kelch repeat and BTB domain containing 12	Approved	KLHDC6	FLJ46299	3q21.3		NM_207335	BTBD	BTB domain containing	861
+37227	KBTBD13	kelch repeat and BTB domain containing 13	Approved		hCG_1645727, NEM6	15q22.31		NM_001101362	BTBD	BTB domain containing	861
+21751	KBTBD2	kelch repeat and BTB domain containing 2	Approved	BKLHD1	DKFZP566C134	7p14.3	AB040922	XM_291224	BTBD	BTB domain containing	861
+22934	KBTBD3	kelch repeat and BTB domain containing 3	Approved	BKLHD3		11q22.3	AK055247	NM_152433	BTBD	BTB domain containing	861
+23761	KBTBD4	kelch repeat and BTB domain containing 4	Approved	BKLHD4	FLJ10450, HSPC252	11p11.2	AF151086	NM_016506	BTBD	BTB domain containing	861
+25340	KBTBD6	kelch repeat and BTB domain containing 6	Approved		DKFZp547E1912	13q14.11	AK056633	NM_152903	BTBD	BTB domain containing	861
+25266	KBTBD7	kelch repeat and BTB domain containing 7	Approved		DKFZP434E2318	13q14.11	AL136782	NM_032138	BTBD	BTB domain containing	861
+30691	KBTBD8	kelch repeat and BTB domain containing 8	Approved		TA-KRP, KIAA1842	3p14.1	AF385438	NM_032505	BTBD	BTB domain containing	861
+23236	KCTD10	potassium channel tetramerization domain containing 10	Approved		MSTP028, BTBD28	12q24.11	BC040062	NM_031954	BTBD	BTB domain containing	861
+22401	KCTD9	potassium channel tetramerization domain containing 9	Approved		FLJ20038, BTBD27	8p21.2	BC021216	NM_017634	BTBD	BTB domain containing	861
+23177	KEAP1	kelch like ECH associated protein 1	Approved		KIAA0132, MGC10630, MGC1114, MGC20887, MGC4407, MGC9454, INrf2, KLHL19	19p13.2	AF361886	NM_012289	BTBD	BTB domain containing	861
+6352	KLHL1	kelch like family member 1	Approved		KIAA1490, MRP2, FLJ30047	13q21.33	AB040923	NM_020866	BTBD	BTB domain containing	861
+18829	KLHL10	kelch like family member 10	Approved		FLJ32662	17q21.2	AK057224	NM_152467	BTBD	BTB domain containing	861
+19008	KLHL11	kelch like family member 11	Approved		FLJ10572	17q21.2		NM_018143	BTBD	BTB domain containing	861
+19360	KLHL12	kelch like family member 12	Approved		C3IP1	1q32.1	AF190900	NM_021633	BTBD	BTB domain containing	861
+22931	KLHL13	kelch like family member 13	Approved	BKLHD2, KIAA1309	FLJ10262	Xq24	AB037730	NM_033495	BTBD	BTB domain containing	861
+29266	KLHL14	kelch like family member 14	Approved		KIAA1384	18q12.1	AB037805		BTBD	BTB domain containing	861
+29347	KLHL15	kelch like family member 15	Approved		KIAA1677	Xp22.11	AB051464	XM_040383	BTBD	BTB domain containing	861
+24023	KLHL17	kelch like family member 17	Approved			1p36.33	AY423763	NM_198317	BTBD	BTB domain containing	861
+29120	KLHL18	kelch like family member 18	Approved		KIAA0795, FLJ13703	3p21.31	AB018338	NM_025010	BTBD	BTB domain containing	861
+6353	KLHL2	kelch like family member 2	Approved		MAV	4q32.3	AF059569		BTBD	BTB domain containing	861
+25056	KLHL20	kelch like family member 20	Approved		KLEIP, KHLHX	1q25.1	AB026190	NM_014458	BTBD	BTB domain containing	861
+29041	KLHL21	kelch like family member 21	Approved		KIAA0469	1p36.31	AK090472	NM_014851	BTBD	BTB domain containing	861
+25888	KLHL22	kelch like family member 22	Approved		FLJ14360, KELCHL	22q11.21		NM_032775	BTBD	BTB domain containing	861
+27506	KLHL23	kelch like family member 23	Approved		MGC2610, FLJ37812, MGC22679	2q31.1	BC010437	NM_144711	BTBD	BTB domain containing	861
+25947	KLHL24	kelch like family member 24	Approved		DRE1, FLJ20059	3q27.1		NM_017644	BTBD	BTB domain containing	861
+25732	KLHL25	kelch like family member 25	Approved		FLJ12587, ENC2, ENC-2	15q25.3		NM_022480	BTBD	BTB domain containing	861
+25623	KLHL26	kelch like family member 26	Approved			19p13.11		NM_018316	BTBD	BTB domain containing	861
+19741	KLHL28	kelch like family member 28	Approved	BTBD5	FLJ20081	14q21.2	AK000088		BTBD	BTB domain containing	861
+29404	KLHL29	kelch like family member 29	Approved	KBTBD9	KIAA1921	2p24.1		NM_052920	BTBD	BTB domain containing	861
+6354	KLHL3	kelch like family member 3	Approved		KIAA1129	5q31.2	AB032955		BTBD	BTB domain containing	861
+24770	KLHL30	kelch like family member 30	Approved		FLJ43374	2q37.3		NM_198582	BTBD	BTB domain containing	861
+21353	KLHL31	kelch like family member 31	Approved	KBTBD1	bA345L23.2, BKLHD6	6p12.1		NM_001003760	BTBD	BTB domain containing	861
+21221	KLHL32	kelch like family member 32	Approved	BKLHD5, KIAA1900		6q16.1	AB067487	NM_052904	BTBD	BTB domain containing	861
+26634	KLHL34	kelch like family member 34	Approved		FLJ34960, RP11-450P7.3	Xp22.12	AK092279	NM_153270	BTBD	BTB domain containing	861
+26597	KLHL35	kelch like family member 35	Approved		FLJ33790	11q13.4		NM_173583	BTBD	BTB domain containing	861
+17844	KLHL36	kelch like family member 36	Approved	C16orf44	FLJ12543	16q24.1	AK022605		BTBD	BTB domain containing	861
+34435	KLHL38	kelch like family member 38	Approved		C8ORFK36	8q24.13			BTBD	BTB domain containing	861
+6355	KLHL4	kelch like family member 4	Approved		KIAA1687, DKELCHL, KHL4	Xq21.31	AF284765		BTBD	BTB domain containing	861
+30372	KLHL40	kelch like family member 40	Approved	KBTBD5	SRYP, NEM8	3p22.1	AK056577	NM_152393	BTBD	BTB domain containing	861
+16905	KLHL41	kelch like family member 41	Approved	KBTBD10	SARCOSIN, Krp1	2q31.1	AF056929	NM_006063	BTBD	BTB domain containing	861
+6356	KLHL5	kelch like family member 5	Approved			4p14	AF272976		BTBD	BTB domain containing	861
+18653	KLHL6	kelch like family member 6	Approved		FLJ00029	3q27.1	AF441792	NM_130446	BTBD	BTB domain containing	861
+15646	KLHL7	kelch like family member 7	Approved		KLHL6, SBBI26, RP42	7p15.3		NM_018846	BTBD	BTB domain containing	861
+18644	KLHL8	kelch like family member 8	Approved		KIAA1378	4q22.1	AB037799		BTBD	BTB domain containing	861
+18732	KLHL9	kelch like family member 9	Approved		KIAA1354, FLJ13568	9p21.3	AB037775	NM_018847	BTBD	BTB domain containing	861
+6564	LGALS3BP	galectin 3 binding protein	Approved		MAC-2-BP, 90K, BTBD17B, TANGO10B, M2BP, gp90, CyCAP	17q25	L13210	NM_005567	BTBD	BTB domain containing	861
+6742	LZTR1	leucine zipper like transcription regulator 1	Approved		LZTR-1, BTBD29	22q11.21	D38496	NM_006767	BTBD	BTB domain containing	861
+14955	MYNN	myoneurin	Approved		SBBIZ1, ZBTB31, ZNF902	3q26.2	AF148848	NM_018657	BTBD	BTB domain containing	861
+20967	NACC1	nucleus accumbens associated 1	Approved	BTBD14B	NAC1, NAC-1, BEND8, BTBD30	19p13.13	AF395817	NM_052876	BTBD	BTB domain containing	861
+23846	NACC2	NACC family member 2	Approved	BTBD14A	MGC23427, BEND9, BTBD31	9q34.3	BC015649	NM_144653	BTBD	BTB domain containing	861
+13071	PATZ1	POZ/BTB and AT hook containing zinc finger 1	Approved	ZNF278	MAZR, dJ400N23, ZBTB19, ZSG, RIAZ, PATZ	22q12.2	AL096880	NM_032052	BTBD	BTB domain containing	861
+18243	RCBTB1	RCC1 and BTB domain containing protein 1	Approved		FLJ10716, CLLD7, CLLL7	13q14.2	AF334406	NM_018191	BTBD	BTB domain containing	861
+1914	RCBTB2	RCC1 and BTB domain containing protein 2	Approved	CHC1L		13q14.2	AF060219	NM_001268	BTBD	BTB domain containing	861
+18738	RHOBTB1	Rho related BTB domain containing 1	Approved		KIAA0740	10q21.2	AB018283		BTBD	BTB domain containing	861
+18756	RHOBTB2	Rho related BTB domain containing 2	Approved		KIAA0717, DBC2	8p21.3	AF315385		BTBD	BTB domain containing	861
+18757	RHOBTB3	Rho related BTB domain containing 3	Approved		KIAA0878	5q15	AB020685	NM_014899	BTBD	BTB domain containing	861
+23845	SLX4	SLX4 structure-specific endonuclease subunit	Approved	BTBD12	KIAA1784, KIAA1987, FANCP	16p13.3	AB058687	NM_032444	BTBD	BTB domain containing	861
+11254	SPOP	speckle type BTB/POZ protein	Approved		TEF2, BTBD32	17q21.33	AJ000644	NM_003563	BTBD	BTB domain containing	861
+27934	SPOPL	speckle type BTB/POZ protein like	Approved		BTBD33	2q22.1		NM_001001664	BTBD	BTB domain containing	861
+11894	TNFAIP1	TNF alpha induced protein 1	Approved	EDP1	B61, B12, MGC2317, BTBD34	17q11.2		NM_021137	BTBD	BTB domain containing	861
+20259	ZBTB1	zinc finger and BTB domain containing 1	Approved		KIAA0997, ZNF909	14q23.3	AB023214		BTBD	BTB domain containing	861
+30953	ZBTB10	zinc finger and BTB domain containing 10	Approved		RINZF, FLJ12752	8q21.13	AK022814	NM_023929	BTBD	BTB domain containing	861
+16740	ZBTB11	zinc finger and BTB domain containing 11	Approved		ZNF-U69274, ZNF913	3q12.3	U69274	NM_014415	BTBD	BTB domain containing	861
+19066	ZBTB12	zinc finger and BTB domain containing 12	Approved	C6orf46	G10, NG35, D6S59E	6p21.33	BC043609	NM_181842	BTBD	BTB domain containing	861
+12860	ZBTB14	zinc finger and BTB domain containing 14	Approved	ZFP161	ZNF478	18p11.31	D89859	NM_003409	BTBD	BTB domain containing	861
+12930	ZBTB16	zinc finger and BTB domain containing 16	Approved	ZNF145	PLZF	11q23.2	Z19002	NM_006006	BTBD	BTB domain containing	861
+12936	ZBTB17	zinc finger and BTB domain containing 17	Approved	ZNF151, ZNF60	MIZ1, pHZ-67	1p36.13	U20647	NM_003443	BTBD	BTB domain containing	861
+13030	ZBTB18	zinc finger and BTB domain containing 18	Approved	ZNF238	C2H2-171, TAZ-1, RP58	1q44	U38896	NM_205768	BTBD	BTB domain containing	861
+20868	ZBTB2	zinc finger and BTB domain containing 2	Approved		KIAA1483, ZNF437, bA351K16.2	6q25.1	BC020172	NM_020861	BTBD	BTB domain containing	861
+13503	ZBTB20	zinc finger and BTB domain containing 20	Approved	ZNF288	ODA-8S, DKFZp566F123, DPZF	3q13.31	AF139460	NM_015642	BTBD	BTB domain containing	861
+13083	ZBTB21	zinc finger and BTB domain containing 21	Approved	ZNF295	KIAA1227	21q22.3	AB033053	NM_020727	BTBD	BTB domain containing	861
+13085	ZBTB22	zinc finger and BTB domain containing 22	Approved	ZNF297	BING1, ZNF297A, fruitless, fru, ZBTB22A	6p21.3	Z97183		BTBD	BTB domain containing	861
+21143	ZBTB24	zinc finger and BTB domain containing 24	Approved	ZNF450	KIAA0441, BIF1, PATZ2	6q21	AB007901	NM_014797	BTBD	BTB domain containing	861
+13112	ZBTB25	zinc finger and BTB domain containing 25	Approved	ZNF46, C14orf51	KUP	14q23.3	X16576	NM_006977	BTBD	BTB domain containing	861
+23383	ZBTB26	zinc finger and BTB domain containing 26	Approved	ZNF481		9q33.2	AB046792	NM_020924	BTBD	BTB domain containing	861
+22918	ZBTB3	zinc finger and BTB domain containing 3	Approved		FLJ23392	11q12.3	AK027045	NM_024784	BTBD	BTB domain containing	861
+16763	ZBTB32	zinc finger and BTB domain containing 32	Approved		TZFP, FAZF, FAXF, Rog, ZNF538	19q13.12	AF130255	NM_014383	BTBD	BTB domain containing	861
+16682	ZBTB33	zinc finger and BTB domain containing 33	Approved		ZNF-kaiso, kaiso, WUGSC:H_DJ525N14.1, KAISO, ZNF348	Xq24	BC042753	NM_006777	BTBD	BTB domain containing	861
+31446	ZBTB34	zinc finger and BTB domain containing 34	Approved		KIAA1993, MGC24652, ZNF918	9q33.3	DQ227306	NM_001099270	BTBD	BTB domain containing	861
+28365	ZBTB37	zinc finger and BTB domain containing 37	Approved		MGC2629, ZNF908	1q25.1	AK057310	NM_032522	BTBD	BTB domain containing	861
+26636	ZBTB38	zinc finger and BTB domain containing 38	Approved		FLJ35036, CIBZ, ZNF921, PPP1R171	3q23	BC015444		BTBD	BTB domain containing	861
+29014	ZBTB39	zinc finger and BTB domain containing 39	Approved		KIAA0352, ZNF922	12q13.3	AB002350	NM_014830	BTBD	BTB domain containing	861
+23847	ZBTB4	zinc finger and BTB domain containing 4	Approved		KIAA1538, KAISO-L1, ZNF903	17p13.1	AB040971	NM_020899	BTBD	BTB domain containing	861
+29045	ZBTB40	zinc finger and BTB domain containing 40	Approved		KIAA0478, ZNF923	1p36.12	AB007947	NM_014870	BTBD	BTB domain containing	861
+24819	ZBTB41	zinc finger and BTB domain containing 41	Approved		FRBZ1, FLJ36199, DKFZp686C06120, ZNF924	1q31.3		NM_194314	BTBD	BTB domain containing	861
+32550	ZBTB42	zinc finger and BTB domain containing 42	Approved		ZNF925	14q32.33	AX721091		BTBD	BTB domain containing	861
+17908	ZBTB43	zinc finger and BTB domain containing 43	Approved	ZNF297B	KIAA0414, ZNF-X, FLJ22470, ZBTB22B	9q33.3	AF049907	NM_001135776	BTBD	BTB domain containing	861
+25001	ZBTB44	zinc finger and BTB domain containing 44	Approved	BTBD15	HSPC063, ZNF851	11q24.3	AK024659	NM_014155	BTBD	BTB domain containing	861
+23715	ZBTB45	zinc finger and BTB domain containing 45	Approved	ZNF499	FLJ14486	19q13.43	AK027392	NM_032792	BTBD	BTB domain containing	861
+16094	ZBTB46	zinc finger and BTB domain containing 46	Approved	ZNF340, BTBD4	FLJ13502, RINZF, BZEL	20q13.33	AK131482	NM_025224	BTBD	BTB domain containing	861
+26955	ZBTB47	zinc finger and BTB domain containing 47	Approved	ZNF651	KIAA1190, DKFZp434N0615	3p22.1	AB033016	NM_145166	BTBD	BTB domain containing	861
+4930	ZBTB48	zinc finger and BTB domain containing 48	Approved	HKR3	ZNF855, TZAP	1p36.31	BC013573	NM_005341	BTBD	BTB domain containing	861
+19883	ZBTB49	zinc finger and BTB domain containing 49	Approved	ZNF509	FLJ38559	4p16.3	AK095878	NM_145291	BTBD	BTB domain containing	861
+23836	ZBTB5	zinc finger and BTB domain containing 5	Approved		KIAA0354	9p13.2	AB002352	NM_014872	BTBD	BTB domain containing	861
+16764	ZBTB6	zinc finger and BTB domain containing 6	Approved	ZNF482	ZID	9q33.2	X82018	NM_006626	BTBD	BTB domain containing	861
+18078	ZBTB7A	zinc finger and BTB domain containing 7A	Approved	ZBTB7	FBI-1, LRF, DKFZp547O146, pokemon, ZNF857A	19p13.3	AF000561	NM_015898	BTBD	BTB domain containing	861
+18668	ZBTB7B	zinc finger and BTB domain containing 7B	Approved	ZFP67	ZBTB15, c-Krox, hcKrox, ZNF857B	1q21.3	AF007833	NM_015872	BTBD	BTB domain containing	861
+31700	ZBTB7C	zinc finger and BTB domain containing 7C	Approved	ZBTB36	ZNF857C	18q21.1	Y14591	NM_001039360	BTBD	BTB domain containing	861
+24172	ZBTB8A	zinc finger and BTB domain containing 8A	Approved	ZBTB8	BOZF1, FLJ90065, ZNF916A	1p35.1	AF548353	NM_144621	BTBD	BTB domain containing	861
+37057	ZBTB8B	zinc finger and BTB domain containing 8B	Approved		RP1-27O5.1, DKFZp547H154, ZNF916B	1p35.1	AL442095	NM_001145720	BTBD	BTB domain containing	861
+28323	ZBTB9	zinc finger and BTB domain containing 9	Approved		MGC23166, ZNF919	6p21.32	AK122644	NM_152735	BTBD	BTB domain containing	861
+12915	ZNF131	zinc finger protein 131	Approved		ZBTB35, pHZ-10	5p12	U09410	NM_003432	BTBD	BTB domain containing	861

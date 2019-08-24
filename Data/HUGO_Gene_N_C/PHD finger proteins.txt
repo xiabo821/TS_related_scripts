@@ -1,0 +1,91 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+360	AIRE	autoimmune regulator	Approved	APECED	PGA1, APS1	21q22.3	AB006684		PHF	PHD finger proteins	88
+19088	ASH1L	ASH1 like histone lysine methyltransferase	Approved		huASH1, ASH1, ASH1L1, KMT2H	1q22	AB037841	NM_018489	PHF	PHD finger proteins	88
+744	ASH2L	ASH2 like, histone lysine methyltransferase complex subunit	Approved	ASH2L1	ASH2L2, ASH2, Bre2	8p11.23	AF056717	NM_004674	PHF	PHD finger proteins	88
+960	BAZ1A	bromodomain adjacent to zinc finger domain 1A	Approved		hACF1, ACF1, WALp1, WCRF180	14q13.1-q13.2	AB032252		PHF	PHD finger proteins	88
+961	BAZ1B	bromodomain adjacent to zinc finger domain 1B	Approved	WBSCR9, WBSCR10	WSTF	7q11.23	AF084479	NM_032408	PHF	PHD finger proteins	88
+962	BAZ2A	bromodomain adjacent to zinc finger domain 2A	Approved		KIAA0314, TIP5, WALp3	12q13.3	AB032254	NM_013449	PHF	PHD finger proteins	88
+963	BAZ2B	bromodomain adjacent to zinc finger domain 2B	Approved		WALp4	2q24.2	AB032255		PHF	PHD finger proteins	88
+3581	BPTF	bromodomain PHD finger transcription factor	Approved	FALZ	FAC1, NURF301	17q24.2	AY282495	NM_182641, NM_004459	PHF	PHD finger proteins	88
+1918	CHD3	chromodomain helicase DNA binding protein 3	Approved		Mi-2a, ZFH, Mi2-ALPHA	17p13.1	U08379	NM_001005273	PHF	PHD finger proteins	88
+1919	CHD4	chromodomain helicase DNA binding protein 4	Approved		Mi-2b, Mi2-BETA	12p13.31	X86691	NM_001273	PHF	PHD finger proteins	88
+16816	CHD5	chromodomain helicase DNA binding protein 5	Approved			1p36.31	AF425231	NM_015557	PHF	PHD finger proteins	88
+24343	CXXC1	CXXC finger protein 1	Approved		HsT2645, PCCX1, hCGBP, PHF18, CGBP, SPP1, CFP1, ZCGPC1	18q21.1	BC014940	NM_014593	PHF	PHD finger proteins	88
+2680	DIDO1	death inducer-obliterator 1	Approved	C20orf158, DATF1	DIO1, dJ885L7.8, FLJ11265, KIAA0333, DIO-1, BYE1	20q13.33	AB002331	NM_080796	PHF	PHD finger proteins	88
+20225	DPF1	double PHD fingers 1	Approved		neuro-d4, NEUD4, BAF45b	19q13.2	U43843		PHF	PHD finger proteins	88
+9964	DPF2	double PHD fingers 2	Approved	REQ	ubi-d4, BAF45d	11q13.1	U94585	NM_006268	PHF	PHD finger proteins	88
+17427	DPF3	double PHD fingers 3	Approved		cer-d4, Cerd4, FLJ14079, BAF45c	14q24.2	U43919		PHF	PHD finger proteins	88
+20748	FANCL	FA complementation group L	Approved	PHF9	FLJ10335, FAAP43, Pog	2p16.1	AK001197	NM_018062	PHF	PHD finger proteins	88
+20338	G2E3	G2/M-phase specific E3 ubiquitin protein ligase	Approved	KIAA1333	FLJ20333, PHF7B	14q12	AK000340	NM_017769	PHF	PHD finger proteins	88
+6062	ING1	inhibitor of growth family member 1	Approved		p33ING1, p33ING1b, p24ING1c, p33, p47, p47ING1a	13q34		NM_005537	PHF	PHD finger proteins	88
+6063	ING2	inhibitor of growth family member 2	Approved	ING1L	p33ING2	4q35.1	AB012853	NM_001564	PHF	PHD finger proteins	88
+14587	ING3	inhibitor of growth family member 3	Approved		p47ING3, FLJ20089, Eaf4, MEAF4	7q31.31	AF074968	NM_019071	PHF	PHD finger proteins	88
+19423	ING4	inhibitor of growth family member 4	Approved		p29ING4, my036	12p13.31	AF063594	NM_198287	PHF	PHD finger proteins	88
+19421	ING5	inhibitor of growth family member 5	Approved		FLJ23842, p28ING5	2q37.3	AF189286	NM_032329	PHF	PHD finger proteins	88
+25067	INTS12	integrator complex subunit 12	Approved	PHF22	SBBI22, INT12	4q24		NM_020395	PHF	PHD finger proteins	88
+30027	JADE1	jade family PHD finger 1	Approved	PHF17	JADE-1	4q28.2		NM_024900	PHF	PHD finger proteins	88
+22984	JADE2	jade family PHD finger 2	Approved	PHF15	KIAA0239, JADE-2	5q31.1	AJ251833	NM_015288	PHF	PHD finger proteins	88
+22982	JADE3	jade family PHD finger 3	Approved	PHF16	KIAA0215, JADE-3	Xp11.3	AF127774	NM_014735	PHF	PHD finger proteins	88
+13013	KAT6A	lysine acetyltransferase 6A	Approved	ZNF220, RUNXBP2, MYST3	MOZ, ZC2HC6A	8p11.21	U47742	NM_006766	PHF	PHD finger proteins	88
+17582	KAT6B	lysine acetyltransferase 6B	Approved	MYST4	querkopf, qkf, Morf, MOZ2, ZC2HC6B	10q22.2	AF113514	NM_012330	PHF	PHD finger proteins	88
+9886	KDM5A	lysine demethylase 5A	Approved	RBBP2, JARID1A		12p13.33		NM_005056	PHF	PHD finger proteins	88
+18039	KDM5B	lysine demethylase 5B	Approved	JARID1B	RBBP2H1A, PLU-1, CT31, PPP1R98	1q32.1	AJ243706	NM_006618	PHF	PHD finger proteins	88
+11114	KDM5C	lysine demethylase 5C	Approved	SMCX, JARID1C, MRX13	DXS1272E, XE169	Xp11.22	Z29650	NM_004187	PHF	PHD finger proteins	88
+11115	KDM5D	lysine demethylase 5D	Approved	HYA, HY, SMCY, JARID1D	KIAA0234	Yq11.223	U52191	NM_004653	PHF	PHD finger proteins	88
+22224	KDM7A	lysine demethylase 7A	Approved	JHDM1D	KIAA1718	7q34		NM_030647	PHF	PHD finger proteins	88
+7132	KMT2A	lysine methyltransferase 2A	Approved	MLL	TRX1, HRX, ALL-1, HTRX1, CXXC7, MLL1A	11q23.3	L04284	NM_005933	PHF	PHD finger proteins	88
+13726	KMT2C	lysine methyltransferase 2C	Approved	MLL3	KIAA1506, HALR	7q36.1	AF264750		PHF	PHD finger proteins	88
+7133	KMT2D	lysine methyltransferase 2D	Approved	TNRC21, MLL2	ALR, MLL4, CAGL114	12q13.12	AF010403		PHF	PHD finger proteins	88
+18541	KMT2E	lysine methyltransferase 2E	Approved	MLL5	HDCMC04P	7q22.3	AF067804		PHF	PHD finger proteins	88
+16063	MLLT10	MLLT10, histone lysine methyltransferase DOT1L cofactor	Approved		AF10	10p12.31	U13948		PHF	PHD finger proteins	88
+7138	MLLT6	MLLT6, PHD finger containing	Approved		AF17, FLJ23480	17q12		NM_005937	PHF	PHD finger proteins	88
+29535	MTF2	metal response element binding transcription factor 2	Approved		M96, PCL2, TDRD19A	1p22.1	AJ010014	NM_007358	PHF	PHD finger proteins	88
+14234	NSD1	nuclear receptor binding SET domain protein 1	Approved	STO	ARA267, FLJ22263, KMT3B	5q35.3	AK026066	NM_172349	PHF	PHD finger proteins	88
+8919	PHF1	PHD finger protein 1	Approved		MTF2L2, TDRD19C, PCL1	6p21.32	AF029678		PHF	PHD finger proteins	88
+18250	PHF10	PHD finger protein 10	Approved		FLJ10975, XAP135, BAF45a	6q27	AF338735	NM_018288	PHF	PHD finger proteins	88
+17024	PHF11	PHD finger protein 11	Approved		NY-REN-34, BCAP, IGER	13q14.2	AB011031	NM_016119	PHF	PHD finger proteins	88
+20816	PHF12	PHD finger protein 12	Approved		PF1, KIAA1523	17q11.2	AB040956	NM_020889	PHF	PHD finger proteins	88
+22983	PHF13	PHD finger protein 13	Approved		MGC43399	1p36.31	AK027492	NM_153812	PHF	PHD finger proteins	88
+22203	PHF14	PHD finger protein 14	Approved		KIAA0783	7p21.3	AB018326	NM_014660	PHF	PHD finger proteins	88
+24566	PHF19	PHD finger protein 19	Approved		DKFZP727G051, PCL3, MTF2L1, TDRD19B	9q33.2	BX640713	XM_045308	PHF	PHD finger proteins	88
+8920	PHF2	PHD finger protein 2	Approved		KIAA0662, JHDM1E, CENP-35, KDM7C	9q22.31	AF043725	NM_005392	PHF	PHD finger proteins	88
+16098	PHF20	PHD finger protein 20	Approved	C20orf104	dJ1121G12.1, TDRD20A	20q11.22-q11.23	AL109965	NM_016436	PHF	PHD finger proteins	88
+24280	PHF20L1	PHD finger protein 20 like 1	Approved		CGI-72, FLJ13649, MGC64923, FLJ21615, TDRD20B	8q24.22	AF230666	NM_016018	PHF	PHD finger proteins	88
+24156	PHF21A	PHD finger protein 21A	Approved		BHC80, KIAA1696, BM-006	11p11.2	AL359593	NM_016621	PHF	PHD finger proteins	88
+25161	PHF21B	PHD finger protein 21B	Approved	PHF4	BHC80L, FLJ34161	22q13.31	AK091480	NM_138415	PHF	PHD finger proteins	88
+28428	PHF23	PHD finger protein 23	Approved		MGC2941, FLJ16355	17p13.1	AK122791	NM_024297	PHF	PHD finger proteins	88
+29180	PHF24	PHD finger protein 24	Approved	KIAA1045		9p13.3	AB028968	NM_001304333	PHF	PHD finger proteins	88
+8921	PHF3	PHD finger protein 3	Approved			6q12	AF091622		PHF	PHD finger proteins	88
+18000	PHF5A	PHD finger protein 5A	Approved		MGC1346, SF3b14b, INI, bK223H9.2, Rds3, SAP14b, SF3B7	22q13.2	BC007321	NM_032758	PHF	PHD finger proteins	88
+18145	PHF6	PHD finger protein 6	Approved	BFLS, BORJ	KIAA1823, MGC14797, CENP-31	Xq26.2	AB058726	NM_032458	PHF	PHD finger proteins	88
+18458	PHF7	PHD finger protein 7	Approved		NYD-SP6, HSPC226	3p21.1	AY014283	NM_016483	PHF	PHD finger proteins	88
+20672	PHF8	PHD finger protein 8	Approved		ZNF422, KIAA1111, JHDM1F, KDM7B	Xp11.22	AB029034	NM_015107	PHF	PHD finger proteins	88
+24351	PHRF1	PHD and ring finger domains 1	Approved	RNF221	KIAA1542, PPP1R125	11p15.5	BC004950	NM_020901	PHF	PHD finger proteins	88
+30256	PYGO1	pygopus family PHD finger 1	Approved			15q21.3	AF457207	NM_015617	PHF	PHD finger proteins	88
+30257	PYGO2	pygopus family PHD finger 2	Approved			1q21.3	BC006132	NM_138300	PHF	PHD finger proteins	88
+18118	RSF1	remodeling and spacing factor 1	Approved	HBXAP	XAP8, RSF-1, p325	11q14.1	AF380176, AF227948	NM_016578	PHF	PHD finger proteins	88
+11206	SP100	SP100 nuclear antigen	Approved			2q37.1	AF056322	NM_003113	PHF	PHD finger proteins	88
+17133	SP140	SP140 nuclear body protein	Approved		LYSP100-B, LYSP100-A	2q37.1	U63420	NM_007237	PHF	PHD finger proteins	88
+25105	SP140L	SP140 nuclear body protein like	Approved			2q37.1	BC004921	NM_138402	PHF	PHD finger proteins	88
+17303	TAF3	TATA-box binding protein associated factor 3	Approved		TAF140, TAFII140	10p14	AJ292190	NM_031923	PHF	PHD finger proteins	88
+11629	TCF19	transcription factor 19	Approved		SC1	6p21.33	U25826	NM_007109	PHF	PHD finger proteins	88
+11812	TRIM24	tripartite motif containing 24	Approved	TIF1	hTIF1, Tif1a, RNF82, TIF1A	7q33-q34	AF009353	NM_015905	PHF	PHD finger proteins	88
+16384	TRIM28	tripartite motif containing 28	Approved		TIF1B, KAP1, TF1B, RNF96, PPP1R157	19q13.4		NM_005762	PHF	PHD finger proteins	88
+16290	TRIM33	tripartite motif containing 33	Approved		TIF1GAMMA, FLJ11429, KIAA1113, TIFGAMMA, RFG7, TF1G, TIF1G, PTC7	1p13.2	AF220136	NM_015906	PHF	PHD finger proteins	88
+29005	TRIM66	tripartite motif containing 66	Approved	C11orf29	KIAA0298, TIF1D	11p15.4	AB002296	XM_084529	PHF	PHD finger proteins	88
+12557	UHRF2	ubiquitin like with PHD and ring finger domains 2	Approved		RNF107, NIRF, URF2, MGC33463, TDRD23	9p24.1	AF274049	NM_152306	PHF	PHD finger proteins	88
+12766	NSD2	nuclear receptor binding SET domain protein 2	Approved	WHSC1	MMSET, KMT3G	4p16.3	AF083386	NM_133330	PHF	PHD finger proteins	88
+9397	ZMYND8	zinc finger MYND-type containing 8	Approved	PRKCBP1	RACK7	20q13.12	U48251	NM_183047	PHF	PHD finger proteins	88
+5401	SP110	SP110 nuclear body protein	Approved	IFI41, IFI75		2q37.1	L22343	NM_080424	PHF	PHD finger proteins	88
+14255	BRPF1	bromodomain and PHD finger containing 1	Approved		BR140	3p25.3	M91585	NM_001003694	PHF	PHD finger proteins	88
+14256	BRPF3	bromodomain and PHD finger containing 3	Approved		KIAA1286	6p21.31	AB033112	NM_015695	PHF	PHD finger proteins	88
+19336	SHPRH	SNF2 histone linker PHD RING helicase	Approved		FLJ90837, KIAA2023, bA545I5.2	6q24.3	AB095943	NM_173082	PHF	PHD finger proteins	88
+15840	KMT2B	lysine methyltransferase 2B	Approved		KIAA0304, MLL2, TRX2, HRX2, WBP7, MLL1B, MLL4, CXXC10	19q13.12	AJ007041	NM_014727	PHF	PHD finger proteins	88
+7803	NFX1	nuclear transcription factor, X-box binding 1	Approved		NFX2, MGC20369, Tex42, TEG-42	9p12	U19759		PHF	PHD finger proteins	88
+1102	BRD1	bromodomain containing 1	Approved		BRL, BRPF2	22q13.33	AF005067	NM_014577	PHF	PHD finger proteins	88
+16966	ZMYND11	zinc finger MYND-type containing 11	Approved		BS69	10p15.3	X86098	NM_006624	PHF	PHD finger proteins	88
+13606	KDM2A	lysine demethylase 2A	Approved	FBXL11	KIAA1004, FBL11, LILINA, DKFZP434M1735, FBL7, FLJ00115, CXXC8, JHDM1A	11q13.2	BC047486	NM_012308	PHF	PHD finger proteins	88
+13610	KDM2B	lysine demethylase 2B	Approved	FBXL10	PCCX2, CXXC2, Fbl10, JHDM1B	12q24.31	AJ459424	NM_032590	PHF	PHD finger proteins	88
+12767	NSD3	nuclear receptor binding SET domain protein 3	Approved	WHSC1L1	FLJ20353, WHISTLE, KMT3F	8p11.23	AF332469	NM_023034	PHF	PHD finger proteins	88
+12556	UHRF1	ubiquitin like with PHD and ring finger domains 1	Approved		ICBP90, Np95, FLJ21925, RNF106, TDRD22	19p13.3	AF129507	NM_001048201	PHF	PHD finger proteins	88
+25300	FBXL19	F-box and leucine rich repeat protein 19	Approved		DKFZp434K0410, Fbl19, JHDM1C, CXXC11	16p11.2	AK127701	NM_019085	PHF	PHD finger proteins	88

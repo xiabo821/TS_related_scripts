@@ -1,0 +1,161 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+7614	MYOM2	myomesin 2	Approved			8p23.3		NM_003970		Fibronectin type III domain containing	555
+26679	MYOM3	myomesin 3	Approved		FLJ35961	1p36.11	AK093280	NM_152372		Fibronectin type III domain containing	555
+7656	NCAM1	neural cell adhesion molecule 1	Approved		NCAM, CD56	11q23.2		NM_000615		Fibronectin type III domain containing	555
+7657	NCAM2	neural cell adhesion molecule 2	Approved		NCAM21, MGC51008	21q21.1		NM_004540		Fibronectin type III domain containing	555
+7754	NEO1	neogenin 1	Approved		NGN, HsT17534, IGDCC2, NTN1R2	15q24.1	U61262	NM_002499		Fibronectin type III domain containing	555
+29866	NFASC	neurofascin	Approved		NRCAML, KIAA0756, FLJ46866, NF	1q32.1	AK027553	NM_001005388		Fibronectin type III domain containing	555
+7908	NPHS1	NPHS1, nephrin	Approved		CNF, NPHN	19q13.12				Fibronectin type III domain containing	555
+7994	NRCAM	neuronal cell adhesion molecule	Approved		KIAA0343, Bravo	7q31.1		NM_001037132		Fibronectin type III domain containing	555
+15719	OBSCN	obscurin, cytoskeletal calmodulin and titin-interacting RhoGEF	Approved		KIAA1556, UNC89, KIAA1639, ARHGEF30	1q42.13	AJ002535	NM_052843		Fibronectin type III domain containing	555
+8507	OSMR	oncostatin M receptor	Approved		OSMRB	5p13.1	U60805	NM_003999		Fibronectin type III domain containing	555
+29378	PHYHIPL	phytanoyl-CoA 2-hydroxylase interacting protein like	Approved		KIAA1796, Em:AC025038.1	10q21.1	AL834339	NM_032439		Fibronectin type III domain containing	555
+26373	PRTG	protogenin	Approved		FLJ25756, IGDCC5	15q21.3	AK098622	NM_173814		Fibronectin type III domain containing	555
+9665	PTPRB	protein tyrosine phosphatase, receptor type B	Approved	PTPB		12q15	X54131			Fibronectin type III domain containing	555
+9666	PTPRC	protein tyrosine phosphatase, receptor type C	Approved	CD45	LCA, T200, GP180	1q31.3-q32.1	Y00062	NM_002838		Fibronectin type III domain containing	555
+9668	PTPRD	protein tyrosine phosphatase, receptor type D	Approved		PTPD, HPTP	9p24.1-p23	X54133			Fibronectin type III domain containing	555
+9670	PTPRF	protein tyrosine phosphatase, receptor type F	Approved	LAR		1p34.2	Y00815			Fibronectin type III domain containing	555
+9671	PTPRG	protein tyrosine phosphatase, receptor type G	Approved	PTPG	RPTPG	3p14.2	L09247	NM_002841		Fibronectin type III domain containing	555
+9672	PTPRH	protein tyrosine phosphatase, receptor type H	Approved		SAP-1	19q13.4				Fibronectin type III domain containing	555
+9673	PTPRJ	protein tyrosine phosphatase, receptor type J	Approved		DEP1, HPTPeta, CD148	11p11.2	U10886			Fibronectin type III domain containing	555
+9674	PTPRK	protein tyrosine phosphatase, receptor type K	Approved		R-PTP-kappa	6q22.33	L77886			Fibronectin type III domain containing	555
+9675	PTPRM	protein tyrosine phosphatase, receptor type M	Approved	PTPRL1	RPTPU, hR-PTPu	18p11.23	X58288			Fibronectin type III domain containing	555
+9678	PTPRO	protein tyrosine phosphatase, receptor type O	Approved		PTPU2, GLEPP1, PTP-U2, PTP-oc, NPHS6	12p12.3	U20489			Fibronectin type III domain containing	555
+9679	PTPRQ	protein tyrosine phosphatase, receptor type Q	Approved	DFNB84		12q21.31	AF169351	NM_001145026		Fibronectin type III domain containing	555
+9681	PTPRS	protein tyrosine phosphatase, receptor type S	Approved			19p13.3	U35234			Fibronectin type III domain containing	555
+9682	PTPRT	protein tyrosine phosphatase, receptor type T	Approved		RPTPrho, KIAA0283	20q12-q13.11	AF043644			Fibronectin type III domain containing	555
+9683	PTPRU	protein tyrosine phosphatase, receptor type U	Approved		PTPRO, hPTP-J, PCP-2, FMI, PTP	1p35.3	U71075			Fibronectin type III domain containing	555
+9685	PTPRZ1	protein tyrosine phosphatase, receptor type Z1	Approved	PTPZ, PTPRZ	PTP18, RPTPB, phosphacan	7q31.32	M93426	NM_002851		Fibronectin type III domain containing	555
+10249	ROBO1	roundabout guidance receptor 1	Approved		DUTT1, FLJ21882, SAX3	3p12.3	AF040990	NM_002941		Fibronectin type III domain containing	555
+10250	ROBO2	roundabout guidance receptor 2	Approved		KIAA1568	3p12.3	AF040991	XM_031246		Fibronectin type III domain containing	555
+13433	ROBO3	roundabout guidance receptor 3	Approved	HGPPS	RBIG1, FLJ21044, HGPS	11q24.2	AK024697	XM_370663		Fibronectin type III domain containing	555
+17985	ROBO4	roundabout guidance receptor 4	Approved		FLJ20798, MRB, ECSM4	11q24.2	AF361473	NM_019055		Fibronectin type III domain containing	555
+10261	ROS1	ROS proto-oncogene 1, receptor tyrosine kinase	Approved		MCF3, ROS, c-ros-1	6q22.1	M13599			Fibronectin type III domain containing	555
+19307	SDK1	sidekick cell adhesion molecule 1	Approved		FLJ31425	7p22.2	AK074077	NM_152744		Fibronectin type III domain containing	555
+19308	SDK2	sidekick cell adhesion molecule 2	Approved		FLJ10832, KIAA1514	17q25.1	AB040947	NM_019064		Fibronectin type III domain containing	555
+24696	SNED1	sushi, nidogen and EGF like domains 1	Approved		FLJ00133, SST3, Snep	2q37.3	AK074062	XM_059482		Fibronectin type III domain containing	555
+11185	SORL1	sortilin related receptor 1	Approved	C11orf32	gp250, LR11, LRP9, SorLA, SorLA-1	11q24.1	Y08110	NM_003105		Fibronectin type III domain containing	555
+11724	TEK	TEK receptor tyrosine kinase	Approved	VMCM	TIE2, TIE-2, VMCM1, CD202b	9p21.2	L06139			Fibronectin type III domain containing	555
+11809	TIE1	tyrosine kinase with immunoglobulin like and EGF like domains 1	Approved	TIE	JTK14	1p34.2	BC038239	NM_005424		Fibronectin type III domain containing	555
+5318	TNC	tenascin C	Approved	HXB, DFNA56	TN, MGC167029	9q33.1		NM_002160		Fibronectin type III domain containing	555
+22942	TNN	tenascin N	Approved			1q25.1	AK127044	XM_040527		Fibronectin type III domain containing	555
+11953	TNR	tenascin R	Approved			1q25.1	X98085	NM_003285		Fibronectin type III domain containing	555
+11976	TNXB	tenascin XB	Approved	TNXB1, TNXB2	TNXBS, XBS, XB	6p21.33-p21.32	X71923	NM_019105		Fibronectin type III domain containing	555
+16280	TRIM36	tripartite motif containing 36	Approved		RBCC728, RNF98, HAPRIN	5q22.3	AJ272269	NM_018700		Fibronectin type III domain containing	555
+19014	TRIM42	tripartite motif containing 42	Approved		FLJ40097, PPP1R40, T4A1	3q23	AF521868	NM_152616		Fibronectin type III domain containing	555
+31859	TRIM67	tripartite motif containing 67	Approved		TNL	1q42.2	AK126782	NM_001004342		Fibronectin type III domain containing	555
+16288	TRIM9	tripartite motif containing 9	Approved		SPRING, RNF91	14q22.1	AF220036	NM_015163		Fibronectin type III domain containing	555
+12403	TTN	titin	Approved	CMD1G	CMPD4, FLJ32040, TMD, CMH9, LGMD2J, MYLK5	2q31.2	X90568	NM_133378		Fibronectin type III domain containing	555
+12446	TYRO3	TYRO3 protein tyrosine kinase	Approved	RSE	Dtk, Brt, Tif, Sky, Etk-2, Rek	15q15.1	D50479			Fibronectin type III domain containing	555
+12601	USH2A	usherin	Approved	USH2	RP39	1q41	AF055580	NM_007123		Fibronectin type III domain containing	555
+30910	VWA1	von Willebrand factor A domain containing 1	Approved		FLJ22215, VWA-1, WARP	1p36.33	BC059409	NM_022834		Fibronectin type III domain containing	555
+20092	ATF7IP	activating transcription factor 7 interacting protein	Approved		FLJ10688, p621	12p13.1	AJ242978	NM_018179		Fibronectin type III domain containing	555
+20397	ATF7IP2	activating transcription factor 7 interacting protein 2	Approved		FLJ12668	16p13.2-p13.13	AK022730	NM_024997		Fibronectin type III domain containing	555
+16831	TSPOAP1	TSPO associated protein 1	Approved	BZRAP1	PRAX-1, KIAA0612, RIM-BP1, RIMBP1	17q22	AB014512	NM_004758		Fibronectin type III domain containing	555
+14281	CRLF2	cytokine receptor like factor 2	Approved		CRL2, TSLPR	Xp22.3 and Yp11.3	AF142570	NM_022148		Fibronectin type III domain containing	555
+17177	CRLF3	cytokine receptor like factor 3	Approved		CREME9, CYTOR4	17q11.2	AF120151			Fibronectin type III domain containing	555
+17265	ABI3BP	ABI family member 3 binding protein	Approved		NESHBP, DKFZP586L2024, TARSH	3q12.2	AB056106			Fibronectin type III domain containing	555
+26766	ANKFN1	ankyrin repeat and fibronectin type III domain containing 1	Approved		FLJ38335	17q22	AK095654	NM_153228		Fibronectin type III domain containing	555
+6211	ANOS1	anosmin 1	Approved	KAL, ADMLX, KAL1	KALIG-1, WFDC19	Xp22.31		NM_000216		Fibronectin type III domain containing	555
+773	ASTN1	astrotactin 1	Approved	ASTN		1q25.2	AB006627	NM_004319		Fibronectin type III domain containing	555
+17021	ASTN2	astrotactin 2	Approved		KIAA0634	9q33.1	AF116574	NM_014010		Fibronectin type III domain containing	555
+905	AXL	AXL receptor tyrosine kinase	Approved		UFO, JTK11, Tyro7, ARK	19q13.2	M76125			Fibronectin type III domain containing	555
+17173	BOC	BOC cell adhesion associated, oncogene regulated	Approved		CDON2	3q13.2	AY027658	NM_033254		Fibronectin type III domain containing	555
+17104	CDON	cell adhesion associated, oncogene regulated	Approved		ORCAM, CDO, CDON1	11q24.2	AF004841	NM_016952		Fibronectin type III domain containing	555
+1939	CHL1	cell adhesion molecule L1 like	Approved		CALL, L1CAM2, FLJ44930, MGC132578	3p26.3	AF002246	NM_006614		Fibronectin type III domain containing	555
+14305	CMYA5	cardiomyopathy associated 5	Approved	C5orf10	SPRYD2, DKFZp451G223, TRIM76	5q14.1	AW755254, AL831986	NM_153610		Fibronectin type III domain containing	555
+2170	CNTFR	ciliary neurotrophic factor receptor	Approved			9p13.3	M73238			Fibronectin type III domain containing	555
+2171	CNTN1	contactin 1	Approved		F3, GP135	12q12	Z21488	NM_001843		Fibronectin type III domain containing	555
+2172	CNTN2	contactin 2	Approved	TAX, AXT	TAG-1, TAX1	1q32.1	X67734	NM_005076		Fibronectin type III domain containing	555
+2173	CNTN3	contactin 3	Approved	PANG	BIG-1	3p12.3	AB040929	NM_020872		Fibronectin type III domain containing	555
+2174	CNTN4	contactin 4	Approved		BIG-2	3p26.3-p26.2	AW665944			Fibronectin type III domain containing	555
+2175	CNTN5	contactin 5	Approved		NB-2, hNB-2	11q22.1	AB013802	NM_014361		Fibronectin type III domain containing	555
+2176	CNTN6	contactin 6	Approved		NB-3	3p26.3	AB003592	NM_014461		Fibronectin type III domain containing	555
+2188	COL12A1	collagen type XII alpha 1 chain	Approved	COL12A1L		6q13-q14.1	U73779	NM_004370		Fibronectin type III domain containing	555
+2191	COL14A1	collagen type XIV alpha 1 chain	Approved	UND		8q24.12		NM_021110		Fibronectin type III domain containing	555
+14670	COL20A1	collagen type XX alpha 1 chain	Approved		KIAA1510	20q13.33	BC043183	NM_020882		Fibronectin type III domain containing	555
+2214	COL7A1	collagen type VII alpha 1 chain	Approved	EBDCT, EBD1, EBR1		3p21.31	L02870	NM_000094		Fibronectin type III domain containing	555
+2364	CRLF1	cytokine receptor like factor 1	Approved		CLF-1, CLF, CISS, CISS1	19p12	AF059293			Fibronectin type III domain containing	555
+2436	CSF2RB	colony stimulating factor 2 receptor beta common subunit	Approved	IL3RB	IL5RB, CD131, betaGMR	22q12.3	M59941	NM_000395		Fibronectin type III domain containing	555
+2439	CSF3R	colony stimulating factor 3 receptor	Approved	CD114	GCSFR	1p34.3	M59820	NM_156039		Fibronectin type III domain containing	555
+2701	DCC	DCC netrin 1 receptor	Approved		IGDCC1, NTN1R1	18q21.2	X76132	NM_005215		Fibronectin type III domain containing	555
+3039	DSCAM	DS cell adhesion molecule	Approved		CHD2-42, CHD2-52	21q22.2	AF023449	NM_001389		Fibronectin type III domain containing	555
+14656	DSCAML1	DS cell adhesion molecule like 1	Approved		KIAA1132	11q23.3		NM_020693		Fibronectin type III domain containing	555
+3129	EBI3	Epstein-Barr virus induced 3	Approved		IL27B, IL35B	19p13.3	L08187			Fibronectin type III domain containing	555
+26810	EGFLAM	EGF like, fibronectin type III and laminin G domains	Approved		FLJ39155, AGRINL, AGRNL, PIKA	5p13.2-p13.1	AK097549	NM_152403		Fibronectin type III domain containing	555
+33154	ELFN1	extracellular leucine rich repeat and fibronectin type III domain containing 1	Approved	PPP1R28		7p22.3		NM_001128636		Fibronectin type III domain containing	555
+29396	ELFN2	extracellular leucine rich repeat and fibronectin type III domain containing 2	Approved	LRRC62, PPP1R29	dJ63G5.3, KIAA1904	22q13.1	BC041596	NM_052906		Fibronectin type III domain containing	555
+3385	EPHA1	EPH receptor A1	Approved	EPHT, EPHT1	EPH	7q34-q35	M18391			Fibronectin type III domain containing	555
+19987	EPHA10	EPH receptor A10	Approved		FLJ16103, FLJ33655	1p34.3	AK090974	NM_173641		Fibronectin type III domain containing	555
+3386	EPHA2	EPH receptor A2	Approved	ECK		1p36.13	BC037166	NM_004431		Fibronectin type III domain containing	555
+3387	EPHA3	EPH receptor A3	Approved	ETK, ETK1, TYRO4	HEK, HEK4	3p11.1	M83941	NM_005233		Fibronectin type III domain containing	555
+3388	EPHA4	EPH receptor A4	Approved	TYRO1	Hek8	2q36.1	L36645			Fibronectin type III domain containing	555
+3389	EPHA5	EPH receptor A5	Approved		Hek7, TYRO4, CEK7, EHK1	4q13.1-q13.2	L36644	NM_004439		Fibronectin type III domain containing	555
+19296	EPHA6	EPH receptor A6	Approved		FLJ35246	3q11.2	AK092565	NM_001080448		Fibronectin type III domain containing	555
+3390	EPHA7	EPH receptor A7	Approved		Hek11	6q16.1	L36642			Fibronectin type III domain containing	555
+3391	EPHA8	EPH receptor A8	Approved	EEK	Hek3	1p36.12	BC038796	NM_020526		Fibronectin type III domain containing	555
+3392	EPHB1	EPH receptor B1	Approved	EPHT2	Hek6	3q22.2	L40636	NM_004441		Fibronectin type III domain containing	555
+3393	EPHB2	EPH receptor B2	Approved	DRT, ERK, EPHT3	Hek5, Tyro5	1p36.12	AF025304	NM_017449		Fibronectin type III domain containing	555
+3394	EPHB3	EPH receptor B3	Approved	ETK2	Hek2, Tyro6	3q27.1	X75208	NM_004443		Fibronectin type III domain containing	555
+3395	EPHB4	EPH receptor B4	Approved	HTK	Tyro11	7q22.1	AY056047	NM_004444		Fibronectin type III domain containing	555
+3396	EPHB6	EPH receptor B6	Approved		HEP	7q34	D83492			Fibronectin type III domain containing	555
+3416	EPOR	erythropoietin receptor	Approved			19p13.2	M34986			Fibronectin type III domain containing	555
+23527	FANK1	fibronectin type III and ankyrin repeat domains 1	Approved			10q26.2	BC024189	NM_145235		Fibronectin type III domain containing	555
+3760	FLRT1	fibronectin leucine rich transmembrane protein 1	Approved		MGC21624, SPG68	11q13.1	AF169675	NM_013280		Fibronectin type III domain containing	555
+3761	FLRT2	fibronectin leucine rich transmembrane protein 2	Approved			14q31.3	AF169676			Fibronectin type III domain containing	555
+3762	FLRT3	fibronectin leucine rich transmembrane protein 3	Approved			20p12.1	AF169677	NM_013281		Fibronectin type III domain containing	555
+3778	FN1	fibronectin 1	Approved		MSF, CIG, LETS, GFND2, FINC	2q35		NM_212476		Fibronectin type III domain containing	555
+21184	FNDC1	fibronectin type III domain containing 1	Approved	FNDC2	bA243O10.1, KIAA1866, dJ322A24.1	6q25.3	AB058769	NM_032532		Fibronectin type III domain containing	555
+20296	FNDC3A	fibronectin type III domain containing 3A	Approved	FNDC3	bA203I16.5, KIAA0970	13q14.2	AB023187	NM_014923		Fibronectin type III domain containing	555
+24670	FNDC3B	fibronectin type III domain containing 3B	Approved		FAD104, DKFZp762K137, FLJ23399, PRO4979, YVTM2421	3q26.31	AF543840	NM_022763		Fibronectin type III domain containing	555
+20239	FNDC4	fibronectin type III domain containing 4	Approved		FLJ22362, FRCP1	2p23.3	AK026015	NM_022823		Fibronectin type III domain containing	555
+20240	FNDC5	fibronectin type III domain containing 5	Approved		FRCP2	1p35.1	AK092102	NM_153756		Fibronectin type III domain containing	555
+26668	FNDC7	fibronectin type III domain containing 7	Approved		FLJ35838	1p13.3		NM_173532		Fibronectin type III domain containing	555
+25286	FNDC8	fibronectin type III domain containing 8	Approved		DKFZp434H2215	17q12	BC024002	NM_017559		Fibronectin type III domain containing	555
+33547	FNDC9	fibronectin type III domain containing 9	Approved	C5orf40	MGC27121	5q33.3	BC022570	NM_001001343		Fibronectin type III domain containing	555
+13745	FSD1	fibronectin type III and SPRY domain containing 1	Approved		MGC3213, MIR1	19p13.3	AF316829	NM_024333		Fibronectin type III domain containing	555
+13753	FSD1L	fibronectin type III and SPRY domain containing 1 like	Approved	CSDUFD1, CCDC10, FSD1NL, FSD1CL		9q31.2	AF316830	NM_207647		Fibronectin type III domain containing	555
+18024	FSD2	fibronectin type III and SPRY domain containing 2	Approved	SPRYD1	RP11-127F21	15q25.2	AK122875	NM_001007122		Fibronectin type III domain containing	555
+4263	GHR	growth hormone receptor	Approved		GHBP	5p13.1-p12		NM_000163		Fibronectin type III domain containing	555
+5440	IFNGR2	interferon gamma receptor 2	Approved	IFNGT1	AF-1	21q22.11				Fibronectin type III domain containing	555
+9700	IGDCC3	immunoglobulin superfamily DCC subclass member 3	Approved	PUNC	HsT18880	15q22.31	AF063936	NM_004884		Fibronectin type III domain containing	555
+13770	IGDCC4	immunoglobulin superfamily DCC subclass member 4	Approved		NOPE, LOC57722	15q22.31		NM_020962		Fibronectin type III domain containing	555
+5465	IGF1R	insulin like growth factor 1 receptor	Approved		JTK13, CD221, IGFIR, MGC18216, IGFR	15q26.3	M69229	NM_000875		Fibronectin type III domain containing	555
+24607	IGFN1	immunoglobulin-like and fibronectin type III domain containing 1	Approved		DKFZp434B1231, EEF1A2BP1	1q32.1	AY245430	NM_178275		Fibronectin type III domain containing	555
+26750	IGSF22	immunoglobulin superfamily member 22	Approved		FLJ37794, IGFN2	11p15.1	AK095113	NM_173588		Fibronectin type III domain containing	555
+18132	IGSF9	immunoglobulin superfamily member 9	Approved		KIAA1355, Nrt1, IGSF9A	1q23.2	AB037776	NM_020789		Fibronectin type III domain containing	555
+32326	IGSF9B	immunoglobulin superfamily member 9B	Approved		KIAA1030	11q25	AK097578	XM_290502		Fibronectin type III domain containing	555
+5971	IL12RB1	interleukin 12 receptor subunit beta 1	Approved	IL12RB	CD212	19p13.11	U03187			Fibronectin type III domain containing	555
+5972	IL12RB2	interleukin 12 receptor subunit beta 2	Approved			1p31.3	U64198	NM_001559		Fibronectin type III domain containing	555
+6004	IL20RB	interleukin 20 receptor subunit beta	Approved	FNDC6	DIRS1, IL-20R2, MGC34923	3q22.3	BC033292	NM_144717		Fibronectin type III domain containing	555
+17290	IL27RA	interleukin 27 receptor subunit alpha	Approved		WSX-1, TCCR, CRL1, WSX1, zcytor1, IL-27R	19p13.12	AF053004	NM_004843		Fibronectin type III domain containing	555
+6010	IL2RG	interleukin 2 receptor subunit gamma	Approved	SCIDX1, IMD4, CIDX	CD132	Xq13.1	D11086			Fibronectin type III domain containing	555
+18969	IL31RA	interleukin 31 receptor A	Approved		CRL3, GLM-R, CRL, Glmr, IL-31RA	5q11.2	AY499339	NM_139017		Fibronectin type III domain containing	555
+6021	IL6ST	interleukin 6 signal transducer	Approved		GP130, CD130	5q11.2	M57230	NM_002184		Fibronectin type III domain containing	555
+6024	IL7R	interleukin 7 receptor	Approved		CD127, IL7RA	5p13.2	M29696			Fibronectin type III domain containing	555
+6091	INSR	insulin receptor	Approved		CD220	19p13.2	M10051			Fibronectin type III domain containing	555
+6093	INSRR	insulin receptor related receptor	Approved		IRR	1q23.1	J05046	NM_014215		Fibronectin type III domain containing	555
+6158	ITGB4	integrin subunit beta 4	Approved		CD104	17q25.1				Fibronectin type III domain containing	555
+4814	KALRN	kalirin RhoGEF kinase	Approved	HAPIP	duo, Hs.8004, TRAD, DUET, Kalirin, ARHGEF24	3q21.1-q21.2	U94190	NM_003947		Fibronectin type III domain containing	555
+6470	L1CAM	L1 cell adhesion molecule	Approved	HSAS1, SPG1, HSAS, MASA, MIC5, S10	CD171	Xq28	M74387	NM_024003		Fibronectin type III domain containing	555
+6597	LIFR	LIF receptor alpha	Approved		CD118	5p13.1	X61615	NM_002310		Fibronectin type III domain containing	555
+29290	LRFN1	leucine rich repeat and fibronectin type III domain containing 1	Approved		KIAA1484, SALM2	19q13.2	BC014678	NM_020862		Fibronectin type III domain containing	555
+21226	LRFN2	leucine rich repeat and fibronectin type III domain containing 2	Approved	KIAA1246, SALM1	FIGLER2	6p21.2-p21.1	AB033072	XM_166372		Fibronectin type III domain containing	555
+28370	LRFN3	leucine rich repeat and fibronectin type III domain containing 3	Approved		MGC2656, SALM4, FIGLER1	19q13.13	BC003578	NM_024509		Fibronectin type III domain containing	555
+28456	LRFN4	leucine rich repeat and fibronectin type III domain containing 4	Approved		MGC3103, SALM3., FIGLER6	11q13.1	BC007718	NM_024036		Fibronectin type III domain containing	555
+20360	LRFN5	leucine rich repeat and fibronectin type III domain containing 5	Approved	C14orf146	FIGLER8, SALM5	14q21.1	AK055365	NM_152447		Fibronectin type III domain containing	555
+23404	LRIT1	leucine rich repeat, Ig-like and transmembrane domains 1	Approved	LRRC21	PAL, DKFZP434K091, FIGLER9	10q23.1	AB031547	NM_015613		Fibronectin type III domain containing	555
+17200	LRRN3	leucine rich repeat neuronal 3	Approved		NLRR3, FLJ11129, FIGLER5	7q31.1	AB060967	NM_018334		Fibronectin type III domain containing	555
+16208	LRRN4	leucine rich repeat neuronal 4	Approved	C20orf75	dJ1056H1.1, NLRR4	20p12.3	AL118505	NM_152611		Fibronectin type III domain containing	555
+33724	LRRN4CL	LRRN4 C-terminal like	Approved			11q12.3	AK291334	NM_203422		Fibronectin type III domain containing	555
+7027	MERTK	MER proto-oncogene, tyrosine kinase	Approved		mer, RP38, c-Eyk, Tyro12	2q13	U08023			Fibronectin type III domain containing	555
+7095	MID1	midline 1	Approved		OS, FXY, TRIM18, RNF59	Xp22	Y13667			Fibronectin type III domain containing	555
+7096	MID2	midline 2	Approved		FXY2, TRIM1, RNF60, MRX101	Xq22.3		NM_012216		Fibronectin type III domain containing	555
+7217	MPL	MPL proto-oncogene, thrombopoietin receptor	Approved		CD110, TPOR	1p34.2	M90102	NM_005373		Fibronectin type III domain containing	555
+7549	MYBPC1	myosin binding protein C, slow type	Approved			12q23.2				Fibronectin type III domain containing	555
+7550	MYBPC2	myosin binding protein C, fast type	Approved		MYBPCF, MYBPC, MGC163408	19q13.33		NM_004533		Fibronectin type III domain containing	555
+7551	MYBPC3	myosin binding protein C, cardiac	Approved	CMH4	MYBP-C, FHC	11p11.2	X84075			Fibronectin type III domain containing	555
+7552	MYBPH	myosin binding protein H	Approved			1q32.1	BC044226	NM_004997		Fibronectin type III domain containing	555
+30434	MYBPHL	myosin binding protein H like	Approved			1p13.3	AK129834	NM_001010985		Fibronectin type III domain containing	555
+7590	MYLK	myosin light chain kinase	Approved		MLCK, smMLCK, MYLK1, MLCK1	3q21.1	X85337	NM_053025		Fibronectin type III domain containing	555
+7613	MYOM1	myomesin 1	Approved			18p11.31	AF185573	NM_003803		Fibronectin type III domain containing	555

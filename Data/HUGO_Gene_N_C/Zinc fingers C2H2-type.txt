@@ -1,0 +1,722 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+26420	ZNF573	zinc finger protein 573	Approved		FLJ30921	19q13.12	AK074539	NM_152360	ZNF	Zinc fingers C2H2-type	28
+26166	ZNF574	zinc finger protein 574	Approved		FLJ22059	19q13.2	AK074788	NM_022752	ZNF	Zinc fingers C2H2-type	28
+27606	ZNF575	zinc finger protein 575	Approved		FLJ32567	19q13.31	BC043611	NM_174945	ZNF	Zinc fingers C2H2-type	28
+28357	ZNF576	zinc finger protein 576	Approved		MGC2508	19q13.31	AK026353	NM_024327	ZNF	Zinc fingers C2H2-type	28
+28673	ZNF577	zinc finger protein 577	Approved		MGC4400	19q13.41	AL832871	NM_032679	ZNF	Zinc fingers C2H2-type	28
+26449	ZNF578	zinc finger protein 578	Approved		FLJ31384	19q13.41	AK095562	NM_152472	ZNF	Zinc fingers C2H2-type	28
+26646	ZNF579	zinc finger protein 579	Approved		FLJ35453	19q13.42	AK092772	NM_152600	ZNF	Zinc fingers C2H2-type	28
+29473	ZNF580	zinc finger protein 580	Approved			19q13.42	AF184939	NM_016202	ZNF	Zinc fingers C2H2-type	28
+25017	ZNF581	zinc finger protein 581	Approved		HSPC189, FLJ22550	19q13.42	AK026203	NM_016535	ZNF	Zinc fingers C2H2-type	28
+26421	ZNF582	zinc finger protein 582	Approved		FLJ30927	19q13.43	AK055489	NM_144690	ZNF	Zinc fingers C2H2-type	28
+26427	ZNF583	zinc finger protein 583	Approved		FLJ31030	19q13.43	AK055592	NM_152478	ZNF	Zinc fingers C2H2-type	28
+27318	ZNF584	zinc finger protein 584	Approved		FLJ39899	19q13.43	AK097218	NM_173548	ZNF	Zinc fingers C2H2-type	28
+26305	ZNF585A	zinc finger protein 585A	Approved		FLJ23765	19q13.13	AK074345	NM_152655	ZNF	Zinc fingers C2H2-type	28
+30948	ZNF585B	zinc finger protein 585B	Approved		FLJ14928, SZFP41	19q13.13	AK027834	NM_152279	ZNF	Zinc fingers C2H2-type	28
+25949	ZNF586	zinc finger protein 586	Approved		FLJ20070	19q13.43	AK095993	NM_017652	ZNF	Zinc fingers C2H2-type	28
+30955	ZNF587	zinc finger protein 587	Approved		ZF6, FLJ14710, UBF-fl, FLJ20813	19q13.43	AF294842	NM_032828	ZNF	Zinc fingers C2H2-type	28
+37142	ZNF587B	zinc finger protein 587B	Approved			19q13.43	AK299091	NM_001204818	ZNF	Zinc fingers C2H2-type	28
+16747	ZNF589	zinc finger protein 589	Approved		SZF1	3p21.31	AF114816	NM_016089	ZNF	Zinc fingers C2H2-type	28
+28986	ZNF592	zinc finger protein 592	Approved	SCAR5	KIAA0211, CAMOS	15q25.2	D86966	NM_014630	ZNF	Zinc fingers C2H2-type	28
+29392	ZNF594	zinc finger protein 594	Approved		KIAA1871	17p13.2	AB058774	XM_290737	ZNF	Zinc fingers C2H2-type	28
+27196	ZNF595	zinc finger protein 595	Approved		FLJ31740	4p16.3	BX537887	NM_182524	ZNF	Zinc fingers C2H2-type	28
+27268	ZNF596	zinc finger protein 596	Approved			8p23.3	BC026190	NM_173539	ZNF	Zinc fingers C2H2-type	28
+26573	ZNF597	zinc finger protein 597	Approved		FLJ33071, HIT-4	16p13.3	AK057633	NM_152457	ZNF	Zinc fingers C2H2-type	28
+28079	ZNF598	zinc finger protein 598	Approved		FLJ00086, HEL2	16p13.3	BC029270	NM_178167	ZNF	Zinc fingers C2H2-type	28
+26408	ZNF599	zinc finger protein 599	Approved		FLJ30663	19q13.13	AK055225	XM_086046	ZNF	Zinc fingers C2H2-type	28
+30951	ZNF600	zinc finger protein 600	Approved		KR-ZNF1, DKFZp686F06123	19q13.42	U52096	NM_198457	ZNF	Zinc fingers C2H2-type	28
+28068	ZNF605	zinc finger protein 605	Approved			12q24.33	AL832623	NM_183238	ZNF	Zinc fingers C2H2-type	28
+25879	ZNF606	zinc finger protein 606	Approved	ZNF328	FLJ14260, KIAA1852	19q13.43	AB058755	NM_025027	ZNF	Zinc fingers C2H2-type	28
+28192	ZNF607	zinc finger protein 607	Approved		MGC13071, FLJ14802	19q13.1	AK127464	NM_032689	ZNF	Zinc fingers C2H2-type	28
+29238	ZNF608	zinc finger protein 608	Approved		KIAA1281, DKFZp434M098, NY-REN-36	5q23.2	AB033107	XM_114432	ZNF	Zinc fingers C2H2-type	28
+29003	ZNF609	zinc finger protein 609	Approved		KIAA0295	15q22.1	BC014251	XM_042833	ZNF	Zinc fingers C2H2-type	28
+26687	ZNF610	zinc finger protein 610	Approved		FLJ36040	19q13.41	AK093359	NM_173530	ZNF	Zinc fingers C2H2-type	28
+28766	ZNF611	zinc finger protein 611	Approved		MGC5384	19q13.41	AK091389	NM_030972	ZNF	Zinc fingers C2H2-type	28
+25827	ZNF613	zinc finger protein 613	Approved		FLJ13590	19q13.41	AK027565	NM_024840	ZNF	Zinc fingers C2H2-type	28
+24722	ZNF614	zinc finger protein 614	Approved		FLJ21941	19q13.41	BC022246	NM_025040	ZNF	Zinc fingers C2H2-type	28
+24740	ZNF615	zinc finger protein 615	Approved		FLJ33710	19q13.41	AK096691	NM_198480	ZNF	Zinc fingers C2H2-type	28
+28062	ZNF616	zinc finger protein 616	Approved		MGC45556	19q13.41	AK092266	XM_030892	ZNF	Zinc fingers C2H2-type	28
+29416	ZNF618	zinc finger protein 618	Approved		KIAA1952, NEDD10	9q32	BC012922	XM_054983	ZNF	Zinc fingers C2H2-type	28
+26910	ZNF619	zinc finger protein 619	Approved		FLJ90764	3p22.1	AK075245	NM_173656	ZNF	Zinc fingers C2H2-type	28
+28742	ZNF620	zinc finger protein 620	Approved		MGC50836	3p22.1	AK093599	XM_171060	ZNF	Zinc fingers C2H2-type	28
+24787	ZNF621	zinc finger protein 621	Approved		FLJ45246	3p22.1	AK127181	NM_198484	ZNF	Zinc fingers C2H2-type	28
+29084	ZNF623	zinc finger protein 623	Approved		KIAA0628	8q24.3	AB014528	NM_014789	ZNF	Zinc fingers C2H2-type	28
+29254	ZNF624	zinc finger protein 624	Approved		KIAA1349	17p11.2	AB037770	XM_047617	ZNF	Zinc fingers C2H2-type	28
+30571	ZNF625	zinc finger protein 625	Approved			19p13.2	BC007868	NM_145233	ZNF	Zinc fingers C2H2-type	28
+30461	ZNF626	zinc finger protein 626	Approved			19p12	BC007116	NM_145297	ZNF	Zinc fingers C2H2-type	28
+30570	ZNF627	zinc finger protein 627	Approved		FLJ90365	19p13.2	AK074846	NM_145295	ZNF	Zinc fingers C2H2-type	28
+28054	ZNF628	zinc finger protein 628	Approved		ZEC, Zfp628	19q13.42	AF367249	XM_058964	ZNF	Zinc fingers C2H2-type	28
+29008	ZNF629	zinc finger protein 629	Approved	ZNF65	KIAA0326	16p11.2	AB002324	NM_015309	ZNF	Zinc fingers C2H2-type	28
+28855	ZNF630	zinc finger protein 630	Approved		BC037316, dJ54B20.2, FLJ20573, MGC138344	Xp11.23	AK000580	NM_001037735	ZNF	Zinc fingers C2H2-type	28
+30950	ZNF639	zinc finger protein 639	Approved		ANC-2H01, ZASC1	3q26.33	BC020500	NM_016331	ZNF	Zinc fingers C2H2-type	28
+31834	ZNF641	zinc finger protein 641	Approved		FLJ31295	12q13.11	BC018090	NM_152320	ZNF	Zinc fingers C2H2-type	28
+29004	ZNF646	zinc finger protein 646	Approved		KIAA0296	16p11.2	AB002294	NM_014699	ZNF	Zinc fingers C2H2-type	28
+18190	ZNF648	zinc finger protein 648	Approved		FLJ46813	1q25.3	AK128654	XM_060597	ZNF	Zinc fingers C2H2-type	28
+25741	ZNF649	zinc finger protein 649	Approved		FLJ12644	19q13.41	BC005368	NM_023074	ZNF	Zinc fingers C2H2-type	28
+29147	ZNF652	zinc finger protein 652	Approved		KIAA0924	17q21.32	AB023141	NM_014897	ZNF	Zinc fingers C2H2-type	28
+25196	ZNF653	zinc finger protein 653	Approved		Zip67	19p13.2	AY072704	NM_138783	ZNF	Zinc fingers C2H2-type	28
+30899	ZNF655	zinc finger protein 655	Approved		VIK-1, VIK	7q22.1	AY099353	NM_138494	ZNF	Zinc fingers C2H2-type	28
+25226	ZNF658	zinc finger protein 658	Approved		MGC35232, DKFZp572C163, FLJ32813	9q21.11	AA482262	NM_033160	ZNF	Zinc fingers C2H2-type	28
+26720	ZNF660	zinc finger protein 660	Approved		FLJ36870	3p21.31	AK094189	NM_173658	ZNF	Zinc fingers C2H2-type	28
+31930	ZNF662	zinc finger protein 662	Approved		FLJ45880	3p22.1	AK127779	NM_207404	ZNF	Zinc fingers C2H2-type	28
+25342	ZNF663P	zinc finger protein 663, pseudogene	Approved	ZNF663	DKFZp547G0215	20q13.12		NM_173643	ZNF	Zinc fingers C2H2-type	28
+25406	ZNF664	zinc finger protein 664	Approved	ZNF176	ZFOC1, DKFZp761B128	12q24.31		NM_152437	ZNF	Zinc fingers C2H2-type	28
+25885	ZNF665	zinc finger protein 665	Approved		FLJ14345	19q13.42		NM_024733	ZNF	Zinc fingers C2H2-type	28
+28854	ZNF667	zinc finger protein 667	Approved		FLJ14011	19q13.43		NM_022103	ZNF	Zinc fingers C2H2-type	28
+25821	ZNF668	zinc finger protein 668	Approved		FLJ13479	16p11.2		NM_024706	ZNF	Zinc fingers C2H2-type	28
+25736	ZNF669	zinc finger protein 669	Approved		FLJ12606	1q44		NM_024804	ZNF	Zinc fingers C2H2-type	28
+28167	ZNF670	zinc finger protein 670	Approved		MGC12466	1q44		NM_033213	ZNF	Zinc fingers C2H2-type	28
+26279	ZNF671	zinc finger protein 671	Approved		FLJ23506	19q13.43		NM_024833	ZNF	Zinc fingers C2H2-type	28
+26179	ZNF672	zinc finger protein 672	Approved		FLJ22301	1q44	AK027476	NM_024836	ZNF	Zinc fingers C2H2-type	28
+17625	ZNF674	zinc finger protein 674	Approved	MRX92	ZNF673B	Xp11.3	AY971607	NM_001039891	ZNF	Zinc fingers C2H2-type	28
+30768	ZNF675	zinc finger protein 675	Approved		TIZ, TBZF	19p12		NM_138330	ZNF	Zinc fingers C2H2-type	28
+20429	ZNF676	zinc finger protein 676	Approved			19p12	AK097798	NM_001001411	ZNF	Zinc fingers C2H2-type	28
+28730	ZNF677	zinc finger protein 677	Approved		MGC48625	19q13.42	BC050038	NM_182609	ZNF	Zinc fingers C2H2-type	28
+28652	ZNF678	zinc finger protein 678	Approved		MGC42493	1q42.13	BC042500	NM_178549	ZNF	Zinc fingers C2H2-type	28
+28650	ZNF679	zinc finger protein 679	Approved		MGC42415	7q11.21	BC033523	NM_153363	ZNF	Zinc fingers C2H2-type	28
+26897	ZNF680	zinc finger protein 680	Approved		FLJ90430	7q11.21	AK074911	NM_178558	ZNF	Zinc fingers C2H2-type	28
+26457	ZNF681	zinc finger protein 681	Approved		FLJ31526	19p12	AK056088	NM_138286	ZNF	Zinc fingers C2H2-type	28
+28857	ZNF682	zinc finger protein 682	Approved		BC39498_3	19p12	AC006539	NM_033196	ZNF	Zinc fingers C2H2-type	28
+28495	ZNF683	zinc finger protein 683	Approved		MGC33414, Hobit	1p36.11	BC029505	NM_173574	ZNF	Zinc fingers C2H2-type	28
+28418	ZNF684	zinc finger protein 684	Approved		MGC27466	1p34.2		NM_152373	ZNF	Zinc fingers C2H2-type	28
+30489	ZNF688	zinc finger protein 688	Approved			16p11.2	AK122680	NM_145271	ZNF	Zinc fingers C2H2-type	28
+25173	ZNF689	zinc finger protein 689	Approved		FLJ90415, TIPUH1	16p11.2	BC014000	NM_138447	ZNF	Zinc fingers C2H2-type	28
+13138	ZNF69	zinc finger protein 69	Approved		Cos5	19p13.2	X60076	NM_021915	ZNF	Zinc fingers C2H2-type	28
+28028	ZNF691	zinc finger protein 691	Approved		Zfp691	1p34.2		NM_015911	ZNF	Zinc fingers C2H2-type	28
+26049	ZNF692	zinc finger protein 692	Approved		FLJ20531, Zfp692, AREBP	1q44	BC002948	NM_017865	ZNF	Zinc fingers C2H2-type	28
+30954	ZNF695	zinc finger protein 695	Approved		SBZF3	1q44		NM_020394	ZNF	Zinc fingers C2H2-type	28
+25872	ZNF696	zinc finger protein 696	Approved		FLJ14129	8q24.3	AK024191	NM_030895	ZNF	Zinc fingers C2H2-type	28
+32034	ZNF697	zinc finger protein 697	Approved		MGC45731	1p12	AK027019, BC033126	XM_371286	ZNF	Zinc fingers C2H2-type	28
+24750	ZNF699	zinc finger protein 699	Approved		FLJ38144, hang	19p13.2	BC109268	NM_198535	ZNF	Zinc fingers C2H2-type	28
+13139	ZNF7	zinc finger protein 7	Approved		KOX4, HF.16	8q24.3	AB209619	NM_003416	ZNF	Zinc fingers C2H2-type	28
+13140	ZNF70	zinc finger protein 70	Approved		Cos17, MGC48959	22q11.23	X60077	NM_021916	ZNF	Zinc fingers C2H2-type	28
+25292	ZNF700	zinc finger protein 700	Approved		DKFZp434I1610	19p13.2	AL136732	NM_144566	ZNF	Zinc fingers C2H2-type	28
+25597	ZNF701	zinc finger protein 701	Approved		FLJ10891	19q13.41	AK001753	NM_018260	ZNF	Zinc fingers C2H2-type	28
+32281	ZNF705A	zinc finger protein 705A	Approved		FLJ16353	12p13.31	AK131339	NM_001004328	ZNF	Zinc fingers C2H2-type	28
+32284	ZNF705B	zinc finger protein 705B	Approved			8p23.1		NM_001193630	ZNF	Zinc fingers C2H2-type	28
+33202	ZNF705D	zinc finger protein 705D	Approved			8p23.1	BC110823	NM_001039615	ZNF	Zinc fingers C2H2-type	28
+33204	ZNF705F	zinc finger protein 705F	Approved			8p23.1			ZNF	Zinc fingers C2H2-type	28
+37134	ZNF705G	zinc finger protein 705G	Approved			8p23.1		XM_001720517	ZNF	Zinc fingers C2H2-type	28
+27815	ZNF707	zinc finger protein 707	Approved			8q24.3	AK001126	NM_173831	ZNF	Zinc fingers C2H2-type	28
+12945	ZNF708	zinc finger protein 708	Approved	ZNF15, ZNF15L1	KOX8	19p12	X52339	NM_021269	ZNF	Zinc fingers C2H2-type	28
+20629	ZNF709	zinc finger protein 709	Approved		FLJ38281	19p13.2	AK095600	NM_152601	ZNF	Zinc fingers C2H2-type	28
+13141	ZNF71	zinc finger protein 71	Approved		Cos26, EZFIT	19q13.4	X60074	NM_021216	ZNF	Zinc fingers C2H2-type	28
+25352	ZNF710	zinc finger protein 710	Approved		DKFZp547K1113, FLJ37393, FLJ00306	15q26.1	AK094712	NM_198526	ZNF	Zinc fingers C2H2-type	28
+13128	ZNF711	zinc finger protein 711	Approved	ZNF6	CMPX1, ZNF4, ZNF5, dJ75N13.1, Zfp711, MRX97	Xq21.1	BC006349	NM_021998	ZNF	Zinc fingers C2H2-type	28
+22043	ZNF713	zinc finger protein 713	Approved		FLJ39963	7p11.2	AK097282	NM_182633	ZNF	Zinc fingers C2H2-type	28
+27124	ZNF714	zinc finger protein 714	Approved			19p12	AK056006	NM_182515	ZNF	Zinc fingers C2H2-type	28
+32458	ZNF716	zinc finger protein 716	Approved		FLJ46189	7p11.2	AK131575	NM_001159279	ZNF	Zinc fingers C2H2-type	28
+29448	ZNF717	zinc finger protein 717	Approved	ZNF838	X17	3p12.3	AF226994	NM_001128223	ZNF	Zinc fingers C2H2-type	28
+26889	ZNF718	zinc finger protein 718	Approved		FLJ90036	4p16.3	AK096662	NM_001039127	ZNF	Zinc fingers C2H2-type	28
+26987	ZNF720	zinc finger protein 720	Approved			16p11.2	AK128671	NM_001004300	ZNF	Zinc fingers C2H2-type	28
+29425	ZNF721	zinc finger protein 721	Approved		KIAA1982	4p16.3	AK092362	NM_133474	ZNF	Zinc fingers C2H2-type	28
+32462	ZNF726	zinc finger protein 726	Approved			19p12	DQ036016, BC046415	XM_001715134	ZNF	Zinc fingers C2H2-type	28
+22785	ZNF727	zinc finger protein 727	Approved	ZNF727P		7q11.21		NM_001159522	ZNF	Zinc fingers C2H2-type	28
+32463	ZNF728	zinc finger protein 728	Approved			19p12	BC128130	NM_001267716	ZNF	Zinc fingers C2H2-type	28
+32464	ZNF729	zinc finger protein 729	Approved			19p12		XM_496301	ZNF	Zinc fingers C2H2-type	28
+13143	ZNF73	zinc finger protein 73	Approved	ZNF186	hZNF2, Cos12	22p11.2			ZNF	Zinc fingers C2H2-type	28
+32470	ZNF730	zinc finger protein 730	Approved			19p12	AK131472	XM_001719792	ZNF	Zinc fingers C2H2-type	28
+37138	ZNF732	zinc finger protein 732	Approved		FLJ59067	4p16.3	AK302099	NM_001137608	ZNF	Zinc fingers C2H2-type	28
+32466	ZNF735	zinc finger protein 735	Approved	ZNF735P		7q11.21			ZNF	Zinc fingers C2H2-type	28
+32467	ZNF736	zinc finger protein 736	Approved			7q11.21		NM_001170905	ZNF	Zinc fingers C2H2-type	28
+32468	ZNF737	zinc finger protein 737	Approved		ZNF102	19p12	BC015765	NM_145289	ZNF	Zinc fingers C2H2-type	28
+13144	ZNF74	zinc finger protein 74	Approved		Cos52, Zfp520, ZNF520	22q11.21	X71623	NM_003426	ZNF	Zinc fingers C2H2-type	28
+27465	ZNF740	zinc finger protein 740	Approved		Zfp740	12q13.13	BC053557	NM_001004304	ZNF	Zinc fingers C2H2-type	28
+21948	ZNF746	zinc finger protein 746	Approved		FLJ31413, PARIS	7q36.1	AK055975	NM_152557	ZNF	Zinc fingers C2H2-type	28
+28350	ZNF747	zinc finger protein 747	Approved		MGC2474	16p11.2	BC001361	NM_023931	ZNF	Zinc fingers C2H2-type	28
+32783	ZNF749	zinc finger protein 749	Approved		FLJ16360	19q13.43	AK122740	NM_001023561	ZNF	Zinc fingers C2H2-type	28
+13146	ZNF75A	zinc finger protein 75a	Approved		FLJ31529	16p13.3	X91826	NM_153028	ZNF	Zinc fingers C2H2-type	28
+13145	ZNF75D	zinc finger protein 75D	Approved	ZNF82, ZNF75	ZKSCAN24, D8C6, ZSCAN28	Xq26.3	S43109	NM_007131	ZNF	Zinc fingers C2H2-type	28
+13149	ZNF76	zinc finger protein 76	Approved	D6S229E	Zfp523, ZNF523	6p21.31	M91592	NM_003427	ZNF	Zinc fingers C2H2-type	28
+23179	ZNF761	zinc finger protein 761	Approved		KIAA2033, FLJ16231, FLJ35333	19q13.42	AB107355	NM_001008401	ZNF	Zinc fingers C2H2-type	28
+27614	ZNF763	zinc finger protein 763	Approved		ZNF440L	19p13.2	AK092240	NM_001012753	ZNF	Zinc fingers C2H2-type	28
+28200	ZNF764	zinc finger protein 764	Approved		MGC13138	16p11.2	BC008821	NM_033410	ZNF	Zinc fingers C2H2-type	28
+25092	ZNF765	zinc finger protein 765	Approved			19q13.41	BC017357	NM_138372	ZNF	Zinc fingers C2H2-type	28
+28063	ZNF766	zinc finger protein 766	Approved			19q13.41	AK024074	NM_001010851	ZNF	Zinc fingers C2H2-type	28
+21884	ZNF767P	zinc finger family member 767, pseudogene	Approved	ZNF767	FLJ12700	7q36.1	AK022762		ZNF	Zinc fingers C2H2-type	28
+26273	ZNF768	zinc finger protein 768	Approved		FLJ23436	16p11.2	BC013760	NM_024671	ZNF	Zinc fingers C2H2-type	28
+13150	ZNF77	zinc finger protein 77	Approved		pT1	19p13.3	X65230	NM_021217	ZNF	Zinc fingers C2H2-type	28
+26061	ZNF770	zinc finger protein 770	Approved		FLJ20582, PRO1914	15q14	BC071603	NM_014106	ZNF	Zinc fingers C2H2-type	28
+29653	ZNF771	zinc finger protein 771	Approved		DSC43	16p11.2	BC026192	NM_016643	ZNF	Zinc fingers C2H2-type	28
+33106	ZNF772	zinc finger protein 772	Approved		DKFZp686I1569	19q13.43	BX647068	NM_001024596	ZNF	Zinc fingers C2H2-type	28
+30487	ZNF773	zinc finger protein 773	Approved	ZNF419B	MGC4728	19q13.43	BC005167	NM_198542	ZNF	Zinc fingers C2H2-type	28
+33108	ZNF774	zinc finger protein 774	Approved		MGC75360	15q26.1	BC067279	NM_001004309	ZNF	Zinc fingers C2H2-type	28
+28501	ZNF775	zinc finger protein 775	Approved		MGC33584	7q36.1	BC038111	NM_173680	ZNF	Zinc fingers C2H2-type	28
+26765	ZNF776	zinc finger protein 776	Approved		FLJ38288	19q13.43	AK095607	NM_173632	ZNF	Zinc fingers C2H2-type	28
+22213	ZNF777	zinc finger protein 777	Approved		KIAA1285	7q36.1	AB033111	NM_015694	ZNF	Zinc fingers C2H2-type	28
+26479	ZNF778	zinc finger protein 778	Approved		FLJ31875	16q24.3	AK056437	NM_182531	ZNF	Zinc fingers C2H2-type	28
+27603	ZNF780A	zinc finger protein 780A	Approved		ZNF780	19q13.2	AK091274	NM_001010880	ZNF	Zinc fingers C2H2-type	28
+33109	ZNF780B	zinc finger protein 780B	Approved	ZNF779		19q13.2	AK127063	NM_001005851	ZNF	Zinc fingers C2H2-type	28
+26745	ZNF781	zinc finger protein 781	Approved		FLJ37549	19q13.12	AK097019	NM_152605	ZNF	Zinc fingers C2H2-type	28
+33110	ZNF782	zinc finger protein 782	Approved		FLJ16636	9q22.33	AK131468	NM_001001662	ZNF	Zinc fingers C2H2-type	28
+27222	ZNF783	zinc finger family member 783	Approved		DKFZp667J212	7q36.1	AK131504	NM_001195220	ZNF	Zinc fingers C2H2-type	28
+33111	ZNF784	zinc finger protein 784	Approved		MGC75238	19q13.42	AK074859	NM_203374	ZNF	Zinc fingers C2H2-type	28
+26496	ZNF785	zinc finger protein 785	Approved		FLJ32130	16p11.2	BC040642	NM_152458	ZNF	Zinc fingers C2H2-type	28
+21806	ZNF786	zinc finger protein 786	Approved		DKFZp762I137	7q36.1	AK095701, AL834510	NM_152411	ZNF	Zinc fingers C2H2-type	28
+26998	ZNF787	zinc finger protein 787	Approved			19q13.43	BC077728, AF000560	NM_001002836	ZNF	Zinc fingers C2H2-type	28
+33112	ZNF788P	zinc finger family member 788, pseudogene	Approved	ZNF788	FLJ46419	19p13.2	AI566055	XM_930581	ZNF	Zinc fingers C2H2-type	28
+27801	ZNF789	zinc finger protein 789	Approved			7q22.1	AK093141	NM_213603	ZNF	Zinc fingers C2H2-type	28
+13153	ZNF79	zinc finger protein 79	Approved		pT7	9q33.3	X65232	NM_007135	ZNF	Zinc fingers C2H2-type	28
+33114	ZNF790	zinc finger protein 790	Approved		MGC62100, FLJ20350	19q13.12	BC057245	NM_206894	ZNF	Zinc fingers C2H2-type	28
+26895	ZNF791	zinc finger protein 791	Approved		FLJ90396	19p13.13	AK074877	NM_153358	ZNF	Zinc fingers C2H2-type	28
+24751	ZNF792	zinc finger protein 792	Approved		FLJ38451	19q13.11	AK095770	NM_175872	ZNF	Zinc fingers C2H2-type	28
+33115	ZNF793	zinc finger protein 793	Approved			19q13.12	AK131417	NM_001013659	ZNF	Zinc fingers C2H2-type	28
+28071	ZNF799	zinc finger protein 799	Approved	ZNF842	HIT-40, MGC71805	19p13.2	BC009517	NM_001080821	ZNF	Zinc fingers C2H2-type	28
+13154	ZNF8	zinc finger protein 8	Approved		HF.18, Zfp128	19q13.43	M29581	NM_021089	ZNF	Zinc fingers C2H2-type	28
+13155	ZNF80	zinc finger protein 80	Approved		pT17	3q13.31	X65233	NM_007136	ZNF	Zinc fingers C2H2-type	28
+27267	ZNF800	zinc finger protein 800	Approved			7q31.33	AF218032	NM_176814	ZNF	Zinc fingers C2H2-type	28
+23272	ZNF805	zinc finger protein 805	Approved			19q13.43	AF024708	NM_001023563	ZNF	Zinc fingers C2H2-type	28
+33228	ZNF806	zinc finger protein 806	Approved			2q21.2		XM_497879	ZNF	Zinc fingers C2H2-type	28
+33229	ZNF807	zinc finger protein 807	Approved	ZNF807P	ZNF181P1	19q13.11		NG_011972	ZNF	Zinc fingers C2H2-type	28
+33230	ZNF808	zinc finger protein 808	Approved			19q13.41	CR749856	NM_001039886	ZNF	Zinc fingers C2H2-type	28
+13156	ZNF81	zinc finger protein 81	Approved	MRX45	HFZ20	Xp11.23	AK126949	NM_007137	ZNF	Zinc fingers C2H2-type	28
+33242	ZNF812P	zinc finger protein 812, pseudogene	Approved	ZNF812		19p13.2			ZNF	Zinc fingers C2H2-type	28
+33257	ZNF813	zinc finger protein 813	Approved		FLJ16542	19q13.42	AK091460	NM_001004301	ZNF	Zinc fingers C2H2-type	28
+33258	ZNF814	zinc finger protein 814	Approved			19q13.43		XM_001725708	ZNF	Zinc fingers C2H2-type	28
+26995	ZNF816	zinc finger protein 816	Approved	ZNF816A		19q13.41	BC063805	NM_001031665	ZNF	Zinc fingers C2H2-type	28
+28043	ZNF821	zinc finger protein 821	Approved			16q22.2	AF070588	NM_017530	ZNF	Zinc fingers C2H2-type	28
+30936	ZNF823	zinc finger protein 823	Approved		HSZFP36	19p13.2	X51760	NM_001080493	ZNF	Zinc fingers C2H2-type	28
+27193	ZNF827	zinc finger protein 827	Approved			4q31.21-q31.22	AK091130	NM_178835	ZNF	Zinc fingers C2H2-type	28
+34032	ZNF829	zinc finger protein 829	Approved		DKFZp779O175	19q13.12	BC107131	NM_001037232	ZNF	Zinc fingers C2H2-type	28
+13158	ZNF83	zinc finger protein 83	Approved	ZNF816B	FLJ11015, HPF1	19q13.41	M27877	NM_018300	ZNF	Zinc fingers C2H2-type	28
+34332	ZNF835	zinc finger protein 835	Approved		BC37295_3	19q13.43	AK023017	NM_001005850	ZNF	Zinc fingers C2H2-type	28
+34333	ZNF836	zinc finger protein 836	Approved		FLJ16287	19q13.33	BC011784	NM_001102657	ZNF	Zinc fingers C2H2-type	28
+25164	ZNF837	zinc finger protein 837	Approved			19q13.43	BC012365	NM_138466	ZNF	Zinc fingers C2H2-type	28
+13159	ZNF84	zinc finger protein 84	Approved		HPF2	12q24.33	M27878	NM_003428	ZNF	Zinc fingers C2H2-type	28
+27611	ZNF841	zinc finger protein 841	Approved		LOC284371	19q13.41	AK131409	XM_209155	ZNF	Zinc fingers C2H2-type	28
+28710	ZNF843	zinc finger protein 843	Approved		MGC46336	16p11.2	BC036762	NM_001136509	ZNF	Zinc fingers C2H2-type	28
+25932	ZNF844	zinc finger protein 844	Approved		FLJ14959	19p13.2	AL832297		ZNF	Zinc fingers C2H2-type	28
+25112	ZNF845	zinc finger protein 845	Approved			19q13.42	BC007307	XM_039908	ZNF	Zinc fingers C2H2-type	28
+27260	ZNF846	zinc finger protein 846	Approved			19p13.2	AK097652	NM_001077624	ZNF	Zinc fingers C2H2-type	28
+13160	ZNF85	zinc finger protein 85	Approved		HPF4, HTF1	19p12	U35376	NM_003429	ZNF	Zinc fingers C2H2-type	28
+27994	ZNF850	zinc finger protein 850	Approved	ZNF850P		19q13.12	BC052603	NM_001193552	ZNF	Zinc fingers C2H2-type	28
+27713	ZNF852	zinc finger protein 852	Approved			3p21.31	BC014381	XM_001717402	ZNF	Zinc fingers C2H2-type	28
+21767	ZNF853	zinc finger protein 853	Approved		DKFZp434J1015	7p22.1	AL133055	NM_017560	ZNF	Zinc fingers C2H2-type	28
+34513	ZNF860	zinc finger protein 860	Approved			3p24.1	AK294003		ZNF	Zinc fingers C2H2-type	28
+34519	ZNF862	zinc finger protein 862	Approved			7q36.1	AB011115	NM_001099220	ZNF	Zinc fingers C2H2-type	28
+38705	ZNF865	zinc finger protein 865	Approved			19q13.42		NM_001195605	ZNF	Zinc fingers C2H2-type	28
+37246	ZNF878	zinc finger protein 878	Approved			19p13.2		NM_001080404	ZNF	Zinc fingers C2H2-type	28
+37273	ZNF879	zinc finger protein 879	Approved		DKFZp686E2433	5q35.3	AK300504	NM_001136116	ZNF	Zinc fingers C2H2-type	28
+37249	ZNF880	zinc finger protein 880	Approved			19q13.41	BC058819	NM_001145434	ZNF	Zinc fingers C2H2-type	28
+27271	ZNF883	zinc finger protein 883	Approved			9q32	AK095843	NM_001101338	ZNF	Zinc fingers C2H2-type	28
+38695	ZNF888	zinc finger protein 888	Approved			19q13.41		XM_496322	ZNF	Zinc fingers C2H2-type	28
+38709	ZNF891	zinc finger protein 891	Approved			12q24.33			ZNF	Zinc fingers C2H2-type	28
+13165	ZNF90	zinc finger protein 90	Approved		HTF9	19p12	M61870	NM_007138	ZNF	Zinc fingers C2H2-type	28
+23803	ADNP2	ADNP homeobox 2	Approved	ZNF508	KIAA0863	18q23	AB020670	NM_014913	ZNF	Zinc fingers C2H2-type	28
+25527	ANKZF1	ankyrin repeat and zinc finger domain containing 1	Approved		FLJ10415, ZNF744	2q35	AF364318	NM_018089	ZNF	Zinc fingers C2H2-type	28
+29034	ATMIN	ATM interactor	Approved		ASCIZ, KIAA0431, ZNF822	16q23.2	BC002701	NM_015251	ZNF	Zinc fingers C2H2-type	28
+13221	BCL11A	BCL11A, BAF complex component	Approved	EVI9	BCL11A-XL, BCL11A-L, BCL11A-S, CTIP1, HBFQTL5, ZNF856	2p16.1	AJ404611	NM_022893	ZNF	Zinc fingers C2H2-type	28
+13222	BCL11B	BCL11B, BAF complex component	Approved	ZNF856B	CTIP-2, CTIP2, hRIT1-alpha	14q32.2	AJ404614	NM_138576	ZNF	Zinc fingers C2H2-type	28
+1001	BCL6	BCL6, transcription repressor	Approved	ZNF51	ZBTB27, LAZ3, BCL5, BCL6A	3q27.3		NM_001706	ZNF	Zinc fingers C2H2-type	28
+1002	BCL6B	BCL6B, transcription repressor	Approved	ZNF62	ZBTB28, BAZF	17p13.1	AI672318	NM_181844	ZNF	Zinc fingers C2H2-type	28
+1081	BNC1	basonuclin 1	Approved	BNC	HsT19447	15q25.2	L03427	NM_001717	ZNF	Zinc fingers C2H2-type	28
+30988	BNC2	basonuclin 2	Approved		BSN2, FLJ20043	9p22.3-p22.2	AK092247	NM_017637	ZNF	Zinc fingers C2H2-type	28
+26002	CASZ1	castor zinc finger 1	Approved		FLJ20321, ZNF693, castor, cst, SRG	1p36.22	AK000328	NM_017766	ZNF	Zinc fingers C2H2-type	28
+20311	CHAMP1	chromosome alignment maintaining phosphoprotein 1	Approved	C13orf8, ZNF828	CAMP, CHAMP	13q34	AK074894	NM_032436	ZNF	Zinc fingers C2H2-type	28
+13723	CTCF	CCCTC-binding factor	Approved			16q22.1	U25435	NM_006565	ZNF	Zinc fingers C2H2-type	28
+16234	CTCFL	CCCTC-binding factor like	Approved		dJ579F20.2, BORIS, CT27	20q13.31		NM_080618	ZNF	Zinc fingers C2H2-type	28
+3121	E4F1	E4F transcription factor 1	Approved		E4F	16p13.3	U87269	NM_004424	ZNF	Zinc fingers C2H2-type	28
+3238	EGR1	early growth response 1	Approved		TIS8, G0S30, NGFI-A, KROX-24, ZIF-268, AT225, ZNF225	5q31.2	M62829	NM_001964	ZNF	Zinc fingers C2H2-type	28
+3239	EGR2	early growth response 2	Approved	KROX20		10q21.3	BC035625	NM_000399	ZNF	Zinc fingers C2H2-type	28
+3240	EGR3	early growth response 3	Approved		PILOT	8p21.3	X63741	NM_004430	ZNF	Zinc fingers C2H2-type	28
+3241	EGR4	early growth response 4	Approved		NGFI-C, PAT133	2p13.2		NM_001965	ZNF	Zinc fingers C2H2-type	28
+22788	FEZF1	FEZ family zinc finger 1	Approved	ZNF312B		7q31.32	AY726588	NM_001024613	ZNF	Zinc fingers C2H2-type	28
+13506	FEZF2	FEZ family zinc finger 2	Approved	ZNF312	FLJ10142, FKSG36, TOF, FEZL, Zfp312	3p14.2	AF064845	NM_018008	ZNF	Zinc fingers C2H2-type	28
+25917	FIZ1	FLT3 interacting zinc finger 1	Approved		FLJ14768, ZNF798	19q13.42	AK027674	NM_032836	ZNF	Zinc fingers C2H2-type	28
+4237	GFI1	growth factor independent 1 transcriptional repressor	Approved	ZNF163	GFI1A, GFI-1	1p22.1	U67369	NM_005263	ZNF	Zinc fingers C2H2-type	28
+4238	GFI1B	growth factor independent 1B transcriptional repressor	Approved		ZNF163B	9q34.13	AF081946	NM_004188	ZNF	Zinc fingers C2H2-type	28
+4317	GLI1	GLI family zinc finger 1	Approved	GLI		12q13.3		NM_005269	ZNF	Zinc fingers C2H2-type	28
+4318	GLI2	GLI family zinc finger 2	Approved		THP2, HPE9, THP1	2q14.2		NM_005270	ZNF	Zinc fingers C2H2-type	28
+4319	GLI3	GLI family zinc finger 3	Approved	GCPS, PHS	PAP-A, PAPA, PAPA1, PAPB, ACLS, PPDIV	7p14.1		NM_000168	ZNF	Zinc fingers C2H2-type	28
+4320	GLI4	GLI family zinc finger 4	Approved		HKR4, ZNF928	8q24.3			ZNF	Zinc fingers C2H2-type	28
+29525	GLIS1	GLIS family zinc finger 1	Approved		FLJ36155	1p32.3	AK093474	NM_147193	ZNF	Zinc fingers C2H2-type	28
+29450	GLIS2	GLIS family zinc finger 2	Approved		NPHP7	16p13.3	AF325914	NM_032575	ZNF	Zinc fingers C2H2-type	28
+28510	GLIS3	GLIS family zinc finger 3	Approved	ZNF515	MGC33662	9p24.2	BC033899	NM_152629	ZNF	Zinc fingers C2H2-type	28
+4662	GTF3A	general transcription factor IIIA	Approved		TFIIIA, AP2	13q12.2		NM_002097	ZNF	Zinc fingers C2H2-type	28
+15808	GZF1	GDNF inducible zinc finger protein 1	Approved	ZNF336	dJ322G13.2, ZBTB23	20p11.21	AK025447	NM_022482	ZNF	Zinc fingers C2H2-type	28
+4909	HIC1	HIC ZBTB transcriptional repressor 1	Approved		ZBTB29, ZNF901	17p13.3		NM_006497	ZNF	Zinc fingers C2H2-type	28
+18595	HIC2	HIC ZBTB transcriptional repressor 2	Approved		KIAA1020, HRG22, ZBTB30, ZNF907	22q11.21	AB028943		ZNF	Zinc fingers C2H2-type	28
+17850	HINFP	histone H4 transcription factor	Approved	MIZF	DKFZP434F162, HiNF-P, ZNF743	11q23.3	AL080201	NM_015517	ZNF	Zinc fingers C2H2-type	28
+4920	HIVEP1	human immunodeficiency virus type I enhancer binding protein 1	Approved	ZNF40	CIRIP, MBP-1, CRYBP1, PRDII-BF1, ZAS1, Schnurri-1, ZNF40A	6p24.1	J05011	NM_002114	ZNF	Zinc fingers C2H2-type	28
+4921	HIVEP2	human immunodeficiency virus type I enhancer binding protein 2	Approved		MBP-2, HIV-EP2, MIBP1, ZAS2, Schnurri-2, ZNF40B	6q24.2	M60119		ZNF	Zinc fingers C2H2-type	28
+13561	HIVEP3	human immunodeficiency virus type I enhancer binding protein 3	Approved		KRC, KBP1, KBP-1, SHN3, FLJ16752, KIAA1555, ZAS3, Schnurri-3, ZNF40C	1p34.2	AF278765	NM_024503	ZNF	Zinc fingers C2H2-type	28
+4928	HKR1	HKR1, GLI-Kruppel zinc finger family member	Approved		ZNF875	19q13.12	M20675	NM_181786	ZNF	Zinc fingers C2H2-type	28
+13176	IKZF1	IKAROS family zinc finger 1	Approved	ZNFN1A1	hIk-1, LyF-1, Hs.54452, IKAROS, PPP1R92	7p12.2	U40462	NM_006060	ZNF	Zinc fingers C2H2-type	28
+13177	IKZF2	IKAROS family zinc finger 2	Approved	ZNFN1A2	Helios	2q34	AF130863	NM_016260	ZNF	Zinc fingers C2H2-type	28
+13178	IKZF3	IKAROS family zinc finger 3	Approved	ZNFN1A3	Aiolos	17q12-q21.1	AF129512	NM_012481	ZNF	Zinc fingers C2H2-type	28
+13179	IKZF4	IKAROS family zinc finger 4	Approved	ZNFN1A4	Eos	12q13.2	AF230809	NM_022465	ZNF	Zinc fingers C2H2-type	28
+14283	IKZF5	IKAROS family zinc finger 5	Approved	ZNFN1A5	Pegasus, FLJ22973	10q26.13	AF230808	NM_022466	ZNF	Zinc fingers C2H2-type	28
+17539	INSM2	INSM transcriptional repressor 2	Approved		IA-6, Mlt1	14q13.2	AF260323		ZNF	Zinc fingers C2H2-type	28
+28917	JAZF1	JAZF zinc finger 1	Approved		TIP27, DKFZp761K2222, ZNF802	7p15.2-p15.1	BC047229	NM_175061	ZNF	Zinc fingers C2H2-type	28
+6345	KLF1	Kruppel like factor 1	Approved		EKLF	19p13.13	U37106	NM_006563	ZNF	Zinc fingers C2H2-type	28
+11810	KLF10	Kruppel like factor 10	Approved	TIEG	EGRA, TIEG1	8q22.3	U21847		ZNF	Zinc fingers C2H2-type	28
+11811	KLF11	Kruppel like factor 11	Approved	TIEG2	Tieg3, MODY7	2p25.1	AF028008	NM_003597	ZNF	Zinc fingers C2H2-type	28
+6346	KLF12	Kruppel like factor 12	Approved		AP-2rep, HSPC122, AP2REP	13q22.1	AJ243274	NM_007249	ZNF	Zinc fingers C2H2-type	28
+13672	KLF13	Kruppel like factor 13	Approved		RFLAT-1, BTEB3, NSLP1, FKLF-2	15q13.3	AF132599	NM_015995	ZNF	Zinc fingers C2H2-type	28
+23025	KLF14	Kruppel like factor 14	Approved		BTEB5	7q32.2	AF490374	NM_138693	ZNF	Zinc fingers C2H2-type	28
+14536	KLF15	Kruppel like factor 15	Approved		KKLF	3q21.3	AB029254	NM_014079	ZNF	Zinc fingers C2H2-type	28
+16857	KLF16	Kruppel like factor 16	Approved		NSLP2, BTEB4, DRRF	19p13.3	AF327440		ZNF	Zinc fingers C2H2-type	28
+18830	KLF17	Kruppel like factor 17	Approved	ZNF393	Zfp393, FLJ40160	1p34.1	BC049844	NM_173484	ZNF	Zinc fingers C2H2-type	28
+6347	KLF2	Kruppel like factor 2	Approved		LKLF	19p13.11	AF123344		ZNF	Zinc fingers C2H2-type	28
+16516	KLF3	Kruppel like factor 3	Approved		BKLF	4p14	AF285837		ZNF	Zinc fingers C2H2-type	28
+6348	KLF4	Kruppel like factor 4	Approved		EZF, GKLF	9q31.2	AF022184	NM_004235	ZNF	Zinc fingers C2H2-type	28
+6349	KLF5	Kruppel like factor 5	Approved	BTEB2	IKLF, CKLF	13q22.1	D14520		ZNF	Zinc fingers C2H2-type	28
+2235	KLF6	Kruppel like factor 6	Approved	BCD1, ST12, COPEB	CPBP, GBF, Zf9, PAC1	10p15.2	U51869		ZNF	Zinc fingers C2H2-type	28
+6350	KLF7	Kruppel like factor 7	Approved		UKLF	2q33.3	AB015132	NM_003709	ZNF	Zinc fingers C2H2-type	28
+6351	KLF8	Kruppel like factor 8	Approved		BKLF3, ZNF741, DXS741	Xp11.21	U28282	NM_007250	ZNF	Zinc fingers C2H2-type	28
+1123	KLF9	Kruppel like factor 9	Approved	BTEB1		9q21.12	BC069431	NM_001206	ZNF	Zinc fingers C2H2-type	28
+6914	MAZ	MYC associated zinc finger protein	Approved		ZF87, Pur-1, Zif87, ZNF801	16p11.2	M93339	NM_002383	ZNF	Zinc fingers C2H2-type	28
+3498	MECOM	MDS1 and EVI1 complex locus	Approved	MDS1, EVI1	MDS1-EVI1, PRDM3, KMT8E	3q26.2	S82592, AF164154	NM_005241, NM_004991	ZNF	Zinc fingers C2H2-type	28
+14955	MYNN	myoneurin	Approved		SBBIZ1, ZBTB31, ZNF902	3q26.2	AF148848	NM_018657	ZNF	Zinc fingers C2H2-type	28
+13108	MZF1	myeloid zinc finger 1	Approved	ZNF42	ZSCAN6, MZF1B, MZF-1, Zfp98	19q13.43	M58297	NM_198055	ZNF	Zinc fingers C2H2-type	28
+8111	OSR1	odd-skipped related transcription factor 1	Approved	ODD		2p24.1	BC025712	NM_145260	ZNF	Zinc fingers C2H2-type	28
+15830	OSR2	odd-skipped related transciption factor 2	Approved		FLJ90037	8q22.2	AY038072	NM_053001	ZNF	Zinc fingers C2H2-type	28
+8525	OVOL1	ovo like transcriptional repressor 1	Approved		HOVO1	11q13.1	BC059408	NM_004561	ZNF	Zinc fingers C2H2-type	28
+15804	OVOL2	ovo like zinc finger 2	Approved	ZNF339, CHED1	bA504H3.3, HOVO2, CHED	20p11.23	AK022284	NM_021220	ZNF	Zinc fingers C2H2-type	28
+13071	PATZ1	POZ/BTB and AT hook containing zinc finger 1	Approved	ZNF278	MAZR, dJ400N23, ZBTB19, ZSG, RIAZ, PATZ	22q12.2	AL096880	NM_032052	ZNF	Zinc fingers C2H2-type	28
+8826	PEG3	paternally expressed 3	Approved		ZKSCAN22, KIAA0287, ZNF904, ZSCAN24	19q13.4	AB006625		ZNF	Zinc fingers C2H2-type	28
+9045	PLAG1	PLAG1 zinc finger	Approved		ZNF912	8q12.1	U65002	NM_002655	ZNF	Zinc fingers C2H2-type	28
+9046	PLAGL1	PLAG1 like zinc finger 1	Approved		ZAC, LOT1	6q24.2	U81992		ZNF	Zinc fingers C2H2-type	28
+9047	PLAGL2	PLAG1 like zinc finger 2	Approved		ZNF900	20q11.21		NM_002657	ZNF	Zinc fingers C2H2-type	28
+9346	PRDM1	PR/SET domain 1	Approved	BLIMP1	PRDI-BF1	6q21			ZNF	Zinc fingers C2H2-type	28
+13995	PRDM10	PR/SET domain 10	Approved		KIAA1231, PFM7, MGC131802	11q24.3	AF275817	NM_199437	ZNF	Zinc fingers C2H2-type	28
+13997	PRDM12	PR/SET domain 12	Approved		PFM9	9q34.12	AY004252	NM_021619	ZNF	Zinc fingers C2H2-type	28
+14001	PRDM14	PR/SET domain 14	Approved			8q13.3	AF319458		ZNF	Zinc fingers C2H2-type	28
+13999	PRDM15	PR/SET domain 15	Approved	ZNF298, C21orf83		21q22.3	AF276513	NM_022115	ZNF	Zinc fingers C2H2-type	28
+14000	PRDM16	PR/SET domain 16	Approved		MEL1, PFM13, KIAA1675, MGC166915, KMT8F	1p36.32	AF294278	NM_022114	ZNF	Zinc fingers C2H2-type	28
+9348	PRDM4	PR/SET domain 4	Approved		PFM1	12q23.3	AF144757	NM_012406	ZNF	Zinc fingers C2H2-type	28
+9349	PRDM5	PR/SET domain 5	Approved		PFM2	4q27	AF272897		ZNF	Zinc fingers C2H2-type	28
+9350	PRDM6	PR/SET domain 6	Approved		PRISM, KMT8C	5q23.2	AF272898	XM_049619	ZNF	Zinc fingers C2H2-type	28
+9351	PRDM7	PR/SET domain 7	Approved		ZNF910	16q24.3	AF274347		ZNF	Zinc fingers C2H2-type	28
+13994	PRDM9	PR/SET domain 9	Approved	MSBP3	PFM6, ZNF899, KMT8B	5p14.2	AF275816	NM_020227	ZNF	Zinc fingers C2H2-type	28
+21894	PRKRIP1	PRKR interacting protein 1	Approved		C114, FLJ13902, KRBOX3	7q22.1	AK023964	NM_024653	ZNF	Zinc fingers C2H2-type	28
+17680	RBAK	RB associated KRAB zinc finger	Approved		ZNF769	7p22.1	AF226869	NM_021163	ZNF	Zinc fingers C2H2-type	28
+17922	REPIN1	replication initiator 1	Approved	ZNF464	RIP60, AP4, H_DJ0584D14.12, Zfp464	7q36.1	AF201303	NM_014374	ZNF	Zinc fingers C2H2-type	28
+10025	RLF	rearranged L-myc fusion	Approved		ZNF292L, Zn-15L	1p34.2		NM_012421	ZNF	Zinc fingers C2H2-type	28
+10449	RREB1	ras responsive element binding protein 1	Approved		HNT	6p24.3	U26914		ZNF	Zinc fingers C2H2-type	28
+10524	SALL1	spalt like transcription factor 1	Approved	TBS	Hsal1, ZNF794	16q12.1	X98833	NM_002968	ZNF	Zinc fingers C2H2-type	28
+10526	SALL2	spalt like transcription factor 2	Approved		KIAA0360, Hsal2, ZNF795	14q11.2	AB002358	NM_005407	ZNF	Zinc fingers C2H2-type	28
+10527	SALL3	spalt like transcription factor 3	Approved		ZNF796	18q23	AJ007421	NM_171999	ZNF	Zinc fingers C2H2-type	28
+15924	SALL4	spalt like transcription factor 4	Approved		dJ1112F19.1, ZNF797	20q13.2	AK001666		ZNF	Zinc fingers C2H2-type	28
+13081	SCAPER	S-phase cyclin A associated protein in the ER	Approved	ZNF291	Zfp291	15q24.3	AB040887, AF242528	NM_020843	ZNF	Zinc fingers C2H2-type	28
+15950	SCRT1	scratch family transcriptional repressor 1	Approved		DKFZp547F072, ZNF898	8q24.3	BC014675	NM_031309	ZNF	Zinc fingers C2H2-type	28
+15952	SCRT2	scratch family transcriptional repressor 2	Approved		ZNF898B	20p13		NM_033129	ZNF	Zinc fingers C2H2-type	28
+11128	SNAI1	snail family transcriptional repressor 1	Approved		SNA, SLUGH2, SNAH, SNAIL1, SNAIL	20q13.13	AF125377		ZNF	Zinc fingers C2H2-type	28
+11094	SNAI2	snail family transcriptional repressor 2	Approved	SLUG	SLUGH1, SNAIL2, SLUGH	8q11.21	U97060	NM_003068	ZNF	Zinc fingers C2H2-type	28
+18411	SNAI3	snail family transcriptional repressor 3	Approved	ZNF293	SMUC, Zfp293	16q24.3	BC041461		ZNF	Zinc fingers C2H2-type	28
+11205	SP1	Sp1 transcription factor	Approved			12q13.13	J03133		ZNF	Zinc fingers C2H2-type	28
+11207	SP2	Sp2 transcription factor	Approved		KIAA0048	17q21.32		NM_003110	ZNF	Zinc fingers C2H2-type	28
+11208	SP3	Sp3 transcription factor	Approved		SPR-2	2q31.1	M97191	NM_003111	ZNF	Zinc fingers C2H2-type	28
+11209	SP4	Sp4 transcription factor	Approved		SPR-1, HF1B, MGC130008, MGC130009	7p15.3		NM_003112	ZNF	Zinc fingers C2H2-type	28
+14529	SP5	Sp5 transcription factor	Approved			2q31.1		XM_371581	ZNF	Zinc fingers C2H2-type	28
+14530	SP6	Sp6 transcription factor	Approved		KLF14, Epfn	17q21.32		NM_199262	ZNF	Zinc fingers C2H2-type	28
+17321	SP7	Sp7 transcription factor	Approved		osterix, OSX	12q13.13	AF477981		ZNF	Zinc fingers C2H2-type	28
+19196	SP8	Sp8 transcription factor	Approved			7p21.1			ZNF	Zinc fingers C2H2-type	28
+30690	SP9	Sp9 transcription factor	Approved		ZNF990	2q31.1		NM_001145250	ZNF	Zinc fingers C2H2-type	28
+17101	SUZ12	SUZ12, polycomb repressive complex 2 subunit	Approved		JJAZ1, KIAA0160, CHET9	17q11.2	D63881	NM_015355	ZNF	Zinc fingers C2H2-type	28
+12340	TRPS1	transcriptional repressor GATA binding 1	Approved		LGCR, GC79	8q23.3	AF183810	NM_014112	ZNF	Zinc fingers C2H2-type	28
+10669	TSHZ1	teashirt zinc finger homeobox 1	Approved	SDCCAG33	NY-CO-33, TSH1	18q22.3	AF039698	NM_005786	ZNF	Zinc fingers C2H2-type	28
+13010	TSHZ2	teashirt zinc finger homeobox 2	Approved	C20orf17, ZNF218	ZABC2, OVC10-2, TSH2	20q13.2	AF230201	NM_173485	ZNF	Zinc fingers C2H2-type	28
+30700	TSHZ3	teashirt zinc finger homeobox 3	Approved	ZNF537	KIAA1474, TSH3	19q12	AL136805	NM_020856	ZNF	Zinc fingers C2H2-type	28
+12949	VEZF1	vascular endothelial zinc finger 1	Approved	ZNF161	DB1	17q22	D28118		ZNF	Zinc fingers C2H2-type	28
+30917	WIZ	widely interspaced zinc finger motifs	Approved		ZNF803	19p13.12	AK091183	NM_021241	ZNF	Zinc fingers C2H2-type	28
+12796	WT1	Wilms tumor 1	Approved	GUD	WAGR, WIT-2, AWT1, NPHS4	11p13		NM_000378	ZNF	Zinc fingers C2H2-type	28
+12856	YY1	YY1 transcription factor	Approved		NF-E1, DELTA, UCRBP, YIN-YANG-1, INO80S	14q32.2	BC020324	NM_003403	ZNF	Zinc fingers C2H2-type	28
+31684	YY2	YY2 transcription factor	Approved		ZNF631	Xp22.12	AK091850	NM_206923	ZNF	Zinc fingers C2H2-type	28
+20259	ZBTB1	zinc finger and BTB domain containing 1	Approved		KIAA0997, ZNF909	14q23.3	AB023214		ZNF	Zinc fingers C2H2-type	28
+30953	ZBTB10	zinc finger and BTB domain containing 10	Approved		RINZF, FLJ12752	8q21.13	AK022814	NM_023929	ZNF	Zinc fingers C2H2-type	28
+16740	ZBTB11	zinc finger and BTB domain containing 11	Approved		ZNF-U69274, ZNF913	3q12.3	U69274	NM_014415	ZNF	Zinc fingers C2H2-type	28
+19066	ZBTB12	zinc finger and BTB domain containing 12	Approved	C6orf46	G10, NG35, D6S59E	6p21.33	BC043609	NM_181842	ZNF	Zinc fingers C2H2-type	28
+12860	ZBTB14	zinc finger and BTB domain containing 14	Approved	ZFP161	ZNF478	18p11.31	D89859	NM_003409	ZNF	Zinc fingers C2H2-type	28
+12930	ZBTB16	zinc finger and BTB domain containing 16	Approved	ZNF145	PLZF	11q23.2	Z19002	NM_006006	ZNF	Zinc fingers C2H2-type	28
+12936	ZBTB17	zinc finger and BTB domain containing 17	Approved	ZNF151, ZNF60	MIZ1, pHZ-67	1p36.13	U20647	NM_003443	ZNF	Zinc fingers C2H2-type	28
+13030	ZBTB18	zinc finger and BTB domain containing 18	Approved	ZNF238	C2H2-171, TAZ-1, RP58	1q44	U38896	NM_205768	ZNF	Zinc fingers C2H2-type	28
+20868	ZBTB2	zinc finger and BTB domain containing 2	Approved		KIAA1483, ZNF437, bA351K16.2	6q25.1	BC020172	NM_020861	ZNF	Zinc fingers C2H2-type	28
+13503	ZBTB20	zinc finger and BTB domain containing 20	Approved	ZNF288	ODA-8S, DKFZp566F123, DPZF	3q13.31	AF139460	NM_015642	ZNF	Zinc fingers C2H2-type	28
+13083	ZBTB21	zinc finger and BTB domain containing 21	Approved	ZNF295	KIAA1227	21q22.3	AB033053	NM_020727	ZNF	Zinc fingers C2H2-type	28
+13085	ZBTB22	zinc finger and BTB domain containing 22	Approved	ZNF297	BING1, ZNF297A, fruitless, fru, ZBTB22A	6p21.3	Z97183		ZNF	Zinc fingers C2H2-type	28
+21143	ZBTB24	zinc finger and BTB domain containing 24	Approved	ZNF450	KIAA0441, BIF1, PATZ2	6q21	AB007901	NM_014797	ZNF	Zinc fingers C2H2-type	28
+13112	ZBTB25	zinc finger and BTB domain containing 25	Approved	ZNF46, C14orf51	KUP	14q23.3	X16576	NM_006977	ZNF	Zinc fingers C2H2-type	28
+23383	ZBTB26	zinc finger and BTB domain containing 26	Approved	ZNF481		9q33.2	AB046792	NM_020924	ZNF	Zinc fingers C2H2-type	28
+22918	ZBTB3	zinc finger and BTB domain containing 3	Approved		FLJ23392	11q12.3	AK027045	NM_024784	ZNF	Zinc fingers C2H2-type	28
+16763	ZBTB32	zinc finger and BTB domain containing 32	Approved		TZFP, FAZF, FAXF, Rog, ZNF538	19q13.12	AF130255	NM_014383	ZNF	Zinc fingers C2H2-type	28
+16682	ZBTB33	zinc finger and BTB domain containing 33	Approved		ZNF-kaiso, kaiso, WUGSC:H_DJ525N14.1, KAISO, ZNF348	Xq24	BC042753	NM_006777	ZNF	Zinc fingers C2H2-type	28
+31446	ZBTB34	zinc finger and BTB domain containing 34	Approved		KIAA1993, MGC24652, ZNF918	9q33.3	DQ227306	NM_001099270	ZNF	Zinc fingers C2H2-type	28
+28365	ZBTB37	zinc finger and BTB domain containing 37	Approved		MGC2629, ZNF908	1q25.1	AK057310	NM_032522	ZNF	Zinc fingers C2H2-type	28
+26636	ZBTB38	zinc finger and BTB domain containing 38	Approved		FLJ35036, CIBZ, ZNF921, PPP1R171	3q23	BC015444		ZNF	Zinc fingers C2H2-type	28
+29014	ZBTB39	zinc finger and BTB domain containing 39	Approved		KIAA0352, ZNF922	12q13.3	AB002350	NM_014830	ZNF	Zinc fingers C2H2-type	28
+23847	ZBTB4	zinc finger and BTB domain containing 4	Approved		KIAA1538, KAISO-L1, ZNF903	17p13.1	AB040971	NM_020899	ZNF	Zinc fingers C2H2-type	28
+29045	ZBTB40	zinc finger and BTB domain containing 40	Approved		KIAA0478, ZNF923	1p36.12	AB007947	NM_014870	ZNF	Zinc fingers C2H2-type	28
+24819	ZBTB41	zinc finger and BTB domain containing 41	Approved		FRBZ1, FLJ36199, DKFZp686C06120, ZNF924	1q31.3		NM_194314	ZNF	Zinc fingers C2H2-type	28
+32550	ZBTB42	zinc finger and BTB domain containing 42	Approved		ZNF925	14q32.33	AX721091		ZNF	Zinc fingers C2H2-type	28
+17908	ZBTB43	zinc finger and BTB domain containing 43	Approved	ZNF297B	KIAA0414, ZNF-X, FLJ22470, ZBTB22B	9q33.3	AF049907	NM_001135776	ZNF	Zinc fingers C2H2-type	28
+25001	ZBTB44	zinc finger and BTB domain containing 44	Approved	BTBD15	HSPC063, ZNF851	11q24.3	AK024659	NM_014155	ZNF	Zinc fingers C2H2-type	28
+23715	ZBTB45	zinc finger and BTB domain containing 45	Approved	ZNF499	FLJ14486	19q13.43	AK027392	NM_032792	ZNF	Zinc fingers C2H2-type	28
+16094	ZBTB46	zinc finger and BTB domain containing 46	Approved	ZNF340, BTBD4	FLJ13502, RINZF, BZEL	20q13.33	AK131482	NM_025224	ZNF	Zinc fingers C2H2-type	28
+26955	ZBTB47	zinc finger and BTB domain containing 47	Approved	ZNF651	KIAA1190, DKFZp434N0615	3p22.1	AB033016	NM_145166	ZNF	Zinc fingers C2H2-type	28
+4930	ZBTB48	zinc finger and BTB domain containing 48	Approved	HKR3	ZNF855, TZAP	1p36.31	BC013573	NM_005341	ZNF	Zinc fingers C2H2-type	28
+19883	ZBTB49	zinc finger and BTB domain containing 49	Approved	ZNF509	FLJ38559	4p16.3	AK095878	NM_145291	ZNF	Zinc fingers C2H2-type	28
+23836	ZBTB5	zinc finger and BTB domain containing 5	Approved		KIAA0354	9p13.2	AB002352	NM_014872	ZNF	Zinc fingers C2H2-type	28
+16764	ZBTB6	zinc finger and BTB domain containing 6	Approved	ZNF482	ZID	9q33.2	X82018	NM_006626	ZNF	Zinc fingers C2H2-type	28
+18078	ZBTB7A	zinc finger and BTB domain containing 7A	Approved	ZBTB7	FBI-1, LRF, DKFZp547O146, pokemon, ZNF857A	19p13.3	AF000561	NM_015898	ZNF	Zinc fingers C2H2-type	28
+18668	ZBTB7B	zinc finger and BTB domain containing 7B	Approved	ZFP67	ZBTB15, c-Krox, hcKrox, ZNF857B	1q21.3	AF007833	NM_015872	ZNF	Zinc fingers C2H2-type	28
+31700	ZBTB7C	zinc finger and BTB domain containing 7C	Approved	ZBTB36	ZNF857C	18q21.1	Y14591	NM_001039360	ZNF	Zinc fingers C2H2-type	28
+24172	ZBTB8A	zinc finger and BTB domain containing 8A	Approved	ZBTB8	BOZF1, FLJ90065, ZNF916A	1p35.1	AF548353	NM_144621	ZNF	Zinc fingers C2H2-type	28
+37057	ZBTB8B	zinc finger and BTB domain containing 8B	Approved		RP1-27O5.1, DKFZp547H154, ZNF916B	1p35.1	AL442095	NM_001145720	ZNF	Zinc fingers C2H2-type	28
+28323	ZBTB9	zinc finger and BTB domain containing 9	Approved		MGC23166, ZNF919	6p21.32	AK122644	NM_152735	ZNF	Zinc fingers C2H2-type	28
+11642	ZEB1	zinc finger E-box binding homeobox 1	Approved	TCF8, PPCD3	BZP, ZEB, AREB6, NIL-2-A, Zfhep, Zfhx1a, FECD6	10p11.22	AK091478	NM_030751	ZNF	Zinc fingers C2H2-type	28
+14881	ZEB2	zinc finger E-box binding homeobox 2	Approved	ZFHX1B	KIAA0569, SIP-1, SIP1	2q22.3	AB011141	NM_014795	ZNF	Zinc fingers C2H2-type	28
+19899	ZFAT	zinc finger and AT-hook domain containing	Approved	ZNF406, ZFAT1	KIAA1485	8q24.22	BC025423	NM_001029939	ZNF	Zinc fingers C2H2-type	28
+20152	ZFHX2	zinc finger homeobox 2	Approved	ZNF409	KIAA1762, KIAA1056, ZFH-5	14q11.2	AB051549	NM_014894	ZNF	Zinc fingers C2H2-type	28
+777	ZFHX3	zinc finger homeobox 3	Approved	ATBF1	ZNF927	16q22.2-q22.3	D10250	NM_006885	ZNF	Zinc fingers C2H2-type	28
+23328	ZFP1	ZFP1 zinc finger protein	Approved		FLJ34243, ZNF475	16q23.1	AK094761	NM_153688	ZNF	Zinc fingers C2H2-type	28
+29312	ZFP14	ZFP14 zinc finger protein	Approved		KIAA1559, ZNF531	19q13.13	AB046779	NM_020917	ZNF	Zinc fingers C2H2-type	28
+26138	ZFP2	ZFP2 zinc finger protein	Approved		FLJ21628, ZNF751	5q35.3	AK025281	NM_030613	ZNF	Zinc fingers C2H2-type	28
+17801	ZFP28	ZFP28 zinc finger protein	Approved		KIAA1431, mkr5	19q13.43		NM_020828	ZNF	Zinc fingers C2H2-type	28
+12861	ZFP3	ZFP3 zinc finger protein	Approved		FLJ30726, ZNF752	17p13.2	BX647638	NM_153018	ZNF	Zinc fingers C2H2-type	28
+29555	ZFP30	ZFP30 zinc finger protein	Approved		ZNF745, KIAA0961	19q13.12	AB023178	NM_014898	ZNF	Zinc fingers C2H2-type	28
+12863	ZFP37	ZFP37 zinc finger protein	Approved		ZNF906	9q32	AF022158	NM_003408	ZNF	Zinc fingers C2H2-type	28
+26786	ZFP41	ZFP41 zinc finger protein	Approved		FLJ38705, FLJ00028, ZNF753	8q24.3		NM_173832	ZNF	Zinc fingers C2H2-type	28
+30949	ZFP42	ZFP42 zinc finger protein	Approved		REX1, ZNF754	4q35.2	AK056719	NM_174900	ZNF	Zinc fingers C2H2-type	28
+18791	ZFP57	ZFP57 zinc finger protein	Approved	C6orf40	ZNF698, bA145L22, bA145L22.2	6p22.1	AL050328	XM_294093	ZNF	Zinc fingers C2H2-type	28
+23241	ZFP62	ZFP62 zinc finger protein	Approved		FLJ34231, ZET, ZNF755	5q35.3	AK002206	NM_152283	ZNF	Zinc fingers C2H2-type	28
+15940	ZFP64	ZFP64 zinc finger protein	Approved	ZNF338	FLJ10734, dJ831D17.1, FLJ12628, dJ548G19.1	20q13.2	AK001596	NM_018197	ZNF	Zinc fingers C2H2-type	28
+24708	ZFP69	ZFP69 zinc finger protein	Approved	ZNF642	ZKSCAN23A, FLJ16030, ZFP69A, ZSCAN54A	1p34.2	AK122618	NM_198494	ZNF	Zinc fingers C2H2-type	28
+28053	ZFP69B	ZFP69 zinc finger protein B	Approved	ZNF643	ZKSCAN23B, FLJ34293, ZSCAN54B	1p34.2	BC017498	NM_023070	ZNF	Zinc fingers C2H2-type	28
+28682	ZFP82	ZFP82 zinc finger protein	Approved	ZNF545	MGC45380, KIAA1948	19q13.13	AL834267	NM_133466	ZNF	Zinc fingers C2H2-type	28
+23329	ZFP90	ZFP90 zinc finger protein	Approved		KIAA1954, NK10, ZNF756	16q22.1	AK074332	XM_085375	ZNF	Zinc fingers C2H2-type	28
+14983	ZFP91	ZFP91 zinc finger protein	Approved		PZF, ZNF757	11q12.1	AB056107	NM_053023	ZNF	Zinc fingers C2H2-type	28
+12865	ZFP92	ZFP92 zinc finger protein	Approved		ZNF897	Xq28	U82695		ZNF	Zinc fingers C2H2-type	28
+19762	ZFPM1	zinc finger protein, FOG family member 1	Approved		FOG1, FOG, ZNF89A, ZC2HC11A	16q24.2	AF488691		ZNF	Zinc fingers C2H2-type	28
+16700	ZFPM2	zinc finger protein, FOG family member 2	Approved		FOG2, hFOG-2, ZNF89B, ZC2HC11B	8q23	AF119334		ZNF	Zinc fingers C2H2-type	28
+12869	ZFX	zinc finger protein X-linked	Approved		ZNF926	Xp22.11		NM_003410	ZNF	Zinc fingers C2H2-type	28
+12870	ZFY	zinc finger protein Y-linked	Approved		ZNF911	Yp11.2	L10393	NM_003411	ZNF	Zinc fingers C2H2-type	28
+12871	ZHX1	zinc fingers and homeoboxes 1	Approved			8q24.13	AF106862		ZNF	Zinc fingers C2H2-type	28
+18513	ZHX2	zinc fingers and homeoboxes 2	Approved		KIAA0854	8q24.13	AB020661	NM_014943	ZNF	Zinc fingers C2H2-type	28
+15935	ZHX3	zinc fingers and homeoboxes 3	Approved	TIX1	KIAA0395	20q12	AB007855	NM_015035	ZNF	Zinc fingers C2H2-type	28
+12872	ZIC1	Zic family member 1	Approved		ZIC, ZNF201	3q24	D76435	NM_003412	ZNF	Zinc fingers C2H2-type	28
+12873	ZIC2	Zic family member 2	Approved		HPE5	13q32.3	AF104902	NM_007129	ZNF	Zinc fingers C2H2-type	28
+12874	ZIC3	Zic family member 3	Approved	HTX1	HTX, ZNF203	Xq26.3	AF028706		ZNF	Zinc fingers C2H2-type	28
+20393	ZIC4	Zic family member 4	Approved			3q24	AF332509		ZNF	Zinc fingers C2H2-type	28
+20322	ZIC5	Zic family member 5	Approved			13q32.3	AF378304	NM_033132	ZNF	Zinc fingers C2H2-type	28
+33104	ZIK1	zinc finger protein interacting with K protein 1	Approved		ZNF762	19q13.43	AK092538	NM_001010879	ZNF	Zinc fingers C2H2-type	28
+12875	ZIM2	zinc finger imprinted 2	Approved		ZNF656	19q13.4	AF166122		ZNF	Zinc fingers C2H2-type	28
+16366	ZIM3	zinc finger imprinted 3	Approved		ZNF657	19q13.43	AF365931		ZNF	Zinc fingers C2H2-type	28
+13101	ZKSCAN1	zinc finger with KRAB and SCAN domains 1	Approved	ZNF139, ZNF36	KOX18, PHZ-37, ZSCAN33	7q22.1	X52349	NM_003439	ZNF	Zinc fingers C2H2-type	28
+25677	ZKSCAN2	zinc finger with KRAB and SCAN domains 2	Approved	ZNF694	FLJ23199, ZSCAN34	16p12.1	AK026852	NM_001012981	ZNF	Zinc fingers C2H2-type	28
+13853	ZKSCAN3	zinc finger with KRAB and SCAN domains 3	Approved	ZNF306, ZNF309	Zfp47, ZF47, ZSCAN35	6p22.1	U71601	NM_024493	ZNF	Zinc fingers C2H2-type	28
+13854	ZKSCAN4	zinc finger with KRAB and SCAN domains 4	Approved	ZNF307, ZNF427	p373c6.1, P1P373C6, FLJ32136, ZSCAN36	6p22.1	AK056698	NM_019110	ZNF	Zinc fingers C2H2-type	28
+12867	ZKSCAN5	zinc finger with KRAB and SCAN domains 5	Approved	ZFP95	ZNF914, ZSCAN37	7q22.1	AF170025	NM_014569	ZNF	Zinc fingers C2H2-type	28
+12955	ZKSCAN7	zinc finger with KRAB and SCAN domains 7	Approved	ZNF64, ZNF448, ZNF167	FLJ12738, ZSCAN39	3p21.31	L32164, AY280798	NM_018651	ZNF	Zinc fingers C2H2-type	28
+12983	ZKSCAN8	zinc finger with KRAB and SCAN domains 8	Approved	ZNF192	LD5-1, ZSCAN40	6p21			ZNF	Zinc fingers C2H2-type	28
+12879	ZNF10	zinc finger protein 10	Approved		KOX1	12q24.33	X52332, BC024182	NM_015394	ZNF	Zinc fingers C2H2-type	28
+12880	ZNF100	zinc finger protein 100	Approved			19p13.1	BC035579	NM_173531	ZNF	Zinc fingers C2H2-type	28
+12881	ZNF101	zinc finger protein 101	Approved		HZF12, DKFZp570I0164	19p13.11	AK097169	NM_033204	ZNF	Zinc fingers C2H2-type	28
+12886	ZNF106	zinc finger protein 106	Approved	ZFP106	ZNF474, SH3BP3	15q15.1	AF205632	NM_022473	ZNF	Zinc fingers C2H2-type	28
+12887	ZNF107	zinc finger protein 107	Approved	ZNF588	ZFD25, smap-7	7q11.21	AB027251	NM_016220	ZNF	Zinc fingers C2H2-type	28
+12892	ZNF112	zinc finger protein 112	Approved	ZFP112, ZNF228		19q13.31	AF198358	NM_013380	ZNF	Zinc fingers C2H2-type	28
+12894	ZNF114	zinc finger protein 114	Approved		MGC17986	19q13.33	BC014935	NM_153608	ZNF	Zinc fingers C2H2-type	28
+12897	ZNF117	zinc finger protein 117	Approved		HPF9, H-plk	7q11.21	M27879	NM_024498	ZNF	Zinc fingers C2H2-type	28
+12902	ZNF12	zinc finger protein 12	Approved	ZNF325	KOX3, GIOT-3	7p22.1	X52334, AB021643	NM_016265	ZNF	Zinc fingers C2H2-type	28
+12904	ZNF121	zinc finger protein 121	Approved	D19S204	ZHC32, ZNF20	19p13.2	M99593	NM_001008727	ZNF	Zinc fingers C2H2-type	28
+12907	ZNF124	zinc finger protein 124	Approved		HZF16, HZF-16	1q44	S54641	NM_003431	ZNF	Zinc fingers C2H2-type	28
+12915	ZNF131	zinc finger protein 131	Approved		ZBTB35, pHZ-10	5p12	U09410	NM_003432	ZNF	Zinc fingers C2H2-type	28
+12916	ZNF132	zinc finger protein 132	Approved		pHZ-12	19q13.4	U09411	NM_003433	ZNF	Zinc fingers C2H2-type	28
+12917	ZNF133	zinc finger protein 133	Approved	ZNF150	pHZ-13, pHZ-66	20p11.23	AK123005	NM_003434	ZNF	Zinc fingers C2H2-type	28
+12918	ZNF134	zinc finger protein 134	Approved		pHZ-15	19q13.4	U09412	NM_003435	ZNF	Zinc fingers C2H2-type	28
+12919	ZNF135	zinc finger protein 135	Approved	ZNF61, ZNF78L1	pHZ-17	19q13.4	U09413	NM_003436	ZNF	Zinc fingers C2H2-type	28
+12920	ZNF136	zinc finger protein 136	Approved		pHZ-20	19p13.2	U09367	NM_003437	ZNF	Zinc fingers C2H2-type	28
+12922	ZNF138	zinc finger protein 138	Approved		pHZ-32	7q11.21	U09847	NM_006524	ZNF	Zinc fingers C2H2-type	28
+12924	ZNF14	zinc finger protein 14	Approved		KOX6, GIOT-4	19p13.11	AA286756	NM_021030	ZNF	Zinc fingers C2H2-type	28
+12925	ZNF140	zinc finger protein 140	Approved		pHZ-39	12q24.33	U09368	NM_003440	ZNF	Zinc fingers C2H2-type	28
+12926	ZNF141	zinc finger protein 141	Approved	D4S90	pHZ-44	4p16.3	L15309	NM_003441	ZNF	Zinc fingers C2H2-type	28
+12927	ZNF142	zinc finger protein 142	Approved		KIAA0236, pHZ-49	2q35	U09849	NM_005081	ZNF	Zinc fingers C2H2-type	28
+12928	ZNF143	zinc finger protein 143	Approved		SBF, pHZ-1, STAF	11p15.4	U09850	NM_003442	ZNF	Zinc fingers C2H2-type	28
+12931	ZNF146	zinc finger protein 146	Approved		OZF	19q13.1	X70394	NM_007145	ZNF	Zinc fingers C2H2-type	28
+12933	ZNF148	zinc finger protein 148	Approved		BERF-1, ZBP-89, BFCOL1, HT-BETA, ZFP148, pHZ-52	3q21.2	U09851	NM_021964	ZNF	Zinc fingers C2H2-type	28
+12939	ZNF154	zinc finger protein 154	Approved		pHZ-92	19q13.43	U20648		ZNF	Zinc fingers C2H2-type	28
+12940	ZNF155	zinc finger protein 155	Approved		pHZ-96	19q13.31	U09852	NM_003445	ZNF	Zinc fingers C2H2-type	28
+12942	ZNF157	zinc finger protein 157	Approved		HZF22	Xp11.3	U28687	NM_003446	ZNF	Zinc fingers C2H2-type	28
+12947	ZNF16	zinc finger protein 16	Approved		KOX9	8q24.3	X52340	NM_006958	ZNF	Zinc fingers C2H2-type	28
+12948	ZNF160	zinc finger protein 160	Approved		HZF5, F11, KR18, HKr18, FLJ00032, KIAA1611	19q13.42	X78928	NM_033288	ZNF	Zinc fingers C2H2-type	28
+12953	ZNF165	zinc finger protein 165	Approved		ZSCAN7, CT53	6p22.1	U78722	NM_003447	ZNF	Zinc fingers C2H2-type	28
+12957	ZNF169	zinc finger protein 169	Approved		MGC51961	9q22.32	U28322	NM_194320	ZNF	Zinc fingers C2H2-type	28
+12958	ZNF17	zinc finger protein 17	Approved		HPF3, KOX10, KIAA1947, FLJ40864, FLJ46058, FLJ46615	19q13.43	X52341	NM_006959	ZNF	Zinc fingers C2H2-type	28
+12963	ZNF174	zinc finger protein 174	Approved		ZSCAN8	16p13.3	U31248	NM_003450	ZNF	Zinc fingers C2H2-type	28
+12964	ZNF175	zinc finger protein 175	Approved		OTK18	19q13.41	D50419	NM_007147	ZNF	Zinc fingers C2H2-type	28
+12966	ZNF177	zinc finger protein 177	Approved			19p13.2	U37263, BC012012	NM_003451	ZNF	Zinc fingers C2H2-type	28
+12969	ZNF18	zinc finger protein 18	Approved		ZKSCAN6, KOX11, HDSG1, Zfp535, ZNF535, ZSCAN38	17p12	X52342	XM_085596	ZNF	Zinc fingers C2H2-type	28
+12970	ZNF180	zinc finger protein 180	Approved		HHZ168	19q13.2	AF192913	NM_013256	ZNF	Zinc fingers C2H2-type	28
+12971	ZNF181	zinc finger protein 181	Approved		HHZ181, MGC44316	19q13.11	BC104759, H54888	NM_001029997	ZNF	Zinc fingers C2H2-type	28
+13001	ZNF182	zinc finger protein 182	Approved	ZNF21	KOX14, HHZ150, Zfp182	Xp11.23	AK122874, R98366	NM_006962	ZNF	Zinc fingers C2H2-type	28
+12975	ZNF184	zinc finger protein 184	Approved			6p22.1	U66561	NM_007149	ZNF	Zinc fingers C2H2-type	28
+12980	ZNF189	zinc finger protein 189	Approved			9q31.1	AF025770	NM_003452	ZNF	Zinc fingers C2H2-type	28
+12981	ZNF19	zinc finger protein 19	Approved		KOX12, MGC51021	16q22.2	X52343	NM_006961	ZNF	Zinc fingers C2H2-type	28
+12986	ZNF195	zinc finger protein 195	Approved			11p15.5			ZNF	Zinc fingers C2H2-type	28
+12988	ZNF197	zinc finger protein 197	Approved	ZNF166	P18, D3S1363E, ZKSCAN9, ZSCAN41	3p21.31	AF011573	NM_006991	ZNF	Zinc fingers C2H2-type	28
+12991	ZNF2	zinc finger protein 2	Approved		A1-5, ZNF661, Zfp661	2q11.1	X60152	NM_021088	ZNF	Zinc fingers C2H2-type	28
+12992	ZNF20	zinc finger protein 20	Approved		KOX13	19p13.2	X52344	NM_021143	ZNF	Zinc fingers C2H2-type	28
+12993	ZNF200	zinc finger protein 200	Approved			16p13.3	AF060866		ZNF	Zinc fingers C2H2-type	28
+12994	ZNF202	zinc finger protein 202	Approved		ZKSCAN10, ZSCAN42	11q23.3	AF027219	NM_003455	ZNF	Zinc fingers C2H2-type	28
+12996	ZNF205	zinc finger protein 205	Approved	ZNF210	Zfp13	16p13.3	AF060865	NM_003456	ZNF	Zinc fingers C2H2-type	28
+12998	ZNF207	zinc finger protein 207	Approved		BuGZ	17q11.2	AF046001		ZNF	Zinc fingers C2H2-type	28
+12999	ZNF208	zinc finger protein 208	Approved		PMIDP, ZNF95	19p12	BC038199	NM_007153	ZNF	Zinc fingers C2H2-type	28
+13003	ZNF211	zinc finger protein 211	Approved		ZNF-25, CH2H2-25	19q13.4	U38904		ZNF	Zinc fingers C2H2-type	28
+13004	ZNF212	zinc finger protein 212	Approved		C2H2-150	7q36.1	U38864	NM_012256	ZNF	Zinc fingers C2H2-type	28
+13005	ZNF213	zinc finger protein 213	Approved		CR53, ZKSCAN21, ZSCAN53	16p13.3	AF017433	NM_004220	ZNF	Zinc fingers C2H2-type	28
+13006	ZNF214	zinc finger protein 214	Approved			11p15.4	AF056617		ZNF	Zinc fingers C2H2-type	28
+13007	ZNF215	zinc finger protein 215	Approved		ZKSCAN11, ZSCAN43	11p15.4	AF056618		ZNF	Zinc fingers C2H2-type	28
+13009	ZNF217	zinc finger protein 217	Approved		ZABC1	20q13.2	AF041259	NM_006526	ZNF	Zinc fingers C2H2-type	28
+13011	ZNF219	zinc finger protein 219	Approved			14q11	AB015427		ZNF	Zinc fingers C2H2-type	28
+13012	ZNF22	zinc finger protein 22	Approved		KOX15, HKR-T1, ZNF422, Zfp422	10q11.21	BC041139	NM_006963	ZNF	Zinc fingers C2H2-type	28
+13014	ZNF221	zinc finger protein 221	Approved			19q13.31	AF187987		ZNF	Zinc fingers C2H2-type	28
+13015	ZNF222	zinc finger protein 222	Approved			19q13.31	AF187988		ZNF	Zinc fingers C2H2-type	28
+13016	ZNF223	zinc finger protein 223	Approved			19q13.2	AF187989		ZNF	Zinc fingers C2H2-type	28
+13017	ZNF224	zinc finger protein 224	Approved	ZNF255, ZNF27	BMZF-2, KOX22	19q13.2	AF187990	NM_013398	ZNF	Zinc fingers C2H2-type	28
+13018	ZNF225	zinc finger protein 225	Approved			19q13.31	AF187991		ZNF	Zinc fingers C2H2-type	28
+13019	ZNF226	zinc finger protein 226	Approved			19q13.31	AF024707		ZNF	Zinc fingers C2H2-type	28
+13020	ZNF227	zinc finger protein 227	Approved			19q13.32	AK092253	NM_182490	ZNF	Zinc fingers C2H2-type	28
+13022	ZNF229	zinc finger protein 229	Approved			19q13.2	AF192979	NM_014518	ZNF	Zinc fingers C2H2-type	28
+13023	ZNF23	zinc finger protein 23	Approved	ZNF359	KOX16, Zfp612, ZNF612	16q22.2	X52347	NM_145911	ZNF	Zinc fingers C2H2-type	28
+13024	ZNF230	zinc finger protein 230	Approved		FDZF2	19q13.31	U95044		ZNF	Zinc fingers C2H2-type	28
+13026	ZNF232	zinc finger protein 232	Approved		ZSCAN11	17p13.2	AF080169	NM_014519	ZNF	Zinc fingers C2H2-type	28
+30946	ZNF233	zinc finger protein 233	Approved		FLJ38032	19q13.31	AY166792	NM_181756	ZNF	Zinc fingers C2H2-type	28
+13027	ZNF234	zinc finger protein 234	Approved	ZNF269	HZF4	19q13	X78927		ZNF	Zinc fingers C2H2-type	28
+12866	ZNF235	zinc finger protein 235	Approved	ZNF270, ZFP93	HZF6, ANF270	19q13.2	X78929		ZNF	Zinc fingers C2H2-type	28
+13028	ZNF236	zinc finger protein 236	Approved			18q22-q23	AF085243		ZNF	Zinc fingers C2H2-type	28
+13031	ZNF239	zinc finger protein 239	Approved		MOK2, HOK-2	10q11.22-q11.23	X82125		ZNF	Zinc fingers C2H2-type	28
+13032	ZNF24	zinc finger protein 24	Approved	ZNF191	ZSCAN3, Zfp191, KOX17	18q12.2	AF016052	NM_006965	ZNF	Zinc fingers C2H2-type	28
+13041	ZNF248	zinc finger protein 248	Approved		bA162G10.3	10p11.21	AJ491695	NM_021045	ZNF	Zinc fingers C2H2-type	28
+13043	ZNF25	zinc finger protein 25	Approved		KOX19, FLJ31890, Zfp9	10p11.21	AK056452	NM_145011, NM_006966	ZNF	Zinc fingers C2H2-type	28
+13044	ZNF250	zinc finger protein 250	Approved	ZNF647	MGC9718, ZFP647	8q24.3	AK095705	NM_021061	ZNF	Zinc fingers C2H2-type	28
+13045	ZNF251	zinc finger protein 251	Approved			8q24.3	AK000435	NM_138367	ZNF	Zinc fingers C2H2-type	28
+13497	ZNF253	zinc finger protein 253	Approved	ZNF411	BMZF-1, FLJ90391	19p13.11	AF038951	NM_021047	ZNF	Zinc fingers C2H2-type	28
+13047	ZNF254	zinc finger protein 254	Approved	ZNF91L, ZNF539	HD-ZNF1, BMZF-5	19p13	AF054180	NM_004876	ZNF	Zinc fingers C2H2-type	28
+13049	ZNF256	zinc finger protein 256	Approved		BMZF-3	19q13	AF067165		ZNF	Zinc fingers C2H2-type	28
+13498	ZNF257	zinc finger protein 257	Approved		BMZF-4	19p12	AF070651		ZNF	Zinc fingers C2H2-type	28
+13053	ZNF26	zinc finger protein 26	Approved		KOX20, FLJ20755	12q24.33	X52351	NM_019591	ZNF	Zinc fingers C2H2-type	28
+13499	ZNF260	zinc finger protein 260	Approved		ozrf1, Zfp260	19q13.12	AK122854	NM_001012756	ZNF	Zinc fingers C2H2-type	28
+13056	ZNF263	zinc finger protein 263	Approved		FPM315, ZKSCAN12, ZSCAN44	16p13.3	AC004232		ZNF	Zinc fingers C2H2-type	28
+13057	ZNF264	zinc finger protein 264	Approved		KIAA0412	19q13.43	AB007872		ZNF	Zinc fingers C2H2-type	28
+13059	ZNF266	zinc finger protein 266	Approved		HZF1	19p13.2	X78924		ZNF	Zinc fingers C2H2-type	28
+13060	ZNF267	zinc finger protein 267	Approved		HZF2	16p11.2	X78925	NM_003414	ZNF	Zinc fingers C2H2-type	28
+13061	ZNF268	zinc finger protein 268	Approved		HZF3	12q24.33	X78926	NM_152943	ZNF	Zinc fingers C2H2-type	28
+13065	ZNF271P	zinc finger protein 271, pseudogene	Approved	ZNF271	HZF7, ZNFEB	18q12.2	X78930	NR_024565	ZNF	Zinc fingers C2H2-type	28
+13067	ZNF273	zinc finger protein 273	Approved		HZF9	7q11.21	X78932		ZNF	Zinc fingers C2H2-type	28
+13068	ZNF274	zinc finger protein 274	Approved		ZKSCAN19, ZSCAN51	19q13.43	AB029149	NM_133502	ZNF	Zinc fingers C2H2-type	28
+13069	ZNF275	zinc finger protein 275	Approved			Xq28	BC041602	NM_001080485	ZNF	Zinc fingers C2H2-type	28
+23330	ZNF276	zinc finger protein 276	Approved	ZFP276	MGC45417, ZNF477, CENPZ, CENP-Z, ZADT	16q24.3	AK026482	NM_152287	ZNF	Zinc fingers C2H2-type	28
+13073	ZNF28	zinc finger protein 28	Approved		KOX24, DKFZp781D0275	19q13.41	X52355	NM_006969	ZNF	Zinc fingers C2H2-type	28
+13075	ZNF281	zinc finger protein 281	Approved		ZBP-99	1q32.1	AF125158	NM_012482	ZNF	Zinc fingers C2H2-type	28
+13076	ZNF282	zinc finger protein 282	Approved		HUB1	7q36.1	D30612	NM_003575	ZNF	Zinc fingers C2H2-type	28
+13077	ZNF283	zinc finger protein 283	Approved			19q13.31	AK098175	NM_181845	ZNF	Zinc fingers C2H2-type	28
+13078	ZNF284	zinc finger protein 284	Approved		DKFZp781F1775	19q13.32	AY166789	NM_001037813	ZNF	Zinc fingers C2H2-type	28
+13079	ZNF285	zinc finger protein 285	Approved	ZNF285A		19q13.31	AK055309	NM_152354	ZNF	Zinc fingers C2H2-type	28
+13501	ZNF286A	zinc finger protein 286A	Approved	ZNF286	KIAA1874	17p12	AF217226	NM_020652	ZNF	Zinc fingers C2H2-type	28
+33241	ZNF286B	zinc finger protein 286B	Approved	ZNF286L, ZNF286C	ZNF590	17p11.2		XM_001723047	ZNF	Zinc fingers C2H2-type	28
+13502	ZNF287	zinc finger protein 287	Approved		ZKSCAN13, ZSCAN45	17p11.2	AF217227		ZNF	Zinc fingers C2H2-type	28
+18410	ZNF292	zinc finger protein 292	Approved		KIAA0530, ZFP292, bA393I2.3, Zn-15, Zn-16	6q14.3	AB011102	NM_015021	ZNF	Zinc fingers C2H2-type	28
+15981	ZNF296	zinc finger protein 296	Approved	ZNF342		19q13.32	BC019352	NM_145288	ZNF	Zinc fingers C2H2-type	28
+13089	ZNF3	zinc finger protein 3	Approved		A8-51, KOX25, PP838, FLJ20216, HF.12, Zfp113	7q22.1	AF027136	NM_017715	ZNF	Zinc fingers C2H2-type	28
+13090	ZNF30	zinc finger protein 30	Approved		KOX28, DKFZp686N19164, FLJ20562	19q13.13	X52359	NM_194325	ZNF	Zinc fingers C2H2-type	28
+13091	ZNF300	zinc finger protein 300	Approved			5q33.1	AF395541	NM_052860	ZNF	Zinc fingers C2H2-type	28
+13848	ZNF302	zinc finger protein 302	Approved		ZNF327, ZNF135L, ZNF140L	19q13.11	AF155656		ZNF	Zinc fingers C2H2-type	28
+13505	ZNF304	zinc finger protein 304	Approved			19q13.4	AJ276316		ZNF	Zinc fingers C2H2-type	28
+13847	ZNF311	zinc finger protein 311	Approved			6p22.1	AL833166	XM_212581	ZNF	Zinc fingers C2H2-type	28
+13843	ZNF316	zinc finger protein 316	Approved		MZF-3, ENST00000305834	7p22.1		NM_001278559	ZNF	Zinc fingers C2H2-type	28
+13507	ZNF317	zinc finger protein 317	Approved			19p13	AF275255	NM_020933	ZNF	Zinc fingers C2H2-type	28
+13578	ZNF318	zinc finger protein 318	Approved		HRIHFB2436, ZFP318	6p21.1	AF090114	NM_014345	ZNF	Zinc fingers C2H2-type	28
+13644	ZNF319	zinc finger protein 319	Approved		KIAA1388, Zfp319	16q21	AB037809		ZNF	Zinc fingers C2H2-type	28
+13095	ZNF32	zinc finger protein 32	Approved		KOX30	10q11.21	U69645	NM_006973	ZNF	Zinc fingers C2H2-type	28
+13842	ZNF320	zinc finger protein 320	Approved		ZFPL, DKFZp686G16228	19q13.41	AF086262	NM_207333	ZNF	Zinc fingers C2H2-type	28
+23640	ZNF322	zinc finger protein 322	Approved	ZNF489, ZNF388, HCG12, ZNF322A	bA457M11.3, bA457M11.2	6p22.2	AY376736	NM_024639	ZNF	Zinc fingers C2H2-type	28
+14096	ZNF324	zinc finger protein 324	Approved		ZF5128, ZNF324A	19q13.43	AF060503	NM_014347	ZNF	Zinc fingers C2H2-type	28
+33107	ZNF324B	zinc finger protein 324B	Approved		FLJ45850	19q13.43	AK127750	NM_207395	ZNF	Zinc fingers C2H2-type	28
+14104	ZNF326	zinc finger protein 326	Approved		Zfp326, ZAN75, FLJ20403, ZIRD	1p22.2	BC013102	NM_181781	ZNF	Zinc fingers C2H2-type	28
+14209	ZNF329	zinc finger protein 329	Approved		FLJ12586	19q13.43	AK022648	NM_024620	ZNF	Zinc fingers C2H2-type	28
+15462	ZNF330	zinc finger protein 330	Approved		NOA36, HSA6591	4q31.21	AJ006591	NM_014487	ZNF	Zinc fingers C2H2-type	28
+15489	ZNF331	zinc finger protein 331	Approved		RITA, ZNF463, ZNF361	19q13	AF251515	NM_018555	ZNF	Zinc fingers C2H2-type	28
+15624	ZNF333	zinc finger protein 333	Approved		KIAA1806	19p13.12		NM_032433	ZNF	Zinc fingers C2H2-type	28
+15806	ZNF334	zinc finger protein 334	Approved		bA179N14.1	20q13.12	AK001331		ZNF	Zinc fingers C2H2-type	28
+15807	ZNF335	zinc finger protein 335	Approved		bA465L10.2, NIF-1	20q13.12	AK026157	NM_022095	ZNF	Zinc fingers C2H2-type	28
+15809	ZNF337	zinc finger protein 337	Approved		dJ694B14.1	20p11.21			ZNF	Zinc fingers C2H2-type	28
+13096	ZNF33A	zinc finger protein 33A	Approved	ZNF33, ZNF11A	KOX5, KOX31, KIAA0065, FLJ23404, ZZAPK	10p11.1	D31763	NM_006974	ZNF	Zinc fingers C2H2-type	28
+13097	ZNF33B	zinc finger protein 33B	Approved	ZNF11B	KOX31, KOX2	10q11.21	X68688, AJ491697	NM_006955	ZNF	Zinc fingers C2H2-type	28
+13098	ZNF34	zinc finger protein 34	Approved		KOX32	8q24.3	BC028136	NM_030580	ZNF	Zinc fingers C2H2-type	28
+15992	ZNF341	zinc finger protein 341	Approved		dJ553F4.3	20q11.22	AK027550		ZNF	Zinc fingers C2H2-type	28
+16017	ZNF343	zinc finger protein 343	Approved		MGC10715	20p13	AK096911	NM_024325	ZNF	Zinc fingers C2H2-type	28
+16367	ZNF345	zinc finger protein 345	Approved		HZF10	19q13.12	X78933		ZNF	Zinc fingers C2H2-type	28
+16447	ZNF347	zinc finger protein 347	Approved		ZNF1111	19q13.3	AY029765	NM_032584	ZNF	Zinc fingers C2H2-type	28
+13099	ZNF35	zinc finger protein 35	Approved		HF.10, HF10, Zfp105	3p21.31	X07289	NM_003420	ZNF	Zinc fingers C2H2-type	28
+16656	ZNF350	zinc finger protein 350	Approved		ZBRK1, ZFQR	19q13.41	AF295096	NM_021632	ZNF	Zinc fingers C2H2-type	28
+11628	ZNF354A	zinc finger protein 354A	Approved	TCF17	KID-1, EZNF, HKL1, KID1	5q35.3	AF116030	NM_005649	ZNF	Zinc fingers C2H2-type	28
+17197	ZNF354B	zinc finger protein 354B	Approved		KID2, FLJ25008	5q35.3	AK057737	NM_058230	ZNF	Zinc fingers C2H2-type	28
+16736	ZNF354C	zinc finger protein 354C	Approved		KID3	5q35.3			ZNF	Zinc fingers C2H2-type	28
+16838	ZNF358	zinc finger protein 358	Approved		FLJ10390, ZFEND	19p13.2	AK001252		ZNF	Zinc fingers C2H2-type	28
+18079	ZNF362	zinc finger protein 362	Approved		FLJ25476, lin-29, RN	1p35.1		NM_152493	ZNF	Zinc fingers C2H2-type	28
+18194	ZNF365	zinc finger protein 365	Approved		KIAA0844, UAN	10q21.2	AB020651	NM_014951	ZNF	Zinc fingers C2H2-type	28
+18316	ZNF366	zinc finger protein 366	Approved		FLJ39796	5q13.1	AK097115		ZNF	Zinc fingers C2H2-type	28
+18320	ZNF367	zinc finger protein 367	Approved		FLJ33970	9q22.32	AK091289		ZNF	Zinc fingers C2H2-type	28
+13102	ZNF37A	zinc finger protein 37A	Approved		KOX21, ZNF37	10p11.1	X69115	NM_003421	ZNF	Zinc fingers C2H2-type	28
+17409	ZNF382	zinc finger protein 382	Approved		FLJ14686, KS1	19q13.12	AF513816	NM_032825	ZNF	Zinc fingers C2H2-type	28
+18609	ZNF383	zinc finger protein 383	Approved		FLJ35863	19q13.13	AY438646	NM_152604	ZNF	Zinc fingers C2H2-type	28
+11955	ZNF384	zinc finger protein 384	Approved	TNRC1	CAGH1A, CIZ, NMP4, NP	12p13.31	U80738		ZNF	Zinc fingers C2H2-type	28
+18779	ZNF391	zinc finger protein 391	Approved		dJ153G14.3	6p22.1	BC132797	NM_001076781	ZNF	Zinc fingers C2H2-type	28
+18832	ZNF394	zinc finger protein 394	Approved		ZKSCAN14, FLJ12298, ZSCAN46	7q22.1	BC025241	NM_032164	ZNF	Zinc fingers C2H2-type	28
+18737	ZNF395	zinc finger protein 395	Approved		PRF-1, HDBP2, PBF, DKFZp434K1210	8p21.1	AB044750		ZNF	Zinc fingers C2H2-type	28
+18824	ZNF396	zinc finger protein 396	Approved		ZSCAN14, FLJ31213	18q12.2	AK055775	NM_145756	ZNF	Zinc fingers C2H2-type	28
+18818	ZNF397	zinc finger protein 397	Approved	ZNF47	ZSCAN15, MGC13250	18q12.2	BC006172	NM_032347	ZNF	Zinc fingers C2H2-type	28
+18373	ZNF398	zinc finger protein 398	Approved		ZER6, KIAA1339, P51, P71	7q35	AB037760		ZNF	Zinc fingers C2H2-type	28
+19417	ZNF404	zinc finger protein 404	Approved			19q13.31	XM_092027	NM_001033719	ZNF	Zinc fingers C2H2-type	28
+19904	ZNF407	zinc finger protein 407	Approved		FLJ20307, FLJ13839, KIAA1703	18q23	AB051490	NM_017757	ZNF	Zinc fingers C2H2-type	28
+20041	ZNF408	zinc finger protein 408	Approved		FLJ12827	11p11.2	AF346626	NM_024741	ZNF	Zinc fingers C2H2-type	28
+13107	ZNF41	zinc finger protein 41	Approved		MGC8941, MRX89	Xp11.3	X60155	NM_153380	ZNF	Zinc fingers C2H2-type	28
+20144	ZNF410	zinc finger protein 410	Approved		APA1, APA-1	14q24.3	U90919	NM_021188	ZNF	Zinc fingers C2H2-type	28
+20630	ZNF414	zinc finger protein 414	Approved		MGC15716, Zfp414	19p13.2	AK074191	NM_032370	ZNF	Zinc fingers C2H2-type	28
+20636	ZNF415	zinc finger protein 415	Approved			19q13.42	AK002053	NM_018355	ZNF	Zinc fingers C2H2-type	28
+20645	ZNF416	zinc finger protein 416	Approved		FLJ20557	19q13.4	BC000130	NM_017879	ZNF	Zinc fingers C2H2-type	28
+20646	ZNF417	zinc finger protein 417	Approved		MGC34079	19q13.43	BC025783	NM_152475	ZNF	Zinc fingers C2H2-type	28
+20647	ZNF418	zinc finger protein 418	Approved		KIAA1956, FLJ31551	19q13.43	AB075836, AY695825	NM_133460	ZNF	Zinc fingers C2H2-type	28
+20648	ZNF419	zinc finger protein 419	Approved	ZNF419A	ZAPHIR	19q13.43	AK026886	NM_024691	ZNF	Zinc fingers C2H2-type	28
+20649	ZNF420	zinc finger protein 420	Approved		FLJ32191	19q13.12	AK056695	NM_144689	ZNF	Zinc fingers C2H2-type	28
+16762	ZNF423	zinc finger protein 423	Approved		KIAA0760, OAZ, hOAZ, Ebfaz, Zfp104, NPHP14, JBTS19	16q12.1	AB018303	NM_015069	ZNF	Zinc fingers C2H2-type	28
+20690	ZNF425	zinc finger protein 425	Approved			7q36.1	AK056498	XM_088140	ZNF	Zinc fingers C2H2-type	28
+20725	ZNF426	zinc finger protein 426	Approved		MGC2663	19p13.2	AK095759	NM_024106	ZNF	Zinc fingers C2H2-type	28
+20804	ZNF428	zinc finger protein 428	Approved	C19orf37	MGC51082, Zfp428	19q13.31	AY257197	NM_182498	ZNF	Zinc fingers C2H2-type	28
+20817	ZNF429	zinc finger protein 429	Approved			19p12	AY269786	NM_001001415	ZNF	Zinc fingers C2H2-type	28
+13109	ZNF43	zinc finger protein 43	Approved	ZNF39L1	HTF6, KOX27	19p12	X59244	NM_003423	ZNF	Zinc fingers C2H2-type	28
+20808	ZNF430	zinc finger protein 430	Approved		FLJ13659	19p12	AK023721	NM_025189	ZNF	Zinc fingers C2H2-type	28
+20809	ZNF431	zinc finger protein 431	Approved		KIAA1969	19p12	AB075849	XM_086098	ZNF	Zinc fingers C2H2-type	28
+20810	ZNF432	zinc finger protein 432	Approved		KIAA0798	19q13.41	AB018341	NM_014650	ZNF	Zinc fingers C2H2-type	28
+20811	ZNF433	zinc finger protein 433	Approved		FLJ40981	19p13.2	AK098300	NM_152602	ZNF	Zinc fingers C2H2-type	28
+20814	ZNF436	zinc finger protein 436	Approved		KIAA1710, Zfp46	1p36.12	AB051497	NM_030634	ZNF	Zinc fingers C2H2-type	28
+21029	ZNF438	zinc finger protein 438	Approved		bA330O11.1	10p11.23	AK057323	NM_182755	ZNF	Zinc fingers C2H2-type	28
+20873	ZNF439	zinc finger protein 439	Approved		DKFZp571K0837	19p13.2	AL833935		ZNF	Zinc fingers C2H2-type	28
+13110	ZNF44	zinc finger protein 44	Approved	ZNF58, ZNF55	KOX7, ZNF504	19p13.2	X52338	NM_016264	ZNF	Zinc fingers C2H2-type	28
+20874	ZNF440	zinc finger protein 440	Approved		FLJ37933	19p13.2	AK095252	NM_152357	ZNF	Zinc fingers C2H2-type	28
+20875	ZNF441	zinc finger protein 441	Approved		FLJ38637	19p13.2	AK095956	NM_152355	ZNF	Zinc fingers C2H2-type	28
+20877	ZNF442	zinc finger protein 442	Approved		FLJ14356	19p13.2	AK024418	NM_030824	ZNF	Zinc fingers C2H2-type	28
+20878	ZNF443	zinc finger protein 443	Approved		ZK1	19p13.2	AB011414	NM_005815	ZNF	Zinc fingers C2H2-type	28
+16052	ZNF444	zinc finger protein 444	Approved		ZSCAN17, FLJ11137, EZF2	19q13.43	AB052954	NM_018337	ZNF	Zinc fingers C2H2-type	28
+21018	ZNF445	zinc finger protein 445	Approved	ZNF168	ZKSCAN15, ZSCAN47	3p21.31	AY262260	NM_181489	ZNF	Zinc fingers C2H2-type	28
+21036	ZNF446	zinc finger protein 446	Approved		ZKSCAN20, FLJ20626, ZSCAN52	19q13.43		NM_017908	ZNF	Zinc fingers C2H2-type	28
+21039	ZNF449	zinc finger protein 449	Approved		ZSCAN19, FLJ23614	Xq26.3	AY280801	NM_152695	ZNF	Zinc fingers C2H2-type	28
+13111	ZNF45	zinc finger protein 45	Approved	ZNF13		19q13.2	M67509	NM_003425	ZNF	Zinc fingers C2H2-type	28
+21091	ZNF451	zinc finger protein 451	Approved		KIAA0576, COASTER, dJ417I1.1, KIAA1702	6p12.1	AB011148	NM_015555	ZNF	Zinc fingers C2H2-type	28
+21200	ZNF454	zinc finger protein 454	Approved		FLJ37444	5q35.3	AK094763	NM_001178089	ZNF	Zinc fingers C2H2-type	28
+21628	ZNF460	zinc finger protein 460	Approved	ZNF272	HZF8	19q13.4	X78931	NM_006635	ZNF	Zinc fingers C2H2-type	28
+21629	ZNF461	zinc finger protein 461	Approved		GIOT-1, MGC33911	19q13.13	BX649031	NM_153257	ZNF	Zinc fingers C2H2-type	28
+21684	ZNF462	zinc finger protein 462	Approved		DKFZP762N2316, KIAA1803, Zfp462	9q31.2	AB058706	NM_021224	ZNF	Zinc fingers C2H2-type	28
+23154	ZNF467	zinc finger protein 467	Approved		EZI, Zfp467	7q36.1	BC029296	NM_207336	ZNF	Zinc fingers C2H2-type	28
+33105	ZNF468	zinc finger protein 468	Approved			19q13.41	AK023558	NM_001008801	ZNF	Zinc fingers C2H2-type	28
+23216	ZNF469	zinc finger protein 469	Approved		KIAA1858	16q24.2	AB058761	NG_012236	ZNF	Zinc fingers C2H2-type	28
+22220	ZNF470	zinc finger protein 470	Approved		CZF-1, FLJ26175	19q13.43	AK129686	NM_001001668	ZNF	Zinc fingers C2H2-type	28
+23226	ZNF471	zinc finger protein 471	Approved		KIAA1396, Z1971	19q13.43	AB037817	NM_020813	ZNF	Zinc fingers C2H2-type	28
+23239	ZNF473	zinc finger protein 473	Approved		KIAA1141, DKFZP434N043, HZFP100	19q13.33	AB032967	XM_046390	ZNF	Zinc fingers C2H2-type	28
+23245	ZNF474	zinc finger protein 474	Approved		4933409D10Rik, FLJ32921	5q23.2	AK057483	NM_207317	ZNF	Zinc fingers C2H2-type	28
+23258	ZNF479	zinc finger protein 479	Approved		KR19	7p11.2	AF277624	XM_291202	ZNF	Zinc fingers C2H2-type	28
+13114	ZNF48	zinc finger protein 48	Approved	ZNF553	DKFZp762K013, FLJ31751, MGC43952	16p11.2	M88358, AK056313	NM_152652	ZNF	Zinc fingers C2H2-type	28
+23305	ZNF480	zinc finger protein 480	Approved		MGC32104	19q13.41	AY512662	NM_144684	ZNF	Zinc fingers C2H2-type	28
+23384	ZNF483	zinc finger protein 483	Approved		ZKSCAN16, KIAA1962, ZSCAN48	9q31.3	AB075842	XM_088567	ZNF	Zinc fingers C2H2-type	28
+23385	ZNF484	zinc finger protein 484	Approved		BA526D8.4, FLJ33884	9q22.31	AK091203	XM_046861	ZNF	Zinc fingers C2H2-type	28
+23440	ZNF485	zinc finger protein 485	Approved			10q11.21	AK074679	NM_145312	ZNF	Zinc fingers C2H2-type	28
+20807	ZNF486	zinc finger protein 486	Approved	KRBO2	MGC2396	19p12	BC008936	NM_052852	ZNF	Zinc fingers C2H2-type	28
+23535	ZNF488	zinc finger protein 488	Approved		FLJ32104	10q11.22	AK056666	NM_153034	ZNF	Zinc fingers C2H2-type	28
+23705	ZNF490	zinc finger protein 490	Approved		KIAA1198	19p13.2-p13.13	AB033024	NM_020714	ZNF	Zinc fingers C2H2-type	28
+23706	ZNF491	zinc finger protein 491	Approved		FLJ34791	19p13.2	AK092110	NM_152356	ZNF	Zinc fingers C2H2-type	28
+23707	ZNF492	zinc finger protein 492	Approved	ZNF115	KIAA1473	19p13.11	AB040906	NM_020855	ZNF	Zinc fingers C2H2-type	28
+23708	ZNF493	zinc finger protein 493	Approved		FLJ36504	19p12	AK093823, BC006408, BC022394	NM_175910	ZNF	Zinc fingers C2H2-type	28
+23713	ZNF496	zinc finger protein 496	Approved		ZKSCAN17, MGC15548, ZSCAN49	1q44	BC007263	NM_032752	ZNF	Zinc fingers C2H2-type	28
+23714	ZNF497	zinc finger protein 497	Approved		FLJ44773	19q13.43	AK126727	NM_198458	ZNF	Zinc fingers C2H2-type	28
+23716	ZNF500	zinc finger protein 500	Approved		ZKSCAN18, KIAA0557, ZSCAN50	16p13.3	AB011129	XM_085507	ZNF	Zinc fingers C2H2-type	28
+23717	ZNF501	zinc finger protein 501	Approved	ZNF52	MGC21738	3p21.31	BC013762	NM_145044	ZNF	Zinc fingers C2H2-type	28
+23718	ZNF502	zinc finger protein 502	Approved		FLJ14855, FLJ12515	3p21.31	AK022577	NM_033210	ZNF	Zinc fingers C2H2-type	28
+23589	ZNF503	zinc finger protein 503	Approved		FLJ45745, MGC2555, Nlz2	10q22.2	AK127647	NM_032772	ZNF	Zinc fingers C2H2-type	28
+23780	ZNF506	zinc finger protein 506	Approved		DKFZp761G1812	19p13.11	AK095575	XM_036218	ZNF	Zinc fingers C2H2-type	28
+23783	ZNF507	zinc finger protein 507	Approved		KIAA1084	19q13.12	AB029007	NM_014910	ZNF	Zinc fingers C2H2-type	28
+29161	ZNF510	zinc finger protein 510	Approved		KIAA0972	9q22.33	AB023189	NM_014930	ZNF	Zinc fingers C2H2-type	28
+28445	ZNF511	zinc finger protein 511	Approved		MGC30006	10q26.3	AK091711	NM_145806	ZNF	Zinc fingers C2H2-type	28
+29380	ZNF512	zinc finger protein 512	Approved		KIAA1805	2p23.3	AL833748	NM_032434	ZNF	Zinc fingers C2H2-type	28
+26498	ZNF513	zinc finger protein 513	Approved		FLJ32203, RP58	2p23.3	AL833946	NM_144631	ZNF	Zinc fingers C2H2-type	28
+25894	ZNF514	zinc finger protein 514	Approved		FLJ14457	2q11.1	AL832263	NM_032788	ZNF	Zinc fingers C2H2-type	28
+28990	ZNF516	zinc finger protein 516	Approved		HsT287, KIAA0222	18q23	D86975	NM_014643	ZNF	Zinc fingers C2H2-type	28
+27984	ZNF517	zinc finger protein 517	Approved			8q24.3	AK096527	XM_291261	ZNF	Zinc fingers C2H2-type	28
+29009	ZNF518A	zinc finger protein 518A	Approved	ZNF518	KIAA0335	10q24.1	AB002333	NM_014803	ZNF	Zinc fingers C2H2-type	28
+29365	ZNF518B	zinc finger protein 518B	Approved		KIAA1729	4p16.1	AB051516	NM_053042	ZNF	Zinc fingers C2H2-type	28
+30574	ZNF519	zinc finger protein 519	Approved		HsT2362, FLJ36809	18p11.21	BC024227	NM_145287	ZNF	Zinc fingers C2H2-type	28
+24605	ZNF521	zinc finger protein 521	Approved		EHZF, Evi3	18q11.2	AK027354	NM_015461	ZNF	Zinc fingers C2H2-type	28
+28322	ZNF524	zinc finger protein 524	Approved		MGC23143	19q13.43	BC014666	NM_153219	ZNF	Zinc fingers C2H2-type	28
+29423	ZNF525	zinc finger protein 525	Approved		KIAA1979	19q13.42	AB075859	NR_003699	ZNF	Zinc fingers C2H2-type	28
+29415	ZNF526	zinc finger protein 526	Approved		KIAA1951, MGC4267	19q13.31	AB075831	XM_057401	ZNF	Zinc fingers C2H2-type	28
+29385	ZNF527	zinc finger protein 527	Approved		KIAA1829	19q13.12	AB058732, AK091585	NM_032453	ZNF	Zinc fingers C2H2-type	28
+29384	ZNF528	zinc finger protein 528	Approved		KIAA1827	19q13.41	AB058730	NM_032423	ZNF	Zinc fingers C2H2-type	28
+29328	ZNF529	zinc finger protein 529	Approved		KIAA1615	19q13.12	AK025110	NM_020951	ZNF	Zinc fingers C2H2-type	28
+29297	ZNF530	zinc finger protein 530	Approved		KIAA1508	19q13.43	AK096831	NM_020880	ZNF	Zinc fingers C2H2-type	28
+30940	ZNF532	zinc finger protein 532	Approved		FLJ10697	18q21.32	AB046849	NM_018181	ZNF	Zinc fingers C2H2-type	28
+26337	ZNF534	zinc finger protein 534	Approved	KRBO3	FLJ25344	19q13.41	AK058073	NM_182512	ZNF	Zinc fingers C2H2-type	28
+29025	ZNF536	zinc finger protein 536	Approved		KIAA0390	19q13.11		NM_014717	ZNF	Zinc fingers C2H2-type	28
+25331	ZNF540	zinc finger protein 540	Approved		DKFZp547B0714	19q13.13	AL832315	NM_152606	ZNF	Zinc fingers C2H2-type	28
+25294	ZNF541	zinc finger protein 541	Approved		DKFZp434I1930	19q13.33	AL136846	NM_032255	ZNF	Zinc fingers C2H2-type	28
+25393	ZNF542P	zinc finger protein 542, pseudogene	Approved	ZNF542	DKFZp686B2197	19q13.43	AL833621		ZNF	Zinc fingers C2H2-type	28
+25281	ZNF543	zinc finger protein 543	Approved		DKFZp434H055	19q13.43	AL834534	XM_064865	ZNF	Zinc fingers C2H2-type	28
+16759	ZNF544	zinc finger protein 544	Approved		AF020591	19q13.43	AF020591	NM_014480	ZNF	Zinc fingers C2H2-type	28
+28671	ZNF546	zinc finger protein 546	Approved	ZNF49	MGC43537	19q13.2	BC045649	NM_178544	ZNF	Zinc fingers C2H2-type	28
+26432	ZNF547	zinc finger protein 547	Approved		FLJ31100	19q13.43	AK055662	NM_173631	ZNF	Zinc fingers C2H2-type	28
+26561	ZNF548	zinc finger protein 548	Approved		FLJ32932	19q13.43	AK057494	NM_152909	ZNF	Zinc fingers C2H2-type	28
+26632	ZNF549	zinc finger protein 549	Approved		FLJ34917	19q13.43	AK092236	NM_153263	ZNF	Zinc fingers C2H2-type	28
+28643	ZNF550	zinc finger protein 550	Approved		MGC41917	19q13.43	AL833214	NM_153231	ZNF	Zinc fingers C2H2-type	28
+25108	ZNF551	zinc finger protein 551	Approved		DKFZp686H1038	19q13.43	BX538151	NM_138347	ZNF	Zinc fingers C2H2-type	28
+26135	ZNF552	zinc finger protein 552	Approved		FLJ21603	19q13.43	AK097041	NM_024762	ZNF	Zinc fingers C2H2-type	28
+26629	ZNF554	zinc finger protein 554	Approved		FLJ34817	19p13.3	AK027860	NM_152303	ZNF	Zinc fingers C2H2-type	28
+28382	ZNF555	zinc finger protein 555	Approved		MGC26707	19p13.3	AL832140	NM_152791	ZNF	Zinc fingers C2H2-type	28
+25669	ZNF556	zinc finger protein 556	Approved		FLJ11637	19p13.3	BC009374	NM_024967	ZNF	Zinc fingers C2H2-type	28
+28632	ZNF557	zinc finger protein 557	Approved		MGC4054	19p13.2	AK095524	NM_024341	ZNF	Zinc fingers C2H2-type	28
+26422	ZNF558	zinc finger protein 558	Approved		FLJ30932	19p13.2	AK055494	NM_144693	ZNF	Zinc fingers C2H2-type	28
+28197	ZNF559	zinc finger protein 559	Approved		MGC13105	19p13.2	AL389937	NM_032497	ZNF	Zinc fingers C2H2-type	28
+13124	ZNF56	zinc finger protein 56	Approved	ZNF742		19p13.1	M88366	NG_023190	ZNF	Zinc fingers C2H2-type	28
+26484	ZNF560	zinc finger protein 560	Approved		FLJ31986	19p13.2	AK056548	NM_152476	ZNF	Zinc fingers C2H2-type	28
+28684	ZNF561	zinc finger protein 561	Approved		MGC45408	19p13.2	AK074787	NM_152289	ZNF	Zinc fingers C2H2-type	28
+25950	ZNF562	zinc finger protein 562	Approved		FLJ20079	19p13.2	AK000086	NM_017656	ZNF	Zinc fingers C2H2-type	28
+30498	ZNF563	zinc finger protein 563	Approved		FLJ34797	19p13.2	BC022523	NM_145276	ZNF	Zinc fingers C2H2-type	28
+31106	ZNF564	zinc finger protein 564	Approved		MGC26914	19p13.2	BC028367	NM_144976	ZNF	Zinc fingers C2H2-type	28
+26726	ZNF565	zinc finger protein 565	Approved		FLJ36991	19q13.12	AK094310	NM_152477	ZNF	Zinc fingers C2H2-type	28
+25919	ZNF566	zinc finger protein 566	Approved		FLJ14779, MGC12515	19q13.12	AK074497	NM_032838	ZNF	Zinc fingers C2H2-type	28
+28696	ZNF567	zinc finger protein 567	Approved		MGC45586	19q13.12	AK093034	NM_152603	ZNF	Zinc fingers C2H2-type	28
+25392	ZNF568	zinc finger protein 568	Approved		DKFZp686B0797	19q13.12	BX640681	NM_198539	ZNF	Zinc fingers C2H2-type	28
+24737	ZNF569	zinc finger protein 569	Approved		FLJ32053, ZAP1	19q13.12	AL833408	NM_152484	ZNF	Zinc fingers C2H2-type	28
+13125	ZNF57	zinc finger protein 57	Approved	ZNF424		19p13.3	M88368	NM_173480	ZNF	Zinc fingers C2H2-type	28
+26416	ZNF570	zinc finger protein 570	Approved		FLJ30791	19q13.12	AK055353	NM_144694	ZNF	Zinc fingers C2H2-type	28
+25000	ZNF571	zinc finger protein 571	Approved		HSPC059	19q13.12	AF161544	NM_016536	ZNF	Zinc fingers C2H2-type	28
+26758	ZNF572	zinc finger protein 572	Approved		FLJ38002	8q24.13	BX537876	NM_152412	ZNF	Zinc fingers C2H2-type	28
+13166	ZNF91	zinc finger protein 91	Approved		HPF7, HTF10	19p12	M61871	NM_003430	ZNF	Zinc fingers C2H2-type	28
+13168	ZNF92	zinc finger protein 92	Approved		HPF12, TF12	7q11.21	M61872	NM_152626	ZNF	Zinc fingers C2H2-type	28
+13169	ZNF93	zinc finger protein 93	Approved	ZNF505	HPF34, TF34, FLJ12488	19p12	M61873	NM_031218	ZNF	Zinc fingers C2H2-type	28
+13174	ZNF98	zinc finger protein 98	Approved		ZNF739, F7175	19p12		NM_001098626	ZNF	Zinc fingers C2H2-type	28
+13175	ZNF99	zinc finger protein 99	Approved	C19orf9	MGC24986	19p12	BC021822	XM_065124	ZNF	Zinc fingers C2H2-type	28
+23712	ZSCAN1	zinc finger and SCAN domain containing 1	Approved		FLJ33779, ZNF915	19q13.43	AK091098	NM_182572	ZNF	Zinc fingers C2H2-type	28
+12997	ZSCAN10	zinc finger and SCAN domain containing 10	Approved	ZNF206		16p13.3	AA206569	NM_032805	ZNF	Zinc fingers C2H2-type	28
+13172	ZSCAN12	zinc finger and SCAN domain containing 12	Approved	ZNF305, ZNF96	KIAA0426, ZNF29K1, ZFP96, dJ29K1.2	6p22.1	AB007886	NM_014724	ZNF	Zinc fingers C2H2-type	28
+20813	ZSCAN16	zinc finger and SCAN domain containing 16	Approved	ZNF392, ZNF435	FLJ22191, dJ265C24.3	6p22.1	AK025844	NM_025231	ZNF	Zinc fingers C2H2-type	28
+21037	ZSCAN18	zinc finger and SCAN domain containing 18	Approved	ZNF447	FLJ12895	19q13.43	AY280799, AY279352	NM_023926	ZNF	Zinc fingers C2H2-type	28
+20994	ZSCAN2	zinc finger and SCAN domain containing 2	Approved	ZFP29	FLJ20595, ZNF854	15q25.2	BC041620	NM_017894	ZNF	Zinc fingers C2H2-type	28
+13093	ZSCAN20	zinc finger and SCAN domain containing 20	Approved	ZNF360, ZNF31	KOX29	1p35.1	X52360	NM_145238	ZNF	Zinc fingers C2H2-type	28
+13104	ZSCAN21	zinc finger and SCAN domain containing 21	Approved	ZNF38	DKFZp434L134, NY-REN-21, Zipro1	7q22.1	AL136865	NM_145914	ZNF	Zinc fingers C2H2-type	28
+4929	ZSCAN22	zinc finger and SCAN domain containing 22	Approved	ZNF50, HKR2		19q13.43	M20675	NM_181846	ZNF	Zinc fingers C2H2-type	28
+21193	ZSCAN23	zinc finger and SCAN domain containing 23	Approved	ZNF453, ZNF390	dJ29K1.3.1	6p22.1	AK092117	XM_167147	ZNF	Zinc fingers C2H2-type	28
+21961	ZSCAN25	zinc finger and SCAN domain containing 25	Approved	ZNF498	FLJ32468	7q22.1	AK057030	NM_145115	ZNF	Zinc fingers C2H2-type	28
+12978	ZSCAN26	zinc finger and SCAN domain containing 26	Approved	ZNF187	SRE-ZBP	6p22.1	Z11773	NM_007151	ZNF	Zinc fingers C2H2-type	28
+26673	ZSCAN29	zinc finger and SCAN domain containing 29	Approved	ZNF690	FLJ35867, Zfp690	15q15.3	AF525399	NM_152455	ZNF	Zinc fingers C2H2-type	28
+33517	ZSCAN30	zinc finger and SCAN domain containing 30	Approved	ZNF397OS	ZNF917	18q12.2	AY234408	NM_001112734	ZNF	Zinc fingers C2H2-type	28
+14097	ZSCAN31	zinc finger and SCAN domain containing 31	Approved	ZNF310P, ZNF323		6p22.1		NM_030899	ZNF	Zinc fingers C2H2-type	28
+20812	ZSCAN32	zinc finger and SCAN domain containing 32	Approved	ZNF434	FLJ20417	16p13.3	AK000424	NM_017810	ZNF	Zinc fingers C2H2-type	28
+23709	ZSCAN4	zinc finger and SCAN domain containing 4	Approved	ZNF494	FLJ35105	19q13.43	AK092424	NM_152677	ZNF	Zinc fingers C2H2-type	28
+23710	ZSCAN5A	zinc finger and SCAN domain containing 5A	Approved	ZNF495, ZSCAN5	MGC4161	19q13.43	AK098700	NM_024303	ZNF	Zinc fingers C2H2-type	28
+34246	ZSCAN5B	zinc finger and SCAN domain containing 5B	Approved		ZNF495B, ZNF371	19q13.43		NM_001080456	ZNF	Zinc fingers C2H2-type	28
+34294	ZSCAN5C	zinc finger and SCAN domain containing 5C	Approved	ZSCAN5CP	ZNF495C	19q13.43		NG_012782	ZNF	Zinc fingers C2H2-type	28
+37706	ZSCAN5DP	zinc finger and SCAN domain containing 5D pseudogene	Approved	ZSCAN5DP, ZSCAN5D	ZNF495D	19q13.43		XM_001725568.1	ZNF	Zinc fingers C2H2-type	28
+12984	ZSCAN9	zinc finger and SCAN domain containing 9	Approved	ZNF193	PRD51	6p22.1	U62392	NM_006299	ZNF	Zinc fingers C2H2-type	28
+21224	ZUP1	zinc finger containing ubiquitin peptidase 1	Approved	C6orf113, ZUFSP	dJ412I7.3	6q22.1	AK054582	NM_145062	ZNF	Zinc fingers C2H2-type	28
+13198	ZXDA	zinc finger X-linked duplicated A	Approved		ZNF896	Xp11.21	L14787	NM_007156	ZNF	Zinc fingers C2H2-type	28
+13199	ZXDB	zinc finger X-linked duplicated B	Approved		ZNF905	Xp11.21	L14788	NM_007157	ZNF	Zinc fingers C2H2-type	28
+28160	ZXDC	ZXD family zinc finger C	Approved		MGC11349, FLJ13861	3q21.3	AK023923	NM_025112	ZNF	Zinc fingers C2H2-type	28
+23488	ZNF487	zinc finger protein 487	Approved	KRBO1, ZNF487P		10q11.21		NM_001355444.1	ZNF	Zinc fingers C2H2-type	28

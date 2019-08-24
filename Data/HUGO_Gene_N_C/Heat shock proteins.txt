@@ -1,0 +1,98 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+26291	BBS10	Bardet-Biedl syndrome 10	Approved	C12orf58	FLJ23560	12q21.2	BC026355	NM_024685		Chaperonins	587
+26648	BBS12	Bardet-Biedl syndrome 12	Approved	C4orf24	FLJ35630, FLJ41559	4q27	AK123553	NM_152618		Chaperonins	587
+11655	TCP1	t-complex 1	Approved		D6S230E, CCT1, Ccta	6q25.3	X52882	NM_030752		Chaperonins	587
+1615	CCT2	chaperonin containing TCP1 subunit 2	Approved		Cctb	12q15	AF026293	NM_006431		Chaperonins	587
+1616	CCT3	chaperonin containing TCP1 subunit 3	Approved	TRIC5	Cctg	1q22	BC008019	NM_005998		Chaperonins	587
+1617	CCT4	chaperonin containing TCP1 subunit 4	Approved		Cctd	2p15				Chaperonins	587
+1618	CCT5	chaperonin containing TCP1 subunit 5	Approved		KIAA0098	5p15.2	D43950			Chaperonins	587
+1620	CCT6A	chaperonin containing TCP1 subunit 6A	Approved	CCT6	TTCP20, TCPZ, Cctz, HTR3, TCP20	7p11.2	M94083	NM_001762		Chaperonins	587
+1621	CCT6B	chaperonin containing TCP1 subunit 6B	Approved		Cctz2, TSA303	17q12	D78333	NM_006584		Chaperonins	587
+1622	CCT7	chaperonin containing TCP1 subunit 7	Approved		Ccth, Nip7-1	2p13.2	AF026292			Chaperonins	587
+1623	CCT8	chaperonin containing TCP1 subunit 8	Approved	C21orf112	Cctq, PRED71	21q21.3	Z37163			Chaperonins	587
+30664	CLPB	ClpB homolog, mitochondrial AAA ATPase chaperonin	Approved		HSP78, SKD3, FLJ13152, ANKCLB	11q13.4	BC006404	NM_030813		Chaperonins	587
+5261	HSPD1	heat shock protein family D (Hsp60) member 1	Approved	SPG13	GroEL, HSP60	2q33.1	M34664	NM_002156		Chaperonins	587
+5269	HSPE1	heat shock protein family E (Hsp10) member 1	Approved		CPN10, GroES, HSP10, EPF	2q33.1	AF109872	NM_002157		Chaperonins	587
+7108	MKKS	McKusick-Kaufman syndrome	Approved	BBS6		20p12.2	AF221993			Chaperonins	587
+5229	DNAJA1	DnaJ heat shock protein family (Hsp40) member A1	Approved	HSJ2	HSPF4, hdj-2, dj-2, NEDD7	9p21.1	L08069		DNAJ	DNAJ (HSP40) heat shock proteins	584
+14884	DNAJA2	DnaJ heat shock protein family (Hsp40) member A2	Approved		HIRIP4, DNAJ, CPR3, DNJ3	16q11.2	AF116720		DNAJ	DNAJ (HSP40) heat shock proteins	584
+11808	DNAJA3	DnaJ heat shock protein family (Hsp40) member A3	Approved	TID1	hTid-1	16p13.3	AF061749		DNAJ	DNAJ (HSP40) heat shock proteins	584
+14885	DNAJA4	DnaJ heat shock protein family (Hsp40) member A4	Approved		PRO1472	15q25.1	AF116663	NM_018602	DNAJ	DNAJ (HSP40) heat shock proteins	584
+5270	DNAJB1	DnaJ heat shock protein family (Hsp40) member B1	Approved	HSPF1	Hsp40, Sis1, RSPH16B	19p13.12	D49547	NM_006145	DNAJ	DNAJ (HSP40) heat shock proteins	584
+14889	DNAJB11	DnaJ heat shock protein family (Hsp40) member B11	Approved		EDJ, HEDJ, ERdj3	3q27.3	AB028859		DNAJ	DNAJ (HSP40) heat shock proteins	584
+14891	DNAJB12	DnaJ heat shock protein family (Hsp40) member B12	Approved		DJ10, FLJ20027	10q22.1	AK000034		DNAJ	DNAJ (HSP40) heat shock proteins	584
+30718	DNAJB13	DnaJ heat shock protein family (Hsp40) member B13	Approved		TSARG6, RSPH16A	11q13.4	AF516185	NM_153614	DNAJ	DNAJ (HSP40) heat shock proteins	584
+25881	DNAJB14	DnaJ heat shock protein family (Hsp40) member B14	Approved		FLJ14281	4q23	BC022248	NM_001031723.2	DNAJ	DNAJ (HSP40) heat shock proteins	584
+5228	DNAJB2	DnaJ heat shock protein family (Hsp40) member B2	Approved	HSJ1	HSPF3, CMT2T	2q35			DNAJ	DNAJ (HSP40) heat shock proteins	584
+32397	DNAJB3	DnaJ heat shock protein family (Hsp40) member B3	Approved		HCG3	2q37.1		NM_001001394	DNAJ	DNAJ (HSP40) heat shock proteins	584
+14886	DNAJB4	DnaJ heat shock protein family (Hsp40) member B4	Approved		HLJ1	1p31.1	U40992		DNAJ	DNAJ (HSP40) heat shock proteins	584
+14887	DNAJB5	DnaJ heat shock protein family (Hsp40) member B5	Approved		Hsc40	9p13.3	AF088982		DNAJ	DNAJ (HSP40) heat shock proteins	584
+14888	DNAJB6	DnaJ heat shock protein family (Hsp40) member B6	Approved	LGMD1D	MRJ	7q36.3	AB014888		DNAJ	DNAJ (HSP40) heat shock proteins	584
+24986	DNAJB7	DnaJ heat shock protein family (Hsp40) member B7	Approved		HSC3	22q13.2	AF085232	NM_145174	DNAJ	DNAJ (HSP40) heat shock proteins	584
+23699	DNAJB8	DnaJ heat shock protein family (Hsp40) member B8	Approved		MGC33884, CT156	3q21.3		NM_153330	DNAJ	DNAJ (HSP40) heat shock proteins	584
+6968	DNAJB9	DnaJ heat shock protein family (Hsp40) member B9	Approved	MDG1		7q31.1	AB026908		DNAJ	DNAJ (HSP40) heat shock proteins	584
+20090	DNAJC1	DnaJ heat shock protein family (Hsp40) member C1	Approved		DNAJL1, ERdj1, MTJ1	10p12.31	AK026062	NM_022365	DNAJ	DNAJ (HSP40) heat shock proteins	584
+24637	DNAJC10	DnaJ heat shock protein family (Hsp40) member C10	Approved		ERdj5, PDIA19	2q32.1		NM_018981	DNAJ	DNAJ (HSP40) heat shock proteins	584
+25570	DNAJC11	DnaJ heat shock protein family (Hsp40) member C11	Approved		FLJ10737	1p36.31	AF306695	NM_018198	DNAJ	DNAJ (HSP40) heat shock proteins	584
+28908	DNAJC12	DnaJ heat shock protein family (Hsp40) member C12	Approved		JDP1	10q21.3	AF176012	NM_021800	DNAJ	DNAJ (HSP40) heat shock proteins	584
+30343	DNAJC13	DnaJ heat shock protein family (Hsp40) member C13	Approved		RME8, KIAA0678	3q22.1	AB014578	NM_015268	DNAJ	DNAJ (HSP40) heat shock proteins	584
+24581	DNAJC14	DnaJ heat shock protein family (Hsp40) member C14	Approved		DNAJ, DRIP78, HDJ3, LIP6, FLJ32792	12q13.2	AF141342	NM_032364	DNAJ	DNAJ (HSP40) heat shock proteins	584
+20325	DNAJC15	DnaJ heat shock protein family (Hsp40) member C15	Approved	DNAJD1	MCJ	13q14.11	AF126743	NM_013238	DNAJ	DNAJ (HSP40) heat shock proteins	584
+29157	DNAJC16	DnaJ heat shock protein family (Hsp40) member C16	Approved		KIAA0962	1p36.21	AB023179	NM_015291	DNAJ	DNAJ (HSP40) heat shock proteins	584
+25556	DNAJC17	DnaJ heat shock protein family (Hsp40) member C17	Approved		FLJ10634	15q15.1	AK001496	NM_018163	DNAJ	DNAJ (HSP40) heat shock proteins	584
+28429	DNAJC18	DnaJ heat shock protein family (Hsp40) member C18	Approved		MGC29463	5q31.2	AK024054	NM_152686	DNAJ	DNAJ (HSP40) heat shock proteins	584
+30528	DNAJC19	DnaJ heat shock protein family (Hsp40) member C19	Approved		TIMM14, Tim14, Pam18	3q26.33		NM_145261	DNAJ	DNAJ (HSP40) heat shock proteins	584
+13192	DNAJC2	DnaJ heat shock protein family (Hsp40) member C2	Approved	ZRF1	MPP11, MPHOSPH11, ZUO1, zuotin	7q22.1	X98260		DNAJ	DNAJ (HSP40) heat shock proteins	584
+28913	HSCB	HscB mitochondrial iron-sulfur cluster cochaperone	Approved		HSC20, DNAJC20, Jac1	22q12.1	AY191719	NM_172002	DNAJ	DNAJ (HSP40) heat shock proteins	584
+27030	DNAJC21	DnaJ heat shock protein family (Hsp40) member C21	Approved		GS3, DNAJA5, JJJ1	5p13.2		NM_194283	DNAJ	DNAJ (HSP40) heat shock proteins	584
+25802	DNAJC22	DnaJ heat shock protein family (Hsp40) member C22	Approved		wus, FLJ13236	12q13.12	AK055747	NM_024902	DNAJ	DNAJ (HSP40) heat shock proteins	584
+21082	SEC63	SEC63 homolog, protein translocation regulator	Approved		SEC63L, PRO2507, ERdj2, DNAJC23	6q21	BC048287	NM_007214	DNAJ	DNAJ (HSP40) heat shock proteins	584
+26979	DNAJC24	DnaJ heat shock protein family (Hsp40) member C24	Approved	ZCSL3, DPH4	JJJ3	11p13	AL833128	NM_181706	DNAJ	DNAJ (HSP40) heat shock proteins	584
+34187	DNAJC25	DnaJ heat shock protein family (Hsp40) member C25	Approved		bA16L21.2.1	9q31.3		NM_001015882	DNAJ	DNAJ (HSP40) heat shock proteins	584
+4113	GAK	cyclin G associated kinase	Approved		DNAJC26	4p16.3	D88435	NM_005255	DNAJ	DNAJ (HSP40) heat shock proteins	584
+30290	DNAJC27	DnaJ heat shock protein family (Hsp40) member C27	Approved	RBJ	RabJS	2p23.3		NM_016544	DNAJ	DNAJ (HSP40) heat shock proteins	584
+1297	DNAJC28	DnaJ heat shock protein family (Hsp40) member C28	Approved	C21orf55	C21orf78	21q22.11	AK000468		DNAJ	DNAJ (HSP40) heat shock proteins	584
+10519	SACS	sacsin molecular chaperone	Approved		ARSACS, KIAA0730, DKFZp686B15167, DNAJC29, SPAX6, PPP1R138	13q12.12	AF193556	NM_014363	DNAJ	DNAJ (HSP40) heat shock proteins	584
+9439	DNAJC3	DnaJ heat shock protein family (Hsp40) member C3	Approved	PRKRI	P58, P58IPK, HP58, ERdj6	13q32.1	U28424		DNAJ	DNAJ (HSP40) heat shock proteins	584
+16410	DNAJC30	DnaJ heat shock protein family (Hsp40) member C30	Approved	WBSCR18		7q11.23	AF412025		DNAJ	DNAJ (HSP40) heat shock proteins	584
+5271	DNAJC4	DnaJ heat shock protein family (Hsp40) member C4	Approved	HSPF2	MCG18	11q13.1	AF012106		DNAJ	DNAJ (HSP40) heat shock proteins	584
+16235	DNAJC5	DnaJ heat shock protein family (Hsp40) member C5	Approved	CLN4	FLJ00118, FLJ13070, DNAJC5A	20q13.33		NM_025219	DNAJ	DNAJ (HSP40) heat shock proteins	584
+24138	DNAJC5B	DnaJ heat shock protein family (Hsp40) member C5 beta	Approved		MGC26226, CSP-beta	8q13.1	AF368276	NM_033105	DNAJ	DNAJ (HSP40) heat shock proteins	584
+24844	DNAJC5G	DnaJ heat shock protein family (Hsp40) member C5 gamma	Approved		FLJ40417, CSP-gamma	2p23.3	AF368277	NM_173650	DNAJ	DNAJ (HSP40) heat shock proteins	584
+15469	DNAJC6	DnaJ heat shock protein family (Hsp40) member C6	Approved		KIAA0473, PARK19	1p31.3	AB007942		DNAJ	DNAJ (HSP40) heat shock proteins	584
+12392	DNAJC7	DnaJ heat shock protein family (Hsp40) member C7	Approved	TTC2	TPR2	17q21.2	U46571		DNAJ	DNAJ (HSP40) heat shock proteins	584
+15470	DNAJC8	DnaJ heat shock protein family (Hsp40) member C8	Approved		SPF31	1p35.3	AF083190	NM_014280	DNAJ	DNAJ (HSP40) heat shock proteins	584
+19123	DNAJC9	DnaJ heat shock protein family (Hsp40) member C9	Approved		JDD1, SB73	10q22.2	AF327347	NM_015190	DNAJ	DNAJ (HSP40) heat shock proteins	584
+19022	HSPA12A	heat shock protein family A (Hsp70) member 12A	Approved		FLJ13874, KIAA0417	10q25.3	AB007877	NM_025015	HSPA	Heat shock 70kDa proteins	583
+16193	HSPA12B	heat shock protein family A (Hsp70) member 12B	Approved	C20orf60	dJ1009E24.2	20p13	AK056712	NM_052970	HSPA	Heat shock 70kDa proteins	583
+11375	HSPA13	heat shock protein family A (Hsp70) member 13	Approved	STCH		21q11.2			HSPA	Heat shock 70kDa proteins	583
+29526	HSPA14	heat shock protein family A (Hsp70) member 14	Approved		HSP70-4, HSP70L1	10p13	AF112210	NM_016299	HSPA	Heat shock 70kDa proteins	583
+5232	HSPA1A	heat shock protein family A (Hsp70) member 1A	Approved	HSPA1	HSP70-1	6p21.33	BC002453		HSPA	Heat shock 70kDa proteins	583
+5233	HSPA1B	heat shock protein family A (Hsp70) member 1B	Approved		HSP70-2	6p21.33			HSPA	Heat shock 70kDa proteins	583
+5234	HSPA1L	heat shock protein family A (Hsp70) member 1 like	Approved		HSP70-HOM, hum70t	6p21.33	D85730		HSPA	Heat shock 70kDa proteins	583
+5235	HSPA2	heat shock protein family A (Hsp70) member 2	Approved			14q23.3	L26336, BC001752		HSPA	Heat shock 70kDa proteins	583
+5237	HSPA4	heat shock protein family A (Hsp70) member 4	Approved		HS24/P52, HSPH2	5q31.1	AB023420	NM_002154, NM_198431	HSPA	Heat shock 70kDa proteins	583
+17041	HSPA4L	heat shock protein family A (Hsp70) member 4 like	Approved		APG-1, Osp94, HSPH3	4q28.1	AB023421	NM_014278	HSPA	Heat shock 70kDa proteins	583
+5238	HSPA5	heat shock protein family A (Hsp70) member 5	Approved	GRP78	BiP	9q33.3			HSPA	Heat shock 70kDa proteins	583
+5239	HSPA6	heat shock protein family A (Hsp70) member 6	Approved		HSP70B'	1q23.3		NM_002155	HSPA	Heat shock 70kDa proteins	583
+5240	HSPA7	heat shock protein family A (Hsp70) member 7	Approved		HSP70B	1q23.3		NR_024151	HSPA	Heat shock 70kDa proteins	583
+5241	HSPA8	heat shock protein family A (Hsp70) member 8	Approved	HSPA10	HSC71, HSC70, HSP73	11q24.1	Y00371		HSPA	Heat shock 70kDa proteins	583
+5244	HSPA9	heat shock protein family A (Hsp70) member 9	Approved	HSPA9B	GRP75, PBP74, mot-2, mthsp75	5q31.2	L11066	NM_004134	HSPA	Heat shock 70kDa proteins	583
+16969	HSPH1	heat shock protein family H (Hsp110) member 1	Approved		HSP105B, KIAA0201, HSP105A, NY-CO-25	13q12.3	AB003333		HSPA	Heat shock 70kDa proteins	583
+16931	HYOU1	hypoxia up-regulated 1	Approved		ORP150, HSP12A, Grp170	11q23.3	U65785	NM_006389	HSPA	Heat shock 70kDa proteins	583
+5253	HSP90AA1	heat shock protein 90 alpha family class A member 1	Approved	HSPC1, HSPCA	Hsp89, Hsp90, FLJ31884, HSP90N	14q32.31	M27024	NM_005348	HSP90	Heat shock 90kDa proteins	586
+5254	HSP90AA3P	heat shock protein 90 alpha family class A member 3, pseudogene	Approved	HSPCAL1		1q23.1		NG_005218	HSP90	Heat shock 90kDa proteins	586
+5258	HSP90AB1	heat shock protein 90 alpha family class B member 1	Approved	HSPC2, HSPCB		6p21.1	AF275719	NM_007355	HSP90	Heat shock 90kDa proteins	586
+12028	HSP90B1	heat shock protein 90 beta family member 1	Approved	TRA1	GP96, GRP94	12q23.3	AY040226	NM_003299	HSP90	Heat shock 90kDa proteins	586
+16264	TRAP1	TNF receptor associated protein 1	Approved		HSP75, HSP90L	16p13.3	AF154108	NM_016292	HSP90	Heat shock 90kDa proteins	586
+5246	HSPB1	heat shock protein family B (small) member 1	Approved		HSP27, HSP28, Hs.76067, Hsp25, CMT2F	7q11.23	X54079		HSPB	Small heat shock proteins	585
+8113	ODF1	outer dense fiber of sperm tails 1	Approved		ODFPG, ODF27, RT7, HSPB10, CT133	8q22.3	M93131		HSPB	Small heat shock proteins	585
+25019	HSPB11	heat shock protein family B (small) member 11	Approved	C1orf41	HSPCO34, PP25, IFT25	1p32.3	AF100747	NM_016126	HSPB	Small heat shock proteins	585
+5247	HSPB2	heat shock protein family B (small) member 2	Approved		Hs.78846, MKBP	11q23.1	U75898		HSPB	Small heat shock proteins	585
+5248	HSPB3	heat shock protein family B (small) member 3	Approved		HSPL27	5q11.2	Y17782		HSPB	Small heat shock proteins	585
+2388	CRYAA	crystallin alpha A	Approved	CRYA1	HSPB4	21q22.3			HSPB	Small heat shock proteins	585
+2389	CRYAB	crystallin alpha B	Approved	CRYA2	HSPB5	11q23.1			HSPB	Small heat shock proteins	585
+26511	HSPB6	heat shock protein family B (small) member 6	Approved		FLJ32389, Hsp20, PPP1R91	19q13.12	AJ278121	NM_144617	HSPB	Small heat shock proteins	585
+5249	HSPB7	heat shock protein family B (small) member 7	Approved		cvHSP	1p36.13	AF155908	NM_014424	HSPB	Small heat shock proteins	585
+30171	HSPB8	heat shock protein family B (small) member 8	Approved		H11, E2IG1, HSP22, HspB8, CMT2L	12q24.23	AF191017	NM_014365	HSPB	Small heat shock proteins	585
+30589	HSPB9	heat shock protein family B (small) member 9	Approved		CT51	17q21.2	AJ302068	NM_033194	HSPB	Small heat shock proteins	585

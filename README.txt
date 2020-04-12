@@ -3,7 +3,7 @@ The collected files and scripts all relate to the manuscript as detailed below:
 
 
 Title: Widespread transcriptional scanning in testes modulates gene evolution rates
-Authors: Bo Xia1, Yun Yan1, Maayan Baron1, Florian Wagner1, Dalia Barkley1, Marta Chiodin1, Sang Y. Kim5, David L. Keefe3, Joseph P. Alukal3, Jef D. Boeke2,4 and Itai Yanai1,2
+Authors: Bo Xia1,4 Yun Yan1, Maayan Baron1, Florian Wagner1, Dalia Barkley1, Marta Chiodin1, Sang Y. Kim5, David L. Keefe3, Joseph P. Alukal3, Jef D. Boeke2,4 and Itai Yanai1,2
 Affiliations:
 1 Institute for Computational Medicine, NYU Langone Health, New York, NY 10016, USA
 2 Department of Biochemistry and Molecular Pharmacology, NYU Langone Health, New York, NY 10016, USA
@@ -11,7 +11,7 @@ Affiliations:
 4 Institute for Systems Genetics, NYU Langone Health, New York, NY 10016, USA
 5 Department of Pathology, NYU Langone Health, New York, NY 10016, USA
 
-Cite: Xia, B., Yan, Y., Baron, M., Wagner, F., Barkley, D., Chiodin, M., Kim, S.Y., Keefe, D.L., Alukal, J.P., Boeke, J.D. and Yanai, I., 2018. Widespread transcriptional scanning in testes modulates gene evolution rates. bioRxiv, p.282129.
+Cite: Xia, B., Yan, Y., Baron, M., Wagner, F., Barkley, D., Chiodin, M., Kim, S.Y., Keefe, D.L., Alukal, J.P., Boeke, J.D. and Yanai, I., 2020. Widespread transcriptional scanning in the testis modulates gene evolution rates. Cell, 180(2), pp.248-262.
 
 
 
